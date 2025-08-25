@@ -1,0 +1,16 @@
+name: pr-fastcheck
+on:
+  pull_request:
+    paths:
+      - 'node-demo/**'
+      - 'php-demo/**'
+      - '!docs/**'
+concurrency:
+  group: pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  fast-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "lint here"

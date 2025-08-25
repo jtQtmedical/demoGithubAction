@@ -1,0 +1,26 @@
+name: cd-ecs
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: { name: staging }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: ap-northeast-1
+      - uses: aws-actions/amazon-ecr-login@v2
+      - name: Build & Push
+        env:
+          ECR_REPO: ${{ secrets.ECR_REPO }}
+        run: |
+          docker build -t $ECR_REPO:${{ github.sha }} .
+          docker push $ECR_REPO:${{ github.sha }}
+      - uses: aws-actions/amazon-ecs-deploy-task-definition@v2
+        with:
+          task-definition: ecs-task.json
+          service: my-service
+          cluster: my-cluster

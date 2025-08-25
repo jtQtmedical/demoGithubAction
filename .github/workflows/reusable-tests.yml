@@ -1,0 +1,13 @@
+name: test-reusable
+on:
+  workflow_call:
+    inputs:
+      runtime:
+        required: true
+        type: string
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Run tests on ${{ inputs.runtime }}"
