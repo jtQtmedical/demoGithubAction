@@ -73,5 +73,80 @@
         "crawled_at": "2025-08-25T05:27:06.467326"
       }
     ]
+  },
+  {
+    "date": "2025-08-25",
+    "repos": [
+      {
+        "name": "plait-board /drawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "language": "TypeScript",
+        "stars": "6,892",
+        "crawled_at": "2025-08-25T13:22:29.051995"
+      },
+      {
+        "name": "HKUDS /DeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "stars": "2,873",
+        "crawled_at": "2025-08-25T13:22:29.052192"
+      },
+      {
+        "name": "winapps-org /winapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+        "language": "Shell",
+        "stars": "7,039",
+        "crawled_at": "2025-08-25T13:22:29.052388"
+      },
+      {
+        "name": "moeru-ai /airi",
+        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "Vue",
+        "stars": "10,085",
+        "crawled_at": "2025-08-25T13:22:29.052593"
+      },
+      {
+        "name": "HunxByts /GhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "stars": "4,433",
+        "crawled_at": "2025-08-25T13:22:29.052777"
+      },
+      {
+        "name": "willccbb /verifiers",
+        "description": "Verifiers for LLM Reinforcement Learning",
+        "language": "Python",
+        "stars": "2,114",
+        "crawled_at": "2025-08-25T13:22:29.052963"
+      },
+      {
+        "name": "spotDL /spotify-downloader",
+        "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+        "language": "Python",
+        "stars": "21,306",
+        "crawled_at": "2025-08-25T13:22:29.053148"
+      },
+      {
+        "name": "anuraghazra /github-readme-stats",
+        "description": "⚡ Dynamically generated stats for your github readmes",
+        "language": "JavaScript",
+        "stars": "75,341",
+        "crawled_at": "2025-08-25T13:22:29.053382"
+      },
+      {
+        "name": "karpathy /nn-zero-to-hero",
+        "description": "Neural Networks: Zero to Hero",
+        "language": "Jupyter Notebook",
+        "stars": "15,570",
+        "crawled_at": "2025-08-25T13:22:29.053589"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "9,214",
+        "crawled_at": "2025-08-25T13:22:29.053778"
+      }
+    ]
   }
 ]
