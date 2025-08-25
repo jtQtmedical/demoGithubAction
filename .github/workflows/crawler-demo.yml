@@ -1,0 +1,65 @@
+name: Crawler Demo Action
+run-name: Crawler Demo Action
+
+# 觸發此 action 的時機
+on:
+  schedule:
+    - cron: "55 12 * * *"  # UTC 每天下午 12:55 執行此 action（等同於台灣晚上 8:55 執行）
+  workflow_dispatch:  # 可以手動執行此 action
+
+# 預先定義此 action 要幹嘛
+jobs:
+  crawler-demo:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 給予寫入權限，允許 push 到 repository
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4  # 更新到最新版本
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub Token
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: pip  # 啟用 pip 快取
+      
+      - name: Install Python Dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+          pip install lxml
+          pip install selenium
+          pip install scrapy
+      
+      - name: Run crawler.py
+        run: python crawler.py
+        env:
+          # 可以在這裡設定爬蟲需要的環境變數
+          CRAWLER_TIMEOUT: 30
+          CRAWLER_RETRY: 3
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and Push Data
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🤖 Auto update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: No changes detected
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: echo "No changes detected, skipping commit"
