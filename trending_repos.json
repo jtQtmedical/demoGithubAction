@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2025-08-25",
+    "repos": [
+      {
+        "name": "winapps-org /winapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+        "language": "Shell",
+        "stars": "6,387",
+        "crawled_at": "2025-08-25T05:27:06.465540"
+      },
+      {
+        "name": "moeru-ai /airi",
+        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "Vue",
+        "stars": "9,595",
+        "crawled_at": "2025-08-25T05:27:06.465743"
+      },
+      {
+        "name": "HKUDS /DeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "stars": "2,565",
+        "crawled_at": "2025-08-25T05:27:06.465929"
+      },
+      {
+        "name": "scottpetrovic /mesh2motion-app",
+        "description": "Import a 3D Model and automatically assign and export animations",
+        "language": "TypeScript",
+        "stars": "1,093",
+        "crawled_at": "2025-08-25T05:27:06.466121"
+      },
+      {
+        "name": "EbookFoundation /free-programming-books",
+        "description": "📚 Freely available programming books",
+        "language": "Python",
+        "stars": "366,169",
+        "crawled_at": "2025-08-25T05:27:06.466345"
+      },
+      {
+        "name": "plait-board /drawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "language": "TypeScript",
+        "stars": "6,523",
+        "crawled_at": "2025-08-25T05:27:06.466553"
+      },
+      {
+        "name": "midday-ai /midday",
+        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+        "language": "TypeScript",
+        "stars": "11,328",
+        "crawled_at": "2025-08-25T05:27:06.466737"
+      },
+      {
+        "name": "yt-dlp /yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "stars": "123,787",
+        "crawled_at": "2025-08-25T05:27:06.466921"
+      },
+      {
+        "name": "django /django",
+        "description": "The Web framework for perfectionists with deadlines.",
+        "language": "Python",
+        "stars": "84,740",
+        "crawled_at": "2025-08-25T05:27:06.467144"
+      },
+      {
+        "name": "Klipper3d /klipper",
+        "description": "Klipper is a 3d-printer firmware",
+        "language": "C",
+        "stars": "10,714",
+        "crawled_at": "2025-08-25T05:27:06.467326"
+      }
+    ]
+  }
+]
