@@ -19,7 +19,7 @@ jobs:
         working-directory: node-demo
       - run: npm ci
         working-directory: node-demo
-      - run: npm test -- --ci
+      - run: npm test --ci
         working-directory: node-demo
 
   php:
