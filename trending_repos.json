@@ -148,5 +148,80 @@
         "crawled_at": "2025-08-25T13:22:29.053778"
       }
     ]
+  },
+  {
+    "date": "2025-08-26",
+    "repos": [
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "10,345",
+        "crawled_at": "2025-08-26T13:23:56.459906"
+      },
+      {
+        "name": "plait-board /drawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "language": "TypeScript",
+        "stars": "8,829",
+        "crawled_at": "2025-08-26T13:23:56.460108"
+      },
+      {
+        "name": "willccbb /verifiers",
+        "description": "Verifiers for LLM Reinforcement Learning",
+        "language": "Python",
+        "stars": "2,385",
+        "crawled_at": "2025-08-26T13:23:56.460295"
+      },
+      {
+        "name": "HKUDS /DeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "stars": "3,942",
+        "crawled_at": "2025-08-26T13:23:56.460498"
+      },
+      {
+        "name": "TheAlgorithms /Java",
+        "description": "All Algorithms implemented in Java",
+        "language": "Java",
+        "stars": "62,984",
+        "crawled_at": "2025-08-26T13:23:56.460679"
+      },
+      {
+        "name": "MODSetter /SurfSense",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "stars": "6,725",
+        "crawled_at": "2025-08-26T13:23:56.460914"
+      },
+      {
+        "name": "eythaann /Seelen-UI",
+        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+        "language": "Rust",
+        "stars": "10,756",
+        "crawled_at": "2025-08-26T13:23:56.461136"
+      },
+      {
+        "name": "tw93 /Pake",
+        "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+        "language": "JavaScript",
+        "stars": "41,332",
+        "crawled_at": "2025-08-26T13:23:56.461358"
+      },
+      {
+        "name": "GitHubDaily /GitHubDaily",
+        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+        "language": "未知",
+        "stars": "41,127",
+        "crawled_at": "2025-08-26T13:23:56.461570"
+      },
+      {
+        "name": "IBM /mcp-context-forge",
+        "description": "A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).",
+        "language": "Python",
+        "stars": "1,736",
+        "crawled_at": "2025-08-26T13:23:56.461754"
+      }
+    ]
   }
 ]
