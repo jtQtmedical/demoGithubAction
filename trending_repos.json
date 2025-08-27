@@ -223,5 +223,80 @@
         "crawled_at": "2025-08-26T13:23:56.461754"
       }
     ]
+  },
+  {
+    "date": "2025-08-27",
+    "repos": [
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "12,855",
+        "crawled_at": "2025-08-27T13:19:02.106465"
+      },
+      {
+        "name": "plait-board /drawnix",
+        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+        "language": "TypeScript",
+        "stars": "9,325",
+        "crawled_at": "2025-08-27T13:19:02.106667"
+      },
+      {
+        "name": "QuentinFuxa /WhisperLiveKit",
+        "description": "Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface",
+        "language": "Python",
+        "stars": "1,145",
+        "crawled_at": "2025-08-27T13:19:02.106858"
+      },
+      {
+        "name": "microsoft /terminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "language": "C++",
+        "stars": "99,355",
+        "crawled_at": "2025-08-27T13:19:02.107085"
+      },
+      {
+        "name": "firecracker-microvm /firecracker",
+        "description": "Secure and fast microVMs for serverless computing.",
+        "language": "Rust",
+        "stars": "29,300",
+        "crawled_at": "2025-08-27T13:19:02.107270"
+      },
+      {
+        "name": "karpathy /nn-zero-to-hero",
+        "description": "Neural Networks: Zero to Hero",
+        "language": "Jupyter Notebook",
+        "stars": "16,384",
+        "crawled_at": "2025-08-27T13:19:02.107453"
+      },
+      {
+        "name": "santinic /audiblez",
+        "description": "Generate audiobooks from e-books",
+        "language": "Python",
+        "stars": "4,459",
+        "crawled_at": "2025-08-27T13:19:02.107674"
+      },
+      {
+        "name": "googleapis /genai-toolbox",
+        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+        "language": "Go",
+        "stars": "9,786",
+        "crawled_at": "2025-08-27T13:19:02.107859"
+      },
+      {
+        "name": "OpenPipe /ART",
+        "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!",
+        "language": "Python",
+        "stars": "6,062",
+        "crawled_at": "2025-08-27T13:19:02.108057"
+      },
+      {
+        "name": "eythaann /Seelen-UI",
+        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+        "language": "Rust",
+        "stars": "11,270",
+        "crawled_at": "2025-08-27T13:19:02.108287"
+      }
+    ]
   }
 ]
