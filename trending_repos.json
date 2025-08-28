@@ -298,5 +298,80 @@
         "crawled_at": "2025-08-27T13:19:02.108287"
       }
     ]
+  },
+  {
+    "date": "2025-08-28",
+    "repos": [
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "14,949",
+        "crawled_at": "2025-08-28T13:20:07.124002"
+      },
+      {
+        "name": "Canner /WrenAI",
+        "description": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+        "language": "TypeScript",
+        "stars": "10,111",
+        "crawled_at": "2025-08-28T13:20:07.124201"
+      },
+      {
+        "name": "firecracker-microvm /firecracker",
+        "description": "Secure and fast microVMs for serverless computing.",
+        "language": "Rust",
+        "stars": "29,558",
+        "crawled_at": "2025-08-28T13:20:07.124383"
+      },
+      {
+        "name": "chroma-core /chroma",
+        "description": "Open-source search and retrieval database for AI applications.",
+        "language": "Rust",
+        "stars": "22,269",
+        "crawled_at": "2025-08-28T13:20:07.124567"
+      },
+      {
+        "name": "twbs /bootstrap",
+        "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+        "language": "MDX",
+        "stars": "173,076",
+        "crawled_at": "2025-08-28T13:20:07.124788"
+      },
+      {
+        "name": "santinic /audiblez",
+        "description": "Generate audiobooks from e-books",
+        "language": "Python",
+        "stars": "4,912",
+        "crawled_at": "2025-08-28T13:20:07.125024"
+      },
+      {
+        "name": "karpathy /nn-zero-to-hero",
+        "description": "Neural Networks: Zero to Hero",
+        "language": "Jupyter Notebook",
+        "stars": "16,802",
+        "crawled_at": "2025-08-28T13:20:07.125210"
+      },
+      {
+        "name": "hashicorp /terraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "stars": "46,253",
+        "crawled_at": "2025-08-28T13:20:07.125391"
+      },
+      {
+        "name": "MODSetter /SurfSense",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "stars": "7,077",
+        "crawled_at": "2025-08-28T13:20:07.125619"
+      },
+      {
+        "name": "microsoft /terminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "language": "C++",
+        "stars": "99,511",
+        "crawled_at": "2025-08-28T13:20:07.125803"
+      }
+    ]
   }
 ]
