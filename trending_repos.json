@@ -448,5 +448,80 @@
         "crawled_at": "2025-08-29T13:17:26.853267"
       }
     ]
+  },
+  {
+    "date": "2025-08-30",
+    "repos": [
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "25,311",
+        "crawled_at": "2025-08-30T13:12:20.902442"
+      },
+      {
+        "name": "inventree /InvenTree",
+        "description": "Open Source Inventory Management System",
+        "language": "Python",
+        "stars": "5,445",
+        "crawled_at": "2025-08-30T13:12:20.902704"
+      },
+      {
+        "name": "microsoft /mcp",
+        "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+        "language": "C#",
+        "stars": "1,410",
+        "crawled_at": "2025-08-30T13:12:20.902893"
+      },
+      {
+        "name": "QuentinFuxa /WhisperLiveKit",
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "stars": "3,469",
+        "crawled_at": "2025-08-30T13:12:20.903079"
+      },
+      {
+        "name": "activepieces /activepieces",
+        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "language": "TypeScript",
+        "stars": "16,545",
+        "crawled_at": "2025-08-30T13:12:20.903275"
+      },
+      {
+        "name": "elixir-lang /expert",
+        "description": "Official Elixir Language Server Protocol implementation",
+        "language": "Elixir",
+        "stars": "1,007",
+        "crawled_at": "2025-08-30T13:12:20.903462"
+      },
+      {
+        "name": "laramies /theHarvester",
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "stars": "13,408",
+        "crawled_at": "2025-08-30T13:12:20.903664"
+      },
+      {
+        "name": "hashicorp /terraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "stars": "46,368",
+        "crawled_at": "2025-08-30T13:12:20.903852"
+      },
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "37,814",
+        "crawled_at": "2025-08-30T13:12:20.904035"
+      },
+      {
+        "name": "DevCaress /guia-entrevistas-de-programacion",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "5,411",
+        "crawled_at": "2025-08-30T13:12:20.904238"
+      }
+    ]
   }
 ]
