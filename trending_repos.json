@@ -523,5 +523,80 @@
         "crawled_at": "2025-08-30T13:12:20.904238"
       }
     ]
+  },
+  {
+    "date": "2025-08-31",
+    "repos": [
+      {
+        "name": "QuentinFuxa /WhisperLiveKit",
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "stars": "3,926",
+        "crawled_at": "2025-08-31T13:13:06.998406"
+      },
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "38,542",
+        "crawled_at": "2025-08-31T13:13:06.998612"
+      },
+      {
+        "name": "laramies /theHarvester",
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "stars": "13,618",
+        "crawled_at": "2025-08-31T13:13:06.998804"
+      },
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "25,944",
+        "crawled_at": "2025-08-31T13:13:06.998990"
+      },
+      {
+        "name": "rasbt /LLMs-from-scratch",
+        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+        "language": "Jupyter Notebook",
+        "stars": "68,309",
+        "crawled_at": "2025-08-31T13:13:06.999174"
+      },
+      {
+        "name": "TheAlgorithms /Python",
+        "description": "All Algorithms implemented in Python",
+        "language": "Python",
+        "stars": "205,723",
+        "crawled_at": "2025-08-31T13:13:06.999393"
+      },
+      {
+        "name": "JetBrains /koog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "stars": "1,806",
+        "crawled_at": "2025-08-31T13:13:06.999584"
+      },
+      {
+        "name": "gunnarmorling /1brc",
+        "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+        "language": "Java",
+        "stars": "7,181",
+        "crawled_at": "2025-08-31T13:13:06.999773"
+      },
+      {
+        "name": "bevyengine /bevy",
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "language": "Rust",
+        "stars": "41,312",
+        "crawled_at": "2025-08-31T13:13:06.999961"
+      },
+      {
+        "name": "activepieces /activepieces",
+        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "language": "TypeScript",
+        "stars": "16,744",
+        "crawled_at": "2025-08-31T13:13:07.000146"
+      }
+    ]
   }
 ]
