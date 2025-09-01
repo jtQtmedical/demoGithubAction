@@ -598,5 +598,80 @@
         "crawled_at": "2025-08-31T13:13:07.000146"
       }
     ]
+  },
+  {
+    "date": "2025-09-01",
+    "repos": [
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "40,283",
+        "crawled_at": "2025-09-01T13:20:06.544990"
+      },
+      {
+        "name": "JetBrains /koog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "stars": "2,035",
+        "crawled_at": "2025-09-01T13:20:06.545267"
+      },
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "26,119",
+        "crawled_at": "2025-09-01T13:20:06.545463"
+      },
+      {
+        "name": "QuentinFuxa /WhisperLiveKit",
+        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+        "language": "Python",
+        "stars": "5,343",
+        "crawled_at": "2025-09-01T13:20:06.545645"
+      },
+      {
+        "name": "activepieces /activepieces",
+        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+        "language": "TypeScript",
+        "stars": "16,931",
+        "crawled_at": "2025-09-01T13:20:06.545828"
+      },
+      {
+        "name": "lllyasviel /Fooocus",
+        "description": "Focus on prompting and generating",
+        "language": "Python",
+        "stars": "46,155",
+        "crawled_at": "2025-09-01T13:20:06.546032"
+      },
+      {
+        "name": "laramies /theHarvester",
+        "description": "E-mails, subdomains and names Harvester - OSINT",
+        "language": "Python",
+        "stars": "13,892",
+        "crawled_at": "2025-09-01T13:20:06.546223"
+      },
+      {
+        "name": "humanlayer /humanlayer",
+        "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+        "language": "TypeScript",
+        "stars": "1,874",
+        "crawled_at": "2025-09-01T13:20:06.546408"
+      },
+      {
+        "name": "resemble-ai /chatterbox",
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "stars": "10,898",
+        "crawled_at": "2025-09-01T13:20:06.546617"
+      },
+      {
+        "name": "OpenBMB /MiniCPM-V",
+        "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone",
+        "language": "Python",
+        "stars": "20,877",
+        "crawled_at": "2025-09-01T13:20:06.546798"
+      }
+    ]
   }
 ]
