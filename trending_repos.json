@@ -673,5 +673,80 @@
         "crawled_at": "2025-09-01T13:20:06.546798"
       }
     ]
+  },
+  {
+    "date": "2025-09-02",
+    "repos": [
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "42,236",
+        "crawled_at": "2025-09-02T13:21:12.640748"
+      },
+      {
+        "name": "crewAIInc /crewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "language": "Python",
+        "stars": "36,520",
+        "crawled_at": "2025-09-02T13:21:12.640971"
+      },
+      {
+        "name": "JetBrains /koog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "stars": "2,605",
+        "crawled_at": "2025-09-02T13:21:12.641172"
+      },
+      {
+        "name": "ashishpatel26 /500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "language": "未知",
+        "stars": "8,062",
+        "crawled_at": "2025-09-02T13:21:12.641377"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": "65,294",
+        "crawled_at": "2025-09-02T13:21:12.641568"
+      },
+      {
+        "name": "google /mangle",
+        "description": "無描述",
+        "language": "Go",
+        "stars": "1,956",
+        "crawled_at": "2025-09-02T13:21:12.641773"
+      },
+      {
+        "name": "resemble-ai /chatterbox",
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "stars": "11,335",
+        "crawled_at": "2025-09-02T13:21:12.641973"
+      },
+      {
+        "name": "pedroslopez /whatsapp-web.js",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "stars": "18,153",
+        "crawled_at": "2025-09-02T13:21:12.642204"
+      },
+      {
+        "name": "LukeGus /Termix",
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "stars": "1,928",
+        "crawled_at": "2025-09-02T13:21:12.642430"
+      },
+      {
+        "name": "rustdesk /rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "stars": "97,024",
+        "crawled_at": "2025-09-02T13:21:12.642651"
+      }
+    ]
   }
 ]
