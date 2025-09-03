@@ -748,5 +748,80 @@
         "crawled_at": "2025-09-02T13:21:12.642651"
       }
     ]
+  },
+  {
+    "date": "2025-09-03",
+    "repos": [
+      {
+        "name": "pedroslopez /whatsapp-web.js",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "stars": "18,448",
+        "crawled_at": "2025-09-03T13:17:59.655503"
+      },
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "43,825",
+        "crawled_at": "2025-09-03T13:17:59.655753"
+      },
+      {
+        "name": "JetBrains /koog",
+        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+        "language": "Kotlin",
+        "stars": "2,748",
+        "crawled_at": "2025-09-03T13:17:59.655951"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "language": "C#",
+        "stars": "122,860",
+        "crawled_at": "2025-09-03T13:17:59.656181"
+      },
+      {
+        "name": "LukeGus /Termix",
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "stars": "2,314",
+        "crawled_at": "2025-09-03T13:17:59.656415"
+      },
+      {
+        "name": "appcypher /awesome-mcp-servers",
+        "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+        "language": "未知",
+        "stars": "3,741",
+        "crawled_at": "2025-09-03T13:17:59.656651"
+      },
+      {
+        "name": "ashishpatel26 /500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "language": "未知",
+        "stars": "9,014",
+        "crawled_at": "2025-09-03T13:17:59.656858"
+      },
+      {
+        "name": "kgrzybek /modular-monolith-with-ddd",
+        "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+        "language": "C#",
+        "stars": "12,616",
+        "crawled_at": "2025-09-03T13:17:59.657154"
+      },
+      {
+        "name": "fullstackhero /dotnet-starter-kit",
+        "description": "Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+        "language": "C#",
+        "stars": "5,849",
+        "crawled_at": "2025-09-03T13:17:59.657399"
+      },
+      {
+        "name": "jasontaylordev /CleanArchitecture",
+        "description": "Clean Architecture Solution Template for ASP.NET Core",
+        "language": "Bicep",
+        "stars": "18,798",
+        "crawled_at": "2025-09-03T13:17:59.657630"
+      }
+    ]
   }
 ]
