@@ -823,5 +823,80 @@
         "crawled_at": "2025-09-03T13:17:59.657630"
       }
     ]
+  },
+  {
+    "date": "2025-09-04",
+    "repos": [
+      {
+        "name": "bytebot-ai /bytebot",
+        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+        "language": "TypeScript",
+        "stars": "4,338",
+        "crawled_at": "2025-09-04T13:15:59.700256"
+      },
+      {
+        "name": "LukeGus /Termix",
+        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+        "language": "TypeScript",
+        "stars": "2,742",
+        "crawled_at": "2025-09-04T13:15:59.700494"
+      },
+      {
+        "name": "rustdesk /rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "stars": "97,450",
+        "crawled_at": "2025-09-04T13:15:59.700722"
+      },
+      {
+        "name": "crewAIInc /crewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+        "language": "Python",
+        "stars": "37,481",
+        "crawled_at": "2025-09-04T13:15:59.700969"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "28,298",
+        "crawled_at": "2025-09-04T13:15:59.701170"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Windows system utilities to maximize productivity",
+        "language": "C#",
+        "stars": "123,110",
+        "crawled_at": "2025-09-04T13:15:59.701361"
+      },
+      {
+        "name": "pedroslopez /whatsapp-web.js",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "stars": "19,080",
+        "crawled_at": "2025-09-04T13:15:59.701583"
+      },
+      {
+        "name": "trufflesecurity /trufflehog",
+        "description": "Find, verify, and analyze leaked credentials",
+        "language": "Go",
+        "stars": "20,453",
+        "crawled_at": "2025-09-04T13:15:59.701761"
+      },
+      {
+        "name": "eriklindernoren /ML-From-Scratch",
+        "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+        "language": "Python",
+        "stars": "27,806",
+        "crawled_at": "2025-09-04T13:15:59.701975"
+      },
+      {
+        "name": "pocketbase /pocketbase",
+        "description": "Open Source realtime backend in 1 file",
+        "language": "Go",
+        "stars": "50,312",
+        "crawled_at": "2025-09-04T13:15:59.702156"
+      }
+    ]
   }
 ]
