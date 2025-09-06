@@ -973,5 +973,80 @@
         "crawled_at": "2025-09-05T13:16:42.595236"
       }
     ]
+  },
+  {
+    "date": "2025-09-06",
+    "repos": [
+      {
+        "name": "zama-ai /fhevm",
+        "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+        "language": "Rust",
+        "stars": "16,933",
+        "crawled_at": "2025-09-06T13:10:34.375734"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "28,549",
+        "crawled_at": "2025-09-06T13:10:34.375931"
+      },
+      {
+        "name": "trufflesecurity /trufflehog",
+        "description": "Find, verify, and analyze leaked credentials",
+        "language": "Go",
+        "stars": "20,880",
+        "crawled_at": "2025-09-06T13:10:34.376121"
+      },
+      {
+        "name": "rails /rails",
+        "description": "Ruby on Rails",
+        "language": "Ruby",
+        "stars": "57,440",
+        "crawled_at": "2025-09-06T13:10:34.376303"
+      },
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "21,530",
+        "crawled_at": "2025-09-06T13:10:34.376504"
+      },
+      {
+        "name": "coleam00 /ottomator-agents",
+        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+        "language": "Python",
+        "stars": "3,870",
+        "crawled_at": "2025-09-06T13:10:34.376720"
+      },
+      {
+        "name": "emcie-co /parlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "language": "Python",
+        "stars": "9,087",
+        "crawled_at": "2025-09-06T13:10:34.376905"
+      },
+      {
+        "name": "mack-a /v2ray-agent",
+        "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+        "language": "Shell",
+        "stars": "17,060",
+        "crawled_at": "2025-09-06T13:10:34.377091"
+      },
+      {
+        "name": "quarkusio /quarkus",
+        "description": "Quarkus: Supersonic Subatomic Java.",
+        "language": "Java",
+        "stars": "14,889",
+        "crawled_at": "2025-09-06T13:10:34.377271"
+      },
+      {
+        "name": "apache /airflow",
+        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+        "language": "Python",
+        "stars": "42,089",
+        "crawled_at": "2025-09-06T13:10:34.377470"
+      }
+    ]
   }
 ]
