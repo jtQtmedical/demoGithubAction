@@ -1123,5 +1123,80 @@
         "crawled_at": "2025-09-07T13:11:06.763886"
       }
     ]
+  },
+  {
+    "date": "2025-09-08",
+    "repos": [
+      {
+        "name": "emcie-co /parlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "language": "Python",
+        "stars": "10,554",
+        "crawled_at": "2025-09-08T13:21:11.689416"
+      },
+      {
+        "name": "microsoft /ai-agents-for-beginners",
+        "description": "11 Lessons to Get Started Building AI Agents",
+        "language": "Jupyter Notebook",
+        "stars": "36,672",
+        "crawled_at": "2025-09-08T13:21:11.689634"
+      },
+      {
+        "name": "zama-ai /fhevm",
+        "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+        "language": "Rust",
+        "stars": "17,687",
+        "crawled_at": "2025-09-08T13:21:11.689833"
+      },
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "18,353",
+        "crawled_at": "2025-09-08T13:21:11.690019"
+      },
+      {
+        "name": "openwrt /openwrt",
+        "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+        "language": "C",
+        "stars": "23,707",
+        "crawled_at": "2025-09-08T13:21:11.690212"
+      },
+      {
+        "name": "Kilo-Org /kilocode",
+        "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
+        "language": "TypeScript",
+        "stars": "9,072",
+        "crawled_at": "2025-09-08T13:21:11.690411"
+      },
+      {
+        "name": "11cafe /jaaz",
+        "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+        "language": "TypeScript",
+        "stars": "2,681",
+        "crawled_at": "2025-09-08T13:21:11.690639"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+        "language": "未知",
+        "stars": "81,705",
+        "crawled_at": "2025-09-08T13:21:11.690834"
+      },
+      {
+        "name": "microsoft /generative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "language": "Jupyter Notebook",
+        "stars": "97,064",
+        "crawled_at": "2025-09-08T13:21:11.691016"
+      },
+      {
+        "name": "Stirling-Tools /Stirling-PDF",
+        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+        "language": "Java",
+        "stars": "65,797",
+        "crawled_at": "2025-09-08T13:21:11.691239"
+      }
+    ]
   }
 ]
