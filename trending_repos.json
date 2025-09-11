@@ -1348,5 +1348,80 @@
         "crawled_at": "2025-09-10T13:16:51.308635"
       }
     ]
+  },
+  {
+    "date": "2025-09-11",
+    "repos": [
+      {
+        "name": "Physical-Intelligence /openpi",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "6,127",
+        "crawled_at": "2025-09-11T13:15:31.745702"
+      },
+      {
+        "name": "modelcontextprotocol /registry",
+        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+        "language": "Go",
+        "stars": "3,534",
+        "crawled_at": "2025-09-11T13:15:31.745914"
+      },
+      {
+        "name": "twitter /the-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "stars": "65,838",
+        "crawled_at": "2025-09-11T13:15:31.746104"
+      },
+      {
+        "name": "google /material-design-icons",
+        "description": "Material Design icons by Google (Material Symbols)",
+        "language": "未知",
+        "stars": "52,080",
+        "crawled_at": "2025-09-11T13:15:31.746308"
+      },
+      {
+        "name": "ccfos /nightingale",
+        "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+        "language": "Go",
+        "stars": "11,654",
+        "crawled_at": "2025-09-11T13:15:31.746540"
+      },
+      {
+        "name": "mxrch /GHunt",
+        "description": "🕵️‍♂️ Offensive Google framework.",
+        "language": "Python",
+        "stars": "17,409",
+        "crawled_at": "2025-09-11T13:15:31.746767"
+      },
+      {
+        "name": "agno-agi /agno",
+        "description": "High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.",
+        "language": "Python",
+        "stars": "33,108",
+        "crawled_at": "2025-09-11T13:15:31.746966"
+      },
+      {
+        "name": "aaPanel /BillionMail",
+        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
+        "language": "Go",
+        "stars": "10,077",
+        "crawled_at": "2025-09-11T13:15:31.747159"
+      },
+      {
+        "name": "MotiaDev /motia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "language": "TypeScript",
+        "stars": "7,952",
+        "crawled_at": "2025-09-11T13:15:31.747341"
+      },
+      {
+        "name": "heroui-inc /heroui",
+        "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+        "language": "TypeScript",
+        "stars": "25,904",
+        "crawled_at": "2025-09-11T13:15:31.747528"
+      }
+    ]
   }
 ]
