@@ -1498,5 +1498,80 @@
         "crawled_at": "2025-09-12T13:15:06.191709"
       }
     ]
+  },
+  {
+    "date": "2025-09-13",
+    "repos": [
+      {
+        "name": "PowerShell /PowerShell",
+        "description": "PowerShell for every system!",
+        "language": "C#",
+        "stars": "48,590",
+        "crawled_at": "2025-09-13T13:10:47.944980"
+      },
+      {
+        "name": "trueadm /ripple",
+        "description": "the elegant TypeScript UI framework",
+        "language": "JavaScript",
+        "stars": "4,050",
+        "crawled_at": "2025-09-13T13:10:47.945201"
+      },
+      {
+        "name": "MotiaDev /motia",
+        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+        "language": "TypeScript",
+        "stars": "8,202",
+        "crawled_at": "2025-09-13T13:10:47.945393"
+      },
+      {
+        "name": "grpc /grpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "language": "Go",
+        "stars": "22,234",
+        "crawled_at": "2025-09-13T13:10:47.945581"
+      },
+      {
+        "name": "sentient-agi /ROMA",
+        "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
+        "language": "Python",
+        "stars": "1,769",
+        "crawled_at": "2025-09-13T13:10:47.945766"
+      },
+      {
+        "name": "ReVanced /revanced-patches",
+        "description": "🧩 Patches for ReVanced",
+        "language": "Java",
+        "stars": "4,256",
+        "crawled_at": "2025-09-13T13:10:47.945992"
+      },
+      {
+        "name": "Azure /azure-sdk-for-python",
+        "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+        "language": "Python",
+        "stars": "5,264",
+        "crawled_at": "2025-09-13T13:10:47.946203"
+      },
+      {
+        "name": "CodebuffAI /codebuff",
+        "description": "Generate code from the terminal!",
+        "language": "TypeScript",
+        "stars": "1,319",
+        "crawled_at": "2025-09-13T13:10:47.946389"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "69,020",
+        "crawled_at": "2025-09-13T13:10:47.946573"
+      },
+      {
+        "name": "facebook /folly",
+        "description": "An open-source C++ library developed and used at Facebook.",
+        "language": "C++",
+        "stars": "29,772",
+        "crawled_at": "2025-09-13T13:10:47.946761"
+      }
+    ]
   }
 ]
