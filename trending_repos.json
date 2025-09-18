@@ -1873,5 +1873,80 @@
         "crawled_at": "2025-09-17T13:18:29.326987"
       }
     ]
+  },
+  {
+    "date": "2025-09-18",
+    "repos": [
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "78,092",
+        "crawled_at": "2025-09-18T13:18:18.734936"
+      },
+      {
+        "name": "TheAlgorithms /Python",
+        "description": "All Algorithms implemented in Python",
+        "language": "Python",
+        "stars": "207,495",
+        "crawled_at": "2025-09-18T13:18:18.735150"
+      },
+      {
+        "name": "curl /curl",
+        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+        "language": "C",
+        "stars": "39,125",
+        "crawled_at": "2025-09-18T13:18:18.735377"
+      },
+      {
+        "name": "flutter /flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars": "172,603",
+        "crawled_at": "2025-09-18T13:18:18.735563"
+      },
+      {
+        "name": "Alibaba-NLP /DeepResearch",
+        "description": "Tongyi DeepResearch, the Leading Open-source DeepResearch Agent",
+        "language": "Python",
+        "stars": "8,581",
+        "crawled_at": "2025-09-18T13:18:18.735752"
+      },
+      {
+        "name": "category-labs /monad",
+        "description": "無描述",
+        "language": "C++",
+        "stars": "734",
+        "crawled_at": "2025-09-18T13:18:18.735976"
+      },
+      {
+        "name": "TEN-framework /ten-framework",
+        "description": "Open-source framework for conversational voice AI agents.",
+        "language": "C",
+        "stars": "7,634",
+        "crawled_at": "2025-09-18T13:18:18.736167"
+      },
+      {
+        "name": "jwasham /coding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "未知",
+        "stars": "328,334",
+        "crawled_at": "2025-09-18T13:18:18.736370"
+      },
+      {
+        "name": "BasedHardware /omi",
+        "description": "AI wearables. Put it on, speak, transcribe, automatically",
+        "language": "C",
+        "stars": "6,726",
+        "crawled_at": "2025-09-18T13:18:18.736599"
+      },
+      {
+        "name": "linera-io /linera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "language": "Rust",
+        "stars": "28,907",
+        "crawled_at": "2025-09-18T13:18:18.736787"
+      }
+    ]
   }
 ]
