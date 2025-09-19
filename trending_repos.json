@@ -1948,5 +1948,80 @@
         "crawled_at": "2025-09-18T13:18:18.736787"
       }
     ]
+  },
+  {
+    "date": "2025-09-19",
+    "repos": [
+      {
+        "name": "Alibaba-NLP /DeepResearch",
+        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+        "language": "Python",
+        "stars": "9,633",
+        "crawled_at": "2025-09-19T13:17:51.087757"
+      },
+      {
+        "name": "LazyVim /LazyVim",
+        "description": "Neovim config for the lazy",
+        "language": "Lua",
+        "stars": "22,541",
+        "crawled_at": "2025-09-19T13:17:51.087954"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "language": "Shell",
+        "stars": "8,667",
+        "crawled_at": "2025-09-19T13:17:51.088140"
+      },
+      {
+        "name": "WebGoat /WebGoat",
+        "description": "WebGoat is a deliberately insecure application",
+        "language": "JavaScript",
+        "stars": "7,803",
+        "crawled_at": "2025-09-19T13:17:51.088326"
+      },
+      {
+        "name": "flutter /flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars": "172,766",
+        "crawled_at": "2025-09-19T13:17:51.088535"
+      },
+      {
+        "name": "nocodb /nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "language": "TypeScript",
+        "stars": "57,315",
+        "crawled_at": "2025-09-19T13:17:51.088766"
+      },
+      {
+        "name": "facebookresearch /detectron2",
+        "description": "Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.",
+        "language": "Python",
+        "stars": "33,143",
+        "crawled_at": "2025-09-19T13:17:51.088949"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "22,353",
+        "crawled_at": "2025-09-19T13:17:51.089131"
+      },
+      {
+        "name": "Gar-b-age /CookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "language": "JavaScript",
+        "stars": "6,710",
+        "crawled_at": "2025-09-19T13:17:51.089317"
+      },
+      {
+        "name": "linera-io /linera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "language": "Rust",
+        "stars": "29,465",
+        "crawled_at": "2025-09-19T13:17:51.089515"
+      }
+    ]
   }
 ]
