@@ -2023,5 +2023,80 @@
         "crawled_at": "2025-09-19T13:17:51.089515"
       }
     ]
+  },
+  {
+    "date": "2025-09-20",
+    "repos": [
+      {
+        "name": "Gar-b-age /CookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "language": "JavaScript",
+        "stars": "8,067",
+        "crawled_at": "2025-09-20T13:12:03.950234"
+      },
+      {
+        "name": "Alibaba-NLP /DeepResearch",
+        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+        "language": "Python",
+        "stars": "11,038",
+        "crawled_at": "2025-09-20T13:12:03.950474"
+      },
+      {
+        "name": "flutter /flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars": "172,914",
+        "crawled_at": "2025-09-20T13:12:03.950674"
+      },
+      {
+        "name": "winfunc /opcode",
+        "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+        "language": "TypeScript",
+        "stars": "16,708",
+        "crawled_at": "2025-09-20T13:12:03.950868"
+      },
+      {
+        "name": "tldraw /tldraw",
+        "description": "very good whiteboard SDK / infinite canvas SDK",
+        "language": "TypeScript",
+        "stars": "41,923",
+        "crawled_at": "2025-09-20T13:12:03.951065"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "22,407",
+        "crawled_at": "2025-09-20T13:12:03.951264"
+      },
+      {
+        "name": "linera-io /linera-protocol",
+        "description": "Main repository for the Linera protocol",
+        "language": "Rust",
+        "stars": "29,911",
+        "crawled_at": "2025-09-20T13:12:03.951479"
+      },
+      {
+        "name": "grafana /loki",
+        "description": "Like Prometheus, but for logs.",
+        "language": "Go",
+        "stars": "26,459",
+        "crawled_at": "2025-09-20T13:12:03.951676"
+      },
+      {
+        "name": "microsoft /AI-For-Beginners",
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "language": "Jupyter Notebook",
+        "stars": "40,951",
+        "crawled_at": "2025-09-20T13:12:03.951869"
+      },
+      {
+        "name": "CopilotKit /CopilotKit",
+        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+        "language": "TypeScript",
+        "stars": "23,435",
+        "crawled_at": "2025-09-20T13:12:03.952065"
+      }
+    ]
   }
 ]
