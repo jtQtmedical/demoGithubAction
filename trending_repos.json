@@ -2098,5 +2098,80 @@
         "crawled_at": "2025-09-20T13:12:03.952065"
       }
     ]
+  },
+  {
+    "date": "2025-09-21",
+    "repos": [
+      {
+        "name": "Alibaba-NLP /DeepResearch",
+        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+        "language": "Python",
+        "stars": "11,978",
+        "crawled_at": "2025-09-21T13:12:00.002444"
+      },
+      {
+        "name": "Gar-b-age /CookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "language": "JavaScript",
+        "stars": "10,916",
+        "crawled_at": "2025-09-21T13:12:00.002643"
+      },
+      {
+        "name": "torvalds /linux",
+        "description": "Linux kernel source tree",
+        "language": "C",
+        "stars": "202,553",
+        "crawled_at": "2025-09-21T13:12:00.002835"
+      },
+      {
+        "name": "LazyVim /LazyVim",
+        "description": "Neovim config for the lazy",
+        "language": "Lua",
+        "stars": "22,714",
+        "crawled_at": "2025-09-21T13:12:00.003020"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "86,832",
+        "crawled_at": "2025-09-21T13:12:00.003236"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "language": "Shell",
+        "stars": "8,952",
+        "crawled_at": "2025-09-21T13:12:00.003418"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "22,455",
+        "crawled_at": "2025-09-21T13:12:00.003596"
+      },
+      {
+        "name": "WECENG /ticket-purchase",
+        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+        "language": "Python",
+        "stars": "2,517",
+        "crawled_at": "2025-09-21T13:12:00.003778"
+      },
+      {
+        "name": "WebGoat /WebGoat",
+        "description": "WebGoat is a deliberately insecure application",
+        "language": "JavaScript",
+        "stars": "8,005",
+        "crawled_at": "2025-09-21T13:12:00.003965"
+      },
+      {
+        "name": "CopilotKit /CopilotKit",
+        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
+        "language": "TypeScript",
+        "stars": "23,621",
+        "crawled_at": "2025-09-21T13:12:00.004164"
+      }
+    ]
   }
 ]
