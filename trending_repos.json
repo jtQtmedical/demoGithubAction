@@ -2173,5 +2173,80 @@
         "crawled_at": "2025-09-21T13:12:00.004164"
       }
     ]
+  },
+  {
+    "date": "2025-09-22",
+    "repos": [
+      {
+        "name": "Gar-b-age /CookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "language": "JavaScript",
+        "stars": "13,126",
+        "crawled_at": "2025-09-22T13:20:24.199596"
+      },
+      {
+        "name": "bevyengine /bevy",
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "language": "Rust",
+        "stars": "42,046",
+        "crawled_at": "2025-09-22T13:20:24.199794"
+      },
+      {
+        "name": "Alibaba-NLP /DeepResearch",
+        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+        "language": "Python",
+        "stars": "13,548",
+        "crawled_at": "2025-09-22T13:20:24.199980"
+      },
+      {
+        "name": "tldraw /tldraw",
+        "description": "very good whiteboard SDK / infinite canvas SDK",
+        "language": "TypeScript",
+        "stars": "42,387",
+        "crawled_at": "2025-09-22T13:20:24.200218"
+      },
+      {
+        "name": "elastic /elasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "language": "Java",
+        "stars": "73,871",
+        "crawled_at": "2025-09-22T13:20:24.200421"
+      },
+      {
+        "name": "torvalds /linux",
+        "description": "Linux kernel source tree",
+        "language": "C",
+        "stars": "202,885",
+        "crawled_at": "2025-09-22T13:20:24.200617"
+      },
+      {
+        "name": "LizardByte /Sunshine",
+        "description": "Self-hosted game stream host for Moonlight.",
+        "language": "C++",
+        "stars": "29,028",
+        "crawled_at": "2025-09-22T13:20:24.200845"
+      },
+      {
+        "name": "ytdl-org /youtube-dl",
+        "description": "Command-line program to download videos from YouTube.com and other video sites",
+        "language": "Python",
+        "stars": "137,599",
+        "crawled_at": "2025-09-22T13:20:24.201027"
+      },
+      {
+        "name": "mindcraft-bots /mindcraft",
+        "description": "Minecraft AI with LLMs+Mineflayer",
+        "language": "JavaScript",
+        "stars": "3,865",
+        "crawled_at": "2025-09-22T13:20:24.201213"
+      },
+      {
+        "name": "eslint /eslint",
+        "description": "Find and fix problems in your JavaScript code.",
+        "language": "JavaScript",
+        "stars": "26,299",
+        "crawled_at": "2025-09-22T13:20:24.201448"
+      }
+    ]
   }
 ]
