@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-08-25",
-    "repos": [
-      {
-        "name": "plait-board /drawnix",
-        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-        "language": "TypeScript",
-        "stars": "6,892",
-        "crawled_at": "2025-08-25T13:22:29.051995"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "2,873",
-        "crawled_at": "2025-08-25T13:22:29.052192"
-      },
-      {
-        "name": "winapps-org /winapps",
-        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
-        "language": "Shell",
-        "stars": "7,039",
-        "crawled_at": "2025-08-25T13:22:29.052388"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "Vue",
-        "stars": "10,085",
-        "crawled_at": "2025-08-25T13:22:29.052593"
-      },
-      {
-        "name": "HunxByts /GhostTrack",
-        "description": "Useful tool to track location or mobile number",
-        "language": "Python",
-        "stars": "4,433",
-        "crawled_at": "2025-08-25T13:22:29.052777"
-      },
-      {
-        "name": "willccbb /verifiers",
-        "description": "Verifiers for LLM Reinforcement Learning",
-        "language": "Python",
-        "stars": "2,114",
-        "crawled_at": "2025-08-25T13:22:29.052963"
-      },
-      {
-        "name": "spotDL /spotify-downloader",
-        "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
-        "language": "Python",
-        "stars": "21,306",
-        "crawled_at": "2025-08-25T13:22:29.053148"
-      },
-      {
-        "name": "anuraghazra /github-readme-stats",
-        "description": "⚡ Dynamically generated stats for your github readmes",
-        "language": "JavaScript",
-        "stars": "75,341",
-        "crawled_at": "2025-08-25T13:22:29.053382"
-      },
-      {
-        "name": "karpathy /nn-zero-to-hero",
-        "description": "Neural Networks: Zero to Hero",
-        "language": "Jupyter Notebook",
-        "stars": "15,570",
-        "crawled_at": "2025-08-25T13:22:29.053589"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-        "language": "JavaScript",
-        "stars": "9,214",
-        "crawled_at": "2025-08-25T13:22:29.053778"
-      }
-    ]
-  },
-  {
     "date": "2025-08-26",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "JavaScript",
         "stars": "49,685",
         "crawled_at": "2025-09-23T13:19:04.510941"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-24",
+    "repos": [
+      {
+        "name": "gin-gonic /gin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "language": "Go",
+        "stars": "84,690",
+        "crawled_at": "2025-09-24T13:19:20.110370"
+      },
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "48,470",
+        "crawled_at": "2025-09-24T13:19:20.110567"
+      },
+      {
+        "name": "gofiber /fiber",
+        "description": "⚡️ Express inspired web framework written in Go",
+        "language": "Go",
+        "stars": "37,880",
+        "crawled_at": "2025-09-24T13:19:20.110789"
+      },
+      {
+        "name": "eslint /eslint",
+        "description": "Find and fix problems in your JavaScript code.",
+        "language": "JavaScript",
+        "stars": "26,490",
+        "crawled_at": "2025-09-24T13:19:20.111024"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "22,575",
+        "crawled_at": "2025-09-24T13:19:20.111207"
+      },
+      {
+        "name": "mtdvio /every-programmer-should-know",
+        "description": "A collection of (mostly) technical things every software developer should know about",
+        "language": "未知",
+        "stars": "91,281",
+        "crawled_at": "2025-09-24T13:19:20.111399"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "87,117",
+        "crawled_at": "2025-09-24T13:19:20.111578"
+      },
+      {
+        "name": "OpenZeppelin /openzeppelin-contracts",
+        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+        "language": "Solidity",
+        "stars": "26,422",
+        "crawled_at": "2025-09-24T13:19:20.111755"
+      },
+      {
+        "name": "Gar-b-age /CookLikeHOC",
+        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+        "language": "JavaScript",
+        "stars": "17,837",
+        "crawled_at": "2025-09-24T13:19:20.111948"
+      },
+      {
+        "name": "EbookFoundation /free-programming-books",
+        "description": "📚 Freely available programming books",
+        "language": "Python",
+        "stars": "370,244",
+        "crawled_at": "2025-09-24T13:19:20.112169"
       }
     ]
   }
