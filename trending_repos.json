@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-08-26",
-    "repos": [
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-        "language": "JavaScript",
-        "stars": "10,345",
-        "crawled_at": "2025-08-26T13:23:56.459906"
-      },
-      {
-        "name": "plait-board /drawnix",
-        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-        "language": "TypeScript",
-        "stars": "8,829",
-        "crawled_at": "2025-08-26T13:23:56.460108"
-      },
-      {
-        "name": "willccbb /verifiers",
-        "description": "Verifiers for LLM Reinforcement Learning",
-        "language": "Python",
-        "stars": "2,385",
-        "crawled_at": "2025-08-26T13:23:56.460295"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "3,942",
-        "crawled_at": "2025-08-26T13:23:56.460498"
-      },
-      {
-        "name": "TheAlgorithms /Java",
-        "description": "All Algorithms implemented in Java",
-        "language": "Java",
-        "stars": "62,984",
-        "crawled_at": "2025-08-26T13:23:56.460679"
-      },
-      {
-        "name": "MODSetter /SurfSense",
-        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
-        "language": "Python",
-        "stars": "6,725",
-        "crawled_at": "2025-08-26T13:23:56.460914"
-      },
-      {
-        "name": "eythaann /Seelen-UI",
-        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
-        "language": "Rust",
-        "stars": "10,756",
-        "crawled_at": "2025-08-26T13:23:56.461136"
-      },
-      {
-        "name": "tw93 /Pake",
-        "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
-        "language": "JavaScript",
-        "stars": "41,332",
-        "crawled_at": "2025-08-26T13:23:56.461358"
-      },
-      {
-        "name": "GitHubDaily /GitHubDaily",
-        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
-        "language": "未知",
-        "stars": "41,127",
-        "crawled_at": "2025-08-26T13:23:56.461570"
-      },
-      {
-        "name": "IBM /mcp-context-forge",
-        "description": "A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).",
-        "language": "Python",
-        "stars": "1,736",
-        "crawled_at": "2025-08-26T13:23:56.461754"
-      }
-    ]
-  },
-  {
     "date": "2025-08-27",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "370,244",
         "crawled_at": "2025-09-24T13:19:20.112169"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-25",
+    "repos": [
+      {
+        "name": "gin-gonic /gin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "language": "Go",
+        "stars": "85,121",
+        "crawled_at": "2025-09-25T13:20:47.093984"
+      },
+      {
+        "name": "humanlayer /humanlayer",
+        "description": "The best way to get AI to solve hard problems in complex codebases.",
+        "language": "TypeScript",
+        "stars": "2,802",
+        "crawled_at": "2025-09-25T13:20:47.094198"
+      },
+      {
+        "name": "yt-dlp /yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "stars": "127,692",
+        "crawled_at": "2025-09-25T13:20:47.094390"
+      },
+      {
+        "name": "TheAlgorithms /Python",
+        "description": "All Algorithms implemented in Python",
+        "language": "Python",
+        "stars": "208,940",
+        "crawled_at": "2025-09-25T13:20:47.094576"
+      },
+      {
+        "name": "ZuodaoTech /everyone-can-use-english",
+        "description": "人人都能用英语",
+        "language": "TypeScript",
+        "stars": "29,167",
+        "crawled_at": "2025-09-25T13:20:47.094763"
+      },
+      {
+        "name": "Olow304 /memvid",
+        "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+        "language": "Python",
+        "stars": "8,784",
+        "crawled_at": "2025-09-25T13:20:47.094975"
+      },
+      {
+        "name": "TanStack /router",
+        "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+        "language": "TypeScript",
+        "stars": "11,202",
+        "crawled_at": "2025-09-25T13:20:47.095164"
+      },
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "48,701",
+        "crawled_at": "2025-09-25T13:20:47.095354"
+      },
+      {
+        "name": "coinbase /x402",
+        "description": "A payments protocol for the internet. Built on HTTP.",
+        "language": "TypeScript",
+        "stars": "1,237",
+        "crawled_at": "2025-09-25T13:20:47.095537"
+      },
+      {
+        "name": "Asabeneh /30-Days-Of-Python",
+        "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "language": "Python",
+        "stars": "49,952",
+        "crawled_at": "2025-09-25T13:20:47.095765"
       }
     ]
   }
