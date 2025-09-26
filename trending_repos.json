@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-08-27",
-    "repos": [
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-        "language": "JavaScript",
-        "stars": "12,855",
-        "crawled_at": "2025-08-27T13:19:02.106465"
-      },
-      {
-        "name": "plait-board /drawnix",
-        "description": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
-        "language": "TypeScript",
-        "stars": "9,325",
-        "crawled_at": "2025-08-27T13:19:02.106667"
-      },
-      {
-        "name": "QuentinFuxa /WhisperLiveKit",
-        "description": "Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface",
-        "language": "Python",
-        "stars": "1,145",
-        "crawled_at": "2025-08-27T13:19:02.106858"
-      },
-      {
-        "name": "microsoft /terminal",
-        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-        "language": "C++",
-        "stars": "99,355",
-        "crawled_at": "2025-08-27T13:19:02.107085"
-      },
-      {
-        "name": "firecracker-microvm /firecracker",
-        "description": "Secure and fast microVMs for serverless computing.",
-        "language": "Rust",
-        "stars": "29,300",
-        "crawled_at": "2025-08-27T13:19:02.107270"
-      },
-      {
-        "name": "karpathy /nn-zero-to-hero",
-        "description": "Neural Networks: Zero to Hero",
-        "language": "Jupyter Notebook",
-        "stars": "16,384",
-        "crawled_at": "2025-08-27T13:19:02.107453"
-      },
-      {
-        "name": "santinic /audiblez",
-        "description": "Generate audiobooks from e-books",
-        "language": "Python",
-        "stars": "4,459",
-        "crawled_at": "2025-08-27T13:19:02.107674"
-      },
-      {
-        "name": "googleapis /genai-toolbox",
-        "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
-        "language": "Go",
-        "stars": "9,786",
-        "crawled_at": "2025-08-27T13:19:02.107859"
-      },
-      {
-        "name": "OpenPipe /ART",
-        "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!",
-        "language": "Python",
-        "stars": "6,062",
-        "crawled_at": "2025-08-27T13:19:02.108057"
-      },
-      {
-        "name": "eythaann /Seelen-UI",
-        "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
-        "language": "Rust",
-        "stars": "11,270",
-        "crawled_at": "2025-08-27T13:19:02.108287"
-      }
-    ]
-  },
-  {
     "date": "2025-08-28",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "49,952",
         "crawled_at": "2025-09-25T13:20:47.095765"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-26",
+    "repos": [
+      {
+        "name": "ZuodaoTech /everyone-can-use-english",
+        "description": "人人都能用英语",
+        "language": "TypeScript",
+        "stars": "29,643",
+        "crawled_at": "2025-09-26T13:18:16.968179"
+      },
+      {
+        "name": "HKUDS /RAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "language": "Python",
+        "stars": "6,126",
+        "crawled_at": "2025-09-26T13:18:16.968379"
+      },
+      {
+        "name": "humanlayer /humanlayer",
+        "description": "The best way to get AI to solve hard problems in complex codebases.",
+        "language": "TypeScript",
+        "stars": "3,128",
+        "crawled_at": "2025-09-26T13:18:16.968560"
+      },
+      {
+        "name": "gin-gonic /gin",
+        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+        "language": "Go",
+        "stars": "85,812",
+        "crawled_at": "2025-09-26T13:18:16.968739"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Opinionated Arch/Hyprland Setup",
+        "language": "Shell",
+        "stars": "10,651",
+        "crawled_at": "2025-09-26T13:18:16.968917"
+      },
+      {
+        "name": "onyx-dot-app /onyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "language": "Python",
+        "stars": "13,991",
+        "crawled_at": "2025-09-26T13:18:16.969117"
+      },
+      {
+        "name": "ericciarla /trendFinder",
+        "description": "Stay on top of trending topics on social media and the web with AI",
+        "language": "TypeScript",
+        "stars": "3,535",
+        "crawled_at": "2025-09-26T13:18:16.969299"
+      },
+      {
+        "name": "netdata /netdata",
+        "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+        "language": "C",
+        "stars": "76,057",
+        "crawled_at": "2025-09-26T13:18:16.969474"
+      },
+      {
+        "name": "jellyfin /jellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "language": "C#",
+        "stars": "43,681",
+        "crawled_at": "2025-09-26T13:18:16.969650"
+      },
+      {
+        "name": "bytedance /Dolphin",
+        "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+        "language": "Python",
+        "stars": "6,753",
+        "crawled_at": "2025-09-26T13:18:16.969824"
       }
     ]
   }
