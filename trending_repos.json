@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-08-30",
-    "repos": [
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "25,311",
-        "crawled_at": "2025-08-30T13:12:20.902442"
-      },
-      {
-        "name": "inventree /InvenTree",
-        "description": "Open Source Inventory Management System",
-        "language": "Python",
-        "stars": "5,445",
-        "crawled_at": "2025-08-30T13:12:20.902704"
-      },
-      {
-        "name": "microsoft /mcp",
-        "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
-        "language": "C#",
-        "stars": "1,410",
-        "crawled_at": "2025-08-30T13:12:20.902893"
-      },
-      {
-        "name": "QuentinFuxa /WhisperLiveKit",
-        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
-        "language": "Python",
-        "stars": "3,469",
-        "crawled_at": "2025-08-30T13:12:20.903079"
-      },
-      {
-        "name": "activepieces /activepieces",
-        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-        "language": "TypeScript",
-        "stars": "16,545",
-        "crawled_at": "2025-08-30T13:12:20.903275"
-      },
-      {
-        "name": "elixir-lang /expert",
-        "description": "Official Elixir Language Server Protocol implementation",
-        "language": "Elixir",
-        "stars": "1,007",
-        "crawled_at": "2025-08-30T13:12:20.903462"
-      },
-      {
-        "name": "laramies /theHarvester",
-        "description": "E-mails, subdomains and names Harvester - OSINT",
-        "language": "Python",
-        "stars": "13,408",
-        "crawled_at": "2025-08-30T13:12:20.903664"
-      },
-      {
-        "name": "hashicorp /terraform",
-        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-        "language": "Go",
-        "stars": "46,368",
-        "crawled_at": "2025-08-30T13:12:20.903852"
-      },
-      {
-        "name": "dockur /windows",
-        "description": "Windows inside a Docker container.",
-        "language": "Shell",
-        "stars": "37,814",
-        "crawled_at": "2025-08-30T13:12:20.904035"
-      },
-      {
-        "name": "DevCaress /guia-entrevistas-de-programacion",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "5,411",
-        "crawled_at": "2025-08-30T13:12:20.904238"
-      }
-    ]
-  },
-  {
     "date": "2025-08-31",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "30,625",
         "crawled_at": "2025-09-28T13:11:56.982808"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-29",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "41,121",
+        "crawled_at": "2025-09-29T13:21:12.653104"
+      },
+      {
+        "name": "commaai /openpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "language": "Python",
+        "stars": "57,265",
+        "crawled_at": "2025-09-29T13:21:12.653305"
+      },
+      {
+        "name": "kamranahmedse /developer-roadmap",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "language": "TypeScript",
+        "stars": "338,514",
+        "crawled_at": "2025-09-29T13:21:12.653538"
+      },
+      {
+        "name": "Done-0 /fuck-u-code",
+        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+        "language": "Go",
+        "stars": "3,973",
+        "crawled_at": "2025-09-29T13:21:12.653728"
+      },
+      {
+        "name": "frappe /erpnext",
+        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+        "language": "Python",
+        "stars": "29,121",
+        "crawled_at": "2025-09-29T13:21:12.653947"
+      },
+      {
+        "name": "snarktank /ai-dev-tasks",
+        "description": "A simple task management system for managing AI dev agents",
+        "language": "未知",
+        "stars": "5,288",
+        "crawled_at": "2025-09-29T13:21:12.654150"
+      },
+      {
+        "name": "humanlayer /humanlayer",
+        "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+        "language": "TypeScript",
+        "stars": "4,800",
+        "crawled_at": "2025-09-29T13:21:12.654336"
+      },
+      {
+        "name": "adityatelange /hugo-PaperMod",
+        "description": "A fast, clean, responsive Hugo theme.",
+        "language": "HTML",
+        "stars": "12,350",
+        "crawled_at": "2025-09-29T13:21:12.654560"
+      },
+      {
+        "name": "microsoft /ai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "language": "Jupyter Notebook",
+        "stars": "40,579",
+        "crawled_at": "2025-09-29T13:21:12.654743"
+      },
+      {
+        "name": "jellyfin /jellyfin",
+        "description": "The Free Software Media System - Server Backend & API",
+        "language": "C#",
+        "stars": "44,070",
+        "crawled_at": "2025-09-29T13:21:12.654945"
       }
     ]
   }
