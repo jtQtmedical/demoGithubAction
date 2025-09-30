@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-08-31",
-    "repos": [
-      {
-        "name": "QuentinFuxa /WhisperLiveKit",
-        "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
-        "language": "Python",
-        "stars": "3,926",
-        "crawled_at": "2025-08-31T13:13:06.998406"
-      },
-      {
-        "name": "dockur /windows",
-        "description": "Windows inside a Docker container.",
-        "language": "Shell",
-        "stars": "38,542",
-        "crawled_at": "2025-08-31T13:13:06.998612"
-      },
-      {
-        "name": "laramies /theHarvester",
-        "description": "E-mails, subdomains and names Harvester - OSINT",
-        "language": "Python",
-        "stars": "13,618",
-        "crawled_at": "2025-08-31T13:13:06.998804"
-      },
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "25,944",
-        "crawled_at": "2025-08-31T13:13:06.998990"
-      },
-      {
-        "name": "rasbt /LLMs-from-scratch",
-        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-        "language": "Jupyter Notebook",
-        "stars": "68,309",
-        "crawled_at": "2025-08-31T13:13:06.999174"
-      },
-      {
-        "name": "TheAlgorithms /Python",
-        "description": "All Algorithms implemented in Python",
-        "language": "Python",
-        "stars": "205,723",
-        "crawled_at": "2025-08-31T13:13:06.999393"
-      },
-      {
-        "name": "JetBrains /koog",
-        "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
-        "language": "Kotlin",
-        "stars": "1,806",
-        "crawled_at": "2025-08-31T13:13:06.999584"
-      },
-      {
-        "name": "gunnarmorling /1brc",
-        "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
-        "language": "Java",
-        "stars": "7,181",
-        "crawled_at": "2025-08-31T13:13:06.999773"
-      },
-      {
-        "name": "bevyengine /bevy",
-        "description": "A refreshingly simple data-driven game engine built in Rust",
-        "language": "Rust",
-        "stars": "41,312",
-        "crawled_at": "2025-08-31T13:13:06.999961"
-      },
-      {
-        "name": "activepieces /activepieces",
-        "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-        "language": "TypeScript",
-        "stars": "16,744",
-        "crawled_at": "2025-08-31T13:13:07.000146"
-      }
-    ]
-  },
-  {
     "date": "2025-09-01",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C#",
         "stars": "44,070",
         "crawled_at": "2025-09-29T13:21:12.654945"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-30",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "43,108",
+        "crawled_at": "2025-09-30T13:20:52.901319"
+      },
+      {
+        "name": "nextcloud /server",
+        "description": "☁️ Nextcloud server, a safe home for all your data",
+        "language": "PHP",
+        "stars": "30,988",
+        "crawled_at": "2025-09-30T13:20:52.901522"
+      },
+      {
+        "name": "typst /typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "language": "Rust",
+        "stars": "46,290",
+        "crawled_at": "2025-09-30T13:20:52.901758"
+      },
+      {
+        "name": "fastapi /fastapi",
+        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+        "language": "Python",
+        "stars": "90,025",
+        "crawled_at": "2025-09-30T13:20:52.901978"
+      },
+      {
+        "name": "commaai /openpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "language": "Python",
+        "stars": "57,844",
+        "crawled_at": "2025-09-30T13:20:52.902162"
+      },
+      {
+        "name": "DevCaress /guia-entrevistas-de-programacion",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "6,016",
+        "crawled_at": "2025-09-30T13:20:52.902367"
+      },
+      {
+        "name": "anthropics /claude-agent-sdk-python",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "1,368",
+        "crawled_at": "2025-09-30T13:20:52.902578"
+      },
+      {
+        "name": "juliangarnier /anime",
+        "description": "JavaScript animation engine",
+        "language": "JavaScript",
+        "stars": "64,190",
+        "crawled_at": "2025-09-30T13:20:52.902803"
+      },
+      {
+        "name": "kamranahmedse /developer-roadmap",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "language": "TypeScript",
+        "stars": "338,942",
+        "crawled_at": "2025-09-30T13:20:52.903048"
+      },
+      {
+        "name": "Done-0 /fuck-u-code",
+        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
+        "language": "Go",
+        "stars": "4,436",
+        "crawled_at": "2025-09-30T13:20:52.903240"
       }
     ]
   }
