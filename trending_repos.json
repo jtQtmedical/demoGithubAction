@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-04",
-    "repos": [
-      {
-        "name": "bytebot-ai /bytebot",
-        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
-        "language": "TypeScript",
-        "stars": "4,338",
-        "crawled_at": "2025-09-04T13:15:59.700256"
-      },
-      {
-        "name": "LukeGus /Termix",
-        "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
-        "language": "TypeScript",
-        "stars": "2,742",
-        "crawled_at": "2025-09-04T13:15:59.700494"
-      },
-      {
-        "name": "rustdesk /rustdesk",
-        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "language": "Rust",
-        "stars": "97,450",
-        "crawled_at": "2025-09-04T13:15:59.700722"
-      },
-      {
-        "name": "crewAIInc /crewAI",
-        "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-        "language": "Python",
-        "stars": "37,481",
-        "crawled_at": "2025-09-04T13:15:59.700969"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "28,298",
-        "crawled_at": "2025-09-04T13:15:59.701170"
-      },
-      {
-        "name": "microsoft /PowerToys",
-        "description": "Windows system utilities to maximize productivity",
-        "language": "C#",
-        "stars": "123,110",
-        "crawled_at": "2025-09-04T13:15:59.701361"
-      },
-      {
-        "name": "pedroslopez /whatsapp-web.js",
-        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-        "language": "JavaScript",
-        "stars": "19,080",
-        "crawled_at": "2025-09-04T13:15:59.701583"
-      },
-      {
-        "name": "trufflesecurity /trufflehog",
-        "description": "Find, verify, and analyze leaked credentials",
-        "language": "Go",
-        "stars": "20,453",
-        "crawled_at": "2025-09-04T13:15:59.701761"
-      },
-      {
-        "name": "eriklindernoren /ML-From-Scratch",
-        "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
-        "language": "Python",
-        "stars": "27,806",
-        "crawled_at": "2025-09-04T13:15:59.701975"
-      },
-      {
-        "name": "pocketbase /pocketbase",
-        "description": "Open Source realtime backend in 1 file",
-        "language": "Go",
-        "stars": "50,312",
-        "crawled_at": "2025-09-04T13:15:59.702156"
-      }
-    ]
-  },
-  {
     "date": "2025-09-05",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "1,482",
         "crawled_at": "2025-10-03T13:15:55.655529"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-04",
+    "repos": [
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "35,178",
+        "crawled_at": "2025-10-04T13:10:59.177965"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "JavaScript",
+        "stars": "8,053",
+        "crawled_at": "2025-10-04T13:10:59.178170"
+      },
+      {
+        "name": "google /tunix",
+        "description": "A JAX-native LLM Post-Training Library",
+        "language": "Python",
+        "stars": "1,404",
+        "crawled_at": "2025-10-04T13:10:59.178370"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "1,787",
+        "crawled_at": "2025-10-04T13:10:59.178562"
+      },
+      {
+        "name": "tigerbeetle /tigerbeetle",
+        "description": "The financial transactions database designed for mission critical safety and performance.",
+        "language": "Zig",
+        "stars": "13,841",
+        "crawled_at": "2025-10-04T13:10:59.178768"
+      },
+      {
+        "name": "paaatrick /playball",
+        "description": "Watch MLB games from the comfort of your own terminal",
+        "language": "JavaScript",
+        "stars": "997",
+        "crawled_at": "2025-10-04T13:10:59.178957"
+      },
+      {
+        "name": "AykutSarac /jsoncrack.com",
+        "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "language": "TypeScript",
+        "stars": "41,688",
+        "crawled_at": "2025-10-04T13:10:59.179154"
+      },
+      {
+        "name": "simular-ai /Agent-S",
+        "description": "Agent S: an open agentic framework that uses computers like a human",
+        "language": "Python",
+        "stars": "6,425",
+        "crawled_at": "2025-10-04T13:10:59.179343"
+      },
+      {
+        "name": "kestra-io /kestra",
+        "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+        "language": "Java",
+        "stars": "21,743",
+        "crawled_at": "2025-10-04T13:10:59.179531"
+      },
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "22,468",
+        "crawled_at": "2025-10-04T13:10:59.179739"
       }
     ]
   }
