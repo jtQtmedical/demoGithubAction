@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-05",
-    "repos": [
-      {
-        "name": "bytebot-ai /bytebot",
-        "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
-        "language": "TypeScript",
-        "stars": "5,043",
-        "crawled_at": "2025-09-05T13:16:42.593409"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "21,373",
-        "crawled_at": "2025-09-05T13:16:42.593637"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "28,437",
-        "crawled_at": "2025-09-05T13:16:42.593830"
-      },
-      {
-        "name": "trufflesecurity /trufflehog",
-        "description": "Find, verify, and analyze leaked credentials",
-        "language": "Go",
-        "stars": "20,668",
-        "crawled_at": "2025-09-05T13:16:42.594024"
-      },
-      {
-        "name": "mack-a /v2ray-agent",
-        "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-        "language": "Shell",
-        "stars": "16,902",
-        "crawled_at": "2025-09-05T13:16:42.594211"
-      },
-      {
-        "name": "nukeop /nuclear",
-        "description": "Streaming music player that finds free music for you",
-        "language": "TypeScript",
-        "stars": "14,198",
-        "crawled_at": "2025-09-05T13:16:42.594453"
-      },
-      {
-        "name": "EvolutionAPI /evolution-api",
-        "description": "Evolution API is an open-source WhatsApp integration API",
-        "language": "TypeScript",
-        "stars": "5,093",
-        "crawled_at": "2025-09-05T13:16:42.594678"
-      },
-      {
-        "name": "appcypher /awesome-mcp-servers",
-        "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
-        "language": "未知",
-        "stars": "4,248",
-        "crawled_at": "2025-09-05T13:16:42.594872"
-      },
-      {
-        "name": "emcie-co /parlant",
-        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
-        "language": "Python",
-        "stars": "8,801",
-        "crawled_at": "2025-09-05T13:16:42.595055"
-      },
-      {
-        "name": "coleam00 /ottomator-agents",
-        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
-        "language": "Python",
-        "stars": "3,799",
-        "crawled_at": "2025-09-05T13:16:42.595236"
-      }
-    ]
-  },
-  {
     "date": "2025-09-06",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "22,468",
         "crawled_at": "2025-10-04T13:10:59.179739"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-05",
+    "repos": [
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "22,723",
+        "crawled_at": "2025-10-05T13:11:34.437046"
+      },
+      {
+        "name": "Flowseal /zapret-discord-youtube",
+        "description": "無描述",
+        "language": "Batchfile",
+        "stars": "16,607",
+        "crawled_at": "2025-10-05T13:11:34.437268"
+      },
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "35,919",
+        "crawled_at": "2025-10-05T13:11:34.437459"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "JavaScript",
+        "stars": "8,482",
+        "crawled_at": "2025-10-05T13:11:34.437657"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "2,009",
+        "crawled_at": "2025-10-05T13:11:34.437846"
+      },
+      {
+        "name": "glide-browser /glide",
+        "description": "An extensible and keyboard-focused web browser",
+        "language": "TypeScript",
+        "stars": "612",
+        "crawled_at": "2025-10-05T13:11:34.438047"
+      },
+      {
+        "name": "comfyanonymous /ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+        "language": "Python",
+        "stars": "90,045",
+        "crawled_at": "2025-10-05T13:11:34.438233"
+      },
+      {
+        "name": "hsliuping /TradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "language": "Python",
+        "stars": "9,172",
+        "crawled_at": "2025-10-05T13:11:34.438423"
+      },
+      {
+        "name": "kestra-io /kestra",
+        "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+        "language": "Java",
+        "stars": "21,901",
+        "crawled_at": "2025-10-05T13:11:34.438608"
+      },
+      {
+        "name": "meshtastic /firmware",
+        "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+        "language": "C++",
+        "stars": "5,741",
+        "crawled_at": "2025-10-05T13:11:34.438844"
       }
     ]
   }
