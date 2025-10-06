@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-06",
-    "repos": [
-      {
-        "name": "zama-ai /fhevm",
-        "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
-        "language": "Rust",
-        "stars": "16,933",
-        "crawled_at": "2025-09-06T13:10:34.375734"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "28,549",
-        "crawled_at": "2025-09-06T13:10:34.375931"
-      },
-      {
-        "name": "trufflesecurity /trufflehog",
-        "description": "Find, verify, and analyze leaked credentials",
-        "language": "Go",
-        "stars": "20,880",
-        "crawled_at": "2025-09-06T13:10:34.376121"
-      },
-      {
-        "name": "rails /rails",
-        "description": "Ruby on Rails",
-        "language": "Ruby",
-        "stars": "57,440",
-        "crawled_at": "2025-09-06T13:10:34.376303"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "21,530",
-        "crawled_at": "2025-09-06T13:10:34.376504"
-      },
-      {
-        "name": "coleam00 /ottomator-agents",
-        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
-        "language": "Python",
-        "stars": "3,870",
-        "crawled_at": "2025-09-06T13:10:34.376720"
-      },
-      {
-        "name": "emcie-co /parlant",
-        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
-        "language": "Python",
-        "stars": "9,087",
-        "crawled_at": "2025-09-06T13:10:34.376905"
-      },
-      {
-        "name": "mack-a /v2ray-agent",
-        "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-        "language": "Shell",
-        "stars": "17,060",
-        "crawled_at": "2025-09-06T13:10:34.377091"
-      },
-      {
-        "name": "quarkusio /quarkus",
-        "description": "Quarkus: Supersonic Subatomic Java.",
-        "language": "Java",
-        "stars": "14,889",
-        "crawled_at": "2025-09-06T13:10:34.377271"
-      },
-      {
-        "name": "apache /airflow",
-        "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-        "language": "Python",
-        "stars": "42,089",
-        "crawled_at": "2025-09-06T13:10:34.377470"
-      }
-    ]
-  },
-  {
     "date": "2025-09-07",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C++",
         "stars": "5,741",
         "crawled_at": "2025-10-05T13:11:34.438844"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-06",
+    "repos": [
+      {
+        "name": "Infisical /infisical",
+        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+        "language": "TypeScript",
+        "stars": "20,879",
+        "crawled_at": "2025-10-06T13:20:09.811063"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "JavaScript",
+        "stars": "8,670",
+        "crawled_at": "2025-10-06T13:20:09.811270"
+      },
+      {
+        "name": "BeehiveInnovations /zen-mcp-server",
+        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+        "language": "Python",
+        "stars": "7,510",
+        "crawled_at": "2025-10-06T13:20:09.811503"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "2,312",
+        "crawled_at": "2025-10-06T13:20:09.811690"
+      },
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "23,716",
+        "crawled_at": "2025-10-06T13:20:09.811895"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "50,900",
+        "crawled_at": "2025-10-06T13:20:09.812092"
+      },
+      {
+        "name": "audacity /audacity",
+        "description": "Audio Editor",
+        "language": "C++",
+        "stars": "14,818",
+        "crawled_at": "2025-10-06T13:20:09.812282"
+      },
+      {
+        "name": "juspay /hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "language": "Rust",
+        "stars": "36,131",
+        "crawled_at": "2025-10-06T13:20:09.812466"
+      },
+      {
+        "name": "openemr /openemr",
+        "description": "The most popular open source electronic health records and medical practice management solution.",
+        "language": "PHP",
+        "stars": "3,735",
+        "crawled_at": "2025-10-06T13:20:09.812688"
+      },
+      {
+        "name": "dgtlmoon /changedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+        "language": "Python",
+        "stars": "26,999",
+        "crawled_at": "2025-10-06T13:20:09.812890"
       }
     ]
   }
