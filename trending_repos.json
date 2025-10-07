@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-07",
-    "repos": [
-      {
-        "name": "emcie-co /parlant",
-        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
-        "language": "Python",
-        "stars": "9,409",
-        "crawled_at": "2025-09-07T13:11:06.762048"
-      },
-      {
-        "name": "zama-ai /fhevm",
-        "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
-        "language": "Rust",
-        "stars": "17,395",
-        "crawled_at": "2025-09-07T13:11:06.762264"
-      },
-      {
-        "name": "coleam00 /ottomator-agents",
-        "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
-        "language": "Python",
-        "stars": "3,970",
-        "crawled_at": "2025-09-07T13:11:06.762480"
-      },
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "29,614",
-        "crawled_at": "2025-09-07T13:11:06.762673"
-      },
-      {
-        "name": "FIRST-Tech-Challenge /FtcRobotController",
-        "description": "FTC Android Studio Workspace for robot programming in Android Studio",
-        "language": "Java",
-        "stars": "979",
-        "crawled_at": "2025-09-07T13:11:06.762868"
-      },
-      {
-        "name": "openwrt /openwrt",
-        "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-        "language": "C",
-        "stars": "23,574",
-        "crawled_at": "2025-09-07T13:11:06.763072"
-      },
-      {
-        "name": "Kilo-Org /kilocode",
-        "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
-        "language": "TypeScript",
-        "stars": "8,533",
-        "crawled_at": "2025-09-07T13:11:06.763262"
-      },
-      {
-        "name": "Stirling-Tools /Stirling-PDF",
-        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
-        "language": "Java",
-        "stars": "65,398",
-        "crawled_at": "2025-09-07T13:11:06.763509"
-      },
-      {
-        "name": "Eventual-Inc /Daft",
-        "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
-        "language": "Rust",
-        "stars": "3,796",
-        "crawled_at": "2025-09-07T13:11:06.763699"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "21,639",
-        "crawled_at": "2025-09-07T13:11:06.763886"
-      }
-    ]
-  },
-  {
     "date": "2025-09-08",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "26,999",
         "crawled_at": "2025-10-06T13:20:09.812890"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-07",
+    "repos": [
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "3,059",
+        "crawled_at": "2025-10-07T13:20:42.624687"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+        "language": "Python",
+        "stars": "9,929",
+        "crawled_at": "2025-10-07T13:20:42.624958"
+      },
+      {
+        "name": "simstudioai /sim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "stars": "16,559",
+        "crawled_at": "2025-10-07T13:20:42.625151"
+      },
+      {
+        "name": "Infisical /infisical",
+        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+        "language": "TypeScript",
+        "stars": "21,936",
+        "crawled_at": "2025-10-07T13:20:42.625390"
+      },
+      {
+        "name": "BeehiveInnovations /zen-mcp-server",
+        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+        "language": "Python",
+        "stars": "7,886",
+        "crawled_at": "2025-10-07T13:20:42.625622"
+      },
+      {
+        "name": "FlowiseAI /Flowise",
+        "description": "Build AI Agents, Visually",
+        "language": "TypeScript",
+        "stars": "44,400",
+        "crawled_at": "2025-10-07T13:20:42.625869"
+      },
+      {
+        "name": "aandrew-me /ytDownloader",
+        "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
+        "language": "JavaScript",
+        "stars": "3,060",
+        "crawled_at": "2025-10-07T13:20:42.626085"
+      },
+      {
+        "name": "dgtlmoon /changedetection.io",
+        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+        "language": "Python",
+        "stars": "27,281",
+        "crawled_at": "2025-10-07T13:20:42.626285"
+      },
+      {
+        "name": "Flowseal /zapret-discord-youtube",
+        "description": "無描述",
+        "language": "Batchfile",
+        "stars": "16,969",
+        "crawled_at": "2025-10-07T13:20:42.626495"
+      },
+      {
+        "name": "audacity /audacity",
+        "description": "Audio Editor",
+        "language": "C++",
+        "stars": "15,001",
+        "crawled_at": "2025-10-07T13:20:42.626682"
       }
     ]
   }
