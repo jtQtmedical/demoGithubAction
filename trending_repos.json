@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-09",
-    "repos": [
-      {
-        "name": "emcie-co /parlant",
-        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
-        "language": "Python",
-        "stars": "11,037",
-        "crawled_at": "2025-09-09T13:22:11.992497"
-      },
-      {
-        "name": "Vector-Wangel /XLeRobot",
-        "description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660",
-        "language": "Python",
-        "stars": "2,651",
-        "crawled_at": "2025-09-09T13:22:11.992733"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
-        "language": "未知",
-        "stars": "82,308",
-        "crawled_at": "2025-09-09T13:22:11.992931"
-      },
-      {
-        "name": "Stirling-Tools /Stirling-PDF",
-        "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
-        "language": "Java",
-        "stars": "66,193",
-        "crawled_at": "2025-09-09T13:22:11.993154"
-      },
-      {
-        "name": "vercel /examples",
-        "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
-        "language": "TypeScript",
-        "stars": "4,145",
-        "crawled_at": "2025-09-09T13:22:11.993335"
-      },
-      {
-        "name": "Cinnamon /kotaemon",
-        "description": "An open-source RAG-based tool for chatting with your documents.",
-        "language": "Python",
-        "stars": "23,571",
-        "crawled_at": "2025-09-09T13:22:11.993523"
-      },
-      {
-        "name": "pathwaycom /llm-app",
-        "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-        "language": "Jupyter Notebook",
-        "stars": "37,777",
-        "crawled_at": "2025-09-09T13:22:11.993729"
-      },
-      {
-        "name": "hiroi-sora /Umi-OCR",
-        "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
-        "language": "Python",
-        "stars": "36,708",
-        "crawled_at": "2025-09-09T13:22:11.993913"
-      },
-      {
-        "name": "11cafe /jaaz",
-        "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
-        "language": "TypeScript",
-        "stars": "3,361",
-        "crawled_at": "2025-09-09T13:22:11.994132"
-      },
-      {
-        "name": "pathwaycom /pathway",
-        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
-        "language": "Python",
-        "stars": "40,219",
-        "crawled_at": "2025-09-09T13:22:11.994311"
-      }
-    ]
-  },
-  {
     "date": "2025-09-10",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "15,642",
         "crawled_at": "2025-10-08T13:20:36.062394"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-09",
+    "repos": [
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "6,259",
+        "crawled_at": "2025-10-09T13:21:36.494734"
+      },
+      {
+        "name": "MODSetter /SurfSense",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "stars": "8,716",
+        "crawled_at": "2025-10-09T13:21:36.495030"
+      },
+      {
+        "name": "google /computer-use-preview",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "504",
+        "crawled_at": "2025-10-09T13:21:36.495252"
+      },
+      {
+        "name": "TibixDev /winboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "language": "TypeScript",
+        "stars": "7,636",
+        "crawled_at": "2025-10-09T13:21:36.495445"
+      },
+      {
+        "name": "timelinize /timelinize",
+        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+        "language": "Go",
+        "stars": "1,975",
+        "crawled_at": "2025-10-09T13:21:36.495636"
+      },
+      {
+        "name": "rust-lang /rustfmt",
+        "description": "Format Rust code",
+        "language": "Rust",
+        "stars": "6,502",
+        "crawled_at": "2025-10-09T13:21:36.495887"
+      },
+      {
+        "name": "PixelGuys /Cubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "language": "Zig",
+        "stars": "939",
+        "crawled_at": "2025-10-09T13:21:36.496078"
+      },
+      {
+        "name": "openai /openai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "language": "Python",
+        "stars": "15,826",
+        "crawled_at": "2025-10-09T13:21:36.496264"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "52,032",
+        "crawled_at": "2025-10-09T13:21:36.496452"
+      },
+      {
+        "name": "browserbase /stagehand",
+        "description": "The AI Browser Automation Framework",
+        "language": "TypeScript",
+        "stars": "17,758",
+        "crawled_at": "2025-10-09T13:21:36.496638"
       }
     ]
   }
