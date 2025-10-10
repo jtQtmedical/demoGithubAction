@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-10",
-    "repos": [
-      {
-        "name": "Physical-Intelligence /openpi",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "5,099",
-        "crawled_at": "2025-09-10T13:16:51.306840"
-      },
-      {
-        "name": "modelcontextprotocol /registry",
-        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
-        "language": "Go",
-        "stars": "2,708",
-        "crawled_at": "2025-09-10T13:16:51.307045"
-      },
-      {
-        "name": "vercel /examples",
-        "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
-        "language": "TypeScript",
-        "stars": "4,340",
-        "crawled_at": "2025-09-10T13:16:51.307256"
-      },
-      {
-        "name": "microsoft /ai-agents-for-beginners",
-        "description": "12 Lessons to Get Started Building AI Agents",
-        "language": "Jupyter Notebook",
-        "stars": "37,439",
-        "crawled_at": "2025-09-10T13:16:51.307447"
-      },
-      {
-        "name": "11cafe /jaaz",
-        "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
-        "language": "TypeScript",
-        "stars": "3,772",
-        "crawled_at": "2025-09-10T13:16:51.307674"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "65,095",
-        "crawled_at": "2025-09-10T13:16:51.307859"
-      },
-      {
-        "name": "ZuodaoTech /everyone-can-use-english",
-        "description": "人人都能用英语",
-        "language": "TypeScript",
-        "stars": "27,036",
-        "crawled_at": "2025-09-10T13:16:51.308046"
-      },
-      {
-        "name": "tesseract-ocr /tesseract",
-        "description": "Tesseract Open Source OCR Engine (main repository)",
-        "language": "C++",
-        "stars": "69,393",
-        "crawled_at": "2025-09-10T13:16:51.308255"
-      },
-      {
-        "name": "huggingface /aisheets",
-        "description": "Build, enrich, and transform datasets using AI models with no code",
-        "language": "TypeScript",
-        "stars": "1,093",
-        "crawled_at": "2025-09-10T13:16:51.308441"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
-        "language": "未知",
-        "stars": "82,977",
-        "crawled_at": "2025-09-10T13:16:51.308635"
-      }
-    ]
-  },
-  {
     "date": "2025-09-11",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "17,758",
         "crawled_at": "2025-10-09T13:21:36.496638"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-10",
+    "repos": [
+      {
+        "name": "browserbase /stagehand",
+        "description": "The AI Browser Automation Framework",
+        "language": "TypeScript",
+        "stars": "18,000",
+        "crawled_at": "2025-10-10T13:18:37.218815"
+      },
+      {
+        "name": "78 /xiaozhi-esp32",
+        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+        "language": "C++",
+        "stars": "19,314",
+        "crawled_at": "2025-10-10T13:18:37.219047"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "36,022",
+        "crawled_at": "2025-10-10T13:18:37.219249"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "52,448",
+        "crawled_at": "2025-10-10T13:18:37.219437"
+      },
+      {
+        "name": "TibixDev /winboat",
+        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+        "language": "TypeScript",
+        "stars": "8,882",
+        "crawled_at": "2025-10-10T13:18:37.219627"
+      },
+      {
+        "name": "microsoft /RD-Agent",
+        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
+        "language": "Python",
+        "stars": "8,245",
+        "crawled_at": "2025-10-10T13:18:37.219831"
+      },
+      {
+        "name": "MODSetter /SurfSense",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "stars": "9,035",
+        "crawled_at": "2025-10-10T13:18:37.220136"
+      },
+      {
+        "name": "CapSoftware /Cap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "language": "TypeScript",
+        "stars": "12,231",
+        "crawled_at": "2025-10-10T13:18:37.220327"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "7,117",
+        "crawled_at": "2025-10-10T13:18:37.220515"
+      },
+      {
+        "name": "xyflow /xyflow",
+        "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+        "language": "TypeScript",
+        "stars": "32,336",
+        "crawled_at": "2025-10-10T13:18:37.220756"
       }
     ]
   }
