@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-11",
-    "repos": [
-      {
-        "name": "Physical-Intelligence /openpi",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "6,127",
-        "crawled_at": "2025-09-11T13:15:31.745702"
-      },
-      {
-        "name": "modelcontextprotocol /registry",
-        "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
-        "language": "Go",
-        "stars": "3,534",
-        "crawled_at": "2025-09-11T13:15:31.745914"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "65,838",
-        "crawled_at": "2025-09-11T13:15:31.746104"
-      },
-      {
-        "name": "google /material-design-icons",
-        "description": "Material Design icons by Google (Material Symbols)",
-        "language": "未知",
-        "stars": "52,080",
-        "crawled_at": "2025-09-11T13:15:31.746308"
-      },
-      {
-        "name": "ccfos /nightingale",
-        "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
-        "language": "Go",
-        "stars": "11,654",
-        "crawled_at": "2025-09-11T13:15:31.746540"
-      },
-      {
-        "name": "mxrch /GHunt",
-        "description": "🕵️‍♂️ Offensive Google framework.",
-        "language": "Python",
-        "stars": "17,409",
-        "crawled_at": "2025-09-11T13:15:31.746767"
-      },
-      {
-        "name": "agno-agi /agno",
-        "description": "High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.",
-        "language": "Python",
-        "stars": "33,108",
-        "crawled_at": "2025-09-11T13:15:31.746966"
-      },
-      {
-        "name": "aaPanel /BillionMail",
-        "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord:https://discord.gg/asfXzBUhZr",
-        "language": "Go",
-        "stars": "10,077",
-        "crawled_at": "2025-09-11T13:15:31.747159"
-      },
-      {
-        "name": "MotiaDev /motia",
-        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
-        "language": "TypeScript",
-        "stars": "7,952",
-        "crawled_at": "2025-09-11T13:15:31.747341"
-      },
-      {
-        "name": "heroui-inc /heroui",
-        "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
-        "language": "TypeScript",
-        "stars": "25,904",
-        "crawled_at": "2025-09-11T13:15:31.747528"
-      }
-    ]
-  },
-  {
     "date": "2025-09-12",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "32,336",
         "crawled_at": "2025-10-10T13:18:37.220756"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-11",
+    "repos": [
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "36,484",
+        "crawled_at": "2025-10-11T13:11:27.669201"
+      },
+      {
+        "name": "QwenLM /Qwen3-VL",
+        "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "language": "Jupyter Notebook",
+        "stars": "13,962",
+        "crawled_at": "2025-10-11T13:11:27.669406"
+      },
+      {
+        "name": "MODSetter /SurfSense",
+        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
+        "language": "Python",
+        "stars": "9,237",
+        "crawled_at": "2025-10-11T13:11:27.669672"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "JavaScript",
+        "stars": "7,075",
+        "crawled_at": "2025-10-11T13:11:27.669860"
+      },
+      {
+        "name": "timelinize /timelinize",
+        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+        "language": "Go",
+        "stars": "2,446",
+        "crawled_at": "2025-10-11T13:11:27.670051"
+      },
+      {
+        "name": "PixelGuys /Cubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "language": "Zig",
+        "stars": "1,672",
+        "crawled_at": "2025-10-11T13:11:27.670237"
+      },
+      {
+        "name": "supermemoryai /supermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "stars": "11,632",
+        "crawled_at": "2025-10-11T13:11:27.670426"
+      },
+      {
+        "name": "evershopcommerce /evershop",
+        "description": "🛍️ Typescript E-commerce Platform",
+        "language": "TypeScript",
+        "stars": "6,572",
+        "crawled_at": "2025-10-11T13:11:27.670634"
+      },
+      {
+        "name": "CapSoftware /Cap",
+        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+        "language": "TypeScript",
+        "stars": "12,558",
+        "crawled_at": "2025-10-11T13:11:27.670822"
+      },
+      {
+        "name": "dataease /SQLBot",
+        "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+        "language": "Python",
+        "stars": "3,751",
+        "crawled_at": "2025-10-11T13:11:27.671010"
       }
     ]
   }
