@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-12",
-    "repos": [
-      {
-        "name": "trueadm /ripple",
-        "description": "the elegant TypeScript UI framework",
-        "language": "JavaScript",
-        "stars": "3,230",
-        "crawled_at": "2025-09-12T13:15:06.190003"
-      },
-      {
-        "name": "Physical-Intelligence /openpi",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "6,892",
-        "crawled_at": "2025-09-12T13:15:06.190239"
-      },
-      {
-        "name": "CodebuffAI /codebuff",
-        "description": "Generate code from the terminal!",
-        "language": "TypeScript",
-        "stars": "998",
-        "crawled_at": "2025-09-12T13:15:06.190424"
-      },
-      {
-        "name": "sentient-agi /ROMA",
-        "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
-        "language": "Python",
-        "stars": "1,483",
-        "crawled_at": "2025-09-12T13:15:06.190607"
-      },
-      {
-        "name": "firebase /genkit",
-        "description": "An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.",
-        "language": "TypeScript",
-        "stars": "3,031",
-        "crawled_at": "2025-09-12T13:15:06.190792"
-      },
-      {
-        "name": "Zie619 /n8n-workflows",
-        "description": "all of the workflows of n8n i could find (also from the site itself)",
-        "language": "HTML",
-        "stars": "28,878",
-        "crawled_at": "2025-09-12T13:15:06.190974"
-      },
-      {
-        "name": "epfml /ML_course",
-        "description": "EPFL Machine Learning Course, Fall 2025",
-        "language": "Jupyter Notebook",
-        "stars": "1,559",
-        "crawled_at": "2025-09-12T13:15:06.191167"
-      },
-      {
-        "name": "expo /expo",
-        "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-        "language": "TypeScript",
-        "stars": "43,129",
-        "crawled_at": "2025-09-12T13:15:06.191350"
-      },
-      {
-        "name": "NVIDIA /garak",
-        "description": "the LLM vulnerability scanner",
-        "language": "Python",
-        "stars": "5,330",
-        "crawled_at": "2025-09-12T13:15:06.191530"
-      },
-      {
-        "name": "milvus-io /milvus",
-        "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-        "language": "Go",
-        "stars": "37,138",
-        "crawled_at": "2025-09-12T13:15:06.191709"
-      }
-    ]
-  },
-  {
     "date": "2025-09-13",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "3,751",
         "crawled_at": "2025-10-11T13:11:27.671010"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-12",
+    "repos": [
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "37,424",
+        "crawled_at": "2025-10-12T13:11:49.405052"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "JavaScript",
+        "stars": "7,352",
+        "crawled_at": "2025-10-12T13:11:49.405259"
+      },
+      {
+        "name": "evershopcommerce /evershop",
+        "description": "🛍️ Typescript E-commerce Platform",
+        "language": "TypeScript",
+        "stars": "6,935",
+        "crawled_at": "2025-10-12T13:11:49.405459"
+      },
+      {
+        "name": "78 /xiaozhi-esp32",
+        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+        "language": "C++",
+        "stars": "19,765",
+        "crawled_at": "2025-10-12T13:11:49.405670"
+      },
+      {
+        "name": "daytonaio /daytona",
+        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+        "language": "TypeScript",
+        "stars": "22,703",
+        "crawled_at": "2025-10-12T13:11:49.405860"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "52,994",
+        "crawled_at": "2025-10-12T13:11:49.406054"
+      },
+      {
+        "name": "WECENG /ticket-purchase",
+        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+        "language": "Python",
+        "stars": "4,759",
+        "crawled_at": "2025-10-12T13:11:49.406251"
+      },
+      {
+        "name": "DIYgod /RSSHub",
+        "description": "🧡 Everything is RSSible",
+        "language": "TypeScript",
+        "stars": "39,077",
+        "crawled_at": "2025-10-12T13:11:49.406486"
+      },
+      {
+        "name": "DearVa /Everywhere",
+        "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+        "language": "C#",
+        "stars": "371",
+        "crawled_at": "2025-10-12T13:11:49.406723"
+      },
+      {
+        "name": "Anduin2017 /HowToCook",
+        "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "language": "Dockerfile",
+        "stars": "94,789",
+        "crawled_at": "2025-10-12T13:11:49.406927"
       }
     ]
   }
