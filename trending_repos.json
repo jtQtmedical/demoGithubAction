@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-13",
-    "repos": [
-      {
-        "name": "PowerShell /PowerShell",
-        "description": "PowerShell for every system!",
-        "language": "C#",
-        "stars": "48,590",
-        "crawled_at": "2025-09-13T13:10:47.944980"
-      },
-      {
-        "name": "trueadm /ripple",
-        "description": "the elegant TypeScript UI framework",
-        "language": "JavaScript",
-        "stars": "4,050",
-        "crawled_at": "2025-09-13T13:10:47.945201"
-      },
-      {
-        "name": "MotiaDev /motia",
-        "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
-        "language": "TypeScript",
-        "stars": "8,202",
-        "crawled_at": "2025-09-13T13:10:47.945393"
-      },
-      {
-        "name": "grpc /grpc-go",
-        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-        "language": "Go",
-        "stars": "22,234",
-        "crawled_at": "2025-09-13T13:10:47.945581"
-      },
-      {
-        "name": "sentient-agi /ROMA",
-        "description": "Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.",
-        "language": "Python",
-        "stars": "1,769",
-        "crawled_at": "2025-09-13T13:10:47.945766"
-      },
-      {
-        "name": "ReVanced /revanced-patches",
-        "description": "🧩 Patches for ReVanced",
-        "language": "Java",
-        "stars": "4,256",
-        "crawled_at": "2025-09-13T13:10:47.945992"
-      },
-      {
-        "name": "Azure /azure-sdk-for-python",
-        "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
-        "language": "Python",
-        "stars": "5,264",
-        "crawled_at": "2025-09-13T13:10:47.946203"
-      },
-      {
-        "name": "CodebuffAI /codebuff",
-        "description": "Generate code from the terminal!",
-        "language": "TypeScript",
-        "stars": "1,319",
-        "crawled_at": "2025-09-13T13:10:47.946389"
-      },
-      {
-        "name": "protocolbuffers /protobuf",
-        "description": "Protocol Buffers - Google's data interchange format",
-        "language": "C++",
-        "stars": "69,020",
-        "crawled_at": "2025-09-13T13:10:47.946573"
-      },
-      {
-        "name": "facebook /folly",
-        "description": "An open-source C++ library developed and used at Facebook.",
-        "language": "C++",
-        "stars": "29,772",
-        "crawled_at": "2025-09-13T13:10:47.946761"
-      }
-    ]
-  },
-  {
     "date": "2025-09-14",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Dockerfile",
         "stars": "94,789",
         "crawled_at": "2025-10-12T13:11:49.406927"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-13",
+    "repos": [
+      {
+        "name": "anthropics /prompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "language": "Jupyter Notebook",
+        "stars": "19,935",
+        "crawled_at": "2025-10-13T13:21:44.144952"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+        "language": "Python",
+        "stars": "12,603",
+        "crawled_at": "2025-10-13T13:21:44.145154"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "38,463",
+        "crawled_at": "2025-10-13T13:21:44.145342"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "22,106",
+        "crawled_at": "2025-10-13T13:21:44.145527"
+      },
+      {
+        "name": "Klavis-AI /klavis",
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "language": "Python",
+        "stars": "4,930",
+        "crawled_at": "2025-10-13T13:21:44.145733"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "368,752",
+        "crawled_at": "2025-10-13T13:21:44.145917"
+      },
+      {
+        "name": "clash-verge-rev /clash-verge-rev",
+        "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+        "language": "TypeScript",
+        "stars": "77,729",
+        "crawled_at": "2025-10-13T13:21:44.146141"
+      },
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Zig",
+        "stars": "81,188",
+        "crawled_at": "2025-10-13T13:21:44.146325"
+      },
+      {
+        "name": "ggml-org /llama.cpp",
+        "description": "LLM inference in C/C++",
+        "language": "C++",
+        "stars": "87,605",
+        "crawled_at": "2025-10-13T13:21:44.146511"
+      },
+      {
+        "name": "PixelGuys /Cubyz",
+        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+        "language": "Zig",
+        "stars": "2,252",
+        "crawled_at": "2025-10-13T13:21:44.146711"
       }
     ]
   }
