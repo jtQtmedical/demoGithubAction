@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-14",
-    "repos": [
-      {
-        "name": "PowerShell /PowerShell",
-        "description": "PowerShell for every system!",
-        "language": "C#",
-        "stars": "49,242",
-        "crawled_at": "2025-09-14T13:10:18.114257"
-      },
-      {
-        "name": "trueadm /ripple",
-        "description": "the elegant TypeScript UI framework",
-        "language": "JavaScript",
-        "stars": "4,360",
-        "crawled_at": "2025-09-14T13:10:18.114459"
-      },
-      {
-        "name": "SkyworkAI /DeepResearchAgent",
-        "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.",
-        "language": "JavaScript",
-        "stars": "1,730",
-        "crawled_at": "2025-09-14T13:10:18.114647"
-      },
-      {
-        "name": "ccxt /ccxt",
-        "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
-        "language": "Python",
-        "stars": "38,080",
-        "crawled_at": "2025-09-14T13:10:18.114836"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "68,249",
-        "crawled_at": "2025-09-14T13:10:18.115039"
-      },
-      {
-        "name": "ItzCrazyKns /Perplexica",
-        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
-        "language": "TypeScript",
-        "stars": "24,137",
-        "crawled_at": "2025-09-14T13:10:18.115227"
-      },
-      {
-        "name": "midday-ai /midday",
-        "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
-        "language": "TypeScript",
-        "stars": "11,980",
-        "crawled_at": "2025-09-14T13:10:18.115413"
-      },
-      {
-        "name": "ReVanced /revanced-patches",
-        "description": "🧩 Patches for ReVanced",
-        "language": "Java",
-        "stars": "4,433",
-        "crawled_at": "2025-09-14T13:10:18.115640"
-      },
-      {
-        "name": "deepset-ai /haystack",
-        "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
-        "language": "Python",
-        "stars": "22,272",
-        "crawled_at": "2025-09-14T13:10:18.115824"
-      },
-      {
-        "name": "docker /mcp-gateway",
-        "description": "docker mcp CLI plugin / MCP Gateway",
-        "language": "Go",
-        "stars": "384",
-        "crawled_at": "2025-09-14T13:10:18.116031"
-      }
-    ]
-  },
-  {
     "date": "2025-09-15",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Zig",
         "stars": "2,252",
         "crawled_at": "2025-10-13T13:21:44.146711"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-14",
+    "repos": [
+      {
+        "name": "anthropics /prompt-eng-interactive-tutorial",
+        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+        "language": "Jupyter Notebook",
+        "stars": "22,107",
+        "crawled_at": "2025-10-14T13:21:44.459329"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "87,432",
+        "crawled_at": "2025-10-14T13:21:44.459533"
+      },
+      {
+        "name": "GorvGoyl /Clone-Wars",
+        "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+        "language": "未知",
+        "stars": "30,087",
+        "crawled_at": "2025-10-14T13:21:44.459774"
+      },
+      {
+        "name": "alibaba /spring-ai-alibaba",
+        "description": "Agentic AI Framework for Java Developers",
+        "language": "Java",
+        "stars": "6,232",
+        "crawled_at": "2025-10-14T13:21:44.459982"
+      },
+      {
+        "name": "datawhalechina /happy-llm",
+        "description": "📚 从零开始的大语言模型原理与实践教程",
+        "language": "Jupyter Notebook",
+        "stars": "19,362",
+        "crawled_at": "2025-10-14T13:21:44.460177"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "22,525",
+        "crawled_at": "2025-10-14T13:21:44.460365"
+      },
+      {
+        "name": "opendatalab /MinerU",
+        "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+        "language": "Python",
+        "stars": "46,218",
+        "crawled_at": "2025-10-14T13:21:44.460550"
+      },
+      {
+        "name": "nitrojs /nitro",
+        "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+        "language": "TypeScript",
+        "stars": "8,356",
+        "crawled_at": "2025-10-14T13:21:44.460734"
+      },
+      {
+        "name": "Klavis-AI /klavis",
+        "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+        "language": "Python",
+        "stars": "5,103",
+        "crawled_at": "2025-10-14T13:21:44.460940"
+      },
+      {
+        "name": "chili-chips-ba /wireguard-fpga",
+        "description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
+        "language": "Verilog",
+        "stars": "959",
+        "crawled_at": "2025-10-14T13:21:44.461131"
       }
     ]
   }
