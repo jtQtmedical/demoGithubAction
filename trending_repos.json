@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-16",
-    "repos": [
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "74,953",
-        "crawled_at": "2025-09-16T13:19:15.972696"
-      },
-      {
-        "name": "ml-explore /mlx-lm",
-        "description": "Run LLMs with MLX",
-        "language": "Python",
-        "stars": "2,169",
-        "crawled_at": "2025-09-16T13:19:15.972922"
-      },
-      {
-        "name": "dataease /SQLBot",
-        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
-        "language": "Python",
-        "stars": "1,737",
-        "crawled_at": "2025-09-16T13:19:15.973121"
-      },
-      {
-        "name": "SkyworkAI /DeepResearchAgent",
-        "description": "DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.",
-        "language": "JavaScript",
-        "stars": "2,175",
-        "crawled_at": "2025-09-16T13:19:15.973308"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "40,462",
-        "crawled_at": "2025-09-16T13:19:15.973497"
-      },
-      {
-        "name": "ccxt /ccxt",
-        "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
-        "language": "Python",
-        "stars": "38,560",
-        "crawled_at": "2025-09-16T13:19:15.973681"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "6,441",
-        "crawled_at": "2025-09-16T13:19:15.973909"
-      },
-      {
-        "name": "PaddlePaddle /PaddleOCR",
-        "description": "Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
-        "language": "Python",
-        "stars": "53,940",
-        "crawled_at": "2025-09-16T13:19:15.974097"
-      },
-      {
-        "name": "Plachtaa /seed-vc",
-        "description": "zero-shot voice conversion & singing voice conversion, with real-time support",
-        "language": "Python",
-        "stars": "3,028",
-        "crawled_at": "2025-09-16T13:19:15.974287"
-      },
-      {
-        "name": "BasedHardware /omi",
-        "description": "AI wearables. Put it on, speak, transcribe, automatically",
-        "language": "C",
-        "stars": "6,402",
-        "crawled_at": "2025-09-16T13:19:15.974514"
-      }
-    ]
-  },
-  {
     "date": "2025-09-17",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "MDX",
         "stars": "1,122",
         "crawled_at": "2025-10-15T13:23:19.844248"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-16",
+    "repos": [
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "87,707",
+        "crawled_at": "2025-10-16T13:22:20.225154"
+      },
+      {
+        "name": "devlikeapro /waha",
+        "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+        "language": "TypeScript",
+        "stars": "4,809",
+        "crawled_at": "2025-10-16T13:22:20.225359"
+      },
+      {
+        "name": "QwenLM /Qwen3-VL",
+        "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+        "language": "Jupyter Notebook",
+        "stars": "14,740",
+        "crawled_at": "2025-10-16T13:22:20.225550"
+      },
+      {
+        "name": "ChristianLempa /boilerplates",
+        "description": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
+        "language": "Python",
+        "stars": "6,563",
+        "crawled_at": "2025-10-16T13:22:20.225735"
+      },
+      {
+        "name": "karpathy /nanoGPT",
+        "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+        "language": "Python",
+        "stars": "46,059",
+        "crawled_at": "2025-10-16T13:22:20.225919"
+      },
+      {
+        "name": "ntdevlabs /tiny11builder",
+        "description": "Scripts to build a trimmed-down Windows 11 image.",
+        "language": "PowerShell",
+        "stars": "14,899",
+        "crawled_at": "2025-10-16T13:22:20.226171"
+      },
+      {
+        "name": "envoyproxy /envoy",
+        "description": "Cloud-native high-performance edge/middle/service proxy",
+        "language": "C++",
+        "stars": "26,779",
+        "crawled_at": "2025-10-16T13:22:20.226366"
+      },
+      {
+        "name": "GorvGoyl /Clone-Wars",
+        "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+        "language": "未知",
+        "stars": "31,011",
+        "crawled_at": "2025-10-16T13:22:20.226603"
+      },
+      {
+        "name": "linexjlin /GPTs",
+        "description": "leaked prompts of GPTs",
+        "language": "未知",
+        "stars": "30,594",
+        "crawled_at": "2025-10-16T13:22:20.226799"
+      },
+      {
+        "name": "reflex-dev /reflex",
+        "description": "🕸️ Web apps in pure Python 🐍",
+        "language": "Python",
+        "stars": "26,116",
+        "crawled_at": "2025-10-16T13:22:20.227000"
       }
     ]
   }
