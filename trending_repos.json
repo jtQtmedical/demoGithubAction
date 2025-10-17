@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-17",
-    "repos": [
-      {
-        "name": "category-labs /monad",
-        "description": "無描述",
-        "language": "C++",
-        "stars": "328",
-        "crawled_at": "2025-09-17T13:18:29.325201"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "76,763",
-        "crawled_at": "2025-09-17T13:18:29.325401"
-      },
-      {
-        "name": "category-labs /monad-bft",
-        "description": "無描述",
-        "language": "Rust",
-        "stars": "299",
-        "crawled_at": "2025-09-17T13:18:29.325625"
-      },
-      {
-        "name": "WebKit /WebKit",
-        "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
-        "language": "JavaScript",
-        "stars": "9,017",
-        "crawled_at": "2025-09-17T13:18:29.325811"
-      },
-      {
-        "name": "ItzCrazyKns /Perplexica",
-        "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
-        "language": "TypeScript",
-        "stars": "25,128",
-        "crawled_at": "2025-09-17T13:18:29.326003"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "41,843",
-        "crawled_at": "2025-09-17T13:18:29.326190"
-      },
-      {
-        "name": "nocodb /nocodb",
-        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-        "language": "TypeScript",
-        "stars": "57,019",
-        "crawled_at": "2025-09-17T13:18:29.326427"
-      },
-      {
-        "name": "dataease /SQLBot",
-        "description": "基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
-        "language": "Python",
-        "stars": "2,088",
-        "crawled_at": "2025-09-17T13:18:29.326617"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "5,575",
-        "crawled_at": "2025-09-17T13:18:29.326803"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "40,703",
-        "crawled_at": "2025-09-17T13:18:29.326987"
-      }
-    ]
-  },
-  {
     "date": "2025-09-18",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "26,116",
         "crawled_at": "2025-10-16T13:22:20.227000"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-17",
+    "repos": [
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+        "language": "Python",
+        "stars": "28,474",
+        "crawled_at": "2025-10-17T13:18:50.778344"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "88,087",
+        "crawled_at": "2025-10-17T13:18:50.778545"
+      },
+      {
+        "name": "kamranahmedse /developer-roadmap",
+        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+        "language": "TypeScript",
+        "stars": "340,911",
+        "crawled_at": "2025-10-17T13:18:50.778784"
+      },
+      {
+        "name": "dockur /windows",
+        "description": "Windows inside a Docker container.",
+        "language": "Shell",
+        "stars": "47,365",
+        "crawled_at": "2025-10-17T13:18:50.778990"
+      },
+      {
+        "name": "reflex-dev /reflex",
+        "description": "🕸️ Web apps in pure Python 🐍",
+        "language": "Python",
+        "stars": "26,513",
+        "crawled_at": "2025-10-17T13:18:50.779180"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "Python",
+        "stars": "5,021",
+        "crawled_at": "2025-10-17T13:18:50.779364"
+      },
+      {
+        "name": "stamparm /maltrail",
+        "description": "Malicious traffic detection system",
+        "language": "Python",
+        "stars": "7,397",
+        "crawled_at": "2025-10-17T13:18:50.779551"
+      },
+      {
+        "name": "linexjlin /GPTs",
+        "description": "leaked prompts of GPTs",
+        "language": "未知",
+        "stars": "30,902",
+        "crawled_at": "2025-10-17T13:18:50.779752"
+      },
+      {
+        "name": "keycloak /keycloak",
+        "description": "Open Source Identity and Access Management For Modern Applications and Services",
+        "language": "Java",
+        "stars": "30,248",
+        "crawled_at": "2025-10-17T13:18:50.779954"
+      },
+      {
+        "name": "devlikeapro /waha",
+        "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+        "language": "TypeScript",
+        "stars": "5,046",
+        "crawled_at": "2025-10-17T13:18:50.780139"
       }
     ]
   }
