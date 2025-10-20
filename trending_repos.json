@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-20",
-    "repos": [
-      {
-        "name": "Gar-b-age /CookLikeHOC",
-        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-        "language": "JavaScript",
-        "stars": "8,067",
-        "crawled_at": "2025-09-20T13:12:03.950234"
-      },
-      {
-        "name": "Alibaba-NLP /DeepResearch",
-        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
-        "language": "Python",
-        "stars": "11,038",
-        "crawled_at": "2025-09-20T13:12:03.950474"
-      },
-      {
-        "name": "flutter /flutter",
-        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "language": "Dart",
-        "stars": "172,914",
-        "crawled_at": "2025-09-20T13:12:03.950674"
-      },
-      {
-        "name": "winfunc /opcode",
-        "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-        "language": "TypeScript",
-        "stars": "16,708",
-        "crawled_at": "2025-09-20T13:12:03.950868"
-      },
-      {
-        "name": "tldraw /tldraw",
-        "description": "very good whiteboard SDK / infinite canvas SDK",
-        "language": "TypeScript",
-        "stars": "41,923",
-        "crawled_at": "2025-09-20T13:12:03.951065"
-      },
-      {
-        "name": "fmtlib /fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars": "22,407",
-        "crawled_at": "2025-09-20T13:12:03.951264"
-      },
-      {
-        "name": "linera-io /linera-protocol",
-        "description": "Main repository for the Linera protocol",
-        "language": "Rust",
-        "stars": "29,911",
-        "crawled_at": "2025-09-20T13:12:03.951479"
-      },
-      {
-        "name": "grafana /loki",
-        "description": "Like Prometheus, but for logs.",
-        "language": "Go",
-        "stars": "26,459",
-        "crawled_at": "2025-09-20T13:12:03.951676"
-      },
-      {
-        "name": "microsoft /AI-For-Beginners",
-        "description": "12 Weeks, 24 Lessons, AI for All!",
-        "language": "Jupyter Notebook",
-        "stars": "40,951",
-        "crawled_at": "2025-09-20T13:12:03.951869"
-      },
-      {
-        "name": "CopilotKit /CopilotKit",
-        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
-        "language": "TypeScript",
-        "stars": "23,435",
-        "crawled_at": "2025-09-20T13:12:03.952065"
-      }
-    ]
-  },
-  {
     "date": "2025-09-21",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "4,446",
         "crawled_at": "2025-10-19T13:12:45.531461"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-20",
+    "repos": [
+      {
+        "name": "anthropics /claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "stars": "22,915",
+        "crawled_at": "2025-10-20T13:21:08.851492"
+      },
+      {
+        "name": "SagerNet /sing-box",
+        "description": "The universal proxy platform",
+        "language": "Go",
+        "stars": "27,303",
+        "crawled_at": "2025-10-20T13:21:08.851695"
+      },
+      {
+        "name": "DrewThomasson /ebook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "language": "Python",
+        "stars": "12,311",
+        "crawled_at": "2025-10-20T13:21:08.851881"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "92,122",
+        "crawled_at": "2025-10-20T13:21:08.852100"
+      },
+      {
+        "name": "huggingface /lerobot",
+        "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+        "language": "Python",
+        "stars": "18,205",
+        "crawled_at": "2025-10-20T13:21:08.852295"
+      },
+      {
+        "name": "wavetermdev /waveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "Go",
+        "stars": "12,125",
+        "crawled_at": "2025-10-20T13:21:08.852480"
+      },
+      {
+        "name": "karpathy /micrograd",
+        "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+        "language": "Jupyter Notebook",
+        "stars": "13,122",
+        "crawled_at": "2025-10-20T13:21:08.852664"
+      },
+      {
+        "name": "huggingface /chat-ui",
+        "description": "Open source codebase powering the HuggingChat app",
+        "language": "TypeScript",
+        "stars": "9,520",
+        "crawled_at": "2025-10-20T13:21:08.852847"
+      },
+      {
+        "name": "TheAlgorithms /Python",
+        "description": "All Algorithms implemented in Python",
+        "language": "Python",
+        "stars": "211,533",
+        "crawled_at": "2025-10-20T13:21:08.853047"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "stars": "5,991",
+        "crawled_at": "2025-10-20T13:21:08.853234"
       }
     ]
   }
