@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-21",
-    "repos": [
-      {
-        "name": "Alibaba-NLP /DeepResearch",
-        "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
-        "language": "Python",
-        "stars": "11,978",
-        "crawled_at": "2025-09-21T13:12:00.002444"
-      },
-      {
-        "name": "Gar-b-age /CookLikeHOC",
-        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-        "language": "JavaScript",
-        "stars": "10,916",
-        "crawled_at": "2025-09-21T13:12:00.002643"
-      },
-      {
-        "name": "torvalds /linux",
-        "description": "Linux kernel source tree",
-        "language": "C",
-        "stars": "202,553",
-        "crawled_at": "2025-09-21T13:12:00.002835"
-      },
-      {
-        "name": "LazyVim /LazyVim",
-        "description": "Neovim config for the lazy",
-        "language": "Lua",
-        "stars": "22,714",
-        "crawled_at": "2025-09-21T13:12:00.003020"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "language": "未知",
-        "stars": "86,832",
-        "crawled_at": "2025-09-21T13:12:00.003236"
-      },
-      {
-        "name": "basecamp /omarchy",
-        "description": "Opinionated Arch/Hyprland Setup",
-        "language": "Shell",
-        "stars": "8,952",
-        "crawled_at": "2025-09-21T13:12:00.003418"
-      },
-      {
-        "name": "fmtlib /fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars": "22,455",
-        "crawled_at": "2025-09-21T13:12:00.003596"
-      },
-      {
-        "name": "WECENG /ticket-purchase",
-        "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
-        "language": "Python",
-        "stars": "2,517",
-        "crawled_at": "2025-09-21T13:12:00.003778"
-      },
-      {
-        "name": "WebGoat /WebGoat",
-        "description": "WebGoat is a deliberately insecure application",
-        "language": "JavaScript",
-        "stars": "8,005",
-        "crawled_at": "2025-09-21T13:12:00.003965"
-      },
-      {
-        "name": "CopilotKit /CopilotKit",
-        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁",
-        "language": "TypeScript",
-        "stars": "23,621",
-        "crawled_at": "2025-09-21T13:12:00.004164"
-      }
-    ]
-  },
-  {
     "date": "2025-09-22",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "5,991",
         "crawled_at": "2025-10-20T13:21:08.853234"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "repos": [
+      {
+        "name": "mountain-loop /yaak",
+        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+        "language": "TypeScript",
+        "stars": "9,488",
+        "crawled_at": "2025-10-21T13:25:13.425394"
+      },
+      {
+        "name": "louislam /uptime-kuma",
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "stars": "76,317",
+        "crawled_at": "2025-10-21T13:25:13.425609"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "stars": "6,503",
+        "crawled_at": "2025-10-21T13:25:13.425779"
+      },
+      {
+        "name": "DrewThomasson /ebook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+        "language": "Python",
+        "stars": "12,769",
+        "crawled_at": "2025-10-21T13:25:13.425956"
+      },
+      {
+        "name": "anthropics /claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "stars": "24,192",
+        "crawled_at": "2025-10-21T13:25:13.426126"
+      },
+      {
+        "name": "sharkdp /bat",
+        "description": "A cat(1) clone with wings.",
+        "language": "Rust",
+        "stars": "55,230",
+        "crawled_at": "2025-10-21T13:25:13.426328"
+      },
+      {
+        "name": "Skyvern-AI /skyvern",
+        "description": "Automate browser-based workflows with LLMs and Computer Vision",
+        "language": "Python",
+        "stars": "15,064",
+        "crawled_at": "2025-10-21T13:25:13.426491"
+      },
+      {
+        "name": "oceanbase /miniob",
+        "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+        "language": "C++",
+        "stars": "4,053",
+        "crawled_at": "2025-10-21T13:25:13.426658"
+      },
+      {
+        "name": "k2-fsa /sherpa-onnx",
+        "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+        "language": "C++",
+        "stars": "7,856",
+        "crawled_at": "2025-10-21T13:25:13.426822"
+      },
+      {
+        "name": "servo /servo",
+        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "language": "Rust",
+        "stars": "32,335",
+        "crawled_at": "2025-10-21T13:25:13.427033"
       }
     ]
   }
