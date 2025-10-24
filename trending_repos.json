@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-24",
-    "repos": [
-      {
-        "name": "gin-gonic /gin",
-        "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-        "language": "Go",
-        "stars": "84,690",
-        "crawled_at": "2025-09-24T13:19:20.110370"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "48,470",
-        "crawled_at": "2025-09-24T13:19:20.110567"
-      },
-      {
-        "name": "gofiber /fiber",
-        "description": "⚡️ Express inspired web framework written in Go",
-        "language": "Go",
-        "stars": "37,880",
-        "crawled_at": "2025-09-24T13:19:20.110789"
-      },
-      {
-        "name": "eslint /eslint",
-        "description": "Find and fix problems in your JavaScript code.",
-        "language": "JavaScript",
-        "stars": "26,490",
-        "crawled_at": "2025-09-24T13:19:20.111024"
-      },
-      {
-        "name": "fmtlib /fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars": "22,575",
-        "crawled_at": "2025-09-24T13:19:20.111207"
-      },
-      {
-        "name": "mtdvio /every-programmer-should-know",
-        "description": "A collection of (mostly) technical things every software developer should know about",
-        "language": "未知",
-        "stars": "91,281",
-        "crawled_at": "2025-09-24T13:19:20.111399"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "87,117",
-        "crawled_at": "2025-09-24T13:19:20.111578"
-      },
-      {
-        "name": "OpenZeppelin /openzeppelin-contracts",
-        "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-        "language": "Solidity",
-        "stars": "26,422",
-        "crawled_at": "2025-09-24T13:19:20.111755"
-      },
-      {
-        "name": "Gar-b-age /CookLikeHOC",
-        "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-        "language": "JavaScript",
-        "stars": "17,837",
-        "crawled_at": "2025-09-24T13:19:20.111948"
-      },
-      {
-        "name": "EbookFoundation /free-programming-books",
-        "description": "📚 Freely available programming books",
-        "language": "Python",
-        "stars": "370,244",
-        "crawled_at": "2025-09-24T13:19:20.112169"
-      }
-    ]
-  },
-  {
     "date": "2025-09-25",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "4,549",
         "crawled_at": "2025-10-23T13:23:32.074342"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "repos": [
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "50,693",
+        "crawled_at": "2025-10-24T13:22:26.987417"
+      },
+      {
+        "name": "guofei9987 /blind_watermark",
+        "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+        "language": "Python",
+        "stars": "9,233",
+        "crawled_at": "2025-10-24T13:22:26.987632"
+      },
+      {
+        "name": "hoppscotch /hoppscotch",
+        "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+        "language": "TypeScript",
+        "stars": "75,536",
+        "crawled_at": "2025-10-24T13:22:26.987873"
+      },
+      {
+        "name": "zephyrproject-rtos /zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "language": "C",
+        "stars": "13,370",
+        "crawled_at": "2025-10-24T13:22:26.988085"
+      },
+      {
+        "name": "minio /minio",
+        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+        "language": "Go",
+        "stars": "57,065",
+        "crawled_at": "2025-10-24T13:22:26.988277"
+      },
+      {
+        "name": "emcie-co /parlant",
+        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+        "language": "Python",
+        "stars": "14,552",
+        "crawled_at": "2025-10-24T13:22:26.988475"
+      },
+      {
+        "name": "zyronon /TypeWords",
+        "description": "练习英语，一次敲击，一点进步；Practice English, one strike, one step forward",
+        "language": "Vue",
+        "stars": "4,540",
+        "crawled_at": "2025-10-24T13:22:26.988666"
+      },
+      {
+        "name": "paperless-ngx /paperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "language": "Python",
+        "stars": "33,294",
+        "crawled_at": "2025-10-24T13:22:26.988858"
+      },
+      {
+        "name": "PowerShell /PowerShell",
+        "description": "PowerShell for every system!",
+        "language": "C#",
+        "stars": "50,439",
+        "crawled_at": "2025-10-24T13:22:26.989068"
+      },
+      {
+        "name": "Lightricks /LTX-Video",
+        "description": "Official repository for LTX-Video",
+        "language": "Python",
+        "stars": "8,379",
+        "crawled_at": "2025-10-24T13:22:26.989259"
       }
     ]
   }
