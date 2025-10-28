@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-28",
-    "repos": [
-      {
-        "name": "commaai /openpilot",
-        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-        "language": "Python",
-        "stars": "56,261",
-        "crawled_at": "2025-09-28T13:11:56.980893"
-      },
-      {
-        "name": "kamranahmedse /developer-roadmap",
-        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "language": "TypeScript",
-        "stars": "337,981",
-        "crawled_at": "2025-09-28T13:11:56.981145"
-      },
-      {
-        "name": "rasbt /LLMs-from-scratch",
-        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-        "language": "Jupyter Notebook",
-        "stars": "73,151",
-        "crawled_at": "2025-09-28T13:11:56.981339"
-      },
-      {
-        "name": "humanlayer /humanlayer",
-        "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
-        "language": "TypeScript",
-        "stars": "4,467",
-        "crawled_at": "2025-09-28T13:11:56.981529"
-      },
-      {
-        "name": "typst /typst",
-        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
-        "language": "Rust",
-        "stars": "46,020",
-        "crawled_at": "2025-09-28T13:11:56.981775"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "70,437",
-        "crawled_at": "2025-09-28T13:11:56.981966"
-      },
-      {
-        "name": "microsoft /qlib",
-        "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
-        "language": "Python",
-        "stars": "31,356",
-        "crawled_at": "2025-09-28T13:11:56.982170"
-      },
-      {
-        "name": "sst /opencode",
-        "description": "AI coding agent, built for the terminal.",
-        "language": "TypeScript",
-        "stars": "25,201",
-        "crawled_at": "2025-09-28T13:11:56.982404"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "40,583",
-        "crawled_at": "2025-09-28T13:11:56.982593"
-      },
-      {
-        "name": "ZuodaoTech /everyone-can-use-english",
-        "description": "人人都能用英语",
-        "language": "TypeScript",
-        "stars": "30,625",
-        "crawled_at": "2025-09-28T13:11:56.982808"
-      }
-    ]
-  },
-  {
     "date": "2025-09-29",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C",
         "stars": "12,892",
         "crawled_at": "2025-10-27T13:23:44.146543"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "repos": [
+      {
+        "name": "toeverything /AFFiNE",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "language": "TypeScript",
+        "stars": "57,769",
+        "crawled_at": "2025-10-28T13:21:49.789759"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "39,005",
+        "crawled_at": "2025-10-28T13:21:49.789983"
+      },
+      {
+        "name": "microsoft /agent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "language": "Python",
+        "stars": "3,101",
+        "crawled_at": "2025-10-28T13:21:49.790187"
+      },
+      {
+        "name": "spipm /Depixelization_poc",
+        "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+        "language": "Python",
+        "stars": "2,016",
+        "crawled_at": "2025-10-28T13:21:49.790375"
+      },
+      {
+        "name": "longbridge /gpui-component",
+        "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+        "language": "Rust",
+        "stars": "5,728",
+        "crawled_at": "2025-10-28T13:21:49.790564"
+      },
+      {
+        "name": "juanfont /headscale",
+        "description": "An open source, self-hosted implementation of the Tailscale control server",
+        "language": "Go",
+        "stars": "32,039",
+        "crawled_at": "2025-10-28T13:21:49.790752"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "Python",
+        "stars": "6,861",
+        "crawled_at": "2025-10-28T13:21:49.790957"
+      },
+      {
+        "name": "qeeqbox /social-analyzer",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "language": "JavaScript",
+        "stars": "14,765",
+        "crawled_at": "2025-10-28T13:21:49.791191"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "19,108",
+        "crawled_at": "2025-10-28T13:21:49.791417"
+      },
+      {
+        "name": "cloudcommunity /Free-Certifications",
+        "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
+        "language": "未知",
+        "stars": "41,062",
+        "crawled_at": "2025-10-28T13:21:49.791623"
       }
     ]
   }
