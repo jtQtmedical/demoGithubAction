@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-29",
-    "repos": [
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "41,121",
-        "crawled_at": "2025-09-29T13:21:12.653104"
-      },
-      {
-        "name": "commaai /openpilot",
-        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-        "language": "Python",
-        "stars": "57,265",
-        "crawled_at": "2025-09-29T13:21:12.653305"
-      },
-      {
-        "name": "kamranahmedse /developer-roadmap",
-        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "language": "TypeScript",
-        "stars": "338,514",
-        "crawled_at": "2025-09-29T13:21:12.653538"
-      },
-      {
-        "name": "Done-0 /fuck-u-code",
-        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
-        "language": "Go",
-        "stars": "3,973",
-        "crawled_at": "2025-09-29T13:21:12.653728"
-      },
-      {
-        "name": "frappe /erpnext",
-        "description": "Free and Open Source Enterprise Resource Planning (ERP)",
-        "language": "Python",
-        "stars": "29,121",
-        "crawled_at": "2025-09-29T13:21:12.653947"
-      },
-      {
-        "name": "snarktank /ai-dev-tasks",
-        "description": "A simple task management system for managing AI dev agents",
-        "language": "未知",
-        "stars": "5,288",
-        "crawled_at": "2025-09-29T13:21:12.654150"
-      },
-      {
-        "name": "humanlayer /humanlayer",
-        "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
-        "language": "TypeScript",
-        "stars": "4,800",
-        "crawled_at": "2025-09-29T13:21:12.654336"
-      },
-      {
-        "name": "adityatelange /hugo-PaperMod",
-        "description": "A fast, clean, responsive Hugo theme.",
-        "language": "HTML",
-        "stars": "12,350",
-        "crawled_at": "2025-09-29T13:21:12.654560"
-      },
-      {
-        "name": "microsoft /ai-agents-for-beginners",
-        "description": "12 Lessons to Get Started Building AI Agents",
-        "language": "Jupyter Notebook",
-        "stars": "40,579",
-        "crawled_at": "2025-09-29T13:21:12.654743"
-      },
-      {
-        "name": "jellyfin /jellyfin",
-        "description": "The Free Software Media System - Server Backend & API",
-        "language": "C#",
-        "stars": "44,070",
-        "crawled_at": "2025-09-29T13:21:12.654945"
-      }
-    ]
-  },
-  {
     "date": "2025-09-30",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "未知",
         "stars": "41,062",
         "crawled_at": "2025-10-28T13:21:49.791623"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-29",
+    "repos": [
+      {
+        "name": "smartcontractkit /chainlink",
+        "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+        "language": "Go",
+        "stars": "7,834",
+        "crawled_at": "2025-10-29T13:24:28.271100"
+      },
+      {
+        "name": "cjpais /Handy",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "language": "TypeScript",
+        "stars": "4,266",
+        "crawled_at": "2025-10-29T13:24:28.271345"
+      },
+      {
+        "name": "qeeqbox /social-analyzer",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "language": "JavaScript",
+        "stars": "15,457",
+        "crawled_at": "2025-10-29T13:24:28.271577"
+      },
+      {
+        "name": "open-telemetry /opentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "language": "Go",
+        "stars": "5,922",
+        "crawled_at": "2025-10-29T13:24:28.271770"
+      },
+      {
+        "name": "microsoft /Web-Dev-For-Beginners",
+        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+        "language": "JavaScript",
+        "stars": "92,557",
+        "crawled_at": "2025-10-29T13:24:28.271986"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "69,409",
+        "crawled_at": "2025-10-29T13:24:28.272176"
+      },
+      {
+        "name": "Beingpax /VoiceInk",
+        "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+        "language": "Swift",
+        "stars": "2,195",
+        "crawled_at": "2025-10-29T13:24:28.272368"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "20,953",
+        "crawled_at": "2025-10-29T13:24:28.272557"
+      },
+      {
+        "name": "allenai /olmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "language": "Python",
+        "stars": "14,913",
+        "crawled_at": "2025-10-29T13:24:28.272746"
+      },
+      {
+        "name": "dotnet /eShop",
+        "description": "A reference .NET application implementing an eCommerce site",
+        "language": "C#",
+        "stars": "9,368",
+        "crawled_at": "2025-10-29T13:24:28.272950"
       }
     ]
   }
