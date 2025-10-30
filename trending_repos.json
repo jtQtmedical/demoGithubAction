@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-09-30",
-    "repos": [
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "43,108",
-        "crawled_at": "2025-09-30T13:20:52.901319"
-      },
-      {
-        "name": "nextcloud /server",
-        "description": "☁️ Nextcloud server, a safe home for all your data",
-        "language": "PHP",
-        "stars": "30,988",
-        "crawled_at": "2025-09-30T13:20:52.901522"
-      },
-      {
-        "name": "typst /typst",
-        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
-        "language": "Rust",
-        "stars": "46,290",
-        "crawled_at": "2025-09-30T13:20:52.901758"
-      },
-      {
-        "name": "fastapi /fastapi",
-        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-        "language": "Python",
-        "stars": "90,025",
-        "crawled_at": "2025-09-30T13:20:52.901978"
-      },
-      {
-        "name": "commaai /openpilot",
-        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-        "language": "Python",
-        "stars": "57,844",
-        "crawled_at": "2025-09-30T13:20:52.902162"
-      },
-      {
-        "name": "DevCaress /guia-entrevistas-de-programacion",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "6,016",
-        "crawled_at": "2025-09-30T13:20:52.902367"
-      },
-      {
-        "name": "anthropics /claude-agent-sdk-python",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "1,368",
-        "crawled_at": "2025-09-30T13:20:52.902578"
-      },
-      {
-        "name": "juliangarnier /anime",
-        "description": "JavaScript animation engine",
-        "language": "JavaScript",
-        "stars": "64,190",
-        "crawled_at": "2025-09-30T13:20:52.902803"
-      },
-      {
-        "name": "kamranahmedse /developer-roadmap",
-        "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-        "language": "TypeScript",
-        "stars": "338,942",
-        "crawled_at": "2025-09-30T13:20:52.903048"
-      },
-      {
-        "name": "Done-0 /fuck-u-code",
-        "description": "Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告",
-        "language": "Go",
-        "stars": "4,436",
-        "crawled_at": "2025-09-30T13:20:52.903240"
-      }
-    ]
-  },
-  {
     "date": "2025-10-01",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C#",
         "stars": "9,368",
         "crawled_at": "2025-10-29T13:24:28.272950"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "repos": [
+      {
+        "name": "helm /helm",
+        "description": "The Kubernetes Package Manager",
+        "language": "Go",
+        "stars": "28,746",
+        "crawled_at": "2025-10-30T13:22:56.552925"
+      },
+      {
+        "name": "storybookjs /storybook",
+        "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+        "language": "TypeScript",
+        "stars": "88,282",
+        "crawled_at": "2025-10-30T13:22:56.553130"
+      },
+      {
+        "name": "open-telemetry /opentelemetry-collector",
+        "description": "OpenTelemetry Collector",
+        "language": "Go",
+        "stars": "6,029",
+        "crawled_at": "2025-10-30T13:22:56.553342"
+      },
+      {
+        "name": "qeeqbox /social-analyzer",
+        "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+        "language": "JavaScript",
+        "stars": "16,106",
+        "crawled_at": "2025-10-30T13:22:56.553578"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "19,694",
+        "crawled_at": "2025-10-30T13:22:56.553810"
+      },
+      {
+        "name": "yhirose /cpp-httplib",
+        "description": "A C++ header-only HTTP/HTTPS server and client library",
+        "language": "C++",
+        "stars": "15,220",
+        "crawled_at": "2025-10-30T13:22:56.554004"
+      },
+      {
+        "name": "allenai /olmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "language": "Python",
+        "stars": "15,278",
+        "crawled_at": "2025-10-30T13:22:56.554190"
+      },
+      {
+        "name": "Project-MONAI /MONAI",
+        "description": "AI Toolkit for Healthcare Imaging",
+        "language": "Python",
+        "stars": "7,029",
+        "crawled_at": "2025-10-30T13:22:56.554398"
+      },
+      {
+        "name": "janhq /jan",
+        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+        "language": "TypeScript",
+        "stars": "38,431",
+        "crawled_at": "2025-10-30T13:22:56.554588"
+      },
+      {
+        "name": "mem0ai /mem0",
+        "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
+        "language": "Python",
+        "stars": "42,160",
+        "crawled_at": "2025-10-30T13:22:56.554781"
       }
     ]
   }
