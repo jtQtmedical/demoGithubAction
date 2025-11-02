@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-03",
-    "repos": [
-      {
-        "name": "hsliuping /TradingAgents-CN",
-        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-        "language": "Python",
-        "stars": "8,041",
-        "crawled_at": "2025-10-03T13:15:55.653601"
-      },
-      {
-        "name": "google /tunix",
-        "description": "A JAX-native LLM Post-Training Library",
-        "language": "Python",
-        "stars": "1,260",
-        "crawled_at": "2025-10-03T13:15:55.653812"
-      },
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "34,980",
-        "crawled_at": "2025-10-03T13:15:55.654026"
-      },
-      {
-        "name": "airweave-ai /airweave",
-        "description": "Airweave lets agents search any app",
-        "language": "Python",
-        "stars": "3,440",
-        "crawled_at": "2025-10-03T13:15:55.654233"
-      },
-      {
-        "name": "kestra-io /kestra",
-        "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
-        "language": "Java",
-        "stars": "21,629",
-        "crawled_at": "2025-10-03T13:15:55.654471"
-      },
-      {
-        "name": "nextcloud /server",
-        "description": "☁️ Nextcloud server, a safe home for all your data",
-        "language": "PHP",
-        "stars": "32,549",
-        "crawled_at": "2025-10-03T13:15:55.654672"
-      },
-      {
-        "name": "emcie-co /parlant",
-        "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
-        "language": "Python",
-        "stars": "13,196",
-        "crawled_at": "2025-10-03T13:15:55.654873"
-      },
-      {
-        "name": "Infisical /infisical",
-        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
-        "language": "TypeScript",
-        "stars": "20,227",
-        "crawled_at": "2025-10-03T13:15:55.655130"
-      },
-      {
-        "name": "SDWebImage /SDWebImage",
-        "description": "Asynchronous image downloader with cache support as a UIImageView category",
-        "language": "Objective-C",
-        "stars": "25,727",
-        "crawled_at": "2025-10-03T13:15:55.655332"
-      },
-      {
-        "name": "microsoft /agent-framework",
-        "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-        "language": "Python",
-        "stars": "1,482",
-        "crawled_at": "2025-10-03T13:15:55.655529"
-      }
-    ]
-  },
-  {
     "date": "2025-10-04",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Java",
         "stars": "33,848",
         "crawled_at": "2025-11-01T13:13:32.075431"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-02",
+    "repos": [
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "3,893",
+        "crawled_at": "2025-11-02T13:13:10.099151"
+      },
+      {
+        "name": "Wei-Shaw /claude-relay-service",
+        "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+        "language": "JavaScript",
+        "stars": "4,770",
+        "crawled_at": "2025-11-02T13:13:10.099351"
+      },
+      {
+        "name": "microsoft /agent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "language": "Python",
+        "stars": "5,872",
+        "crawled_at": "2025-11-02T13:13:10.099562"
+      },
+      {
+        "name": "HKUDS /DeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "stars": "8,251",
+        "crawled_at": "2025-11-02T13:13:10.099766"
+      },
+      {
+        "name": "GeeeekExplorer /nano-vllm",
+        "description": "Nano vLLM",
+        "language": "Python",
+        "stars": "7,435",
+        "crawled_at": "2025-11-02T13:13:10.099952"
+      },
+      {
+        "name": "sst /opencode",
+        "description": "The AI coding agent built for the terminal.",
+        "language": "TypeScript",
+        "stars": "30,299",
+        "crawled_at": "2025-11-02T13:13:10.100229"
+      },
+      {
+        "name": "charmbracelet /glow",
+        "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+        "language": "Go",
+        "stars": "19,908",
+        "crawled_at": "2025-11-02T13:13:10.100418"
+      },
+      {
+        "name": "NARKOZ /hacker-scripts",
+        "description": "Based on a true story",
+        "language": "JavaScript",
+        "stars": "48,992",
+        "crawled_at": "2025-11-02T13:13:10.100660"
+      },
+      {
+        "name": "moondevonyt /moon-dev-ai-agents",
+        "description": "autonomous ai agents for trading in python",
+        "language": "Python",
+        "stars": "2,274",
+        "crawled_at": "2025-11-02T13:13:10.100852"
+      },
+      {
+        "name": "suitenumerique /docs",
+        "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
+        "language": "Python",
+        "stars": "14,284",
+        "crawled_at": "2025-11-02T13:13:10.101040"
       }
     ]
   }
