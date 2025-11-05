@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-06",
-    "repos": [
-      {
-        "name": "Infisical /infisical",
-        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
-        "language": "TypeScript",
-        "stars": "20,879",
-        "crawled_at": "2025-10-06T13:20:09.811063"
-      },
-      {
-        "name": "meshery /meshery",
-        "description": "Meshery, the cloud native manager",
-        "language": "JavaScript",
-        "stars": "8,670",
-        "crawled_at": "2025-10-06T13:20:09.811270"
-      },
-      {
-        "name": "BeehiveInnovations /zen-mcp-server",
-        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-        "language": "Python",
-        "stars": "7,510",
-        "crawled_at": "2025-10-06T13:20:09.811503"
-      },
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "2,312",
-        "crawled_at": "2025-10-06T13:20:09.811690"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "23,716",
-        "crawled_at": "2025-10-06T13:20:09.811895"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "50,900",
-        "crawled_at": "2025-10-06T13:20:09.812092"
-      },
-      {
-        "name": "audacity /audacity",
-        "description": "Audio Editor",
-        "language": "C++",
-        "stars": "14,818",
-        "crawled_at": "2025-10-06T13:20:09.812282"
-      },
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "36,131",
-        "crawled_at": "2025-10-06T13:20:09.812466"
-      },
-      {
-        "name": "openemr /openemr",
-        "description": "The most popular open source electronic health records and medical practice management solution.",
-        "language": "PHP",
-        "stars": "3,735",
-        "crawled_at": "2025-10-06T13:20:09.812688"
-      },
-      {
-        "name": "dgtlmoon /changedetection.io",
-        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
-        "language": "Python",
-        "stars": "26,999",
-        "crawled_at": "2025-10-06T13:20:09.812890"
-      }
-    ]
-  },
-  {
     "date": "2025-10-07",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "23,187",
         "crawled_at": "2025-11-04T13:25:21.630668"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "repos": [
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "14,054",
+        "crawled_at": "2025-11-05T13:23:42.805863"
+      },
+      {
+        "name": "Skyvern-AI /skyvern",
+        "description": "Automate browser-based workflows with LLMs and Computer Vision",
+        "language": "Python",
+        "stars": "15,832",
+        "crawled_at": "2025-11-05T13:23:42.806076"
+      },
+      {
+        "name": "HKUDS /DeepCode",
+        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+        "language": "Python",
+        "stars": "9,305",
+        "crawled_at": "2025-11-05T13:23:42.806264"
+      },
+      {
+        "name": "nocobase /nocobase",
+        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+        "language": "TypeScript",
+        "stars": "17,724",
+        "crawled_at": "2025-11-05T13:23:42.806449"
+      },
+      {
+        "name": "mudler /LocalAI",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "language": "Go",
+        "stars": "37,104",
+        "crawled_at": "2025-11-05T13:23:42.806673"
+      },
+      {
+        "name": "sst /opentui",
+        "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+        "language": "TypeScript",
+        "stars": "4,363",
+        "crawled_at": "2025-11-05T13:23:42.806921"
+      },
+      {
+        "name": "prometheus /alertmanager",
+        "description": "Prometheus Alertmanager",
+        "language": "Go",
+        "stars": "7,309",
+        "crawled_at": "2025-11-05T13:23:42.807113"
+      },
+      {
+        "name": "GopeedLab /gopeed",
+        "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+        "language": "Dart",
+        "stars": "21,076",
+        "crawled_at": "2025-11-05T13:23:42.807298"
+      },
+      {
+        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "language": "未知",
+        "stars": "21,098",
+        "crawled_at": "2025-11-05T13:23:42.807533"
+      },
+      {
+        "name": "Raphire /Win11Debloat",
+        "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+        "language": "PowerShell",
+        "stars": "31,997",
+        "crawled_at": "2025-11-05T13:23:42.807756"
       }
     ]
   }
