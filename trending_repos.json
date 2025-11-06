@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-07",
-    "repos": [
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "3,059",
-        "crawled_at": "2025-10-07T13:20:42.624687"
-      },
-      {
-        "name": "trycua /cua",
-        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-        "language": "Python",
-        "stars": "9,929",
-        "crawled_at": "2025-10-07T13:20:42.624958"
-      },
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "16,559",
-        "crawled_at": "2025-10-07T13:20:42.625151"
-      },
-      {
-        "name": "Infisical /infisical",
-        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
-        "language": "TypeScript",
-        "stars": "21,936",
-        "crawled_at": "2025-10-07T13:20:42.625390"
-      },
-      {
-        "name": "BeehiveInnovations /zen-mcp-server",
-        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-        "language": "Python",
-        "stars": "7,886",
-        "crawled_at": "2025-10-07T13:20:42.625622"
-      },
-      {
-        "name": "FlowiseAI /Flowise",
-        "description": "Build AI Agents, Visually",
-        "language": "TypeScript",
-        "stars": "44,400",
-        "crawled_at": "2025-10-07T13:20:42.625869"
-      },
-      {
-        "name": "aandrew-me /ytDownloader",
-        "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
-        "language": "JavaScript",
-        "stars": "3,060",
-        "crawled_at": "2025-10-07T13:20:42.626085"
-      },
-      {
-        "name": "dgtlmoon /changedetection.io",
-        "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
-        "language": "Python",
-        "stars": "27,281",
-        "crawled_at": "2025-10-07T13:20:42.626285"
-      },
-      {
-        "name": "Flowseal /zapret-discord-youtube",
-        "description": "無描述",
-        "language": "Batchfile",
-        "stars": "16,969",
-        "crawled_at": "2025-10-07T13:20:42.626495"
-      },
-      {
-        "name": "audacity /audacity",
-        "description": "Audio Editor",
-        "language": "C++",
-        "stars": "15,001",
-        "crawled_at": "2025-10-07T13:20:42.626682"
-      }
-    ]
-  },
-  {
     "date": "2025-10-08",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "PowerShell",
         "stars": "31,997",
         "crawled_at": "2025-11-05T13:23:42.807756"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "repos": [
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "17,241",
+        "crawled_at": "2025-11-06T13:23:16.904625"
+      },
+      {
+        "name": "Skyvern-AI /skyvern",
+        "description": "Automate browser based workflows with AI",
+        "language": "Python",
+        "stars": "16,614",
+        "crawled_at": "2025-11-06T13:23:16.904829"
+      },
+      {
+        "name": "nocobase /nocobase",
+        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+        "language": "TypeScript",
+        "stars": "18,068",
+        "crawled_at": "2025-11-06T13:23:16.905046"
+      },
+      {
+        "name": "mudler /LocalAI",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "language": "Go",
+        "stars": "37,437",
+        "crawled_at": "2025-11-06T13:23:16.905279"
+      },
+      {
+        "name": "sst /opentui",
+        "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+        "language": "TypeScript",
+        "stars": "4,554",
+        "crawled_at": "2025-11-06T13:23:16.905516"
+      },
+      {
+        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "language": "未知",
+        "stars": "22,044",
+        "crawled_at": "2025-11-06T13:23:16.905759"
+      },
+      {
+        "name": "modelcontextprotocol /go-sdk",
+        "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+        "language": "Go",
+        "stars": "2,723",
+        "crawled_at": "2025-11-06T13:23:16.906020"
+      },
+      {
+        "name": "ad-on-is /rachoon",
+        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+        "language": "TypeScript",
+        "stars": "325",
+        "crawled_at": "2025-11-06T13:23:16.906213"
+      },
+      {
+        "name": "KotatsuApp /Kotatsu",
+        "description": "Manga reader for Android",
+        "language": "Kotlin",
+        "stars": "7,191",
+        "crawled_at": "2025-11-06T13:23:16.906403"
+      },
+      {
+        "name": "ggml-org /ggml",
+        "description": "Tensor library for machine learning",
+        "language": "C++",
+        "stars": "13,392",
+        "crawled_at": "2025-11-06T13:23:16.906600"
       }
     ]
   }
