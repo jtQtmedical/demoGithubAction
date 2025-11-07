@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-08",
-    "repos": [
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "4,777",
-        "crawled_at": "2025-10-08T13:20:36.060392"
-      },
-      {
-        "name": "Infisical /infisical",
-        "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
-        "language": "TypeScript",
-        "stars": "22,189",
-        "crawled_at": "2025-10-08T13:20:36.060664"
-      },
-      {
-        "name": "browserbase /stagehand",
-        "description": "The AI Browser Automation Framework",
-        "language": "TypeScript",
-        "stars": "17,401",
-        "crawled_at": "2025-10-08T13:20:36.060864"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "51,444",
-        "crawled_at": "2025-10-08T13:20:36.061061"
-      },
-      {
-        "name": "BeehiveInnovations /zen-mcp-server",
-        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-        "language": "Python",
-        "stars": "8,194",
-        "crawled_at": "2025-10-08T13:20:36.061303"
-      },
-      {
-        "name": "trycua /cua",
-        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-        "language": "Python",
-        "stars": "10,219",
-        "crawled_at": "2025-10-08T13:20:36.061543"
-      },
-      {
-        "name": "aandrew-me /ytDownloader",
-        "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
-        "language": "JavaScript",
-        "stars": "3,648",
-        "crawled_at": "2025-10-08T13:20:36.061756"
-      },
-      {
-        "name": "openemr /openemr",
-        "description": "The most popular open source electronic health records and medical practice management solution.",
-        "language": "PHP",
-        "stars": "4,127",
-        "crawled_at": "2025-10-08T13:20:36.061994"
-      },
-      {
-        "name": "thingsboard /thingsboard",
-        "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
-        "language": "Java",
-        "stars": "19,864",
-        "crawled_at": "2025-10-08T13:20:36.062192"
-      },
-      {
-        "name": "dyad-sh /dyad",
-        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "15,642",
-        "crawled_at": "2025-10-08T13:20:36.062394"
-      }
-    ]
-  },
-  {
     "date": "2025-10-09",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C++",
         "stars": "13,392",
         "crawled_at": "2025-11-06T13:23:16.906600"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "repos": [
+      {
+        "name": "prometheus /alertmanager",
+        "description": "Prometheus Alertmanager",
+        "language": "Go",
+        "stars": "7,424",
+        "crawled_at": "2025-11-07T13:20:00.459988"
+      },
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "20,733",
+        "crawled_at": "2025-11-07T13:20:00.460196"
+      },
+      {
+        "name": "simstudioai /sim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "stars": "17,547",
+        "crawled_at": "2025-11-07T13:20:00.460387"
+      },
+      {
+        "name": "lima-vm /lima",
+        "description": "Linux virtual machines, with a focus on running containers",
+        "language": "Go",
+        "stars": "18,356",
+        "crawled_at": "2025-11-07T13:20:00.460595"
+      },
+      {
+        "name": "awslabs /mcp",
+        "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
+        "language": "Python",
+        "stars": "6,962",
+        "crawled_at": "2025-11-07T13:20:00.460792"
+      },
+      {
+        "name": "usestrix /strix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "language": "Python",
+        "stars": "3,025",
+        "crawled_at": "2025-11-07T13:20:00.460982"
+      },
+      {
+        "name": "blakeblackshear /frigate",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "language": "TypeScript",
+        "stars": "26,778",
+        "crawled_at": "2025-11-07T13:20:00.461208"
+      },
+      {
+        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
+        "description": "An evolving how-to guide for securing a Linux server.",
+        "language": "未知",
+        "stars": "22,565",
+        "crawled_at": "2025-11-07T13:20:00.461507"
+      },
+      {
+        "name": "FFmpeg /asm-lessons",
+        "description": "FFMPEG Assembly Language Lessons",
+        "language": "未知",
+        "stars": "9,968",
+        "crawled_at": "2025-11-07T13:20:00.461721"
+      },
+      {
+        "name": "ad-on-is /rachoon",
+        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
+        "language": "TypeScript",
+        "stars": "556",
+        "crawled_at": "2025-11-07T13:20:00.461912"
       }
     ]
   }
