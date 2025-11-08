@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-09",
-    "repos": [
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "6,259",
-        "crawled_at": "2025-10-09T13:21:36.494734"
-      },
-      {
-        "name": "MODSetter /SurfSense",
-        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
-        "language": "Python",
-        "stars": "8,716",
-        "crawled_at": "2025-10-09T13:21:36.495030"
-      },
-      {
-        "name": "google /computer-use-preview",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "504",
-        "crawled_at": "2025-10-09T13:21:36.495252"
-      },
-      {
-        "name": "TibixDev /winboat",
-        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
-        "language": "TypeScript",
-        "stars": "7,636",
-        "crawled_at": "2025-10-09T13:21:36.495445"
-      },
-      {
-        "name": "timelinize /timelinize",
-        "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
-        "language": "Go",
-        "stars": "1,975",
-        "crawled_at": "2025-10-09T13:21:36.495636"
-      },
-      {
-        "name": "rust-lang /rustfmt",
-        "description": "Format Rust code",
-        "language": "Rust",
-        "stars": "6,502",
-        "crawled_at": "2025-10-09T13:21:36.495887"
-      },
-      {
-        "name": "PixelGuys /Cubyz",
-        "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
-        "language": "Zig",
-        "stars": "939",
-        "crawled_at": "2025-10-09T13:21:36.496078"
-      },
-      {
-        "name": "openai /openai-agents-python",
-        "description": "A lightweight, powerful framework for multi-agent workflows",
-        "language": "Python",
-        "stars": "15,826",
-        "crawled_at": "2025-10-09T13:21:36.496264"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "52,032",
-        "crawled_at": "2025-10-09T13:21:36.496452"
-      },
-      {
-        "name": "browserbase /stagehand",
-        "description": "The AI Browser Automation Framework",
-        "language": "TypeScript",
-        "stars": "17,758",
-        "crawled_at": "2025-10-09T13:21:36.496638"
-      }
-    ]
-  },
-  {
     "date": "2025-10-10",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "556",
         "crawled_at": "2025-11-07T13:20:00.461912"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "repos": [
+      {
+        "name": "usestrix /strix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "language": "Python",
+        "stars": "3,670",
+        "crawled_at": "2025-11-08T13:13:47.252479"
+      },
+      {
+        "name": "umami-software /umami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "stars": "31,855",
+        "crawled_at": "2025-11-08T13:13:47.252695"
+      },
+      {
+        "name": "prometheus /alertmanager",
+        "description": "Prometheus Alertmanager",
+        "language": "Go",
+        "stars": "7,878",
+        "crawled_at": "2025-11-08T13:13:47.252906"
+      },
+      {
+        "name": "lima-vm /lima",
+        "description": "Linux virtual machines, with a focus on running containers",
+        "language": "Go",
+        "stars": "18,513",
+        "crawled_at": "2025-11-08T13:13:47.253101"
+      },
+      {
+        "name": "nocobase /nocobase",
+        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+        "language": "TypeScript",
+        "stars": "18,811",
+        "crawled_at": "2025-11-08T13:13:47.253291"
+      },
+      {
+        "name": "dbeaver /dbeaver",
+        "description": "Free universal database tool and SQL client",
+        "language": "Java",
+        "stars": "46,409",
+        "crawled_at": "2025-11-08T13:13:47.253485"
+      },
+      {
+        "name": "localstack /localstack",
+        "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+        "language": "Python",
+        "stars": "62,445",
+        "crawled_at": "2025-11-08T13:13:47.253674"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": "75,577",
+        "crawled_at": "2025-11-08T13:13:47.253877"
+      },
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "22,578",
+        "crawled_at": "2025-11-08T13:13:47.254065"
+      },
+      {
+        "name": "airweave-ai /airweave",
+        "description": "Context retrieval for AI agents across apps and databases",
+        "language": "Python",
+        "stars": "4,671",
+        "crawled_at": "2025-11-08T13:13:47.254250"
       }
     ]
   }
