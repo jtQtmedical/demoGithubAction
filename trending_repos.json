@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-10",
-    "repos": [
-      {
-        "name": "browserbase /stagehand",
-        "description": "The AI Browser Automation Framework",
-        "language": "TypeScript",
-        "stars": "18,000",
-        "crawled_at": "2025-10-10T13:18:37.218815"
-      },
-      {
-        "name": "78 /xiaozhi-esp32",
-        "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
-        "language": "C++",
-        "stars": "19,314",
-        "crawled_at": "2025-10-10T13:18:37.219047"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "TypeScript",
-        "stars": "36,022",
-        "crawled_at": "2025-10-10T13:18:37.219249"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "52,448",
-        "crawled_at": "2025-10-10T13:18:37.219437"
-      },
-      {
-        "name": "TibixDev /winboat",
-        "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
-        "language": "TypeScript",
-        "stars": "8,882",
-        "crawled_at": "2025-10-10T13:18:37.219627"
-      },
-      {
-        "name": "microsoft /RD-Agent",
-        "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report",
-        "language": "Python",
-        "stars": "8,245",
-        "crawled_at": "2025-10-10T13:18:37.219831"
-      },
-      {
-        "name": "MODSetter /SurfSense",
-        "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord:https://discord.gg/ejRNvftDp9",
-        "language": "Python",
-        "stars": "9,035",
-        "crawled_at": "2025-10-10T13:18:37.220136"
-      },
-      {
-        "name": "CapSoftware /Cap",
-        "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-        "language": "TypeScript",
-        "stars": "12,231",
-        "crawled_at": "2025-10-10T13:18:37.220327"
-      },
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "7,117",
-        "crawled_at": "2025-10-10T13:18:37.220515"
-      },
-      {
-        "name": "xyflow /xyflow",
-        "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
-        "language": "TypeScript",
-        "stars": "32,336",
-        "crawled_at": "2025-10-10T13:18:37.220756"
-      }
-    ]
-  },
-  {
     "date": "2025-10-11",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "4,671",
         "crawled_at": "2025-11-08T13:13:47.254250"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-09",
+    "repos": [
+      {
+        "name": "usestrix /strix",
+        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
+        "language": "Python",
+        "stars": "5,766",
+        "crawled_at": "2025-11-09T13:14:00.772043"
+      },
+      {
+        "name": "umami-software /umami",
+        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+        "language": "TypeScript",
+        "stars": "32,660",
+        "crawled_at": "2025-11-09T13:14:00.772228"
+      },
+      {
+        "name": "thinking-machines-lab /tinker-cookbook",
+        "description": "Post-training with Tinker",
+        "language": "Python",
+        "stars": "1,575",
+        "crawled_at": "2025-11-09T13:14:00.772402"
+      },
+      {
+        "name": "mui /material-ui",
+        "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+        "language": "JavaScript",
+        "stars": "97,000",
+        "crawled_at": "2025-11-09T13:14:00.772572"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "458",
+        "crawled_at": "2025-11-09T13:14:00.772750"
+      },
+      {
+        "name": "axios /axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "language": "JavaScript",
+        "stars": "108,117",
+        "crawled_at": "2025-11-09T13:14:00.772958"
+      },
+      {
+        "name": "simstudioai /sim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "stars": "17,732",
+        "crawled_at": "2025-11-09T13:14:00.773129"
+      },
+      {
+        "name": "airweave-ai /airweave",
+        "description": "Context retrieval for AI agents across apps and databases",
+        "language": "Python",
+        "stars": "4,839",
+        "crawled_at": "2025-11-09T13:14:00.773302"
+      },
+      {
+        "name": "HyDE-Project /HyDE",
+        "description": "HyDE, your Development Environment 🖥️💻",
+        "language": "Shell",
+        "stars": "6,827",
+        "crawled_at": "2025-11-09T13:14:00.773472"
+      },
+      {
+        "name": "AUTOMATIC1111 /stable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "language": "Python",
+        "stars": "157,963",
+        "crawled_at": "2025-11-09T13:14:00.773641"
       }
     ]
   }
