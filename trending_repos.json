@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-21",
-    "repos": [
-      {
-        "name": "mountain-loop /yaak",
-        "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
-        "language": "TypeScript",
-        "stars": "9,488",
-        "crawled_at": "2025-10-21T13:25:13.425394"
-      },
-      {
-        "name": "louislam /uptime-kuma",
-        "description": "A fancy self-hosted monitoring tool",
-        "language": "JavaScript",
-        "stars": "76,317",
-        "crawled_at": "2025-10-21T13:25:13.425609"
-      },
-      {
-        "name": "lfnovo /open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-        "language": "TypeScript",
-        "stars": "6,503",
-        "crawled_at": "2025-10-21T13:25:13.425779"
-      },
-      {
-        "name": "DrewThomasson /ebook2audiobook",
-        "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
-        "language": "Python",
-        "stars": "12,769",
-        "crawled_at": "2025-10-21T13:25:13.425956"
-      },
-      {
-        "name": "anthropics /claude-cookbooks",
-        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "language": "Jupyter Notebook",
-        "stars": "24,192",
-        "crawled_at": "2025-10-21T13:25:13.426126"
-      },
-      {
-        "name": "sharkdp /bat",
-        "description": "A cat(1) clone with wings.",
-        "language": "Rust",
-        "stars": "55,230",
-        "crawled_at": "2025-10-21T13:25:13.426328"
-      },
-      {
-        "name": "Skyvern-AI /skyvern",
-        "description": "Automate browser-based workflows with LLMs and Computer Vision",
-        "language": "Python",
-        "stars": "15,064",
-        "crawled_at": "2025-10-21T13:25:13.426491"
-      },
-      {
-        "name": "oceanbase /miniob",
-        "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
-        "language": "C++",
-        "stars": "4,053",
-        "crawled_at": "2025-10-21T13:25:13.426658"
-      },
-      {
-        "name": "k2-fsa /sherpa-onnx",
-        "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
-        "language": "C++",
-        "stars": "7,856",
-        "crawled_at": "2025-10-21T13:25:13.426822"
-      },
-      {
-        "name": "servo /servo",
-        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-        "language": "Rust",
-        "stars": "32,335",
-        "crawled_at": "2025-10-21T13:25:13.427033"
-      }
-    ]
-  },
-  {
     "date": "2025-10-22",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "5,232",
         "crawled_at": "2025-11-19T13:23:40.586805"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-20",
+    "repos": [
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "21,653",
+        "crawled_at": "2025-11-20T13:22:20.577755"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "4,195",
+        "crawled_at": "2025-11-20T13:22:20.577968"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "57,868",
+        "crawled_at": "2025-11-20T13:22:20.578163"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "42,914",
+        "crawled_at": "2025-11-20T13:22:20.578370"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "89,513",
+        "crawled_at": "2025-11-20T13:22:20.578561"
+      },
+      {
+        "name": "traefik /traefik",
+        "description": "The Cloud Native Application Proxy",
+        "language": "Go",
+        "stars": "58,786",
+        "crawled_at": "2025-11-20T13:22:20.578798"
+      },
+      {
+        "name": "HKUDS /LightRAG",
+        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "language": "Python",
+        "stars": "23,864",
+        "crawled_at": "2025-11-20T13:22:20.578990"
+      },
+      {
+        "name": "bobeff /open-source-games",
+        "description": "A list of open source games.",
+        "language": "未知",
+        "stars": "7,168",
+        "crawled_at": "2025-11-20T13:22:20.579192"
+      },
+      {
+        "name": "volcengine /verl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "language": "Python",
+        "stars": "16,175",
+        "crawled_at": "2025-11-20T13:22:20.579396"
+      },
+      {
+        "name": "GibsonAI /Memori",
+        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "language": "Python",
+        "stars": "5,502",
+        "crawled_at": "2025-11-20T13:22:20.579585"
       }
     ]
   }
