@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-10-27",
-    "repos": [
-      {
-        "name": "toeverything /AFFiNE",
-        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "language": "TypeScript",
-        "stars": "56,571",
-        "crawled_at": "2025-10-27T13:23:44.144784"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "38,521",
-        "crawled_at": "2025-10-27T13:23:44.145015"
-      },
-      {
-        "name": "codecrafters-io /build-your-own-x",
-        "description": "Master programming by recreating your favorite technologies from scratch.",
-        "language": "Markdown",
-        "stars": "430,226",
-        "crawled_at": "2025-10-27T13:23:44.145213"
-      },
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "2,654",
-        "crawled_at": "2025-10-27T13:23:44.145399"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "54,225",
-        "crawled_at": "2025-10-27T13:23:44.145586"
-      },
-      {
-        "name": "rasbt /LLMs-from-scratch",
-        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-        "language": "Jupyter Notebook",
-        "stars": "76,520",
-        "crawled_at": "2025-10-27T13:23:44.145772"
-      },
-      {
-        "name": "TheRobotStudio /SO-ARM100",
-        "description": "Standard Open Arm 100",
-        "language": "未知",
-        "stars": "4,023",
-        "crawled_at": "2025-10-27T13:23:44.145991"
-      },
-      {
-        "name": "coinbase /x402",
-        "description": "A payments protocol for the internet. Built on HTTP.",
-        "language": "TypeScript",
-        "stars": "2,915",
-        "crawled_at": "2025-10-27T13:23:44.146176"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "373,455",
-        "crawled_at": "2025-10-27T13:23:44.146360"
-      },
-      {
-        "name": "bol-van /zapret",
-        "description": "DPI bypass multi platform",
-        "language": "C",
-        "stars": "12,892",
-        "crawled_at": "2025-10-27T13:23:44.146543"
-      }
-    ]
-  },
-  {
     "date": "2025-10-28",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "6,844",
         "crawled_at": "2025-11-25T13:24:57.296881"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-26",
+    "repos": [
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "29,491",
+        "crawled_at": "2025-11-26T13:26:25.438249"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "5,037",
+        "crawled_at": "2025-11-26T13:26:25.438445"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "59,345",
+        "crawled_at": "2025-11-26T13:26:25.438612"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "43,786",
+        "crawled_at": "2025-11-26T13:26:25.438778"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "89,820",
+        "crawled_at": "2025-11-26T13:26:25.438944"
+      },
+      {
+        "name": "traefik /traefik",
+        "description": "The Cloud Native Application Proxy",
+        "language": "Go",
+        "stars": "59,392",
+        "crawled_at": "2025-11-26T13:26:25.439147"
+      },
+      {
+        "name": "HKUDS /LightRAG",
+        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "language": "Python",
+        "stars": "24,478",
+        "crawled_at": "2025-11-26T13:26:25.439319"
+      },
+      {
+        "name": "bobeff /open-source-games",
+        "description": "A list of open source games.",
+        "language": "未知",
+        "stars": "8,575",
+        "crawled_at": "2025-11-26T13:26:25.439500"
+      },
+      {
+        "name": "volcengine /verl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "language": "Python",
+        "stars": "16,648",
+        "crawled_at": "2025-11-26T13:26:25.439666"
+      },
+      {
+        "name": "GibsonAI /Memori",
+        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "language": "Python",
+        "stars": "7,144",
+        "crawled_at": "2025-11-26T13:26:25.439831"
       }
     ]
   }
