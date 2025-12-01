@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-01",
-    "repos": [
-      {
-        "name": "get-convex /chef",
-        "description": "The only AI app builder that knows backend",
-        "language": "TypeScript",
-        "stars": "2,559",
-        "crawled_at": "2025-11-01T13:13:32.073618"
-      },
-      {
-        "name": "suitenumerique /docs",
-        "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
-        "language": "Python",
-        "stars": "14,111",
-        "crawled_at": "2025-11-01T13:13:32.073836"
-      },
-      {
-        "name": "Tencent /WeKnora",
-        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-        "language": "Go",
-        "stars": "7,092",
-        "crawled_at": "2025-11-01T13:13:32.074033"
-      },
-      {
-        "name": "janhq /jan",
-        "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-        "language": "TypeScript",
-        "stars": "38,869",
-        "crawled_at": "2025-11-01T13:13:32.074222"
-      },
-      {
-        "name": "microsoft /Web-Dev-For-Beginners",
-        "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
-        "language": "JavaScript",
-        "stars": "93,612",
-        "crawled_at": "2025-11-01T13:13:32.074408"
-      },
-      {
-        "name": "hacksider /Deep-Live-Cam",
-        "description": "real time face swap and one-click video deepfake with only a single image",
-        "language": "Python",
-        "stars": "74,596",
-        "crawled_at": "2025-11-01T13:13:32.074639"
-      },
-      {
-        "name": "juspay /hyperswitch",
-        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
-        "language": "Rust",
-        "stars": "38,818",
-        "crawled_at": "2025-11-01T13:13:32.074847"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "88,794",
-        "crawled_at": "2025-11-01T13:13:32.075039"
-      },
-      {
-        "name": "github /copilot-cli",
-        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-        "language": "未知",
-        "stars": "4,401",
-        "crawled_at": "2025-11-01T13:13:32.075236"
-      },
-      {
-        "name": "YunaiV /ruoyi-vue-pro",
-        "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
-        "language": "Java",
-        "stars": "33,848",
-        "crawled_at": "2025-11-01T13:13:32.075431"
-      }
-    ]
-  },
-  {
     "date": "2025-11-02",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "8,245",
         "crawled_at": "2025-11-30T13:16:41.061296"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-01",
+    "repos": [
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "34,279",
+        "crawled_at": "2025-12-01T13:26:44.820754"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "5,665",
+        "crawled_at": "2025-12-01T13:26:44.820965"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "60,262",
+        "crawled_at": "2025-12-01T13:26:44.821158"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "44,435",
+        "crawled_at": "2025-12-01T13:26:44.821357"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "90,081",
+        "crawled_at": "2025-12-01T13:26:44.821546"
+      },
+      {
+        "name": "traefik /traefik",
+        "description": "The Cloud Native Application Proxy",
+        "language": "Go",
+        "stars": "59,856",
+        "crawled_at": "2025-12-01T13:26:44.821798"
+      },
+      {
+        "name": "HKUDS /LightRAG",
+        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "language": "Python",
+        "stars": "24,971",
+        "crawled_at": "2025-12-01T13:26:44.821990"
+      },
+      {
+        "name": "bobeff /open-source-games",
+        "description": "A list of open source games.",
+        "language": "未知",
+        "stars": "9,454",
+        "crawled_at": "2025-12-01T13:26:44.822189"
+      },
+      {
+        "name": "volcengine /verl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "language": "Python",
+        "stars": "17,005",
+        "crawled_at": "2025-12-01T13:26:44.822381"
+      },
+      {
+        "name": "GibsonAI /Memori",
+        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "language": "Python",
+        "stars": "8,517",
+        "crawled_at": "2025-12-01T13:26:44.822569"
       }
     ]
   }
