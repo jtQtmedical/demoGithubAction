@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-02",
-    "repos": [
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "3,893",
-        "crawled_at": "2025-11-02T13:13:10.099151"
-      },
-      {
-        "name": "Wei-Shaw /claude-relay-service",
-        "description": "CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-        "language": "JavaScript",
-        "stars": "4,770",
-        "crawled_at": "2025-11-02T13:13:10.099351"
-      },
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "5,872",
-        "crawled_at": "2025-11-02T13:13:10.099562"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "8,251",
-        "crawled_at": "2025-11-02T13:13:10.099766"
-      },
-      {
-        "name": "GeeeekExplorer /nano-vllm",
-        "description": "Nano vLLM",
-        "language": "Python",
-        "stars": "7,435",
-        "crawled_at": "2025-11-02T13:13:10.099952"
-      },
-      {
-        "name": "sst /opencode",
-        "description": "The AI coding agent built for the terminal.",
-        "language": "TypeScript",
-        "stars": "30,299",
-        "crawled_at": "2025-11-02T13:13:10.100229"
-      },
-      {
-        "name": "charmbracelet /glow",
-        "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-        "language": "Go",
-        "stars": "19,908",
-        "crawled_at": "2025-11-02T13:13:10.100418"
-      },
-      {
-        "name": "NARKOZ /hacker-scripts",
-        "description": "Based on a true story",
-        "language": "JavaScript",
-        "stars": "48,992",
-        "crawled_at": "2025-11-02T13:13:10.100660"
-      },
-      {
-        "name": "moondevonyt /moon-dev-ai-agents",
-        "description": "autonomous ai agents for trading in python",
-        "language": "Python",
-        "stars": "2,274",
-        "crawled_at": "2025-11-02T13:13:10.100852"
-      },
-      {
-        "name": "suitenumerique /docs",
-        "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
-        "language": "Python",
-        "stars": "14,284",
-        "crawled_at": "2025-11-02T13:13:10.101040"
-      }
-    ]
-  },
-  {
     "date": "2025-11-03",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "8,517",
         "crawled_at": "2025-12-01T13:26:44.822569"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "repos": [
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "35,401",
+        "crawled_at": "2025-12-02T13:28:03.960506"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "5,777",
+        "crawled_at": "2025-12-02T13:28:03.960716"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "60,496",
+        "crawled_at": "2025-12-02T13:28:03.960918"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "44,661",
+        "crawled_at": "2025-12-02T13:28:03.961111"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "90,140",
+        "crawled_at": "2025-12-02T13:28:03.961319"
+      },
+      {
+        "name": "traefik /traefik",
+        "description": "The Cloud Native Application Proxy",
+        "language": "Go",
+        "stars": "59,968",
+        "crawled_at": "2025-12-02T13:28:03.961559"
+      },
+      {
+        "name": "HKUDS /LightRAG",
+        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "language": "Python",
+        "stars": "25,081",
+        "crawled_at": "2025-12-02T13:28:03.961757"
+      },
+      {
+        "name": "bobeff /open-source-games",
+        "description": "A list of open source games.",
+        "language": "未知",
+        "stars": "9,697",
+        "crawled_at": "2025-12-02T13:28:03.961962"
+      },
+      {
+        "name": "volcengine /verl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "language": "Python",
+        "stars": "17,069",
+        "crawled_at": "2025-12-02T13:28:03.962154"
+      },
+      {
+        "name": "GibsonAI /Memori",
+        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "language": "Python",
+        "stars": "8,780",
+        "crawled_at": "2025-12-02T13:28:03.962364"
       }
     ]
   }
