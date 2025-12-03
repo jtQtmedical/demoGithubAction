@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-03",
-    "repos": [
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "5,761",
-        "crawled_at": "2025-11-03T13:22:15.889811"
-      },
-      {
-        "name": "GeeeekExplorer /nano-vllm",
-        "description": "Nano vLLM",
-        "language": "Python",
-        "stars": "7,773",
-        "crawled_at": "2025-11-03T13:22:15.890009"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "8,691",
-        "crawled_at": "2025-11-03T13:22:15.890194"
-      },
-      {
-        "name": "charmbracelet /glow",
-        "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
-        "language": "Go",
-        "stars": "20,338",
-        "crawled_at": "2025-11-03T13:22:15.890396"
-      },
-      {
-        "name": "sst /opencode",
-        "description": "The AI coding agent built for the terminal.",
-        "language": "TypeScript",
-        "stars": "30,841",
-        "crawled_at": "2025-11-03T13:22:15.890624"
-      },
-      {
-        "name": "get-convex /chef",
-        "description": "The only AI app builder that knows backend",
-        "language": "TypeScript",
-        "stars": "2,984",
-        "crawled_at": "2025-11-03T13:22:15.890808"
-      },
-      {
-        "name": "pytorch /pytorch",
-        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "language": "Python",
-        "stars": "94,520",
-        "crawled_at": "2025-11-03T13:22:15.890997"
-      },
-      {
-        "name": "Fosowl /agenticSeek",
-        "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)",
-        "language": "Python",
-        "stars": "22,889",
-        "crawled_at": "2025-11-03T13:22:15.891221"
-      },
-      {
-        "name": "mudler /LocalAI",
-        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
-        "language": "Go",
-        "stars": "36,456",
-        "crawled_at": "2025-11-03T13:22:15.891459"
-      },
-      {
-        "name": "1Panel-dev /MaxKB",
-        "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。",
-        "language": "Python",
-        "stars": "18,934",
-        "crawled_at": "2025-11-03T13:22:15.891642"
-      }
-    ]
-  },
-  {
     "date": "2025-11-04",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "8,780",
         "crawled_at": "2025-12-02T13:28:03.962364"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-03",
+    "repos": [
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "36,418",
+        "crawled_at": "2025-12-03T13:27:24.573218"
+      },
+      {
+        "name": "google /adk-go",
+        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "Go",
+        "stars": "5,900",
+        "crawled_at": "2025-12-03T13:27:24.573422"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "60,712",
+        "crawled_at": "2025-12-03T13:27:24.573631"
+      },
+      {
+        "name": "yeongpin /cursor-free-vip",
+        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "language": "Python",
+        "stars": "44,887",
+        "crawled_at": "2025-12-03T13:27:24.573821"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "90,198",
+        "crawled_at": "2025-12-03T13:27:24.574013"
+      },
+      {
+        "name": "traefik /traefik",
+        "description": "The Cloud Native Application Proxy",
+        "language": "Go",
+        "stars": "60,069",
+        "crawled_at": "2025-12-03T13:27:24.574240"
+      },
+      {
+        "name": "HKUDS /LightRAG",
+        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "language": "Python",
+        "stars": "25,228",
+        "crawled_at": "2025-12-03T13:27:24.574444"
+      },
+      {
+        "name": "bobeff /open-source-games",
+        "description": "A list of open source games.",
+        "language": "未知",
+        "stars": "9,970",
+        "crawled_at": "2025-12-03T13:27:24.574660"
+      },
+      {
+        "name": "volcengine /verl",
+        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "language": "Python",
+        "stars": "17,132",
+        "crawled_at": "2025-12-03T13:27:24.574854"
+      },
+      {
+        "name": "MemoriLabs /Memori",
+        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "language": "Python",
+        "stars": "9,009",
+        "crawled_at": "2025-12-03T13:27:24.575040"
       }
     ]
   }
