@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-05",
-    "repos": [
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "14,054",
-        "crawled_at": "2025-11-05T13:23:42.805863"
-      },
-      {
-        "name": "Skyvern-AI /skyvern",
-        "description": "Automate browser-based workflows with LLMs and Computer Vision",
-        "language": "Python",
-        "stars": "15,832",
-        "crawled_at": "2025-11-05T13:23:42.806076"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "9,305",
-        "crawled_at": "2025-11-05T13:23:42.806264"
-      },
-      {
-        "name": "nocobase /nocobase",
-        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
-        "language": "TypeScript",
-        "stars": "17,724",
-        "crawled_at": "2025-11-05T13:23:42.806449"
-      },
-      {
-        "name": "mudler /LocalAI",
-        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
-        "language": "Go",
-        "stars": "37,104",
-        "crawled_at": "2025-11-05T13:23:42.806673"
-      },
-      {
-        "name": "sst /opentui",
-        "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
-        "language": "TypeScript",
-        "stars": "4,363",
-        "crawled_at": "2025-11-05T13:23:42.806921"
-      },
-      {
-        "name": "prometheus /alertmanager",
-        "description": "Prometheus Alertmanager",
-        "language": "Go",
-        "stars": "7,309",
-        "crawled_at": "2025-11-05T13:23:42.807113"
-      },
-      {
-        "name": "GopeedLab /gopeed",
-        "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
-        "language": "Dart",
-        "stars": "21,076",
-        "crawled_at": "2025-11-05T13:23:42.807298"
-      },
-      {
-        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
-        "description": "An evolving how-to guide for securing a Linux server.",
-        "language": "未知",
-        "stars": "21,098",
-        "crawled_at": "2025-11-05T13:23:42.807533"
-      },
-      {
-        "name": "Raphire /Win11Debloat",
-        "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-        "language": "PowerShell",
-        "stars": "31,997",
-        "crawled_at": "2025-11-05T13:23:42.807756"
-      }
-    ]
-  },
-  {
     "date": "2025-11-06",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "9,244",
         "crawled_at": "2025-12-04T13:27:41.026116"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-05",
+    "repos": [
+      {
+        "name": "basecamp /fizzy",
+        "description": "Kanban as it should be. Not as it has been.",
+        "language": "Ruby",
+        "stars": "3,829",
+        "crawled_at": "2025-12-05T13:23:35.295099"
+      },
+      {
+        "name": "rustfs /rustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "stars": "13,699",
+        "crawled_at": "2025-12-05T13:23:35.295310"
+      },
+      {
+        "name": "trustedsec /social-engineer-toolkit",
+        "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+        "language": "Python",
+        "stars": "13,172",
+        "crawled_at": "2025-12-05T13:23:35.295500"
+      },
+      {
+        "name": "DayuanJiang /next-ai-draw-io",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "stars": "3,740",
+        "crawled_at": "2025-12-05T13:23:35.295734"
+      },
+      {
+        "name": "facebook /react",
+        "description": "The library for web and native user interfaces.",
+        "language": "JavaScript",
+        "stars": "241,141",
+        "crawled_at": "2025-12-05T13:23:35.295939"
+      },
+      {
+        "name": "CorentinTh /it-tools",
+        "description": "Collection of handy online tools for developers, with great UX.",
+        "language": "Vue",
+        "stars": "34,667",
+        "crawled_at": "2025-12-05T13:23:35.296168"
+      },
+      {
+        "name": "vercel /next.js",
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "stars": "136,124",
+        "crawled_at": "2025-12-05T13:23:35.296350"
+      },
+      {
+        "name": "ashishpatel26 /500-AI-Agents-Projects",
+        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+        "language": "未知",
+        "stars": "18,263",
+        "crawled_at": "2025-12-05T13:23:35.296547"
+      },
+      {
+        "name": "sinelaw /fresh",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "language": "Rust",
+        "stars": "421",
+        "crawled_at": "2025-12-05T13:23:35.296787"
+      },
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Zig",
+        "stars": "83,996",
+        "crawled_at": "2025-12-05T13:23:35.296972"
       }
     ]
   }
