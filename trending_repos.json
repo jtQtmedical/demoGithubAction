@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-07",
-    "repos": [
-      {
-        "name": "prometheus /alertmanager",
-        "description": "Prometheus Alertmanager",
-        "language": "Go",
-        "stars": "7,424",
-        "crawled_at": "2025-11-07T13:20:00.459988"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "20,733",
-        "crawled_at": "2025-11-07T13:20:00.460196"
-      },
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "17,547",
-        "crawled_at": "2025-11-07T13:20:00.460387"
-      },
-      {
-        "name": "lima-vm /lima",
-        "description": "Linux virtual machines, with a focus on running containers",
-        "language": "Go",
-        "stars": "18,356",
-        "crawled_at": "2025-11-07T13:20:00.460595"
-      },
-      {
-        "name": "awslabs /mcp",
-        "description": "AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.",
-        "language": "Python",
-        "stars": "6,962",
-        "crawled_at": "2025-11-07T13:20:00.460792"
-      },
-      {
-        "name": "usestrix /strix",
-        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
-        "language": "Python",
-        "stars": "3,025",
-        "crawled_at": "2025-11-07T13:20:00.460982"
-      },
-      {
-        "name": "blakeblackshear /frigate",
-        "description": "NVR with realtime local object detection for IP cameras",
-        "language": "TypeScript",
-        "stars": "26,778",
-        "crawled_at": "2025-11-07T13:20:00.461208"
-      },
-      {
-        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
-        "description": "An evolving how-to guide for securing a Linux server.",
-        "language": "未知",
-        "stars": "22,565",
-        "crawled_at": "2025-11-07T13:20:00.461507"
-      },
-      {
-        "name": "FFmpeg /asm-lessons",
-        "description": "FFMPEG Assembly Language Lessons",
-        "language": "未知",
-        "stars": "9,968",
-        "crawled_at": "2025-11-07T13:20:00.461721"
-      },
-      {
-        "name": "ad-on-is /rachoon",
-        "description": "🦝 Rachoon — A self-hostable way to handle invoices",
-        "language": "TypeScript",
-        "stars": "556",
-        "crawled_at": "2025-11-07T13:20:00.461912"
-      }
-    ]
-  },
-  {
     "date": "2025-11-08",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "未知",
         "stars": "6,676",
         "crawled_at": "2025-12-06T13:17:06.449345"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "repos": [
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "11,396",
+        "crawled_at": "2025-12-07T13:15:47.208505"
+      },
+      {
+        "name": "NVIDIA /cutile-python",
+        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+        "language": "Python",
+        "stars": "611",
+        "crawled_at": "2025-12-07T13:15:47.208700"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "21,589",
+        "crawled_at": "2025-12-07T13:15:47.208926"
+      },
+      {
+        "name": "TelegramMessenger /Telegram-iOS",
+        "description": "Telegram-iOS",
+        "language": "Swift",
+        "stars": "7,593",
+        "crawled_at": "2025-12-07T13:15:47.209125"
+      },
+      {
+        "name": "anthropics /claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "stars": "11,004",
+        "crawled_at": "2025-12-07T13:15:47.209309"
+      },
+      {
+        "name": "rustfs /rustfs",
+        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+        "language": "Rust",
+        "stars": "15,338",
+        "crawled_at": "2025-12-07T13:15:47.209495"
+      },
+      {
+        "name": "sst /opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars": "36,377",
+        "crawled_at": "2025-12-07T13:15:47.209718"
+      },
+      {
+        "name": "BeehiveInnovations /pal-mcp-server",
+        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+        "language": "Python",
+        "stars": "10,020",
+        "crawled_at": "2025-12-07T13:15:47.209939"
+      },
+      {
+        "name": "microsoft /Foundry-Local",
+        "description": "無描述",
+        "language": "Svelte",
+        "stars": "1,286",
+        "crawled_at": "2025-12-07T13:15:47.210158"
+      },
+      {
+        "name": "sinelaw /fresh",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "language": "Rust",
+        "stars": "951",
+        "crawled_at": "2025-12-07T13:15:47.210384"
       }
     ]
   }
