@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-08",
-    "repos": [
-      {
-        "name": "usestrix /strix",
-        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
-        "language": "Python",
-        "stars": "3,670",
-        "crawled_at": "2025-11-08T13:13:47.252479"
-      },
-      {
-        "name": "umami-software /umami",
-        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
-        "language": "TypeScript",
-        "stars": "31,855",
-        "crawled_at": "2025-11-08T13:13:47.252695"
-      },
-      {
-        "name": "prometheus /alertmanager",
-        "description": "Prometheus Alertmanager",
-        "language": "Go",
-        "stars": "7,878",
-        "crawled_at": "2025-11-08T13:13:47.252906"
-      },
-      {
-        "name": "lima-vm /lima",
-        "description": "Linux virtual machines, with a focus on running containers",
-        "language": "Go",
-        "stars": "18,513",
-        "crawled_at": "2025-11-08T13:13:47.253101"
-      },
-      {
-        "name": "nocobase /nocobase",
-        "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
-        "language": "TypeScript",
-        "stars": "18,811",
-        "crawled_at": "2025-11-08T13:13:47.253291"
-      },
-      {
-        "name": "dbeaver /dbeaver",
-        "description": "Free universal database tool and SQL client",
-        "language": "Java",
-        "stars": "46,409",
-        "crawled_at": "2025-11-08T13:13:47.253485"
-      },
-      {
-        "name": "localstack /localstack",
-        "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
-        "language": "Python",
-        "stars": "62,445",
-        "crawled_at": "2025-11-08T13:13:47.253674"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "75,577",
-        "crawled_at": "2025-11-08T13:13:47.253877"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "22,578",
-        "crawled_at": "2025-11-08T13:13:47.254065"
-      },
-      {
-        "name": "airweave-ai /airweave",
-        "description": "Context retrieval for AI agents across apps and databases",
-        "language": "Python",
-        "stars": "4,671",
-        "crawled_at": "2025-11-08T13:13:47.254250"
-      }
-    ]
-  },
-  {
     "date": "2025-11-09",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Rust",
         "stars": "951",
         "crawled_at": "2025-12-07T13:15:47.210384"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "repos": [
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "13,347",
+        "crawled_at": "2025-12-08T13:26:01.249275"
+      },
+      {
+        "name": "sinelaw /fresh",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "language": "Rust",
+        "stars": "1,181",
+        "crawled_at": "2025-12-08T13:26:01.249524"
+      },
+      {
+        "name": "winapps-org /winapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
+        "language": "Shell",
+        "stars": "13,133",
+        "crawled_at": "2025-12-08T13:26:01.249744"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "22,160",
+        "crawled_at": "2025-12-08T13:26:01.249979"
+      },
+      {
+        "name": "slidevjs /slidev",
+        "description": "Presentation Slides for Developers",
+        "language": "TypeScript",
+        "stars": "42,485",
+        "crawled_at": "2025-12-08T13:26:01.250168"
+      },
+      {
+        "name": "cloudflare /vibesdk",
+        "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+        "language": "TypeScript",
+        "stars": "3,547",
+        "crawled_at": "2025-12-08T13:26:01.250366"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "stars": "12,965",
+        "crawled_at": "2025-12-08T13:26:01.250554"
+      },
+      {
+        "name": "anthropics /claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "stars": "11,338",
+        "crawled_at": "2025-12-08T13:26:01.250760"
+      },
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "31,476",
+        "crawled_at": "2025-12-08T13:26:01.250954"
+      },
+      {
+        "name": "microsoft /Foundry-Local",
+        "description": "無描述",
+        "language": "Svelte",
+        "stars": "1,498",
+        "crawled_at": "2025-12-08T13:26:01.251168"
       }
     ]
   }
