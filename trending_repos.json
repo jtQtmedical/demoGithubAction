@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-09",
-    "repos": [
-      {
-        "name": "usestrix /strix",
-        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
-        "language": "Python",
-        "stars": "5,766",
-        "crawled_at": "2025-11-09T13:14:00.772043"
-      },
-      {
-        "name": "umami-software /umami",
-        "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
-        "language": "TypeScript",
-        "stars": "32,660",
-        "crawled_at": "2025-11-09T13:14:00.772228"
-      },
-      {
-        "name": "thinking-machines-lab /tinker-cookbook",
-        "description": "Post-training with Tinker",
-        "language": "Python",
-        "stars": "1,575",
-        "crawled_at": "2025-11-09T13:14:00.772402"
-      },
-      {
-        "name": "mui /material-ui",
-        "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-        "language": "JavaScript",
-        "stars": "97,000",
-        "crawled_at": "2025-11-09T13:14:00.772572"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "458",
-        "crawled_at": "2025-11-09T13:14:00.772750"
-      },
-      {
-        "name": "axios /axios",
-        "description": "Promise based HTTP client for the browser and node.js",
-        "language": "JavaScript",
-        "stars": "108,117",
-        "crawled_at": "2025-11-09T13:14:00.772958"
-      },
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "17,732",
-        "crawled_at": "2025-11-09T13:14:00.773129"
-      },
-      {
-        "name": "airweave-ai /airweave",
-        "description": "Context retrieval for AI agents across apps and databases",
-        "language": "Python",
-        "stars": "4,839",
-        "crawled_at": "2025-11-09T13:14:00.773302"
-      },
-      {
-        "name": "HyDE-Project /HyDE",
-        "description": "HyDE, your Development Environment 🖥️💻",
-        "language": "Shell",
-        "stars": "6,827",
-        "crawled_at": "2025-11-09T13:14:00.773472"
-      },
-      {
-        "name": "AUTOMATIC1111 /stable-diffusion-webui",
-        "description": "Stable Diffusion web UI",
-        "language": "Python",
-        "stars": "157,963",
-        "crawled_at": "2025-11-09T13:14:00.773641"
-      }
-    ]
-  },
-  {
     "date": "2025-11-10",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Svelte",
         "stars": "1,498",
         "crawled_at": "2025-12-08T13:26:01.251168"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "repos": [
+      {
+        "name": "KaijuEngine /kaiju",
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "language": "Go",
+        "stars": "873",
+        "crawled_at": "2025-12-09T13:27:19.677039"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "JavaScript",
+        "stars": "1,161",
+        "crawled_at": "2025-12-09T13:27:19.677237"
+      },
+      {
+        "name": "dyad-sh /dyad",
+        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "17,899",
+        "crawled_at": "2025-12-09T13:27:19.677425"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "15,773",
+        "crawled_at": "2025-12-09T13:27:19.677617"
+      },
+      {
+        "name": "NVIDIA /cutile-python",
+        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+        "language": "Python",
+        "stars": "1,125",
+        "crawled_at": "2025-12-09T13:27:19.677820"
+      },
+      {
+        "name": "google /adk-samples",
+        "description": "A collection of sample agents built with Agent Development Kit (ADK)",
+        "language": "Python",
+        "stars": "6,915",
+        "crawled_at": "2025-12-09T13:27:19.678009"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "22,669",
+        "crawled_at": "2025-12-09T13:27:19.678234"
+      },
+      {
+        "name": "zhu-xlab /GlobalBuildingAtlas",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "1,028",
+        "crawled_at": "2025-12-09T13:27:19.678449"
+      },
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "31,910",
+        "crawled_at": "2025-12-09T13:27:19.678644"
+      },
+      {
+        "name": "microsoft /generative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "language": "Jupyter Notebook",
+        "stars": "102,885",
+        "crawled_at": "2025-12-09T13:27:19.678845"
       }
     ]
   }
