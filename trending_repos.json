@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-11",
-    "repos": [
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "2,185",
-        "crawled_at": "2025-11-11T13:22:39.263727"
-      },
-      {
-        "name": "usestrix /strix",
-        "description": "✨ Open-source AI hackers for your apps 👨🏻‍💻",
-        "language": "Python",
-        "stars": "9,331",
-        "crawled_at": "2025-11-11T13:22:39.263930"
-      },
-      {
-        "name": "umami-software /umami",
-        "description": "Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.",
-        "language": "TypeScript",
-        "stars": "33,339",
-        "crawled_at": "2025-11-11T13:22:39.264132"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "55,252",
-        "crawled_at": "2025-11-11T13:22:39.264317"
-      },
-      {
-        "name": "thinking-machines-lab /tinker-cookbook",
-        "description": "Post-training with Tinker",
-        "language": "Python",
-        "stars": "1,799",
-        "crawled_at": "2025-11-11T13:22:39.264506"
-      },
-      {
-        "name": "iptv-org /iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "language": "TypeScript",
-        "stars": "99,443",
-        "crawled_at": "2025-11-11T13:22:39.264694"
-      },
-      {
-        "name": "lzhoang2801 /OpCore-Simplify",
-        "description": "A tool designed to simplify the creation of OpenCore EFI",
-        "language": "Python",
-        "stars": "2,311",
-        "crawled_at": "2025-11-11T13:22:39.264916"
-      },
-      {
-        "name": "YaLTeR /niri",
-        "description": "A scrollable-tiling Wayland compositor.",
-        "language": "Rust",
-        "stars": "14,843",
-        "crawled_at": "2025-11-11T13:22:39.265152"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "2,496",
-        "crawled_at": "2025-11-11T13:22:39.265346"
-      },
-      {
-        "name": "microsoft /call-center-ai",
-        "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
-        "language": "Python",
-        "stars": "1,987",
-        "crawled_at": "2025-11-11T13:22:39.265528"
-      }
-    ]
-  },
-  {
     "date": "2025-11-12",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "4,008",
         "crawled_at": "2025-12-10T13:28:24.330067"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "JavaScript",
+        "stars": "3,527",
+        "crawled_at": "2025-12-11T13:29:41.770939"
+      },
+      {
+        "name": "Tencent /WeKnora",
+        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+        "language": "Go",
+        "stars": "7,990",
+        "crawled_at": "2025-12-11T13:29:41.771146"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "23,624",
+        "crawled_at": "2025-12-11T13:29:41.771334"
+      },
+      {
+        "name": "KaijuEngine /kaiju",
+        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+        "language": "Go",
+        "stars": "3,273",
+        "crawled_at": "2025-12-11T13:29:41.771543"
+      },
+      {
+        "name": "tempoxyz /tempo",
+        "description": "the blockchain for payments",
+        "language": "Rust",
+        "stars": "271",
+        "crawled_at": "2025-12-11T13:29:41.771729"
+      },
+      {
+        "name": "YimMenu /YimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "language": "C++",
+        "stars": "719",
+        "crawled_at": "2025-12-11T13:29:41.771913"
+      },
+      {
+        "name": "mlabonne /llm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "language": "未知",
+        "stars": "69,750",
+        "crawled_at": "2025-12-11T13:29:41.772111"
+      },
+      {
+        "name": "agentsmd /agents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "stars": "9,930",
+        "crawled_at": "2025-12-11T13:29:41.772298"
+      },
+      {
+        "name": "HotCakeX /Harden-Windows-Security",
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+        "language": "C#",
+        "stars": "3,490",
+        "crawled_at": "2025-12-11T13:29:41.772507"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "61,602",
+        "crawled_at": "2025-12-11T13:29:41.772696"
       }
     ]
   }
