@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-12",
-    "repos": [
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
-        "language": "Python",
-        "stars": "8,159",
-        "crawled_at": "2025-11-12T13:24:44.182759"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "2,712",
-        "crawled_at": "2025-11-12T13:24:44.182967"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "55,552",
-        "crawled_at": "2025-11-12T13:24:44.183156"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "41,060",
-        "crawled_at": "2025-11-12T13:24:44.183347"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "89,086",
-        "crawled_at": "2025-11-12T13:24:44.183529"
-      },
-      {
-        "name": "traefik /traefik",
-        "description": "The Cloud Native Application Proxy",
-        "language": "Go",
-        "stars": "57,660",
-        "crawled_at": "2025-11-12T13:24:44.183781"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "22,606",
-        "crawled_at": "2025-11-12T13:24:44.183966"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "3,570",
-        "crawled_at": "2025-11-12T13:24:44.184161"
-      },
-      {
-        "name": "volcengine /verl",
-        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
-        "language": "Python",
-        "stars": "15,384",
-        "crawled_at": "2025-11-12T13:24:44.184342"
-      },
-      {
-        "name": "GibsonAI /Memori",
-        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
-        "language": "Python",
-        "stars": "2,329",
-        "crawled_at": "2025-11-12T13:24:44.184524"
-      }
-    ]
-  },
-  {
     "date": "2025-11-13",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Roff",
         "stars": "61,602",
         "crawled_at": "2025-12-11T13:29:41.772696"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "JavaScript",
+        "stars": "4,218",
+        "crawled_at": "2025-12-12T13:25:57.109969"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "23,958",
+        "crawled_at": "2025-12-12T13:25:57.110167"
+      },
+      {
+        "name": "datawhalechina /hello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "language": "Python",
+        "stars": "8,170",
+        "crawled_at": "2025-12-12T13:25:57.110355"
+      },
+      {
+        "name": "agentsmd /agents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "stars": "10,657",
+        "crawled_at": "2025-12-12T13:25:57.110540"
+      },
+      {
+        "name": "GoogleCloudPlatform /agent-starter-pack",
+        "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+        "language": "Python",
+        "stars": "4,272",
+        "crawled_at": "2025-12-12T13:25:57.110730"
+      },
+      {
+        "name": "YimMenu /YimMenuV2",
+        "description": "Experimental menu for GTA 5: Enhanced",
+        "language": "C++",
+        "stars": "781",
+        "crawled_at": "2025-12-12T13:25:57.110932"
+      },
+      {
+        "name": "refly-ai /refly",
+        "description": "Vibe Workflow Platform for Non-technical Creators.",
+        "language": "TypeScript",
+        "stars": "5,094",
+        "crawled_at": "2025-12-12T13:25:57.111114"
+      },
+      {
+        "name": "HotCakeX /Harden-Windows-Security",
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+        "language": "C#",
+        "stars": "3,631",
+        "crawled_at": "2025-12-12T13:25:57.111298"
+      },
+      {
+        "name": "DayuanJiang /next-ai-draw-io",
+        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+        "language": "TypeScript",
+        "stars": "7,991",
+        "crawled_at": "2025-12-12T13:25:57.111523"
+      },
+      {
+        "name": "tursodatabase /turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "stars": "15,129",
+        "crawled_at": "2025-12-12T13:25:57.111707"
       }
     ]
   }
