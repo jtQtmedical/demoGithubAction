@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-19",
-    "repos": [
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
-        "language": "Python",
-        "stars": "20,203",
-        "crawled_at": "2025-11-19T13:23:40.585001"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "4,040",
-        "crawled_at": "2025-11-19T13:23:40.585243"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "57,564",
-        "crawled_at": "2025-11-19T13:23:40.585439"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "42,719",
-        "crawled_at": "2025-11-19T13:23:40.585626"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "89,464",
-        "crawled_at": "2025-11-19T13:23:40.585810"
-      },
-      {
-        "name": "traefik /traefik",
-        "description": "The Cloud Native Application Proxy",
-        "language": "Go",
-        "stars": "58,676",
-        "crawled_at": "2025-11-19T13:23:40.586040"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "23,721",
-        "crawled_at": "2025-11-19T13:23:40.586240"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "6,940",
-        "crawled_at": "2025-11-19T13:23:40.586438"
-      },
-      {
-        "name": "volcengine /verl",
-        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
-        "language": "Python",
-        "stars": "16,100",
-        "crawled_at": "2025-11-19T13:23:40.586622"
-      },
-      {
-        "name": "GibsonAI /Memori",
-        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
-        "language": "Python",
-        "stars": "5,232",
-        "crawled_at": "2025-11-19T13:23:40.586805"
-      }
-    ]
-  },
-  {
     "date": "2025-11-20",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "Python",
         "stars": "16,034",
         "crawled_at": "2025-12-18T13:27:27.331101"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-19",
+    "repos": [
+      {
+        "name": "jaywcjlove /awesome-mac",
+        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+        "language": "JavaScript",
+        "stars": "96,172",
+        "crawled_at": "2025-12-19T13:24:42.455544"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "46,985",
+        "crawled_at": "2025-12-19T13:24:42.455746"
+      },
+      {
+        "name": "NVIDIA-NeMo /Gym",
+        "description": "Build RL environments for LLM training",
+        "language": "Python",
+        "stars": "391",
+        "crawled_at": "2025-12-19T13:24:42.455937"
+      },
+      {
+        "name": "GreyDGL /PentestGPT",
+        "description": "A GPT-empowered penetration testing tool",
+        "language": "Python",
+        "stars": "9,477",
+        "crawled_at": "2025-12-19T13:24:42.456122"
+      },
+      {
+        "name": "exo-explore /exo",
+        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+        "language": "Python",
+        "stars": "33,351",
+        "crawled_at": "2025-12-19T13:24:42.456327"
+      },
+      {
+        "name": "swisskyrepo /PayloadsAllTheThings",
+        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+        "language": "Python",
+        "stars": "72,445",
+        "crawled_at": "2025-12-19T13:24:42.456560"
+      },
+      {
+        "name": "sgl-project /mini-sglang",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "1,321",
+        "crawled_at": "2025-12-19T13:24:42.456771"
+      },
+      {
+        "name": "google /adk-js",
+        "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "language": "TypeScript",
+        "stars": "266",
+        "crawled_at": "2025-12-19T13:24:42.456963"
+      },
+      {
+        "name": "afshinea /stanford-cs-229-machine-learning",
+        "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
+        "language": "未知",
+        "stars": "18,911",
+        "crawled_at": "2025-12-19T13:24:42.457152"
+      },
+      {
+        "name": "metabase /metabase",
+        "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+        "language": "Clojure",
+        "stars": "45,053",
+        "crawled_at": "2025-12-19T13:24:42.457355"
       }
     ]
   }
