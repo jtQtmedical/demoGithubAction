@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-11-30",
-    "repos": [
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
-        "language": "Python",
-        "stars": "33,135",
-        "crawled_at": "2025-11-30T13:16:41.059552"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "5,522",
-        "crawled_at": "2025-11-30T13:16:41.059750"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "60,050",
-        "crawled_at": "2025-11-30T13:16:41.059941"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "44,294",
-        "crawled_at": "2025-11-30T13:16:41.060126"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "90,031",
-        "crawled_at": "2025-11-30T13:16:41.060307"
-      },
-      {
-        "name": "traefik /traefik",
-        "description": "The Cloud Native Application Proxy",
-        "language": "Go",
-        "stars": "59,773",
-        "crawled_at": "2025-11-30T13:16:41.060550"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "24,827",
-        "crawled_at": "2025-11-30T13:16:41.060737"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "9,248",
-        "crawled_at": "2025-11-30T13:16:41.060930"
-      },
-      {
-        "name": "volcengine /verl",
-        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
-        "language": "Python",
-        "stars": "16,927",
-        "crawled_at": "2025-11-30T13:16:41.061114"
-      },
-      {
-        "name": "GibsonAI /Memori",
-        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
-        "language": "Python",
-        "stars": "8,245",
-        "crawled_at": "2025-11-30T13:16:41.061296"
-      }
-    ]
-  },
-  {
     "date": "2025-12-01",
     "repos": [
       {
@@ -2127,6 +2052,81 @@
         "language": "Python",
         "stars": "18,871",
         "crawled_at": "2025-12-29T13:28:43.897046"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-30",
+    "repos": [
+      {
+        "name": "BloopAI /vibe-kanban",
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "stars": "8,432",
+        "crawled_at": "2025-12-30T13:27:45.046714"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "103,840",
+        "crawled_at": "2025-12-30T13:27:45.046926"
+      },
+      {
+        "name": "QuantConnect /Lean",
+        "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+        "language": "C#",
+        "stars": "15,077",
+        "crawled_at": "2025-12-30T13:27:45.047174"
+      },
+      {
+        "name": "jrouwe /JoltPhysics",
+        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.",
+        "language": "C++",
+        "stars": "8,940",
+        "crawled_at": "2025-12-30T13:27:45.047358"
+      },
+      {
+        "name": "timescale /pg-aiguide",
+        "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+        "language": "Python",
+        "stars": "646",
+        "crawled_at": "2025-12-30T13:27:45.047549"
+      },
+      {
+        "name": "resemble-ai /chatterbox",
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "stars": "19,440",
+        "crawled_at": "2025-12-30T13:27:45.047739"
+      },
+      {
+        "name": "RustPython /RustPython",
+        "description": "A Python Interpreter written in Rust",
+        "language": "Rust",
+        "stars": "21,430",
+        "crawled_at": "2025-12-30T13:27:45.047922"
+      },
+      {
+        "name": "sinelaw /fresh",
+        "description": "Text editor for your terminal: easy, powerful and fast",
+        "language": "Rust",
+        "stars": "4,229",
+        "crawled_at": "2025-12-30T13:27:45.048159"
+      },
+      {
+        "name": "alexta69 /metube",
+        "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+        "language": "Python",
+        "stars": "11,395",
+        "crawled_at": "2025-12-30T13:27:45.048342"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "29,839",
+        "crawled_at": "2025-12-30T13:27:45.048524"
       }
     ]
   }
