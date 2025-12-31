@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-01",
-    "repos": [
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
-        "language": "Python",
-        "stars": "34,279",
-        "crawled_at": "2025-12-01T13:26:44.820754"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "5,665",
-        "crawled_at": "2025-12-01T13:26:44.820965"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "60,262",
-        "crawled_at": "2025-12-01T13:26:44.821158"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "44,435",
-        "crawled_at": "2025-12-01T13:26:44.821357"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "90,081",
-        "crawled_at": "2025-12-01T13:26:44.821546"
-      },
-      {
-        "name": "traefik /traefik",
-        "description": "The Cloud Native Application Proxy",
-        "language": "Go",
-        "stars": "59,856",
-        "crawled_at": "2025-12-01T13:26:44.821798"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "24,971",
-        "crawled_at": "2025-12-01T13:26:44.821990"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "9,454",
-        "crawled_at": "2025-12-01T13:26:44.822189"
-      },
-      {
-        "name": "volcengine /verl",
-        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
-        "language": "Python",
-        "stars": "17,005",
-        "crawled_at": "2025-12-01T13:26:44.822381"
-      },
-      {
-        "name": "GibsonAI /Memori",
-        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
-        "language": "Python",
-        "stars": "8,517",
-        "crawled_at": "2025-12-01T13:26:44.822569"
-      }
-    ]
-  },
-  {
     "date": "2025-12-02",
     "repos": [
       {
@@ -2127,6 +2052,81 @@
         "language": "Python",
         "stars": "29,839",
         "crawled_at": "2025-12-30T13:27:45.048524"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-31",
+    "repos": [
+      {
+        "name": "afkarxyz /SpotiFLAC",
+        "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+        "language": "TypeScript",
+        "stars": "1,330",
+        "crawled_at": "2025-12-31T13:24:12.794979"
+      },
+      {
+        "name": "google-gemini /computer-use-preview",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "2,238",
+        "crawled_at": "2025-12-31T13:24:12.795204"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "JavaScript",
+        "stars": "13,605",
+        "crawled_at": "2025-12-31T13:24:12.795394"
+      },
+      {
+        "name": "BloopAI /vibe-kanban",
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "stars": "9,906",
+        "crawled_at": "2025-12-31T13:24:12.795627"
+      },
+      {
+        "name": "timescale /pg-aiguide",
+        "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
+        "language": "Python",
+        "stars": "942",
+        "crawled_at": "2025-12-31T13:24:12.795817"
+      },
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点",
+        "language": "Python",
+        "stars": "41,707",
+        "crawled_at": "2025-12-31T13:24:12.796009"
+      },
+      {
+        "name": "openai /openai-cookbook",
+        "description": "Examples and guides for using the OpenAI API",
+        "language": "Jupyter Notebook",
+        "stars": "70,115",
+        "crawled_at": "2025-12-31T13:24:12.796202"
+      },
+      {
+        "name": "organicmaps /organicmaps",
+        "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+        "language": "C++",
+        "stars": "12,462",
+        "crawled_at": "2025-12-31T13:24:12.796446"
+      },
+      {
+        "name": "resemble-ai /chatterbox",
+        "description": "SoTA open-source TTS",
+        "language": "Python",
+        "stars": "19,862",
+        "crawled_at": "2025-12-31T13:24:12.796636"
+      },
+      {
+        "name": "nocodb /nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "language": "TypeScript",
+        "stars": "59,489",
+        "crawled_at": "2025-12-31T13:24:12.796862"
       }
     ]
   }
