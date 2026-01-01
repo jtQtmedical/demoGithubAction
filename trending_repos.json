@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-02",
-    "repos": [
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
-        "language": "Python",
-        "stars": "35,401",
-        "crawled_at": "2025-12-02T13:28:03.960506"
-      },
-      {
-        "name": "google /adk-go",
-        "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "Go",
-        "stars": "5,777",
-        "crawled_at": "2025-12-02T13:28:03.960716"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "60,496",
-        "crawled_at": "2025-12-02T13:28:03.960918"
-      },
-      {
-        "name": "yeongpin /cursor-free-vip",
-        "description": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
-        "language": "Python",
-        "stars": "44,661",
-        "crawled_at": "2025-12-02T13:28:03.961111"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "90,140",
-        "crawled_at": "2025-12-02T13:28:03.961319"
-      },
-      {
-        "name": "traefik /traefik",
-        "description": "The Cloud Native Application Proxy",
-        "language": "Go",
-        "stars": "59,968",
-        "crawled_at": "2025-12-02T13:28:03.961559"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "25,081",
-        "crawled_at": "2025-12-02T13:28:03.961757"
-      },
-      {
-        "name": "bobeff /open-source-games",
-        "description": "A list of open source games.",
-        "language": "未知",
-        "stars": "9,697",
-        "crawled_at": "2025-12-02T13:28:03.961962"
-      },
-      {
-        "name": "volcengine /verl",
-        "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
-        "language": "Python",
-        "stars": "17,069",
-        "crawled_at": "2025-12-02T13:28:03.962154"
-      },
-      {
-        "name": "GibsonAI /Memori",
-        "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
-        "language": "Python",
-        "stars": "8,780",
-        "crawled_at": "2025-12-02T13:28:03.962364"
-      }
-    ]
-  },
-  {
     "date": "2025-12-03",
     "repos": [
       {
@@ -2127,6 +2052,81 @@
         "language": "TypeScript",
         "stars": "59,489",
         "crawled_at": "2025-12-31T13:24:12.796862"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-01",
+    "repos": [
+      {
+        "name": "awslabs /amazon-bedrock-agentcore-samples",
+        "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
+        "language": "Jupyter Notebook",
+        "stars": "1,906",
+        "crawled_at": "2026-01-01T13:24:56.663558"
+      },
+      {
+        "name": "BloopAI /vibe-kanban",
+        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+        "language": "Rust",
+        "stars": "10,438",
+        "crawled_at": "2026-01-01T13:24:56.663743"
+      },
+      {
+        "name": "usememos /memos",
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+        "language": "Go",
+        "stars": "47,780",
+        "crawled_at": "2026-01-01T13:24:56.663954"
+      },
+      {
+        "name": "organicmaps /organicmaps",
+        "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
+        "language": "C++",
+        "stars": "12,680",
+        "crawled_at": "2026-01-01T13:24:56.664161"
+      },
+      {
+        "name": "afkarxyz /SpotiFLAC",
+        "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
+        "language": "TypeScript",
+        "stars": "1,737",
+        "crawled_at": "2026-01-01T13:24:56.664341"
+      },
+      {
+        "name": "HQarroum /docker-android",
+        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+        "language": "Shell",
+        "stars": "971",
+        "crawled_at": "2026-01-01T13:24:56.664510"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "JavaScript",
+        "stars": "14,200",
+        "crawled_at": "2026-01-01T13:24:56.664679"
+      },
+      {
+        "name": "Polymarket /agents",
+        "description": "Trade autonomously on Polymarket using AI Agents",
+        "language": "Python",
+        "stars": "1,288",
+        "crawled_at": "2026-01-01T13:24:56.664845"
+      },
+      {
+        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
+        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "language": "Jupyter Notebook",
+        "stars": "19,282",
+        "crawled_at": "2026-01-01T13:24:56.665011"
+      },
+      {
+        "name": "yichuan-w /LEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "language": "Python",
+        "stars": "7,615",
+        "crawled_at": "2026-01-01T13:24:56.665178"
       }
     ]
   }
