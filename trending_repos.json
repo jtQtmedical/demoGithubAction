@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-05",
-    "repos": [
-      {
-        "name": "basecamp /fizzy",
-        "description": "Kanban as it should be. Not as it has been.",
-        "language": "Ruby",
-        "stars": "3,829",
-        "crawled_at": "2025-12-05T13:23:35.295099"
-      },
-      {
-        "name": "rustfs /rustfs",
-        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "language": "Rust",
-        "stars": "13,699",
-        "crawled_at": "2025-12-05T13:23:35.295310"
-      },
-      {
-        "name": "trustedsec /social-engineer-toolkit",
-        "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
-        "language": "Python",
-        "stars": "13,172",
-        "crawled_at": "2025-12-05T13:23:35.295500"
-      },
-      {
-        "name": "DayuanJiang /next-ai-draw-io",
-        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-        "language": "TypeScript",
-        "stars": "3,740",
-        "crawled_at": "2025-12-05T13:23:35.295734"
-      },
-      {
-        "name": "facebook /react",
-        "description": "The library for web and native user interfaces.",
-        "language": "JavaScript",
-        "stars": "241,141",
-        "crawled_at": "2025-12-05T13:23:35.295939"
-      },
-      {
-        "name": "CorentinTh /it-tools",
-        "description": "Collection of handy online tools for developers, with great UX.",
-        "language": "Vue",
-        "stars": "34,667",
-        "crawled_at": "2025-12-05T13:23:35.296168"
-      },
-      {
-        "name": "vercel /next.js",
-        "description": "The React Framework",
-        "language": "JavaScript",
-        "stars": "136,124",
-        "crawled_at": "2025-12-05T13:23:35.296350"
-      },
-      {
-        "name": "ashishpatel26 /500-AI-Agents-Projects",
-        "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
-        "language": "未知",
-        "stars": "18,263",
-        "crawled_at": "2025-12-05T13:23:35.296547"
-      },
-      {
-        "name": "sinelaw /fresh",
-        "description": "Text editor for your terminal: easy, powerful and fast",
-        "language": "Rust",
-        "stars": "421",
-        "crawled_at": "2025-12-05T13:23:35.296787"
-      },
-      {
-        "name": "oven-sh /bun",
-        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "language": "Zig",
-        "stars": "83,996",
-        "crawled_at": "2025-12-05T13:23:35.296972"
-      }
-    ]
-  },
-  {
     "date": "2025-12-06",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "TypeScript",
         "stars": "16,660",
         "crawled_at": "2026-01-03T13:20:28.006698"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-04",
+    "repos": [
+      {
+        "name": "OpenBB-finance /OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "stars": "56,654",
+        "crawled_at": "2026-01-04T13:21:36.581759"
+      },
+      {
+        "name": "openai /openai-cookbook",
+        "description": "Examples and guides for using the OpenAI API",
+        "language": "Jupyter Notebook",
+        "stars": "70,529",
+        "crawled_at": "2026-01-04T13:21:36.581965"
+      },
+      {
+        "name": "nocodb /nocodb",
+        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+        "language": "TypeScript",
+        "stars": "60,455",
+        "crawled_at": "2026-01-04T13:21:36.582200"
+      },
+      {
+        "name": "HQarroum /docker-android",
+        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+        "language": "Shell",
+        "stars": "2,350",
+        "crawled_at": "2026-01-04T13:21:36.582412"
+      },
+      {
+        "name": "usememos /memos",
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+        "language": "Go",
+        "stars": "50,992",
+        "crawled_at": "2026-01-04T13:21:36.582643"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "44,439",
+        "crawled_at": "2026-01-04T13:21:36.582832"
+      },
+      {
+        "name": "ourongxing /newsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "language": "TypeScript",
+        "stars": "16,505",
+        "crawled_at": "2026-01-04T13:21:36.583060"
+      },
+      {
+        "name": "anomalyco /opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars": "47,071",
+        "crawled_at": "2026-01-04T13:21:36.583288"
+      },
+      {
+        "name": "5rahim /seanime",
+        "description": "Open-source media server with a web interface and desktop app for anime and manga.",
+        "language": "Go",
+        "stars": "1,911",
+        "crawled_at": "2026-01-04T13:21:36.583542"
+      },
+      {
+        "name": "python /cpython",
+        "description": "The Python programming language",
+        "language": "Python",
+        "stars": "70,622",
+        "crawled_at": "2026-01-04T13:21:36.583771"
       }
     ]
   }
