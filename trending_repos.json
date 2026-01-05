@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-06",
-    "repos": [
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "10,781",
-        "crawled_at": "2025-12-06T13:17:06.447510"
-      },
-      {
-        "name": "rustfs /rustfs",
-        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "language": "Rust",
-        "stars": "14,922",
-        "crawled_at": "2025-12-06T13:17:06.447719"
-      },
-      {
-        "name": "RosettaCommons /foundry",
-        "description": "Central repository for biomolecular foundation models with shared trainers and pipeline components",
-        "language": "Python",
-        "stars": "372",
-        "crawled_at": "2025-12-06T13:17:06.447909"
-      },
-      {
-        "name": "sinelaw /fresh",
-        "description": "Text editor for your terminal: easy, powerful and fast",
-        "language": "Rust",
-        "stars": "667",
-        "crawled_at": "2025-12-06T13:17:06.448133"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "21,313",
-        "crawled_at": "2025-12-06T13:17:06.448353"
-      },
-      {
-        "name": "psviderski /uncloud",
-        "description": "A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨",
-        "language": "Go",
-        "stars": "3,728",
-        "crawled_at": "2025-12-06T13:17:06.448593"
-      },
-      {
-        "name": "oven-sh /bun",
-        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "language": "Zig",
-        "stars": "84,278",
-        "crawled_at": "2025-12-06T13:17:06.448781"
-      },
-      {
-        "name": "facebook /react",
-        "description": "The library for web and native user interfaces.",
-        "language": "JavaScript",
-        "stars": "241,259",
-        "crawled_at": "2025-12-06T13:17:06.448964"
-      },
-      {
-        "name": "lynx-family /lynx",
-        "description": "Empower the Web community and invite more to build across platforms.",
-        "language": "C++",
-        "stars": "13,733",
-        "crawled_at": "2025-12-06T13:17:06.449144"
-      },
-      {
-        "name": "DevCaress /guia-entrevistas-de-programacion",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "6,676",
-        "crawled_at": "2025-12-06T13:17:06.449345"
-      }
-    ]
-  },
-  {
     "date": "2025-12-07",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "Python",
         "stars": "70,622",
         "crawled_at": "2026-01-04T13:21:36.583771"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-05",
+    "repos": [
+      {
+        "name": "anomalyco /opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars": "48,952",
+        "crawled_at": "2026-01-05T13:32:17.505939"
+      },
+      {
+        "name": "usememos /memos",
+        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
+        "language": "Go",
+        "stars": "51,652",
+        "crawled_at": "2026-01-05T13:32:17.506186"
+      },
+      {
+        "name": "OpenBB-finance /OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "stars": "57,033",
+        "crawled_at": "2026-01-05T13:32:17.506414"
+      },
+      {
+        "name": "ourongxing /newsnow",
+        "description": "Elegant reading of real-time and hottest news",
+        "language": "TypeScript",
+        "stars": "16,710",
+        "crawled_at": "2026-01-05T13:32:17.506659"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "44,653",
+        "crawled_at": "2026-01-05T13:32:17.506846"
+      },
+      {
+        "name": "python /cpython",
+        "description": "The Python programming language",
+        "language": "Python",
+        "stars": "70,790",
+        "crawled_at": "2026-01-05T13:32:17.507069"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "19,627",
+        "crawled_at": "2026-01-05T13:32:17.507256"
+      },
+      {
+        "name": "3b1b /manim",
+        "description": "Animation engine for explanatory math videos",
+        "language": "Python",
+        "stars": "83,069",
+        "crawled_at": "2026-01-05T13:32:17.507439"
+      },
+      {
+        "name": "maplibre /maplibre-gl-js",
+        "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+        "language": "TypeScript",
+        "stars": "9,264",
+        "crawled_at": "2026-01-05T13:32:17.507708"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "51,395",
+        "crawled_at": "2026-01-05T13:32:17.507898"
       }
     ]
   }
