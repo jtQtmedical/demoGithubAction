@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-07",
-    "repos": [
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "11,396",
-        "crawled_at": "2025-12-07T13:15:47.208505"
-      },
-      {
-        "name": "NVIDIA /cutile-python",
-        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
-        "language": "Python",
-        "stars": "611",
-        "crawled_at": "2025-12-07T13:15:47.208700"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "21,589",
-        "crawled_at": "2025-12-07T13:15:47.208926"
-      },
-      {
-        "name": "TelegramMessenger /Telegram-iOS",
-        "description": "Telegram-iOS",
-        "language": "Swift",
-        "stars": "7,593",
-        "crawled_at": "2025-12-07T13:15:47.209125"
-      },
-      {
-        "name": "anthropics /claude-quickstarts",
-        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "language": "Python",
-        "stars": "11,004",
-        "crawled_at": "2025-12-07T13:15:47.209309"
-      },
-      {
-        "name": "rustfs /rustfs",
-        "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-        "language": "Rust",
-        "stars": "15,338",
-        "crawled_at": "2025-12-07T13:15:47.209495"
-      },
-      {
-        "name": "sst /opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars": "36,377",
-        "crawled_at": "2025-12-07T13:15:47.209718"
-      },
-      {
-        "name": "BeehiveInnovations /pal-mcp-server",
-        "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
-        "language": "Python",
-        "stars": "10,020",
-        "crawled_at": "2025-12-07T13:15:47.209939"
-      },
-      {
-        "name": "microsoft /Foundry-Local",
-        "description": "無描述",
-        "language": "Svelte",
-        "stars": "1,286",
-        "crawled_at": "2025-12-07T13:15:47.210158"
-      },
-      {
-        "name": "sinelaw /fresh",
-        "description": "Text editor for your terminal: easy, powerful and fast",
-        "language": "Rust",
-        "stars": "951",
-        "crawled_at": "2025-12-07T13:15:47.210384"
-      }
-    ]
-  },
-  {
     "date": "2025-12-08",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "Shell",
         "stars": "51,395",
         "crawled_at": "2026-01-05T13:32:17.507898"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "repos": [
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "70,032",
+        "crawled_at": "2026-01-06T13:28:38.895769"
+      },
+      {
+        "name": "Lissy93 /web-check",
+        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "stars": "27,444",
+        "crawled_at": "2026-01-06T13:28:38.896032"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+        "language": "C#",
+        "stars": "127,150",
+        "crawled_at": "2026-01-06T13:28:38.896261"
+      },
+      {
+        "name": "anthropics /claude-code-action",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "4,632",
+        "crawled_at": "2026-01-06T13:28:38.896493"
+      },
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "25,275",
+        "crawled_at": "2026-01-06T13:28:38.896688"
+      },
+      {
+        "name": "marcelscruz /public-apis",
+        "description": "A collaborative list of public APIs for developers",
+        "language": "JavaScript",
+        "stars": "6,679",
+        "crawled_at": "2026-01-06T13:28:38.896933"
+      },
+      {
+        "name": "kirodotdev /Kiro",
+        "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
+        "language": "未知",
+        "stars": "2,577",
+        "crawled_at": "2026-01-06T13:28:38.897170"
+      },
+      {
+        "name": "LuckyOne7777 /ChatGPT-Micro-Cap-Experiment",
+        "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+        "language": "Python",
+        "stars": "6,993",
+        "crawled_at": "2026-01-06T13:28:38.897368"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
+        "language": "Jupyter Notebook",
+        "stars": "4,597",
+        "crawled_at": "2026-01-06T13:28:38.897563"
+      },
+      {
+        "name": "bobbyiliev /introduction-to-bash-scripting",
+        "description": "Free Introduction to Bash Scripting eBook",
+        "language": "HTML",
+        "stars": "5,267",
+        "crawled_at": "2026-01-06T13:28:38.897810"
       }
     ]
   }
