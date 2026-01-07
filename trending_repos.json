@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-08",
-    "repos": [
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "13,347",
-        "crawled_at": "2025-12-08T13:26:01.249275"
-      },
-      {
-        "name": "sinelaw /fresh",
-        "description": "Text editor for your terminal: easy, powerful and fast",
-        "language": "Rust",
-        "stars": "1,181",
-        "crawled_at": "2025-12-08T13:26:01.249524"
-      },
-      {
-        "name": "winapps-org /winapps",
-        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/",
-        "language": "Shell",
-        "stars": "13,133",
-        "crawled_at": "2025-12-08T13:26:01.249744"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "22,160",
-        "crawled_at": "2025-12-08T13:26:01.249979"
-      },
-      {
-        "name": "slidevjs /slidev",
-        "description": "Presentation Slides for Developers",
-        "language": "TypeScript",
-        "stars": "42,485",
-        "crawled_at": "2025-12-08T13:26:01.250168"
-      },
-      {
-        "name": "cloudflare /vibesdk",
-        "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
-        "language": "TypeScript",
-        "stars": "3,547",
-        "crawled_at": "2025-12-08T13:26:01.250366"
-      },
-      {
-        "name": "lfnovo /open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-        "language": "TypeScript",
-        "stars": "12,965",
-        "crawled_at": "2025-12-08T13:26:01.250554"
-      },
-      {
-        "name": "anthropics /claude-quickstarts",
-        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-        "language": "Python",
-        "stars": "11,338",
-        "crawled_at": "2025-12-08T13:26:01.250760"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "31,476",
-        "crawled_at": "2025-12-08T13:26:01.250954"
-      },
-      {
-        "name": "microsoft /Foundry-Local",
-        "description": "無描述",
-        "language": "Svelte",
-        "stars": "1,498",
-        "crawled_at": "2025-12-08T13:26:01.251168"
-      }
-    ]
-  },
-  {
     "date": "2025-12-09",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "HTML",
         "stars": "5,267",
         "crawled_at": "2026-01-06T13:28:38.897810"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-07",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "11,538",
+        "crawled_at": "2026-01-07T13:30:25.665803"
+      },
+      {
+        "name": "google /googletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "stars": "37,716",
+        "crawled_at": "2026-01-07T13:30:25.666001"
+      },
+      {
+        "name": "Lissy93 /web-check",
+        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "stars": "28,230",
+        "crawled_at": "2026-01-07T13:30:25.666232"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+        "language": "C#",
+        "stars": "127,470",
+        "crawled_at": "2026-01-07T13:30:25.666439"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "70,156",
+        "crawled_at": "2026-01-07T13:30:25.666626"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "18,890",
+        "crawled_at": "2026-01-07T13:30:25.666809"
+      },
+      {
+        "name": "memvid /memvid",
+        "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+        "language": "Rust",
+        "stars": "11,189",
+        "crawled_at": "2026-01-07T13:30:25.666992"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "25,096",
+        "crawled_at": "2026-01-07T13:30:25.667217"
+      },
+      {
+        "name": "DrewThomasson /ebook2audiobook",
+        "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+        "language": "Python",
+        "stars": "16,551",
+        "crawled_at": "2026-01-07T13:30:25.667413"
+      },
+      {
+        "name": "marcelscruz /public-apis",
+        "description": "A collaborative list of public APIs for developers",
+        "language": "JavaScript",
+        "stars": "7,122",
+        "crawled_at": "2026-01-07T13:30:25.667642"
       }
     ]
   }
