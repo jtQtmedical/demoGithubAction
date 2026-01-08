@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-09",
-    "repos": [
-      {
-        "name": "KaijuEngine /kaiju",
-        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
-        "language": "Go",
-        "stars": "873",
-        "crawled_at": "2025-12-09T13:27:19.677039"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "JavaScript",
-        "stars": "1,161",
-        "crawled_at": "2025-12-09T13:27:19.677237"
-      },
-      {
-        "name": "dyad-sh /dyad",
-        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "17,899",
-        "crawled_at": "2025-12-09T13:27:19.677425"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "15,773",
-        "crawled_at": "2025-12-09T13:27:19.677617"
-      },
-      {
-        "name": "NVIDIA /cutile-python",
-        "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
-        "language": "Python",
-        "stars": "1,125",
-        "crawled_at": "2025-12-09T13:27:19.677820"
-      },
-      {
-        "name": "google /adk-samples",
-        "description": "A collection of sample agents built with Agent Development Kit (ADK)",
-        "language": "Python",
-        "stars": "6,915",
-        "crawled_at": "2025-12-09T13:27:19.678009"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "22,669",
-        "crawled_at": "2025-12-09T13:27:19.678234"
-      },
-      {
-        "name": "zhu-xlab /GlobalBuildingAtlas",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "1,028",
-        "crawled_at": "2025-12-09T13:27:19.678449"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "31,910",
-        "crawled_at": "2025-12-09T13:27:19.678644"
-      },
-      {
-        "name": "microsoft /generative-ai-for-beginners",
-        "description": "21 Lessons, Get Started Building with Generative AI",
-        "language": "Jupyter Notebook",
-        "stars": "102,885",
-        "crawled_at": "2025-12-09T13:27:19.678845"
-      }
-    ]
-  },
-  {
     "date": "2025-12-10",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "JavaScript",
         "stars": "7,122",
         "crawled_at": "2026-01-07T13:30:25.667642"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "repos": [
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "19,201",
+        "crawled_at": "2026-01-08T13:31:21.743455"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "53,095",
+        "crawled_at": "2026-01-08T13:31:21.743660"
+      },
+      {
+        "name": "nothings /stb",
+        "description": "stb single-file public domain libraries for C/C++",
+        "language": "C",
+        "stars": "31,539",
+        "crawled_at": "2026-01-08T13:31:21.743853"
+      },
+      {
+        "name": "MiroMindAI /MiroThinker",
+        "description": "MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch.",
+        "language": "Python",
+        "stars": "3,224",
+        "crawled_at": "2026-01-08T13:31:21.744039"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "70,211",
+        "crawled_at": "2026-01-08T13:31:21.744225"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "12,287",
+        "crawled_at": "2026-01-08T13:31:21.744473"
+      },
+      {
+        "name": "xpipe-io /xpipe",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "language": "Java",
+        "stars": "12,673",
+        "crawled_at": "2026-01-08T13:31:21.744701"
+      },
+      {
+        "name": "Lissy93 /web-check",
+        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+        "language": "TypeScript",
+        "stars": "28,846",
+        "crawled_at": "2026-01-08T13:31:21.744933"
+      },
+      {
+        "name": "google /googletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "stars": "37,832",
+        "crawled_at": "2026-01-08T13:31:21.745118"
+      },
+      {
+        "name": "apache /superset",
+        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+        "language": "TypeScript",
+        "stars": "69,741",
+        "crawled_at": "2026-01-08T13:31:21.745300"
       }
     ]
   }
