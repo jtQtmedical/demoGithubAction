@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-10",
-    "repos": [
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "JavaScript",
-        "stars": "1,937",
-        "crawled_at": "2025-12-10T13:28:24.328304"
-      },
-      {
-        "name": "KaijuEngine /kaiju",
-        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
-        "language": "Go",
-        "stars": "2,335",
-        "crawled_at": "2025-12-10T13:28:24.328509"
-      },
-      {
-        "name": "agentsmd /agents.md",
-        "description": "AGENTS.md — a simple, open format for guiding coding agents",
-        "language": "TypeScript",
-        "stars": "9,220",
-        "crawled_at": "2025-12-10T13:28:24.328722"
-      },
-      {
-        "name": "lfnovo /open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-        "language": "TypeScript",
-        "stars": "13,859",
-        "crawled_at": "2025-12-10T13:28:24.328935"
-      },
-      {
-        "name": "dyad-sh /dyad",
-        "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "18,149",
-        "crawled_at": "2025-12-10T13:28:24.329121"
-      },
-      {
-        "name": "datawhalechina /hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "stars": "6,829",
-        "crawled_at": "2025-12-10T13:28:24.329308"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "16,727",
-        "crawled_at": "2025-12-10T13:28:24.329492"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "23,193",
-        "crawled_at": "2025-12-10T13:28:24.329690"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "32,220",
-        "crawled_at": "2025-12-10T13:28:24.329882"
-      },
-      {
-        "name": "cloudflare /vibesdk",
-        "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
-        "language": "TypeScript",
-        "stars": "4,008",
-        "crawled_at": "2025-12-10T13:28:24.330067"
-      }
-    ]
-  },
-  {
     "date": "2025-12-11",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "TypeScript",
         "stars": "69,741",
         "crawled_at": "2026-01-08T13:31:21.745300"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "repos": [
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "19,603",
+        "crawled_at": "2026-01-09T13:29:18.088855"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "53,838",
+        "crawled_at": "2026-01-09T13:29:18.089061"
+      },
+      {
+        "name": "tailwindlabs /tailwindcss",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "language": "TypeScript",
+        "stars": "92,319",
+        "crawled_at": "2026-01-09T13:29:18.089226"
+      },
+      {
+        "name": "netbirdio /netbird",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "language": "Go",
+        "stars": "20,762",
+        "crawled_at": "2026-01-09T13:29:18.089426"
+      },
+      {
+        "name": "C4illin /ConvertX",
+        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+        "language": "TypeScript",
+        "stars": "13,725",
+        "crawled_at": "2026-01-09T13:29:18.089637"
+      },
+      {
+        "name": "Lightricks /ComfyUI-LTXVideo",
+        "description": "LTX-Video Support for ComfyUI",
+        "language": "Python",
+        "stars": "2,736",
+        "crawled_at": "2026-01-09T13:29:18.089860"
+      },
+      {
+        "name": "MiroMindAI /MiroThinker",
+        "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+        "language": "Python",
+        "stars": "3,803",
+        "crawled_at": "2026-01-09T13:29:18.090040"
+      },
+      {
+        "name": "google /googletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "stars": "37,898",
+        "crawled_at": "2026-01-09T13:29:18.090205"
+      },
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "21,337",
+        "crawled_at": "2026-01-09T13:29:18.090370"
+      },
+      {
+        "name": "Johnshall /Shadowrocket-ADBlock-Rules-Forever",
+        "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+        "language": "未知",
+        "stars": "21,456",
+        "crawled_at": "2026-01-09T13:29:18.090540"
       }
     ]
   }
