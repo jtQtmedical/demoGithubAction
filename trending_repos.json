@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-11",
-    "repos": [
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "JavaScript",
-        "stars": "3,527",
-        "crawled_at": "2025-12-11T13:29:41.770939"
-      },
-      {
-        "name": "Tencent /WeKnora",
-        "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-        "language": "Go",
-        "stars": "7,990",
-        "crawled_at": "2025-12-11T13:29:41.771146"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "23,624",
-        "crawled_at": "2025-12-11T13:29:41.771334"
-      },
-      {
-        "name": "KaijuEngine /kaiju",
-        "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
-        "language": "Go",
-        "stars": "3,273",
-        "crawled_at": "2025-12-11T13:29:41.771543"
-      },
-      {
-        "name": "tempoxyz /tempo",
-        "description": "the blockchain for payments",
-        "language": "Rust",
-        "stars": "271",
-        "crawled_at": "2025-12-11T13:29:41.771729"
-      },
-      {
-        "name": "YimMenu /YimMenuV2",
-        "description": "Experimental menu for GTA 5: Enhanced",
-        "language": "C++",
-        "stars": "719",
-        "crawled_at": "2025-12-11T13:29:41.771913"
-      },
-      {
-        "name": "mlabonne /llm-course",
-        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
-        "language": "未知",
-        "stars": "69,750",
-        "crawled_at": "2025-12-11T13:29:41.772111"
-      },
-      {
-        "name": "agentsmd /agents.md",
-        "description": "AGENTS.md — a simple, open format for guiding coding agents",
-        "language": "TypeScript",
-        "stars": "9,930",
-        "crawled_at": "2025-12-11T13:29:41.772298"
-      },
-      {
-        "name": "HotCakeX /Harden-Windows-Security",
-        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
-        "language": "C#",
-        "stars": "3,490",
-        "crawled_at": "2025-12-11T13:29:41.772507"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "61,602",
-        "crawled_at": "2025-12-11T13:29:41.772696"
-      }
-    ]
-  },
-  {
     "date": "2025-12-12",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "未知",
         "stars": "21,456",
         "crawled_at": "2026-01-09T13:29:18.090540"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "repos": [
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "54,447",
+        "crawled_at": "2026-01-10T13:21:11.182722"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "19,889",
+        "crawled_at": "2026-01-10T13:21:11.182929"
+      },
+      {
+        "name": "github /awesome-copilot",
+        "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+        "language": "JavaScript",
+        "stars": "16,775",
+        "crawled_at": "2026-01-10T13:21:11.183127"
+      },
+      {
+        "name": "NevaMind-AI /memU",
+        "description": "Memory infrastructure for LLMs and AI agents",
+        "language": "Python",
+        "stars": "4,149",
+        "crawled_at": "2026-01-10T13:21:11.183335"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "Claude Code superpowers: core skills library",
+        "language": "Shell",
+        "stars": "15,825",
+        "crawled_at": "2026-01-10T13:21:11.183565"
+      },
+      {
+        "name": "google /googletest",
+        "description": "GoogleTest - Google Testing and Mocking Framework",
+        "language": "C++",
+        "stars": "37,983",
+        "crawled_at": "2026-01-10T13:21:11.183753"
+      },
+      {
+        "name": "xpipe-io /xpipe",
+        "description": "Access your entire server infrastructure from your local desktop",
+        "language": "Java",
+        "stars": "13,130",
+        "crawled_at": "2026-01-10T13:21:11.183985"
+      },
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "22,142",
+        "crawled_at": "2026-01-10T13:21:11.184186"
+      },
+      {
+        "name": "C4illin /ConvertX",
+        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+        "language": "TypeScript",
+        "stars": "14,108",
+        "crawled_at": "2026-01-10T13:21:11.184424"
+      },
+      {
+        "name": "opf /openproject",
+        "description": "OpenProject is the leading open source project management software.",
+        "language": "Ruby",
+        "stars": "13,575",
+        "crawled_at": "2026-01-10T13:21:11.184611"
       }
     ]
   }
