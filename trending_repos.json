@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-12",
-    "repos": [
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "JavaScript",
-        "stars": "4,218",
-        "crawled_at": "2025-12-12T13:25:57.109969"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "23,958",
-        "crawled_at": "2025-12-12T13:25:57.110167"
-      },
-      {
-        "name": "datawhalechina /hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "stars": "8,170",
-        "crawled_at": "2025-12-12T13:25:57.110355"
-      },
-      {
-        "name": "agentsmd /agents.md",
-        "description": "AGENTS.md — a simple, open format for guiding coding agents",
-        "language": "TypeScript",
-        "stars": "10,657",
-        "crawled_at": "2025-12-12T13:25:57.110540"
-      },
-      {
-        "name": "GoogleCloudPlatform /agent-starter-pack",
-        "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
-        "language": "Python",
-        "stars": "4,272",
-        "crawled_at": "2025-12-12T13:25:57.110730"
-      },
-      {
-        "name": "YimMenu /YimMenuV2",
-        "description": "Experimental menu for GTA 5: Enhanced",
-        "language": "C++",
-        "stars": "781",
-        "crawled_at": "2025-12-12T13:25:57.110932"
-      },
-      {
-        "name": "refly-ai /refly",
-        "description": "Vibe Workflow Platform for Non-technical Creators.",
-        "language": "TypeScript",
-        "stars": "5,094",
-        "crawled_at": "2025-12-12T13:25:57.111114"
-      },
-      {
-        "name": "HotCakeX /Harden-Windows-Security",
-        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
-        "language": "C#",
-        "stars": "3,631",
-        "crawled_at": "2025-12-12T13:25:57.111298"
-      },
-      {
-        "name": "DayuanJiang /next-ai-draw-io",
-        "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
-        "language": "TypeScript",
-        "stars": "7,991",
-        "crawled_at": "2025-12-12T13:25:57.111523"
-      },
-      {
-        "name": "tursodatabase /turso",
-        "description": "Turso is an in-process SQL database, compatible with SQLite.",
-        "language": "Rust",
-        "stars": "15,129",
-        "crawled_at": "2025-12-12T13:25:57.111707"
-      }
-    ]
-  },
-  {
     "date": "2025-12-13",
     "repos": [
       {
@@ -2106,6 +2031,81 @@
         "language": "Ruby",
         "stars": "13,575",
         "crawled_at": "2026-01-10T13:21:11.184611"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "repos": [
+      {
+        "name": "anomalyco /opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars": "60,799",
+        "crawled_at": "2026-01-11T13:21:40.889865"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "Claude Code superpowers: core skills library",
+        "language": "Shell",
+        "stars": "16,539",
+        "crawled_at": "2026-01-11T13:21:40.890099"
+      },
+      {
+        "name": "frankbria /ralph-claude-code",
+        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+        "language": "Shell",
+        "stars": "1,297",
+        "crawled_at": "2026-01-11T13:21:40.890265"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars": "15,415",
+        "crawled_at": "2026-01-11T13:21:40.890431"
+      },
+      {
+        "name": "makeplane /plane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "stars": "43,318",
+        "crawled_at": "2026-01-11T13:21:40.890603"
+      },
+      {
+        "name": "twitter /twemoji",
+        "description": "Emoji for everyone.https://twemoji.twitter.com/",
+        "language": "HTML",
+        "stars": "17,391",
+        "crawled_at": "2026-01-11T13:21:40.890826"
+      },
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "22,579",
+        "crawled_at": "2026-01-11T13:21:40.891002"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "language": "TypeScript",
+        "stars": "38,523",
+        "crawled_at": "2026-01-11T13:21:40.891169"
+      },
+      {
+        "name": "home-assistant /home-assistant.io",
+        "description": "📘 Home Assistant User documentation",
+        "language": "HTML",
+        "stars": "7,797",
+        "crawled_at": "2026-01-11T13:21:40.891338"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "55,030",
+        "crawled_at": "2026-01-11T13:21:40.891503"
       }
     ]
   }
