@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-14",
-    "repos": [
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "19,684",
-        "crawled_at": "2025-12-14T13:18:30.449476"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "52,626",
-        "crawled_at": "2025-12-14T13:18:30.449695"
-      },
-      {
-        "name": "mdn /content",
-        "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-        "language": "Markdown",
-        "stars": "9,900",
-        "crawled_at": "2025-12-14T13:18:30.449884"
-      },
-      {
-        "name": "Morganamilo /paru",
-        "description": "Feature packed AUR helper",
-        "language": "Rust",
-        "stars": "7,775",
-        "crawled_at": "2025-12-14T13:18:30.450113"
-      },
-      {
-        "name": "Mebus /cupp",
-        "description": "Common User Passwords Profiler (CUPP)",
-        "language": "Python",
-        "stars": "5,146",
-        "crawled_at": "2025-12-14T13:18:30.450300"
-      },
-      {
-        "name": "ZJU-LLMs /Foundations-of-LLMs",
-        "description": "A book for Learning the Foundations of LLMs",
-        "language": "未知",
-        "stars": "13,513",
-        "crawled_at": "2025-12-14T13:18:30.450494"
-      },
-      {
-        "name": "daytonaio /daytona",
-        "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
-        "language": "TypeScript",
-        "stars": "37,089",
-        "crawled_at": "2025-12-14T13:18:30.450691"
-      },
-      {
-        "name": "shadcn-ui /ui",
-        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-        "language": "TypeScript",
-        "stars": "102,176",
-        "crawled_at": "2025-12-14T13:18:30.450875"
-      },
-      {
-        "name": "datawhalechina /hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "stars": "8,920",
-        "crawled_at": "2025-12-14T13:18:30.451059"
-      },
-      {
-        "name": "HuLaSpark /HuLa",
-        "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
-        "language": "Vue",
-        "stars": "5,778",
-        "crawled_at": "2025-12-14T13:18:30.451242"
-      }
-    ]
-  },
-  {
     "date": "2025-12-15",
     "repos": [
       {
@@ -2106,6 +2031,74 @@
         "language": "C",
         "stars": "33,414",
         "crawled_at": "2026-01-12T13:33:20.988303"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "repos": [
+      {
+        "name": "obra /superpowers",
+        "description": "Claude Code superpowers: core skills library",
+        "language": "Shell",
+        "stars": "19,713",
+        "crawled_at": "2026-01-13T13:31:54.240678"
+      },
+      {
+        "name": "icloud-photos-downloader /icloud_photos_downloader",
+        "description": "A command-line tool to download photos from iCloud",
+        "language": "Python",
+        "stars": "10,841",
+        "crawled_at": "2026-01-13T13:31:54.240878"
+      },
+      {
+        "name": "blakeblackshear /frigate",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "language": "TypeScript",
+        "stars": "28,831",
+        "crawled_at": "2026-01-13T13:31:54.241103"
+      },
+      {
+        "name": "twitter /the-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "stars": "69,404",
+        "crawled_at": "2026-01-13T13:31:54.241316"
+      },
+      {
+        "name": "home-assistant /home-assistant.io",
+        "description": "📘 Home Assistant User documentation",
+        "language": "HTML",
+        "stars": "8,231",
+        "crawled_at": "2026-01-13T13:31:54.250102"
+      },
+      {
+        "name": "chidiwilliams /buzz",
+        "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+        "language": "Python",
+        "stars": "16,543",
+        "crawled_at": "2026-01-13T13:31:54.250318"
+      },
+      {
+        "name": "adam-maj /tiny-gpu",
+        "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+        "language": "SystemVerilog",
+        "stars": "9,640",
+        "crawled_at": "2026-01-13T13:31:54.250508"
+      },
+      {
+        "name": "Free-TV /IPTV",
+        "description": "M3U Playlist for free TV channels",
+        "language": "Python",
+        "stars": "10,422",
+        "crawled_at": "2026-01-13T13:31:54.250692"
+      },
+      {
+        "name": "onlook-dev /onlook",
+        "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+        "language": "TypeScript",
+        "stars": "23,945",
+        "crawled_at": "2026-01-13T13:31:54.250872"
       }
     ]
   }
