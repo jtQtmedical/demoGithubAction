@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-15",
-    "repos": [
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "21,161",
-        "crawled_at": "2025-12-15T13:31:44.461141"
-      },
-      {
-        "name": "ZJU-LLMs /Foundations-of-LLMs",
-        "description": "A book for Learning the Foundations of LLMs",
-        "language": "未知",
-        "stars": "13,986",
-        "crawled_at": "2025-12-15T13:31:44.461357"
-      },
-      {
-        "name": "jellyfin /jellyfin-desktop",
-        "description": "Jellyfin Desktop Client",
-        "language": "C++",
-        "stars": "4,469",
-        "crawled_at": "2025-12-15T13:31:44.461569"
-      },
-      {
-        "name": "shadcn-ui /ui",
-        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-        "language": "TypeScript",
-        "stars": "102,537",
-        "crawled_at": "2025-12-15T13:31:44.461757"
-      },
-      {
-        "name": "CopilotKit /CopilotKit",
-        "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁",
-        "language": "TypeScript",
-        "stars": "26,650",
-        "crawled_at": "2025-12-15T13:31:44.461996"
-      },
-      {
-        "name": "obsproject /obs-studio",
-        "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-        "language": "C",
-        "stars": "68,783",
-        "crawled_at": "2025-12-15T13:31:44.462184"
-      },
-      {
-        "name": "Morganamilo /paru",
-        "description": "Feature packed AUR helper",
-        "language": "Rust",
-        "stars": "7,857",
-        "crawled_at": "2025-12-15T13:31:44.462413"
-      },
-      {
-        "name": "HKUDS /DeepCode",
-        "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-        "language": "Python",
-        "stars": "12,267",
-        "crawled_at": "2025-12-15T13:31:44.462616"
-      },
-      {
-        "name": "Raphire /Win11Debloat",
-        "description": "A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-        "language": "PowerShell",
-        "stars": "35,234",
-        "crawled_at": "2025-12-15T13:31:44.462851"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "53,723",
-        "crawled_at": "2025-12-15T13:31:44.463036"
-      }
-    ]
-  },
-  {
     "date": "2025-12-16",
     "repos": [
       {
@@ -2099,6 +2024,74 @@
         "language": "TypeScript",
         "stars": "23,945",
         "crawled_at": "2026-01-13T13:31:54.250872"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "repos": [
+      {
+        "name": "obra /superpowers",
+        "description": "Claude Code superpowers: core skills library",
+        "language": "Shell",
+        "stars": "21,538",
+        "crawled_at": "2026-01-14T13:31:47.390844"
+      },
+      {
+        "name": "icloud-photos-downloader /icloud_photos_downloader",
+        "description": "A command-line tool to download photos from iCloud",
+        "language": "Python",
+        "stars": "11,177",
+        "crawled_at": "2026-01-14T13:31:47.391027"
+      },
+      {
+        "name": "blakeblackshear /frigate",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "language": "TypeScript",
+        "stars": "29,154",
+        "crawled_at": "2026-01-14T13:31:47.391250"
+      },
+      {
+        "name": "twitter /the-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "stars": "69,750",
+        "crawled_at": "2026-01-14T13:31:47.391422"
+      },
+      {
+        "name": "home-assistant /home-assistant.io",
+        "description": "📘 Home Assistant User documentation",
+        "language": "HTML",
+        "stars": "8,432",
+        "crawled_at": "2026-01-14T13:31:47.398775"
+      },
+      {
+        "name": "chidiwilliams /buzz",
+        "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+        "language": "Python",
+        "stars": "17,004",
+        "crawled_at": "2026-01-14T13:31:47.398959"
+      },
+      {
+        "name": "adam-maj /tiny-gpu",
+        "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+        "language": "SystemVerilog",
+        "stars": "10,067",
+        "crawled_at": "2026-01-14T13:31:47.399128"
+      },
+      {
+        "name": "Free-TV /IPTV",
+        "description": "M3U Playlist for free TV channels",
+        "language": "Python",
+        "stars": "10,820",
+        "crawled_at": "2026-01-14T13:31:47.399310"
+      },
+      {
+        "name": "onlook-dev /onlook",
+        "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
+        "language": "TypeScript",
+        "stars": "24,303",
+        "crawled_at": "2026-01-14T13:31:47.399477"
       }
     ]
   }
