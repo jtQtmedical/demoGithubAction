@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-16",
-    "repos": [
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "22,496",
-        "crawled_at": "2025-12-16T13:29:46.710358"
-      },
-      {
-        "name": "ZJU-LLMs /Foundations-of-LLMs",
-        "description": "A book for Learning the Foundations of LLMs",
-        "language": "未知",
-        "stars": "14,330",
-        "crawled_at": "2025-12-16T13:29:46.710576"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "43,026",
-        "crawled_at": "2025-12-16T13:29:46.710782"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "7,113",
-        "crawled_at": "2025-12-16T13:29:46.711012"
-      },
-      {
-        "name": "Morganamilo /paru",
-        "description": "Feature packed AUR helper",
-        "language": "Rust",
-        "stars": "7,934",
-        "crawled_at": "2025-12-16T13:29:46.711235"
-      },
-      {
-        "name": "jellyfin /jellyfin-desktop",
-        "description": "Jellyfin Desktop Client",
-        "language": "C++",
-        "stars": "4,640",
-        "crawled_at": "2025-12-16T13:29:46.711421"
-      },
-      {
-        "name": "nicotsx /zerobyte",
-        "description": "Backup automation for self-hosters",
-        "language": "TypeScript",
-        "stars": "2,539",
-        "crawled_at": "2025-12-16T13:29:46.711665"
-      },
-      {
-        "name": "eudoxia0 /hashcards",
-        "description": "A plain text-based spaced repetition system.",
-        "language": "Rust",
-        "stars": "615",
-        "crawled_at": "2025-12-16T13:29:46.711853"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "53,973",
-        "crawled_at": "2025-12-16T13:29:46.712036"
-      },
-      {
-        "name": "C4illin /ConvertX",
-        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-        "language": "TypeScript",
-        "stars": "11,115",
-        "crawled_at": "2025-12-16T13:29:46.712261"
-      }
-    ]
-  },
-  {
     "date": "2025-12-17",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "TypeScript",
         "stars": "24,303",
         "crawled_at": "2026-01-14T13:31:47.399477"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "repos": [
+      {
+        "name": "eigent-ai /eigent",
+        "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+        "language": "TypeScript",
+        "stars": "5,218",
+        "crawled_at": "2026-01-15T13:30:52.545524"
+      },
+      {
+        "name": "blakeblackshear /frigate",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "language": "TypeScript",
+        "stars": "29,248",
+        "crawled_at": "2026-01-15T13:30:52.545769"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "Claude Code superpowers: core skills library",
+        "language": "Shell",
+        "stars": "23,591",
+        "crawled_at": "2026-01-15T13:30:52.545997"
+      },
+      {
+        "name": "cilium /cilium",
+        "description": "eBPF-based Networking, Security, and Observability",
+        "language": "Go",
+        "stars": "23,295",
+        "crawled_at": "2026-01-15T13:30:52.546200"
+      },
+      {
+        "name": "wavetermdev /waveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "Go",
+        "stars": "16,317",
+        "crawled_at": "2026-01-15T13:30:52.546398"
+      },
+      {
+        "name": "ultralytics /ultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "language": "Python",
+        "stars": "51,281",
+        "crawled_at": "2026-01-15T13:30:52.546589"
+      },
+      {
+        "name": "mudler /LocalAI",
+        "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+        "language": "Go",
+        "stars": "41,792",
+        "crawled_at": "2026-01-15T13:30:52.546816"
+      },
+      {
+        "name": "google-ai-edge /mediapipe",
+        "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+        "language": "C++",
+        "stars": "33,120",
+        "crawled_at": "2026-01-15T13:30:52.547002"
+      },
+      {
+        "name": "puckeditor /puck",
+        "description": "The visual editor for React",
+        "language": "TypeScript",
+        "stars": "10,411",
+        "crawled_at": "2026-01-15T13:30:52.547199"
+      },
+      {
+        "name": "twitter /the-algorithm",
+        "description": "Source code for the X Recommendation Algorithm",
+        "language": "Scala",
+        "stars": "70,109",
+        "crawled_at": "2026-01-15T13:30:52.547386"
       }
     ]
   }
