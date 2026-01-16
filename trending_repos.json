@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-17",
-    "repos": [
-      {
-        "name": "C4illin /ConvertX",
-        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-        "language": "TypeScript",
-        "stars": "11,749",
-        "crawled_at": "2025-12-17T13:25:46.206199"
-      },
-      {
-        "name": "resemble-ai /chatterbox",
-        "description": "SoTA open-source TTS",
-        "language": "Python",
-        "stars": "15,591",
-        "crawled_at": "2025-12-17T13:25:46.206377"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "43,269",
-        "crawled_at": "2025-12-17T13:25:46.206543"
-      },
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "23,376",
-        "crawled_at": "2025-12-17T13:25:46.206707"
-      },
-      {
-        "name": "Free-TV /IPTV",
-        "description": "M3U Playlist for free TV channels",
-        "language": "Python",
-        "stars": "8,435",
-        "crawled_at": "2025-12-17T13:25:46.206871"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "62,811",
-        "crawled_at": "2025-12-17T13:25:46.207036"
-      },
-      {
-        "name": "0xk1h0 /ChatGPT_DAN",
-        "description": "ChatGPT DAN, Jailbreaks prompt",
-        "language": "未知",
-        "stars": "10,315",
-        "crawled_at": "2025-12-17T13:25:46.207215"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "385,723",
-        "crawled_at": "2025-12-17T13:25:46.207380"
-      },
-      {
-        "name": "nicotsx /zerobyte",
-        "description": "Backup automation for self-hosters. Built on top of restic",
-        "language": "TypeScript",
-        "stars": "3,001",
-        "crawled_at": "2025-12-17T13:25:46.207580"
-      },
-      {
-        "name": "jellyfin /jellyfin-desktop",
-        "description": "Jellyfin Desktop Client",
-        "language": "C++",
-        "stars": "4,797",
-        "crawled_at": "2025-12-17T13:25:46.207744"
-      }
-    ]
-  },
-  {
     "date": "2025-12-18",
     "repos": [
       {
@@ -2092,6 +2017,74 @@
         "language": "Scala",
         "stars": "70,109",
         "crawled_at": "2026-01-15T13:30:52.547386"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "repos": [
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "25,440",
+        "crawled_at": "2026-01-16T13:29:08.134412"
+      },
+      {
+        "name": "Gentleman-Programming /Gentleman.Dots",
+        "description": "My personal configuration for LazyVim !",
+        "language": "Shell",
+        "stars": "1,084",
+        "crawled_at": "2026-01-16T13:29:08.134636"
+      },
+      {
+        "name": "google /langextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "stars": "20,987",
+        "crawled_at": "2026-01-16T13:29:08.134830"
+      },
+      {
+        "name": "cjpais /Handy",
+        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+        "language": "TypeScript",
+        "stars": "11,597",
+        "crawled_at": "2026-01-16T13:29:08.135062"
+      },
+      {
+        "name": "puckeditor /puck",
+        "description": "The visual editor for React",
+        "language": "TypeScript",
+        "stars": "10,883",
+        "crawled_at": "2026-01-16T13:29:08.135270"
+      },
+      {
+        "name": "ultralytics /ultralytics",
+        "description": "Ultralytics YOLO 🚀",
+        "language": "Python",
+        "stars": "51,645",
+        "crawled_at": "2026-01-16T13:29:08.135460"
+      },
+      {
+        "name": "eigent-ai /eigent",
+        "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+        "language": "TypeScript",
+        "stars": "7,251",
+        "crawled_at": "2026-01-16T13:29:08.135647"
+      },
+      {
+        "name": "iOfficeAI /AionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "3,998",
+        "crawled_at": "2026-01-16T13:29:08.135836"
+      },
+      {
+        "name": "agentsmd /agents.md",
+        "description": "AGENTS.md — a simple, open format for guiding coding agents",
+        "language": "TypeScript",
+        "stars": "15,226",
+        "crawled_at": "2026-01-16T13:29:08.136023"
       }
     ]
   }
