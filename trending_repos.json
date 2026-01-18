@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-19",
-    "repos": [
-      {
-        "name": "jaywcjlove /awesome-mac",
-        "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
-        "language": "JavaScript",
-        "stars": "96,172",
-        "crawled_at": "2025-12-19T13:24:42.455544"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "46,985",
-        "crawled_at": "2025-12-19T13:24:42.455746"
-      },
-      {
-        "name": "NVIDIA-NeMo /Gym",
-        "description": "Build RL environments for LLM training",
-        "language": "Python",
-        "stars": "391",
-        "crawled_at": "2025-12-19T13:24:42.455937"
-      },
-      {
-        "name": "GreyDGL /PentestGPT",
-        "description": "A GPT-empowered penetration testing tool",
-        "language": "Python",
-        "stars": "9,477",
-        "crawled_at": "2025-12-19T13:24:42.456122"
-      },
-      {
-        "name": "exo-explore /exo",
-        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
-        "language": "Python",
-        "stars": "33,351",
-        "crawled_at": "2025-12-19T13:24:42.456327"
-      },
-      {
-        "name": "swisskyrepo /PayloadsAllTheThings",
-        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-        "language": "Python",
-        "stars": "72,445",
-        "crawled_at": "2025-12-19T13:24:42.456560"
-      },
-      {
-        "name": "sgl-project /mini-sglang",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "1,321",
-        "crawled_at": "2025-12-19T13:24:42.456771"
-      },
-      {
-        "name": "google /adk-js",
-        "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-        "language": "TypeScript",
-        "stars": "266",
-        "crawled_at": "2025-12-19T13:24:42.456963"
-      },
-      {
-        "name": "afshinea /stanford-cs-229-machine-learning",
-        "description": "VIP cheatsheets for Stanford's CS 229 Machine Learning",
-        "language": "未知",
-        "stars": "18,911",
-        "crawled_at": "2025-12-19T13:24:42.457152"
-      },
-      {
-        "name": "metabase /metabase",
-        "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-        "language": "Clojure",
-        "stars": "45,053",
-        "crawled_at": "2025-12-19T13:24:42.457355"
-      }
-    ]
-  },
-  {
     "date": "2025-12-20",
     "repos": [
       {
@@ -2085,6 +2010,74 @@
         "language": "TypeScript",
         "stars": "4,593",
         "crawled_at": "2026-01-17T13:20:42.107731"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "repos": [
+      {
+        "name": "iOfficeAI /AionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "5,252",
+        "crawled_at": "2026-01-18T13:20:21.865763"
+      },
+      {
+        "name": "yt-dlp /yt-dlp",
+        "description": "A feature-rich command-line audio/video downloader",
+        "language": "Python",
+        "stars": "142,274",
+        "crawled_at": "2026-01-18T13:20:21.865967"
+      },
+      {
+        "name": "nautechsystems /nautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "stars": "17,369",
+        "crawled_at": "2026-01-18T13:20:21.866157"
+      },
+      {
+        "name": "google /langextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "stars": "21,804",
+        "crawled_at": "2026-01-18T13:20:21.866343"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+        "language": "Python",
+        "stars": "3,951",
+        "crawled_at": "2026-01-18T13:20:21.866542"
+      },
+      {
+        "name": "yichuan-w /LEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "language": "Python",
+        "stars": "8,811",
+        "crawled_at": "2026-01-18T13:20:21.866730"
+      },
+      {
+        "name": "Flowseal /zapret-discord-youtube",
+        "description": "無描述",
+        "language": "Batchfile",
+        "stars": "21,186",
+        "crawled_at": "2026-01-18T13:20:21.866944"
+      },
+      {
+        "name": "tobi /try",
+        "description": "fresh directories for every vibe",
+        "language": "Shell",
+        "stars": "2,620",
+        "crawled_at": "2026-01-18T13:20:21.867128"
+      },
+      {
+        "name": "Mebus /cupp",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "language": "Python",
+        "stars": "5,488",
+        "crawled_at": "2026-01-18T13:20:21.867309"
       }
     ]
   }
