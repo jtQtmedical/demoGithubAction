@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-20",
-    "repos": [
-      {
-        "name": "exo-explore /exo",
-        "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
-        "language": "Python",
-        "stars": "33,971",
-        "crawled_at": "2025-12-20T13:18:26.162046"
-      },
-      {
-        "name": "lintsinghua /DeepAudit",
-        "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。",
-        "language": "Python",
-        "stars": "1,916",
-        "crawled_at": "2025-12-20T13:18:26.162225"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "47,309",
-        "crawled_at": "2025-12-20T13:18:26.162390"
-      },
-      {
-        "name": "github /awesome-copilot",
-        "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-        "language": "JavaScript",
-        "stars": "14,857",
-        "crawled_at": "2025-12-20T13:18:26.162554"
-      },
-      {
-        "name": "swisskyrepo /PayloadsAllTheThings",
-        "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-        "language": "Python",
-        "stars": "72,747",
-        "crawled_at": "2025-12-20T13:18:26.162772"
-      },
-      {
-        "name": "sgl-project /mini-sglang",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "1,622",
-        "crawled_at": "2025-12-20T13:18:26.162958"
-      },
-      {
-        "name": "cloudcommunity /Free-Certifications",
-        "description": "A curated list of free courses with certifications. Also available athttps://free-certifications.com/",
-        "language": "未知",
-        "stars": "46,947",
-        "crawled_at": "2025-12-20T13:18:26.163142"
-      },
-      {
-        "name": "GreyDGL /PentestGPT",
-        "description": "A GPT-empowered penetration testing tool",
-        "language": "Python",
-        "stars": "9,717",
-        "crawled_at": "2025-12-20T13:18:26.163306"
-      },
-      {
-        "name": "NexaAI /nexa-sdk",
-        "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.",
-        "language": "Go",
-        "stars": "6,624",
-        "crawled_at": "2025-12-20T13:18:26.163470"
-      },
-      {
-        "name": "astral-sh /ty",
-        "description": "An extremely fast Python type checker and language server, written in Rust.",
-        "language": "Python",
-        "stars": "15,106",
-        "crawled_at": "2025-12-20T13:18:26.163643"
-      }
-    ]
-  },
-  {
     "date": "2025-12-21",
     "repos": [
       {
@@ -2078,6 +2003,67 @@
         "language": "Python",
         "stars": "5,488",
         "crawled_at": "2026-01-18T13:20:21.867309"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "repos": [
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+        "language": "Python",
+        "stars": "4,633",
+        "crawled_at": "2026-01-19T13:36:00.943666"
+      },
+      {
+        "name": "google /langextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "stars": "22,457",
+        "crawled_at": "2026-01-19T13:36:00.943867"
+      },
+      {
+        "name": "iOfficeAI /AionUi",
+        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "6,445",
+        "crawled_at": "2026-01-19T13:36:00.944053"
+      },
+      {
+        "name": "czlonkowski /n8n-mcp",
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "language": "TypeScript",
+        "stars": "12,012",
+        "crawled_at": "2026-01-19T13:36:00.944284"
+      },
+      {
+        "name": "nautechsystems /nautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "stars": "17,889",
+        "crawled_at": "2026-01-19T13:36:00.944469"
+      },
+      {
+        "name": "ahujasid /blender-mcp",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "15,731",
+        "crawled_at": "2026-01-19T13:36:00.944736"
+      },
+      {
+        "name": "yichuan-w /LEANN",
+        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+        "language": "Python",
+        "stars": "9,177",
+        "crawled_at": "2026-01-19T13:36:00.953393"
+      },
+      {
+        "name": "DavidXanatos /TaskExplorer",
+        "description": "Power full Task Manager",
+        "language": "C",
+        "stars": "2,331",
+        "crawled_at": "2026-01-19T13:36:00.953615"
       }
     ]
   }
