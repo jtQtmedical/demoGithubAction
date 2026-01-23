@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-24",
-    "repos": [
-      {
-        "name": "rendercv /rendercv",
-        "description": "Typst-based CV/resume generator for academics and engineers",
-        "language": "Python",
-        "stars": "8,213",
-        "crawled_at": "2025-12-24T13:23:31.967298"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "68,391",
-        "crawled_at": "2025-12-24T13:23:31.967494"
-      },
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "18,923",
-        "crawled_at": "2025-12-24T13:23:31.967725"
-      },
-      {
-        "name": "vllm-project /vllm-omni",
-        "description": "A framework for efficient model inference with omni-modality models",
-        "language": "Python",
-        "stars": "1,518",
-        "crawled_at": "2025-12-24T13:23:31.967955"
-      },
-      {
-        "name": "stan-smith /FossFLOW",
-        "description": "Make beautiful isometric infrastructure diagrams",
-        "language": "TypeScript",
-        "stars": "14,793",
-        "crawled_at": "2025-12-24T13:23:31.968178"
-      },
-      {
-        "name": "davila7 /claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "language": "Python",
-        "stars": "13,528",
-        "crawled_at": "2025-12-24T13:23:31.968364"
-      },
-      {
-        "name": "safety-research /bloom",
-        "description": "bloom - evaluate any behavior immediately  🌸🌱",
-        "language": "Python",
-        "stars": "675",
-        "crawled_at": "2025-12-24T13:23:31.968559"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-        "language": "TypeScript",
-        "stars": "41,283",
-        "crawled_at": "2025-12-24T13:23:31.968756"
-      },
-      {
-        "name": "yichuan-w /LEANN",
-        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-        "language": "Python",
-        "stars": "5,675",
-        "crawled_at": "2025-12-24T13:23:31.968935"
-      },
-      {
-        "name": "danielmiessler /Fabric",
-        "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-        "language": "Go",
-        "stars": "36,402",
-        "crawled_at": "2025-12-24T13:23:31.969154"
-      }
-    ]
-  },
-  {
     "date": "2025-12-25",
     "repos": [
       {
@@ -2036,6 +1961,81 @@
         "language": "TypeScript",
         "stars": "8,177",
         "crawled_at": "2026-01-22T13:36:47.753124"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "repos": [
+      {
+        "name": "remotion-dev /remotion",
+        "description": "🎥 Make videos programmatically with React",
+        "language": "TypeScript",
+        "stars": "27,872",
+        "crawled_at": "2026-01-23T13:33:37.567063"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "21,030",
+        "crawled_at": "2026-01-23T13:33:37.567313"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "27,418",
+        "crawled_at": "2026-01-23T13:33:37.567506"
+      },
+      {
+        "name": "ai-dynamo /dynamo",
+        "description": "A Datacenter Scale Distributed Inference Serving Framework",
+        "language": "Rust",
+        "stars": "5,844",
+        "crawled_at": "2026-01-23T13:33:37.567719"
+      },
+      {
+        "name": "browser-use /browser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "language": "Python",
+        "stars": "76,202",
+        "crawled_at": "2026-01-23T13:33:37.567904"
+      },
+      {
+        "name": "github /copilot-cli",
+        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+        "language": "Shell",
+        "stars": "7,027",
+        "crawled_at": "2026-01-23T13:33:37.568109"
+      },
+      {
+        "name": "Asabeneh /30-Days-Of-Python",
+        "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "language": "Python",
+        "stars": "56,205",
+        "crawled_at": "2026-01-23T13:33:37.568372"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "59,708",
+        "crawled_at": "2026-01-23T13:33:37.568558"
+      },
+      {
+        "name": "deepseek-ai /FlashMLA",
+        "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+        "language": "C++",
+        "stars": "12,254",
+        "crawled_at": "2026-01-23T13:33:37.568760"
+      },
+      {
+        "name": "microsoft /Data-Science-For-Beginners",
+        "description": "10 Weeks, 20 Lessons, Data Science for All!",
+        "language": "Jupyter Notebook",
+        "stars": "33,158",
+        "crawled_at": "2026-01-23T13:33:37.568942"
       }
     ]
   }
