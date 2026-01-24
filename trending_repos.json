@@ -1,73 +1,5 @@
 [
   {
-    "date": "2025-12-25",
-    "repos": [
-      {
-        "name": "rendercv /rendercv",
-        "description": "Typst-based CV/resume generator for academics and engineers, YAML to PDF",
-        "language": "Python",
-        "stars": "9,994",
-        "crawled_at": "2025-12-25T13:23:36.815223"
-      },
-      {
-        "name": "xerrors /Yuxi-Know",
-        "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
-        "language": "Python",
-        "stars": "3,076",
-        "crawled_at": "2025-12-25T13:23:36.815422"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "68,682",
-        "crawled_at": "2025-12-25T13:23:36.815591"
-      },
-      {
-        "name": "vendure-ecommerce /vendure",
-        "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
-        "language": "TypeScript",
-        "stars": "7,487",
-        "crawled_at": "2025-12-25T13:23:36.815761"
-      },
-      {
-        "name": "yichuan-w /LEANN",
-        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-        "language": "Python",
-        "stars": "5,941",
-        "crawled_at": "2025-12-25T13:23:36.815926"
-      },
-      {
-        "name": "resemble-ai /chatterbox",
-        "description": "SoTA open-source TTS",
-        "language": "Python",
-        "stars": "17,514",
-        "crawled_at": "2025-12-25T13:23:36.816092"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.",
-        "language": "TypeScript",
-        "stars": "41,578",
-        "crawled_at": "2025-12-25T13:23:36.816262"
-      },
-      {
-        "name": "vllm-project /vllm-omni",
-        "description": "A framework for efficient model inference with omni-modality models",
-        "language": "Python",
-        "stars": "1,640",
-        "crawled_at": "2025-12-25T13:23:36.816475"
-      },
-      {
-        "name": "ModelTC /LightX2V",
-        "description": "Light Video Generation Inference Framework",
-        "language": "Python",
-        "stars": "1,350",
-        "crawled_at": "2025-12-25T13:23:36.816639"
-      }
-    ]
-  },
-  {
     "date": "2025-12-26",
     "repos": [
       {
@@ -2036,6 +1968,81 @@
         "language": "Jupyter Notebook",
         "stars": "33,158",
         "crawled_at": "2026-01-23T13:33:37.568942"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "repos": [
+      {
+        "name": "remotion-dev /remotion",
+        "description": "🎥 Make videos programmatically with React",
+        "language": "TypeScript",
+        "stars": "29,046",
+        "crawled_at": "2026-01-24T13:22:40.954985"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "7,833",
+        "crawled_at": "2026-01-24T13:22:40.955187"
+      },
+      {
+        "name": "OpenBMB /UltraRAG",
+        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+        "language": "Python",
+        "stars": "3,273",
+        "crawled_at": "2026-01-24T13:22:40.955375"
+      },
+      {
+        "name": "browser-use /browser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "language": "Python",
+        "stars": "76,591",
+        "crawled_at": "2026-01-24T13:22:40.955564"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "27,835",
+        "crawled_at": "2026-01-24T13:22:40.955750"
+      },
+      {
+        "name": "Blaizzy /mlx-audio",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "language": "Python",
+        "stars": "3,402",
+        "crawled_at": "2026-01-24T13:22:40.955994"
+      },
+      {
+        "name": "simstudioai /sim",
+        "description": "Open-source platform to build and deploy AI agent workflows.",
+        "language": "TypeScript",
+        "stars": "26,083",
+        "crawled_at": "2026-01-24T13:22:40.956180"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "21,471",
+        "crawled_at": "2026-01-24T13:22:40.956368"
+      },
+      {
+        "name": "putyy /res-downloader",
+        "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+        "language": "Go",
+        "stars": "14,266",
+        "crawled_at": "2026-01-24T13:22:40.956555"
+      },
+      {
+        "name": "AI4Finance-Foundation /FinRobot",
+        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+        "language": "Jupyter Notebook",
+        "stars": "5,060",
+        "crawled_at": "2026-01-24T13:22:40.956742"
       }
     ]
   }
