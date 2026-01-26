@@ -1,45 +1,5 @@
 [
   {
-    "date": "2025-12-27",
-    "repos": [
-      {
-        "name": "TheAlgorithms /Python",
-        "description": "All Algorithms implemented in Python",
-        "language": "Python",
-        "stars": "215,378",
-        "crawled_at": "2025-12-27T13:19:51.385192"
-      },
-      {
-        "name": "xerrors /Yuxi-Know",
-        "description": "结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.",
-        "language": "Python",
-        "stars": "3,405",
-        "crawled_at": "2025-12-27T13:19:51.385415"
-      },
-      {
-        "name": "agrinman /tunnelto",
-        "description": "Expose your local web server to the internet with a public URL.",
-        "language": "Rust",
-        "stars": "3,266",
-        "crawled_at": "2025-12-27T13:19:51.385608"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "84,315",
-        "crawled_at": "2025-12-27T13:19:51.385833"
-      },
-      {
-        "name": "rendercv /rendercv",
-        "description": "CV/resume generator for academics and engineers, YAML to PDF",
-        "language": "Python",
-        "stars": "12,428",
-        "crawled_at": "2025-12-27T13:19:51.386016"
-      }
-    ]
-  },
-  {
     "date": "2025-12-28",
     "repos": [
       {
@@ -2057,6 +2017,67 @@
         "language": "TypeScript",
         "stars": "14,513",
         "crawled_at": "2026-01-25T13:23:45.265307"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "repos": [
+      {
+        "name": "Blaizzy /mlx-audio",
+        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+        "language": "Python",
+        "stars": "4,902",
+        "crawled_at": "2026-01-26T13:35:42.493151"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "9,514",
+        "crawled_at": "2026-01-26T13:35:42.493358"
+      },
+      {
+        "name": "supermemoryai /supermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "stars": "14,935",
+        "crawled_at": "2026-01-26T13:35:42.493564"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "28,989",
+        "crawled_at": "2026-01-26T13:35:42.493754"
+      },
+      {
+        "name": "remotion-dev /remotion",
+        "description": "🎥 Make videos programmatically with React",
+        "language": "TypeScript",
+        "stars": "31,485",
+        "crawled_at": "2026-01-26T13:35:42.493940"
+      },
+      {
+        "name": "AI4Finance-Foundation /FinRobot",
+        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
+        "language": "Jupyter Notebook",
+        "stars": "5,478",
+        "crawled_at": "2026-01-26T13:35:42.494124"
+      },
+      {
+        "name": "k4yt3x /video2x",
+        "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+        "language": "C++",
+        "stars": "17,894",
+        "crawled_at": "2026-01-26T13:35:42.494343"
+      },
+      {
+        "name": "business-science /ai-data-science-team",
+        "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
+        "language": "Python",
+        "stars": "3,923",
+        "crawled_at": "2026-01-26T13:35:42.494539"
       }
     ]
   }
