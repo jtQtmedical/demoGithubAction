@@ -1,80 +1,5 @@
 [
   {
-    "date": "2025-12-30",
-    "repos": [
-      {
-        "name": "BloopAI /vibe-kanban",
-        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-        "language": "Rust",
-        "stars": "8,432",
-        "crawled_at": "2025-12-30T13:27:45.046714"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "language": "未知",
-        "stars": "103,840",
-        "crawled_at": "2025-12-30T13:27:45.046926"
-      },
-      {
-        "name": "QuantConnect /Lean",
-        "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
-        "language": "C#",
-        "stars": "15,077",
-        "crawled_at": "2025-12-30T13:27:45.047174"
-      },
-      {
-        "name": "jrouwe /JoltPhysics",
-        "description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.",
-        "language": "C++",
-        "stars": "8,940",
-        "crawled_at": "2025-12-30T13:27:45.047358"
-      },
-      {
-        "name": "timescale /pg-aiguide",
-        "description": "MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.",
-        "language": "Python",
-        "stars": "646",
-        "crawled_at": "2025-12-30T13:27:45.047549"
-      },
-      {
-        "name": "resemble-ai /chatterbox",
-        "description": "SoTA open-source TTS",
-        "language": "Python",
-        "stars": "19,440",
-        "crawled_at": "2025-12-30T13:27:45.047739"
-      },
-      {
-        "name": "RustPython /RustPython",
-        "description": "A Python Interpreter written in Rust",
-        "language": "Rust",
-        "stars": "21,430",
-        "crawled_at": "2025-12-30T13:27:45.047922"
-      },
-      {
-        "name": "sinelaw /fresh",
-        "description": "Text editor for your terminal: easy, powerful and fast",
-        "language": "Rust",
-        "stars": "4,229",
-        "crawled_at": "2025-12-30T13:27:45.048159"
-      },
-      {
-        "name": "alexta69 /metube",
-        "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
-        "language": "Python",
-        "stars": "11,395",
-        "crawled_at": "2025-12-30T13:27:45.048342"
-      },
-      {
-        "name": "anthropics /skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars": "29,839",
-        "crawled_at": "2025-12-30T13:27:45.048524"
-      }
-    ]
-  },
-  {
     "date": "2025-12-31",
     "repos": [
       {
@@ -2064,6 +1989,81 @@
         "language": "C++",
         "stars": "3,757",
         "crawled_at": "2026-01-28T13:37:56.678744"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "repos": [
+      {
+        "name": "moltbot /moltbot",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "99,029",
+        "crawled_at": "2026-01-29T13:47:45.731209"
+      },
+      {
+        "name": "badlogic /pi-mono",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "3,350",
+        "crawled_at": "2026-01-29T13:47:45.731453"
+      },
+      {
+        "name": "hashicorp /vault",
+        "description": "A tool for secrets management, encryption as a service, and privileged access management",
+        "language": "Go",
+        "stars": "34,522",
+        "crawled_at": "2026-01-29T13:47:45.731652"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "27,181",
+        "crawled_at": "2026-01-29T13:47:45.731905"
+      },
+      {
+        "name": "NevaMind-AI /memU",
+        "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+        "language": "Python",
+        "stars": "5,879",
+        "crawled_at": "2026-01-29T13:47:45.732095"
+      },
+      {
+        "name": "modelcontextprotocol /ext-apps",
+        "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+        "language": "TypeScript",
+        "stars": "760",
+        "crawled_at": "2026-01-29T13:47:45.732284"
+      },
+      {
+        "name": "MoonshotAI /kimi-cli",
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "language": "Python",
+        "stars": "4,821",
+        "crawled_at": "2026-01-29T13:47:45.732478"
+      },
+      {
+        "name": "kubernetes /ingress-nginx",
+        "description": "Ingress NGINX Controller for Kubernetes",
+        "language": "Go",
+        "stars": "19,393",
+        "crawled_at": "2026-01-29T13:47:45.732673"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "70,491",
+        "crawled_at": "2026-01-29T13:47:45.732907"
+      },
+      {
+        "name": "lobehub /lobehub",
+        "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+        "language": "TypeScript",
+        "stars": "71,060",
+        "crawled_at": "2026-01-29T13:47:45.733146"
       }
     ]
   }
