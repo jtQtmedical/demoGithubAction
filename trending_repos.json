@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-01",
-    "repos": [
-      {
-        "name": "awslabs /amazon-bedrock-agentcore-samples",
-        "description": "Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.",
-        "language": "Jupyter Notebook",
-        "stars": "1,906",
-        "crawled_at": "2026-01-01T13:24:56.663558"
-      },
-      {
-        "name": "BloopAI /vibe-kanban",
-        "description": "Get 10X more out of Claude Code, Codex or any coding agent",
-        "language": "Rust",
-        "stars": "10,438",
-        "crawled_at": "2026-01-01T13:24:56.663743"
-      },
-      {
-        "name": "usememos /memos",
-        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-        "language": "Go",
-        "stars": "47,780",
-        "crawled_at": "2026-01-01T13:24:56.663954"
-      },
-      {
-        "name": "organicmaps /organicmaps",
-        "description": "🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!",
-        "language": "C++",
-        "stars": "12,680",
-        "crawled_at": "2026-01-01T13:24:56.664161"
-      },
-      {
-        "name": "afkarxyz /SpotiFLAC",
-        "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
-        "language": "TypeScript",
-        "stars": "1,737",
-        "crawled_at": "2026-01-01T13:24:56.664341"
-      },
-      {
-        "name": "HQarroum /docker-android",
-        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-        "language": "Shell",
-        "stars": "971",
-        "crawled_at": "2026-01-01T13:24:56.664510"
-      },
-      {
-        "name": "harvard-edge /cs249r_book",
-        "description": "Introduction to Machine Learning Systems",
-        "language": "JavaScript",
-        "stars": "14,200",
-        "crawled_at": "2026-01-01T13:24:56.664679"
-      },
-      {
-        "name": "Polymarket /agents",
-        "description": "Trade autonomously on Polymarket using AI Agents",
-        "language": "Python",
-        "stars": "1,288",
-        "crawled_at": "2026-01-01T13:24:56.664845"
-      },
-      {
-        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
-        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-        "language": "Jupyter Notebook",
-        "stars": "19,282",
-        "crawled_at": "2026-01-01T13:24:56.665011"
-      },
-      {
-        "name": "yichuan-w /LEANN",
-        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-        "language": "Python",
-        "stars": "7,615",
-        "crawled_at": "2026-01-01T13:24:56.665178"
-      }
-    ]
-  },
-  {
     "date": "2026-01-02",
     "repos": [
       {
@@ -2064,6 +1989,81 @@
         "language": "JavaScript",
         "stars": "20,796",
         "crawled_at": "2026-01-30T13:44:48.743734"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "repos": [
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "127,401",
+        "crawled_at": "2026-01-31T13:31:56.334207"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+        "language": "JavaScript",
+        "stars": "28,885",
+        "crawled_at": "2026-01-31T13:31:56.334471"
+      },
+      {
+        "name": "MoonshotAI /kimi-cli",
+        "description": "Kimi Code CLI is your next CLI agent.",
+        "language": "Python",
+        "stars": "5,453",
+        "crawled_at": "2026-01-31T13:31:56.334671"
+      },
+      {
+        "name": "modelcontextprotocol /ext-apps",
+        "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+        "language": "TypeScript",
+        "stars": "1,105",
+        "crawled_at": "2026-01-31T13:31:56.334861"
+      },
+      {
+        "name": "NevaMind-AI /memU",
+        "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+        "language": "Python",
+        "stars": "6,645",
+        "crawled_at": "2026-01-31T13:31:56.335052"
+      },
+      {
+        "name": "hashicorp /vault",
+        "description": "A tool for secrets management, encryption as a service, and privileged access management",
+        "language": "Go",
+        "stars": "34,895",
+        "crawled_at": "2026-01-31T13:31:56.335245"
+      },
+      {
+        "name": "badlogic /pi-mono",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "3,877",
+        "crawled_at": "2026-01-31T13:31:56.335489"
+      },
+      {
+        "name": "anomalyco /opencode-anthropic-auth",
+        "description": "無描述",
+        "language": "JavaScript",
+        "stars": "392",
+        "crawled_at": "2026-01-31T13:31:56.335740"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "70,602",
+        "crawled_at": "2026-01-31T13:31:56.335927"
+      },
+      {
+        "name": "pedroslopez /whatsapp-web.js",
+        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+        "language": "JavaScript",
+        "stars": "20,923",
+        "crawled_at": "2026-01-31T13:31:56.336156"
       }
     ]
   }
