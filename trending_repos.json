@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-01-02",
-    "repos": [
-      {
-        "name": "HQarroum /docker-android",
-        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-        "language": "Shell",
-        "stars": "1,461",
-        "crawled_at": "2026-01-02T13:24:16.266792"
-      },
-      {
-        "name": "nocodb /nocodb",
-        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-        "language": "TypeScript",
-        "stars": "59,816",
-        "crawled_at": "2026-01-02T13:24:16.267039"
-      },
-      {
-        "name": "openai /openai-cookbook",
-        "description": "Examples and guides for using the OpenAI API",
-        "language": "Jupyter Notebook",
-        "stars": "70,300",
-        "crawled_at": "2026-01-02T13:24:16.267229"
-      },
-      {
-        "name": "ourongxing /newsnow",
-        "description": "Elegant reading of real-time and hottest news",
-        "language": "TypeScript",
-        "stars": "15,878",
-        "crawled_at": "2026-01-02T13:24:16.267455"
-      },
-      {
-        "name": "rossant /awesome-math",
-        "description": "A curated list of awesome mathematics resources",
-        "language": "Python",
-        "stars": "12,835",
-        "crawled_at": "2026-01-02T13:24:16.267686"
-      },
-      {
-        "name": "usememos /memos",
-        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-        "language": "Go",
-        "stars": "48,484",
-        "crawled_at": "2026-01-02T13:24:16.267921"
-      },
-      {
-        "name": "GitHubDaily /GitHubDaily",
-        "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
-        "language": "未知",
-        "stars": "43,673",
-        "crawled_at": "2026-01-02T13:24:16.268119"
-      },
-      {
-        "name": "SYSTRAN /faster-whisper",
-        "description": "Faster Whisper transcription with CTranslate2",
-        "language": "Python",
-        "stars": "19,946",
-        "crawled_at": "2026-01-02T13:24:16.268314"
-      },
-      {
-        "name": "Koenkk /zigbee2mqtt",
-        "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
-        "language": "TypeScript",
-        "stars": "14,456",
-        "crawled_at": "2026-01-02T13:24:16.268553"
-      }
-    ]
-  },
-  {
     "date": "2026-01-03",
     "repos": [
       {
@@ -2064,6 +1996,81 @@
         "language": "JavaScript",
         "stars": "20,923",
         "crawled_at": "2026-01-31T13:31:56.336156"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "repos": [
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "137,893",
+        "crawled_at": "2026-02-01T13:33:29.021559"
+      },
+      {
+        "name": "ThePrimeagen /99",
+        "description": "Neovim AI agent done right",
+        "language": "Lua",
+        "stars": "2,613",
+        "crawled_at": "2026-02-01T13:33:29.021798"
+      },
+      {
+        "name": "pedramamini /Maestro",
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "stars": "823",
+        "crawled_at": "2026-02-01T13:33:29.022010"
+      },
+      {
+        "name": "kovidgoyal /calibre",
+        "description": "The official source code repository for the calibre ebook manager",
+        "language": "Python",
+        "stars": "23,561",
+        "crawled_at": "2026-02-01T13:33:29.022239"
+      },
+      {
+        "name": "badlogic /pi-mono",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "4,509",
+        "crawled_at": "2026-02-01T13:33:29.022463"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "15,860",
+        "crawled_at": "2026-02-01T13:33:29.022688"
+      },
+      {
+        "name": "microsoft /agent-lightning",
+        "description": "The absolute trainer to light up AI agents.",
+        "language": "Python",
+        "stars": "12,803",
+        "crawled_at": "2026-02-01T13:33:29.022875"
+      },
+      {
+        "name": "amantus-ai /vibetunnel",
+        "description": "Turn any browser into your terminal & command your agents on the go.",
+        "language": "TypeScript",
+        "stars": "3,381",
+        "crawled_at": "2026-02-01T13:33:29.023076"
+      },
+      {
+        "name": "steipete /CodexBar",
+        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+        "language": "Swift",
+        "stars": "3,659",
+        "crawled_at": "2026-02-01T13:33:29.023312"
+      },
+      {
+        "name": "j178 /prek",
+        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+        "language": "Rust",
+        "stars": "4,112",
+        "crawled_at": "2026-02-01T13:33:29.023539"
       }
     ]
   }
