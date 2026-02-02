@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-01-03",
-    "repos": [
-      {
-        "name": "usememos /memos",
-        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-        "language": "Go",
-        "stars": "49,385",
-        "crawled_at": "2026-01-03T13:20:28.005346"
-      },
-      {
-        "name": "ourongxing /newsnow",
-        "description": "Elegant reading of real-time and hottest news",
-        "language": "TypeScript",
-        "stars": "16,182",
-        "crawled_at": "2026-01-03T13:20:28.005576"
-      },
-      {
-        "name": "pathwaycom /pathway",
-        "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
-        "language": "Python",
-        "stars": "55,806",
-        "crawled_at": "2026-01-03T13:20:28.005745"
-      },
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "56,232",
-        "crawled_at": "2026-01-03T13:20:28.005951"
-      },
-      {
-        "name": "HQarroum /docker-android",
-        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-        "language": "Shell",
-        "stars": "1,966",
-        "crawled_at": "2026-01-03T13:20:28.006119"
-      },
-      {
-        "name": "beancount /beancount",
-        "description": "Beancount: Double-Entry Accounting from Text Files.",
-        "language": "Python",
-        "stars": "4,883",
-        "crawled_at": "2026-01-03T13:20:28.006287"
-      },
-      {
-        "name": "maplibre /maplibre-gl-js",
-        "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
-        "language": "TypeScript",
-        "stars": "8,932",
-        "crawled_at": "2026-01-03T13:20:28.006488"
-      },
-      {
-        "name": "nukeop /nuclear",
-        "description": "Streaming music player that finds free music for you",
-        "language": "TypeScript",
-        "stars": "16,660",
-        "crawled_at": "2026-01-03T13:20:28.006698"
-      }
-    ]
-  },
-  {
     "date": "2026-01-04",
     "repos": [
       {
@@ -2071,6 +2010,81 @@
         "language": "Rust",
         "stars": "4,112",
         "crawled_at": "2026-02-01T13:33:29.023539"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "17,373",
+        "crawled_at": "2026-02-02T13:51:33.187931"
+      },
+      {
+        "name": "ThePrimeagen /99",
+        "description": "Neovim AI agent done right",
+        "language": "Lua",
+        "stars": "2,920",
+        "crawled_at": "2026-02-02T13:51:33.188174"
+      },
+      {
+        "name": "termux /termux-app",
+        "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+        "language": "Java",
+        "stars": "49,706",
+        "crawled_at": "2026-02-02T13:51:33.188423"
+      },
+      {
+        "name": "pedramamini /Maestro",
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "stars": "1,159",
+        "crawled_at": "2026-02-02T13:51:33.188618"
+      },
+      {
+        "name": "netbirdio /netbird",
+        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "language": "Go",
+        "stars": "21,836",
+        "crawled_at": "2026-02-02T13:51:33.188842"
+      },
+      {
+        "name": "OpenBMB /ChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "language": "Python",
+        "stars": "29,215",
+        "crawled_at": "2026-02-02T13:51:33.189027"
+      },
+      {
+        "name": "autobrr /qui",
+        "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+        "language": "Go",
+        "stars": "2,635",
+        "crawled_at": "2026-02-02T13:51:33.189211"
+      },
+      {
+        "name": "badlogic /pi-mono",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "5,374",
+        "crawled_at": "2026-02-02T13:51:33.189453"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "12,275",
+        "crawled_at": "2026-02-02T13:51:33.189649"
+      },
+      {
+        "name": "karpathy /nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars": "41,449",
+        "crawled_at": "2026-02-02T13:51:33.189837"
       }
     ]
   }
