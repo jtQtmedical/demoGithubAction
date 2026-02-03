@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-04",
-    "repos": [
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "56,654",
-        "crawled_at": "2026-01-04T13:21:36.581759"
-      },
-      {
-        "name": "openai /openai-cookbook",
-        "description": "Examples and guides for using the OpenAI API",
-        "language": "Jupyter Notebook",
-        "stars": "70,529",
-        "crawled_at": "2026-01-04T13:21:36.581965"
-      },
-      {
-        "name": "nocodb /nocodb",
-        "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
-        "language": "TypeScript",
-        "stars": "60,455",
-        "crawled_at": "2026-01-04T13:21:36.582200"
-      },
-      {
-        "name": "HQarroum /docker-android",
-        "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service.",
-        "language": "Shell",
-        "stars": "2,350",
-        "crawled_at": "2026-01-04T13:21:36.582412"
-      },
-      {
-        "name": "usememos /memos",
-        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-        "language": "Go",
-        "stars": "50,992",
-        "crawled_at": "2026-01-04T13:21:36.582643"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "44,439",
-        "crawled_at": "2026-01-04T13:21:36.582832"
-      },
-      {
-        "name": "ourongxing /newsnow",
-        "description": "Elegant reading of real-time and hottest news",
-        "language": "TypeScript",
-        "stars": "16,505",
-        "crawled_at": "2026-01-04T13:21:36.583060"
-      },
-      {
-        "name": "anomalyco /opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars": "47,071",
-        "crawled_at": "2026-01-04T13:21:36.583288"
-      },
-      {
-        "name": "5rahim /seanime",
-        "description": "Open-source media server with a web interface and desktop app for anime and manga.",
-        "language": "Go",
-        "stars": "1,911",
-        "crawled_at": "2026-01-04T13:21:36.583542"
-      },
-      {
-        "name": "python /cpython",
-        "description": "The Python programming language",
-        "language": "Python",
-        "stars": "70,622",
-        "crawled_at": "2026-01-04T13:21:36.583771"
-      }
-    ]
-  },
-  {
     "date": "2026-01-05",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Python",
         "stars": "41,449",
         "crawled_at": "2026-02-02T13:51:33.189837"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "19,117",
+        "crawled_at": "2026-02-03T13:53:11.224417"
+      },
+      {
+        "name": "masoncl /review-prompts",
+        "description": "AI review prompts",
+        "language": "Python",
+        "stars": "225",
+        "crawled_at": "2026-02-03T13:53:11.224622"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "2,731",
+        "crawled_at": "2026-02-03T13:53:11.224862"
+      },
+      {
+        "name": "automazeio /ccpm",
+        "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+        "language": "Shell",
+        "stars": "6,534",
+        "crawled_at": "2026-02-03T13:53:11.225057"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "43,169",
+        "crawled_at": "2026-02-03T13:53:11.225288"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "9,941",
+        "crawled_at": "2026-02-03T13:53:11.225474"
+      },
+      {
+        "name": "karpathy /nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars": "41,890",
+        "crawled_at": "2026-02-03T13:53:11.225670"
+      },
+      {
+        "name": "kovidgoyal /calibre",
+        "description": "The official source code repository for the calibre ebook manager",
+        "language": "Python",
+        "stars": "23,875",
+        "crawled_at": "2026-02-03T13:53:11.225933"
+      },
+      {
+        "name": "OpenBMB /ChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "language": "Python",
+        "stars": "29,676",
+        "crawled_at": "2026-02-03T13:53:11.226122"
+      },
+      {
+        "name": "pedramamini /Maestro",
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "stars": "1,415",
+        "crawled_at": "2026-02-03T13:53:11.226308"
       }
     ]
   }
