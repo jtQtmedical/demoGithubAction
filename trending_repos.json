@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-05",
-    "repos": [
-      {
-        "name": "anomalyco /opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars": "48,952",
-        "crawled_at": "2026-01-05T13:32:17.505939"
-      },
-      {
-        "name": "usememos /memos",
-        "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.",
-        "language": "Go",
-        "stars": "51,652",
-        "crawled_at": "2026-01-05T13:32:17.506186"
-      },
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "57,033",
-        "crawled_at": "2026-01-05T13:32:17.506414"
-      },
-      {
-        "name": "ourongxing /newsnow",
-        "description": "Elegant reading of real-time and hottest news",
-        "language": "TypeScript",
-        "stars": "16,710",
-        "crawled_at": "2026-01-05T13:32:17.506659"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "44,653",
-        "crawled_at": "2026-01-05T13:32:17.506846"
-      },
-      {
-        "name": "python /cpython",
-        "description": "The Python programming language",
-        "language": "Python",
-        "stars": "70,790",
-        "crawled_at": "2026-01-05T13:32:17.507069"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "19,627",
-        "crawled_at": "2026-01-05T13:32:17.507256"
-      },
-      {
-        "name": "3b1b /manim",
-        "description": "Animation engine for explanatory math videos",
-        "language": "Python",
-        "stars": "83,069",
-        "crawled_at": "2026-01-05T13:32:17.507439"
-      },
-      {
-        "name": "maplibre /maplibre-gl-js",
-        "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
-        "language": "TypeScript",
-        "stars": "9,264",
-        "crawled_at": "2026-01-05T13:32:17.507708"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "51,395",
-        "crawled_at": "2026-01-05T13:32:17.507898"
-      }
-    ]
-  },
-  {
     "date": "2026-01-06",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "TypeScript",
         "stars": "1,415",
         "crawled_at": "2026-02-03T13:53:11.226308"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "21,661",
+        "crawled_at": "2026-02-04T13:52:52.503037"
+      },
+      {
+        "name": "masoncl /review-prompts",
+        "description": "AI review prompts",
+        "language": "Python",
+        "stars": "510",
+        "crawled_at": "2026-02-04T13:52:52.503235"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "3,428",
+        "crawled_at": "2026-02-04T13:52:52.503430"
+      },
+      {
+        "name": "automazeio /ccpm",
+        "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
+        "language": "Shell",
+        "stars": "6,900",
+        "crawled_at": "2026-02-04T13:52:52.503615"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "44,146",
+        "crawled_at": "2026-02-04T13:52:52.503857"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "10,342",
+        "crawled_at": "2026-02-04T13:52:52.504046"
+      },
+      {
+        "name": "karpathy /nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars": "42,184",
+        "crawled_at": "2026-02-04T13:52:52.504234"
+      },
+      {
+        "name": "kovidgoyal /calibre",
+        "description": "The official source code repository for the calibre ebook manager",
+        "language": "Python",
+        "stars": "23,984",
+        "crawled_at": "2026-02-04T13:52:52.504455"
+      },
+      {
+        "name": "OpenBMB /ChatDev",
+        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+        "language": "Python",
+        "stars": "29,896",
+        "crawled_at": "2026-02-04T13:52:52.504635"
+      },
+      {
+        "name": "pedramamini /Maestro",
+        "description": "Agent Orchestration Command Center",
+        "language": "TypeScript",
+        "stars": "1,597",
+        "crawled_at": "2026-02-04T13:52:52.504840"
       }
     ]
   }
