@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-06",
-    "repos": [
-      {
-        "name": "protocolbuffers /protobuf",
-        "description": "Protocol Buffers - Google's data interchange format",
-        "language": "C++",
-        "stars": "70,032",
-        "crawled_at": "2026-01-06T13:28:38.895769"
-      },
-      {
-        "name": "Lissy93 /web-check",
-        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
-        "language": "TypeScript",
-        "stars": "27,444",
-        "crawled_at": "2026-01-06T13:28:38.896032"
-      },
-      {
-        "name": "microsoft /PowerToys",
-        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-        "language": "C#",
-        "stars": "127,150",
-        "crawled_at": "2026-01-06T13:28:38.896261"
-      },
-      {
-        "name": "anthropics /claude-code-action",
-        "description": "無描述",
-        "language": "TypeScript",
-        "stars": "4,632",
-        "crawled_at": "2026-01-06T13:28:38.896493"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "25,275",
-        "crawled_at": "2026-01-06T13:28:38.896688"
-      },
-      {
-        "name": "marcelscruz /public-apis",
-        "description": "A collaborative list of public APIs for developers",
-        "language": "JavaScript",
-        "stars": "6,679",
-        "crawled_at": "2026-01-06T13:28:38.896933"
-      },
-      {
-        "name": "kirodotdev /Kiro",
-        "description": "Kiro is an agentic IDE that works alongside you from prototype to production.",
-        "language": "未知",
-        "stars": "2,577",
-        "crawled_at": "2026-01-06T13:28:38.897170"
-      },
-      {
-        "name": "LuckyOne7777 /ChatGPT-Micro-Cap-Experiment",
-        "description": "This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
-        "language": "Python",
-        "stars": "6,993",
-        "crawled_at": "2026-01-06T13:28:38.897368"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Reasoning-based RAG",
-        "language": "Jupyter Notebook",
-        "stars": "4,597",
-        "crawled_at": "2026-01-06T13:28:38.897563"
-      },
-      {
-        "name": "bobbyiliev /introduction-to-bash-scripting",
-        "description": "Free Introduction to Bash Scripting eBook",
-        "language": "HTML",
-        "stars": "5,267",
-        "crawled_at": "2026-01-06T13:28:38.897810"
-      }
-    ]
-  },
-  {
     "date": "2026-01-07",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "TypeScript",
         "stars": "1,597",
         "crawled_at": "2026-02-04T13:52:52.504840"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "repos": [
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "26,495",
+        "crawled_at": "2026-02-05T13:55:39.051660"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "4,047",
+        "crawled_at": "2026-02-05T13:55:39.051861"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "23,390",
+        "crawled_at": "2026-02-05T13:55:39.052099"
+      },
+      {
+        "name": "j178 /prek",
+        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+        "language": "Rust",
+        "stars": "5,374",
+        "crawled_at": "2026-02-05T13:55:39.052329"
+      },
+      {
+        "name": "topoteretes /cognee",
+        "description": "Memory for AI Agents in 6 lines of code",
+        "language": "Python",
+        "stars": "11,734",
+        "crawled_at": "2026-02-05T13:55:39.052579"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "45,024",
+        "crawled_at": "2026-02-05T13:55:39.052805"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "31,293",
+        "crawled_at": "2026-02-05T13:55:39.052991"
+      },
+      {
+        "name": "fish-shell /fish-shell",
+        "description": "The user-friendly command line shell.",
+        "language": "Rust",
+        "stars": "32,293",
+        "crawled_at": "2026-02-05T13:55:39.053177"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "91,325",
+        "crawled_at": "2026-02-05T13:55:39.053376"
+      },
+      {
+        "name": "linshenkx /prompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "language": "TypeScript",
+        "stars": "19,257",
+        "crawled_at": "2026-02-05T13:55:39.053563"
       }
     ]
   }
