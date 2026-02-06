@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-07",
-    "repos": [
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "11,538",
-        "crawled_at": "2026-01-07T13:30:25.665803"
-      },
-      {
-        "name": "google /googletest",
-        "description": "GoogleTest - Google Testing and Mocking Framework",
-        "language": "C++",
-        "stars": "37,716",
-        "crawled_at": "2026-01-07T13:30:25.666001"
-      },
-      {
-        "name": "Lissy93 /web-check",
-        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
-        "language": "TypeScript",
-        "stars": "28,230",
-        "crawled_at": "2026-01-07T13:30:25.666232"
-      },
-      {
-        "name": "microsoft /PowerToys",
-        "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-        "language": "C#",
-        "stars": "127,470",
-        "crawled_at": "2026-01-07T13:30:25.666439"
-      },
-      {
-        "name": "protocolbuffers /protobuf",
-        "description": "Protocol Buffers - Google's data interchange format",
-        "language": "C++",
-        "stars": "70,156",
-        "crawled_at": "2026-01-07T13:30:25.666626"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "18,890",
-        "crawled_at": "2026-01-07T13:30:25.666809"
-      },
-      {
-        "name": "memvid /memvid",
-        "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
-        "language": "Rust",
-        "stars": "11,189",
-        "crawled_at": "2026-01-07T13:30:25.666992"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "25,096",
-        "crawled_at": "2026-01-07T13:30:25.667217"
-      },
-      {
-        "name": "DrewThomasson /ebook2audiobook",
-        "description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
-        "language": "Python",
-        "stars": "16,551",
-        "crawled_at": "2026-01-07T13:30:25.667413"
-      },
-      {
-        "name": "marcelscruz /public-apis",
-        "description": "A collaborative list of public APIs for developers",
-        "language": "JavaScript",
-        "stars": "7,122",
-        "crawled_at": "2026-01-07T13:30:25.667642"
-      }
-    ]
-  },
-  {
     "date": "2026-01-08",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "TypeScript",
         "stars": "19,257",
         "crawled_at": "2026-02-05T13:55:39.053563"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-06",
+    "repos": [
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "26,991",
+        "crawled_at": "2026-02-06T13:50:08.966350"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "4,616",
+        "crawled_at": "2026-02-06T13:50:08.966600"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "24,119",
+        "crawled_at": "2026-02-06T13:50:08.966848"
+      },
+      {
+        "name": "j178 /prek",
+        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
+        "language": "Rust",
+        "stars": "5,660",
+        "crawled_at": "2026-02-06T13:50:08.967081"
+      },
+      {
+        "name": "topoteretes /cognee",
+        "description": "Memory for AI Agents in 6 lines of code",
+        "language": "Python",
+        "stars": "11,980",
+        "crawled_at": "2026-02-06T13:50:08.967312"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "45,938",
+        "crawled_at": "2026-02-06T13:50:08.967567"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "31,446",
+        "crawled_at": "2026-02-06T13:50:08.967759"
+      },
+      {
+        "name": "fish-shell /fish-shell",
+        "description": "The user-friendly command line shell.",
+        "language": "Rust",
+        "stars": "32,478",
+        "crawled_at": "2026-02-06T13:50:08.967946"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "language": "Shell",
+        "stars": "91,445",
+        "crawled_at": "2026-02-06T13:50:08.968134"
+      },
+      {
+        "name": "linshenkx /prompt-optimizer",
+        "description": "一款提示词优化器，助力于编写高质量的提示词",
+        "language": "TypeScript",
+        "stars": "19,584",
+        "crawled_at": "2026-02-06T13:50:08.968320"
       }
     ]
   }
