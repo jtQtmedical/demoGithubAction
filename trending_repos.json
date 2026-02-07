@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-08",
-    "repos": [
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "19,201",
-        "crawled_at": "2026-01-08T13:31:21.743455"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "53,095",
-        "crawled_at": "2026-01-08T13:31:21.743660"
-      },
-      {
-        "name": "nothings /stb",
-        "description": "stb single-file public domain libraries for C/C++",
-        "language": "C",
-        "stars": "31,539",
-        "crawled_at": "2026-01-08T13:31:21.743853"
-      },
-      {
-        "name": "MiroMindAI /MiroThinker",
-        "description": "MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch.",
-        "language": "Python",
-        "stars": "3,224",
-        "crawled_at": "2026-01-08T13:31:21.744039"
-      },
-      {
-        "name": "protocolbuffers /protobuf",
-        "description": "Protocol Buffers - Google's data interchange format",
-        "language": "C++",
-        "stars": "70,211",
-        "crawled_at": "2026-01-08T13:31:21.744225"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "12,287",
-        "crawled_at": "2026-01-08T13:31:21.744473"
-      },
-      {
-        "name": "xpipe-io /xpipe",
-        "description": "Access your entire server infrastructure from your local desktop",
-        "language": "Java",
-        "stars": "12,673",
-        "crawled_at": "2026-01-08T13:31:21.744701"
-      },
-      {
-        "name": "Lissy93 /web-check",
-        "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
-        "language": "TypeScript",
-        "stars": "28,846",
-        "crawled_at": "2026-01-08T13:31:21.744933"
-      },
-      {
-        "name": "google /googletest",
-        "description": "GoogleTest - Google Testing and Mocking Framework",
-        "language": "C++",
-        "stars": "37,832",
-        "crawled_at": "2026-01-08T13:31:21.745118"
-      },
-      {
-        "name": "apache /superset",
-        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-        "language": "TypeScript",
-        "stars": "69,741",
-        "crawled_at": "2026-01-08T13:31:21.745300"
-      }
-    ]
-  },
-  {
     "date": "2026-01-09",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "TypeScript",
         "stars": "19,584",
         "crawled_at": "2026-02-06T13:50:08.968320"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-07",
+    "repos": [
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "stars": "8,175",
+        "crawled_at": "2026-02-07T13:34:34.930542"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "5,304",
+        "crawled_at": "2026-02-07T13:34:34.930747"
+      },
+      {
+        "name": "microsoft /litebox",
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "language": "Rust",
+        "stars": "960",
+        "crawled_at": "2026-02-07T13:34:34.930936"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "4,568",
+        "crawled_at": "2026-02-07T13:34:34.931122"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "46,612",
+        "crawled_at": "2026-02-07T13:34:34.931370"
+      },
+      {
+        "name": "OpenBMB /MiniCPM-o",
+        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "language": "Python",
+        "stars": "23,086",
+        "crawled_at": "2026-02-07T13:34:34.931557"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "31,612",
+        "crawled_at": "2026-02-07T13:34:34.931744"
+      },
+      {
+        "name": "wavetermdev /waveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "Go",
+        "stars": "17,081",
+        "crawled_at": "2026-02-07T13:34:34.931971"
+      },
+      {
+        "name": "viarotel-org /escrcpy",
+        "description": "📱 Display and control your Android device graphically with scrcpy.",
+        "language": "JavaScript",
+        "stars": "7,719",
+        "crawled_at": "2026-02-07T13:34:34.932162"
+      },
+      {
+        "name": "ComposioHQ /awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "stars": "31,611",
+        "crawled_at": "2026-02-07T13:34:34.932363"
       }
     ]
   }
