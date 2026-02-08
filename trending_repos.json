@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-09",
-    "repos": [
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "19,603",
-        "crawled_at": "2026-01-09T13:29:18.088855"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "53,838",
-        "crawled_at": "2026-01-09T13:29:18.089061"
-      },
-      {
-        "name": "tailwindlabs /tailwindcss",
-        "description": "A utility-first CSS framework for rapid UI development.",
-        "language": "TypeScript",
-        "stars": "92,319",
-        "crawled_at": "2026-01-09T13:29:18.089226"
-      },
-      {
-        "name": "netbirdio /netbird",
-        "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
-        "language": "Go",
-        "stars": "20,762",
-        "crawled_at": "2026-01-09T13:29:18.089426"
-      },
-      {
-        "name": "C4illin /ConvertX",
-        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-        "language": "TypeScript",
-        "stars": "13,725",
-        "crawled_at": "2026-01-09T13:29:18.089637"
-      },
-      {
-        "name": "Lightricks /ComfyUI-LTXVideo",
-        "description": "LTX-Video Support for ComfyUI",
-        "language": "Python",
-        "stars": "2,736",
-        "crawled_at": "2026-01-09T13:29:18.089860"
-      },
-      {
-        "name": "MiroMindAI /MiroThinker",
-        "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
-        "language": "Python",
-        "stars": "3,803",
-        "crawled_at": "2026-01-09T13:29:18.090040"
-      },
-      {
-        "name": "google /googletest",
-        "description": "GoogleTest - Google Testing and Mocking Framework",
-        "language": "C++",
-        "stars": "37,898",
-        "crawled_at": "2026-01-09T13:29:18.090205"
-      },
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "21,337",
-        "crawled_at": "2026-01-09T13:29:18.090370"
-      },
-      {
-        "name": "Johnshall /Shadowrocket-ADBlock-Rules-Forever",
-        "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
-        "language": "未知",
-        "stars": "21,456",
-        "crawled_at": "2026-01-09T13:29:18.090540"
-      }
-    ]
-  },
-  {
     "date": "2026-01-10",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Python",
         "stars": "31,611",
         "crawled_at": "2026-02-07T13:34:34.932363"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-08",
+    "repos": [
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "stars": "11,523",
+        "crawled_at": "2026-02-08T13:35:02.562399"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "6,676",
+        "crawled_at": "2026-02-08T13:35:02.562598"
+      },
+      {
+        "name": "microsoft /litebox",
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "language": "Rust",
+        "stars": "1,284",
+        "crawled_at": "2026-02-08T13:35:02.562787"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "4,865",
+        "crawled_at": "2026-02-08T13:35:02.562977"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "47,396",
+        "crawled_at": "2026-02-08T13:35:02.563223"
+      },
+      {
+        "name": "OpenBMB /MiniCPM-o",
+        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "language": "Python",
+        "stars": "23,297",
+        "crawled_at": "2026-02-08T13:35:02.563406"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "31,766",
+        "crawled_at": "2026-02-08T13:35:02.563595"
+      },
+      {
+        "name": "wavetermdev /waveterm",
+        "description": "An open-source, cross-platform terminal for seamless workflows",
+        "language": "Go",
+        "stars": "17,219",
+        "crawled_at": "2026-02-08T13:35:02.563822"
+      },
+      {
+        "name": "viarotel-org /escrcpy",
+        "description": "📱 Display and control your Android device graphically with scrcpy.",
+        "language": "JavaScript",
+        "stars": "7,968",
+        "crawled_at": "2026-02-08T13:35:02.564020"
+      },
+      {
+        "name": "ComposioHQ /awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "stars": "32,441",
+        "crawled_at": "2026-02-08T13:35:02.564208"
       }
     ]
   }
