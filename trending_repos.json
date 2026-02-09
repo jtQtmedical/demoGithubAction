@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-10",
-    "repos": [
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "54,447",
-        "crawled_at": "2026-01-10T13:21:11.182722"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "19,889",
-        "crawled_at": "2026-01-10T13:21:11.182929"
-      },
-      {
-        "name": "github /awesome-copilot",
-        "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
-        "language": "JavaScript",
-        "stars": "16,775",
-        "crawled_at": "2026-01-10T13:21:11.183127"
-      },
-      {
-        "name": "NevaMind-AI /memU",
-        "description": "Memory infrastructure for LLMs and AI agents",
-        "language": "Python",
-        "stars": "4,149",
-        "crawled_at": "2026-01-10T13:21:11.183335"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "Claude Code superpowers: core skills library",
-        "language": "Shell",
-        "stars": "15,825",
-        "crawled_at": "2026-01-10T13:21:11.183565"
-      },
-      {
-        "name": "google /googletest",
-        "description": "GoogleTest - Google Testing and Mocking Framework",
-        "language": "C++",
-        "stars": "37,983",
-        "crawled_at": "2026-01-10T13:21:11.183753"
-      },
-      {
-        "name": "xpipe-io /xpipe",
-        "description": "Access your entire server infrastructure from your local desktop",
-        "language": "Java",
-        "stars": "13,130",
-        "crawled_at": "2026-01-10T13:21:11.183985"
-      },
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "22,142",
-        "crawled_at": "2026-01-10T13:21:11.184186"
-      },
-      {
-        "name": "C4illin /ConvertX",
-        "description": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
-        "language": "TypeScript",
-        "stars": "14,108",
-        "crawled_at": "2026-01-10T13:21:11.184424"
-      },
-      {
-        "name": "opf /openproject",
-        "description": "OpenProject is the leading open source project management software.",
-        "language": "Ruby",
-        "stars": "13,575",
-        "crawled_at": "2026-01-10T13:21:11.184611"
-      }
-    ]
-  },
-  {
     "date": "2026-01-11",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Python",
         "stars": "32,441",
         "crawled_at": "2026-02-08T13:35:02.564208"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-09",
+    "repos": [
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "stars": "15,776",
+        "crawled_at": "2026-02-09T14:04:18.080907"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "13,242",
+        "crawled_at": "2026-02-09T14:04:18.081106"
+      },
+      {
+        "name": "pydantic /monty",
+        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+        "language": "Rust",
+        "stars": "3,520",
+        "crawled_at": "2026-02-09T14:04:18.081385"
+      },
+      {
+        "name": "hsliuping /TradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "language": "Python",
+        "stars": "16,093",
+        "crawled_at": "2026-02-09T14:04:18.081577"
+      },
+      {
+        "name": "iOfficeAI /AionUi",
+        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "13,588",
+        "crawled_at": "2026-02-09T14:04:18.081768"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "396,829",
+        "crawled_at": "2026-02-09T14:04:18.081952"
+      },
+      {
+        "name": "github /gh-aw",
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "stars": "682",
+        "crawled_at": "2026-02-09T14:04:18.082138"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": "92,992",
+        "crawled_at": "2026-02-09T14:04:18.082340"
+      },
+      {
+        "name": "gitbutlerapp /gitbutler",
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "language": "Rust",
+        "stars": "18,552",
+        "crawled_at": "2026-02-09T14:04:18.082522"
+      },
+      {
+        "name": "microsoft /litebox",
+        "description": "A security-focused library OS supporting kernel- and user-mode execution",
+        "language": "Rust",
+        "stars": "1,636",
+        "crawled_at": "2026-02-09T14:04:18.082703"
       }
     ]
   }
