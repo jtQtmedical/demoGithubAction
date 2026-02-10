@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-11",
-    "repos": [
-      {
-        "name": "anomalyco /opencode",
-        "description": "The open source coding agent.",
-        "language": "TypeScript",
-        "stars": "60,799",
-        "crawled_at": "2026-01-11T13:21:40.889865"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "Claude Code superpowers: core skills library",
-        "language": "Shell",
-        "stars": "16,539",
-        "crawled_at": "2026-01-11T13:21:40.890099"
-      },
-      {
-        "name": "frankbria /ralph-claude-code",
-        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-        "language": "Shell",
-        "stars": "1,297",
-        "crawled_at": "2026-01-11T13:21:40.890265"
-      },
-      {
-        "name": "davila7 /claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "language": "Python",
-        "stars": "15,415",
-        "crawled_at": "2026-01-11T13:21:40.890431"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-        "language": "TypeScript",
-        "stars": "43,318",
-        "crawled_at": "2026-01-11T13:21:40.890603"
-      },
-      {
-        "name": "twitter /twemoji",
-        "description": "Emoji for everyone.https://twemoji.twitter.com/",
-        "language": "HTML",
-        "stars": "17,391",
-        "crawled_at": "2026-01-11T13:21:40.890826"
-      },
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "22,579",
-        "crawled_at": "2026-01-11T13:21:40.891002"
-      },
-      {
-        "name": "twentyhq /twenty",
-        "description": "Building a modern alternative to Salesforce, powered by the community.",
-        "language": "TypeScript",
-        "stars": "38,523",
-        "crawled_at": "2026-01-11T13:21:40.891169"
-      },
-      {
-        "name": "home-assistant /home-assistant.io",
-        "description": "📘 Home Assistant User documentation",
-        "language": "HTML",
-        "stars": "7,797",
-        "crawled_at": "2026-01-11T13:21:40.891338"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "55,030",
-        "crawled_at": "2026-01-11T13:21:40.891503"
-      }
-    ]
-  },
-  {
     "date": "2026-01-12",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Rust",
         "stars": "1,636",
         "crawled_at": "2026-02-09T14:04:18.082703"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-10",
+    "repos": [
+      {
+        "name": "google /langextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "stars": "26,980",
+        "crawled_at": "2026-02-10T14:11:54.313955"
+      },
+      {
+        "name": "iOfficeAI /AionUi",
+        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "language": "TypeScript",
+        "stars": "14,212",
+        "crawled_at": "2026-02-10T14:11:54.314175"
+      },
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "language": "TypeScript",
+        "stars": "19,188",
+        "crawled_at": "2026-02-10T14:11:54.314373"
+      },
+      {
+        "name": "github /gh-aw",
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "stars": "1,166",
+        "crawled_at": "2026-02-10T14:11:54.314564"
+      },
+      {
+        "name": "EveryInc /compound-engineering-plugin",
+        "description": "Official Claude Code compound engineering plugin",
+        "language": "TypeScript",
+        "stars": "8,060",
+        "crawled_at": "2026-02-10T14:11:54.314771"
+      },
+      {
+        "name": "hsliuping /TradingAgents-CN",
+        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "language": "Python",
+        "stars": "16,587",
+        "crawled_at": "2026-02-10T14:11:54.314977"
+      },
+      {
+        "name": "gitbutlerapp /gitbutler",
+        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "language": "Rust",
+        "stars": "18,800",
+        "crawled_at": "2026-02-10T14:11:54.315183"
+      },
+      {
+        "name": "carlvellotti /claude-code-pm-course",
+        "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
+        "language": "MDX",
+        "stars": "679",
+        "crawled_at": "2026-02-10T14:11:54.315380"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": "93,430",
+        "crawled_at": "2026-02-10T14:11:54.315576"
+      },
+      {
+        "name": "drawdb-io /drawdb",
+        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "language": "JavaScript",
+        "stars": "36,092",
+        "crawled_at": "2026-02-10T14:11:54.315786"
       }
     ]
   }
