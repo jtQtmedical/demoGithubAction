@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-12",
-    "repos": [
-      {
-        "name": "DioxusLabs /dioxus",
-        "description": "Fullstack app framework for web, desktop, and mobile.",
-        "language": "Rust",
-        "stars": "33,384",
-        "crawled_at": "2026-01-12T13:33:20.986492"
-      },
-      {
-        "name": "NanmiCoder /MediaCrawler",
-        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-        "language": "Python",
-        "stars": "42,029",
-        "crawled_at": "2026-01-12T13:33:20.986698"
-      },
-      {
-        "name": "frankbria /ralph-claude-code",
-        "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
-        "language": "Shell",
-        "stars": "1,974",
-        "crawled_at": "2026-01-12T13:33:20.986909"
-      },
-      {
-        "name": "iptv-org /iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "language": "TypeScript",
-        "stars": "109,222",
-        "crawled_at": "2026-01-12T13:33:20.987100"
-      },
-      {
-        "name": "hacksider /Deep-Live-Cam",
-        "description": "real time face swap and one-click video deepfake with only a single image",
-        "language": "Python",
-        "stars": "77,358",
-        "crawled_at": "2026-01-12T13:33:20.987323"
-      },
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "23,075",
-        "crawled_at": "2026-01-12T13:33:20.987507"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "Claude Code superpowers: core skills library",
-        "language": "Shell",
-        "stars": "18,133",
-        "crawled_at": "2026-01-12T13:33:20.987736"
-      },
-      {
-        "name": "ruvnet /claude-flow",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
-        "language": "JavaScript",
-        "stars": "11,501",
-        "crawled_at": "2026-01-12T13:33:20.987934"
-      },
-      {
-        "name": "home-assistant /home-assistant.io",
-        "description": "📘 Home Assistant User documentation",
-        "language": "HTML",
-        "stars": "8,058",
-        "crawled_at": "2026-01-12T13:33:20.988120"
-      },
-      {
-        "name": "mpv-player /mpv",
-        "description": "🎥 Command line media player",
-        "language": "C",
-        "stars": "33,414",
-        "crawled_at": "2026-01-12T13:33:20.988303"
-      }
-    ]
-  },
-  {
     "date": "2026-01-13",
     "repos": [
       {
@@ -2085,6 +2010,60 @@
         "language": "JavaScript",
         "stars": "36,092",
         "crawled_at": "2026-02-10T14:11:54.315786"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-11",
+    "repos": [
+      {
+        "name": "google /langextract",
+        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "language": "Python",
+        "stars": "29,925",
+        "crawled_at": "2026-02-11T14:05:26.547957"
+      },
+      {
+        "name": "github /gh-aw",
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "stars": "1,547",
+        "crawled_at": "2026-02-11T14:05:26.548170"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "language": "C#",
+        "stars": "129,268",
+        "crawled_at": "2026-02-11T14:05:26.548358"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "23,808",
+        "crawled_at": "2026-02-11T14:05:26.548547"
+      },
+      {
+        "name": "EveryInc /compound-engineering-plugin",
+        "description": "Official Claude Code compound engineering plugin",
+        "language": "TypeScript",
+        "stars": "8,319",
+        "crawled_at": "2026-02-11T14:05:26.548736"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "28,373",
+        "crawled_at": "2026-02-11T14:05:26.548960"
+      },
+      {
+        "name": "cheahjs /free-llm-api-resources",
+        "description": "A list of free LLM inference resources accessible via API.",
+        "language": "Python",
+        "stars": "8,956",
+        "crawled_at": "2026-02-11T14:05:26.549140"
       }
     ]
   }
