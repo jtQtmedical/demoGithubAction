@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-01-14",
-    "repos": [
-      {
-        "name": "obra /superpowers",
-        "description": "Claude Code superpowers: core skills library",
-        "language": "Shell",
-        "stars": "21,538",
-        "crawled_at": "2026-01-14T13:31:47.390844"
-      },
-      {
-        "name": "icloud-photos-downloader /icloud_photos_downloader",
-        "description": "A command-line tool to download photos from iCloud",
-        "language": "Python",
-        "stars": "11,177",
-        "crawled_at": "2026-01-14T13:31:47.391027"
-      },
-      {
-        "name": "blakeblackshear /frigate",
-        "description": "NVR with realtime local object detection for IP cameras",
-        "language": "TypeScript",
-        "stars": "29,154",
-        "crawled_at": "2026-01-14T13:31:47.391250"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "69,750",
-        "crawled_at": "2026-01-14T13:31:47.391422"
-      },
-      {
-        "name": "home-assistant /home-assistant.io",
-        "description": "📘 Home Assistant User documentation",
-        "language": "HTML",
-        "stars": "8,432",
-        "crawled_at": "2026-01-14T13:31:47.398775"
-      },
-      {
-        "name": "chidiwilliams /buzz",
-        "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
-        "language": "Python",
-        "stars": "17,004",
-        "crawled_at": "2026-01-14T13:31:47.398959"
-      },
-      {
-        "name": "adam-maj /tiny-gpu",
-        "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-        "language": "SystemVerilog",
-        "stars": "10,067",
-        "crawled_at": "2026-01-14T13:31:47.399128"
-      },
-      {
-        "name": "Free-TV /IPTV",
-        "description": "M3U Playlist for free TV channels",
-        "language": "Python",
-        "stars": "10,820",
-        "crawled_at": "2026-01-14T13:31:47.399310"
-      },
-      {
-        "name": "onlook-dev /onlook",
-        "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-        "language": "TypeScript",
-        "stars": "24,303",
-        "crawled_at": "2026-01-14T13:31:47.399477"
-      }
-    ]
-  },
-  {
     "date": "2026-01-15",
     "repos": [
       {
@@ -2071,6 +2003,81 @@
         "language": "Python",
         "stars": "51,960",
         "crawled_at": "2026-02-12T14:00:17.024975"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-13",
+    "repos": [
+      {
+        "name": "SynkraAI /aios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "language": "JavaScript",
+        "stars": "317",
+        "crawled_at": "2026-02-13T13:51:23.374461"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "24,577",
+        "crawled_at": "2026-02-13T13:51:23.374684"
+      },
+      {
+        "name": "danielmiessler /Personal_AI_Infrastructure",
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "stars": "7,835",
+        "crawled_at": "2026-02-13T13:51:23.374972"
+      },
+      {
+        "name": "patchy631 /ai-engineering-hub",
+        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "language": "Jupyter Notebook",
+        "stars": "29,028",
+        "crawled_at": "2026-02-13T13:51:23.375208"
+      },
+      {
+        "name": "TelegramMessenger /MTProxy",
+        "description": "無描述",
+        "language": "C",
+        "stars": "5,817",
+        "crawled_at": "2026-02-13T13:51:23.375422"
+      },
+      {
+        "name": "google-deepmind /superhuman",
+        "description": "無描述",
+        "language": "TeX",
+        "stars": "287",
+        "crawled_at": "2026-02-13T13:51:23.375628"
+      },
+      {
+        "name": "cheahjs /free-llm-api-resources",
+        "description": "A list of free LLM inference resources accessible via API.",
+        "language": "Python",
+        "stars": "10,394",
+        "crawled_at": "2026-02-13T13:51:23.375833"
+      },
+      {
+        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
+        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "language": "Jupyter Notebook",
+        "stars": "21,070",
+        "crawled_at": "2026-02-13T13:51:23.376019"
+      },
+      {
+        "name": "THUDM /slime",
+        "description": "slime is an LLM post-training framework for RL Scaling.",
+        "language": "Python",
+        "stars": "4,012",
+        "crawled_at": "2026-02-13T13:51:23.376202"
+      },
+      {
+        "name": "DebugSwift /DebugSwift",
+        "description": "A toolkit to make debugging iOS applications easier 🚀",
+        "language": "Swift",
+        "stars": "1,297",
+        "crawled_at": "2026-02-13T13:51:23.376428"
       }
     ]
   }
