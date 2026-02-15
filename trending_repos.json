@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-01-16",
-    "repos": [
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "25,440",
-        "crawled_at": "2026-01-16T13:29:08.134412"
-      },
-      {
-        "name": "Gentleman-Programming /Gentleman.Dots",
-        "description": "My personal configuration for LazyVim !",
-        "language": "Shell",
-        "stars": "1,084",
-        "crawled_at": "2026-01-16T13:29:08.134636"
-      },
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "20,987",
-        "crawled_at": "2026-01-16T13:29:08.134830"
-      },
-      {
-        "name": "cjpais /Handy",
-        "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-        "language": "TypeScript",
-        "stars": "11,597",
-        "crawled_at": "2026-01-16T13:29:08.135062"
-      },
-      {
-        "name": "puckeditor /puck",
-        "description": "The visual editor for React",
-        "language": "TypeScript",
-        "stars": "10,883",
-        "crawled_at": "2026-01-16T13:29:08.135270"
-      },
-      {
-        "name": "ultralytics /ultralytics",
-        "description": "Ultralytics YOLO 🚀",
-        "language": "Python",
-        "stars": "51,645",
-        "crawled_at": "2026-01-16T13:29:08.135460"
-      },
-      {
-        "name": "eigent-ai /eigent",
-        "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
-        "language": "TypeScript",
-        "stars": "7,251",
-        "crawled_at": "2026-01-16T13:29:08.135647"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "3,998",
-        "crawled_at": "2026-01-16T13:29:08.135836"
-      },
-      {
-        "name": "agentsmd /agents.md",
-        "description": "AGENTS.md — a simple, open format for guiding coding agents",
-        "language": "TypeScript",
-        "stars": "15,226",
-        "crawled_at": "2026-01-16T13:29:08.136023"
-      }
-    ]
-  },
-  {
     "date": "2026-01-17",
     "repos": [
       {
@@ -2078,6 +2010,81 @@
         "language": "Ruby",
         "stars": "23,325",
         "crawled_at": "2026-02-14T13:34:55.577227"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-15",
+    "repos": [
+      {
+        "name": "nautechsystems /nautilus_trader",
+        "description": "A high-performance algorithmic trading platform and event-driven backtester",
+        "language": "Rust",
+        "stars": "19,071",
+        "crawled_at": "2026-02-15T13:35:28.451872"
+      },
+      {
+        "name": "steipete /gogcli",
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "stars": "2,649",
+        "crawled_at": "2026-02-15T13:35:28.452116"
+      },
+      {
+        "name": "rowboatlabs /rowboat",
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "stars": "6,433",
+        "crawled_at": "2026-02-15T13:35:28.452316"
+      },
+      {
+        "name": "github /gh-aw",
+        "description": "GitHub Agentic Workflows",
+        "language": "Go",
+        "stars": "2,513",
+        "crawled_at": "2026-02-15T13:35:28.452563"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "25,247",
+        "crawled_at": "2026-02-15T13:35:28.452755"
+      },
+      {
+        "name": "alibaba /zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "stars": "1,729",
+        "crawled_at": "2026-02-15T13:35:28.452940"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "195,736",
+        "crawled_at": "2026-02-15T13:35:28.453162"
+      },
+      {
+        "name": "moonshine-ai /moonshine",
+        "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+        "language": "C",
+        "stars": "3,594",
+        "crawled_at": "2026-02-15T13:35:28.453346"
+      },
+      {
+        "name": "brave /brave-browser",
+        "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+        "language": "未知",
+        "stars": "21,442",
+        "crawled_at": "2026-02-15T13:35:28.453575"
+      },
+      {
+        "name": "SynkraAI /aios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "language": "JavaScript",
+        "stars": "686",
+        "crawled_at": "2026-02-15T13:35:28.453759"
       }
     ]
   }
