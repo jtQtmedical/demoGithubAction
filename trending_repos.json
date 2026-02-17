@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-01-18",
-    "repos": [
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "5,252",
-        "crawled_at": "2026-01-18T13:20:21.865763"
-      },
-      {
-        "name": "yt-dlp /yt-dlp",
-        "description": "A feature-rich command-line audio/video downloader",
-        "language": "Python",
-        "stars": "142,274",
-        "crawled_at": "2026-01-18T13:20:21.865967"
-      },
-      {
-        "name": "nautechsystems /nautilus_trader",
-        "description": "A high-performance algorithmic trading platform and event-driven backtester",
-        "language": "Rust",
-        "stars": "17,369",
-        "crawled_at": "2026-01-18T13:20:21.866157"
-      },
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "21,804",
-        "crawled_at": "2026-01-18T13:20:21.866343"
-      },
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-        "language": "Python",
-        "stars": "3,951",
-        "crawled_at": "2026-01-18T13:20:21.866542"
-      },
-      {
-        "name": "yichuan-w /LEANN",
-        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-        "language": "Python",
-        "stars": "8,811",
-        "crawled_at": "2026-01-18T13:20:21.866730"
-      },
-      {
-        "name": "Flowseal /zapret-discord-youtube",
-        "description": "無描述",
-        "language": "Batchfile",
-        "stars": "21,186",
-        "crawled_at": "2026-01-18T13:20:21.866944"
-      },
-      {
-        "name": "tobi /try",
-        "description": "fresh directories for every vibe",
-        "language": "Shell",
-        "stars": "2,620",
-        "crawled_at": "2026-01-18T13:20:21.867128"
-      },
-      {
-        "name": "Mebus /cupp",
-        "description": "Common User Passwords Profiler (CUPP)",
-        "language": "Python",
-        "stars": "5,488",
-        "crawled_at": "2026-01-18T13:20:21.867309"
-      }
-    ]
-  },
-  {
     "date": "2026-01-19",
     "repos": [
       {
@@ -2113,6 +2045,81 @@
         "language": "Python",
         "stars": "16,266",
         "crawled_at": "2026-02-16T13:55:52.076060"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-17",
+    "repos": [
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "6,765",
+        "crawled_at": "2026-02-17T13:56:52.259905"
+      },
+      {
+        "name": "seerr-team /seerr",
+        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "language": "TypeScript",
+        "stars": "9,185",
+        "crawled_at": "2026-02-17T13:56:52.260107"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "53,191",
+        "crawled_at": "2026-02-17T13:56:52.260338"
+      },
+      {
+        "name": "steipete /gogcli",
+        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "language": "Go",
+        "stars": "3,723",
+        "crawled_at": "2026-02-17T13:56:52.260581"
+      },
+      {
+        "name": "alibaba /zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "stars": "4,250",
+        "crawled_at": "2026-02-17T13:56:52.260774"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "203,705",
+        "crawled_at": "2026-02-17T13:56:52.261004"
+      },
+      {
+        "name": "SynkraAI /aios-core",
+        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "language": "JavaScript",
+        "stars": "1,078",
+        "crawled_at": "2026-02-17T13:56:52.261188"
+      },
+      {
+        "name": "ashishps1 /awesome-system-design-resources",
+        "description": "Learn System Design concepts and prepare for interviews using free resources.",
+        "language": "Java",
+        "stars": "32,621",
+        "crawled_at": "2026-02-17T13:56:52.261374"
+      },
+      {
+        "name": "steipete /summarize",
+        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "language": "TypeScript",
+        "stars": "3,265",
+        "crawled_at": "2026-02-17T13:56:52.261621"
+      },
+      {
+        "name": "hummingbot /hummingbot",
+        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "language": "Python",
+        "stars": "16,817",
+        "crawled_at": "2026-02-17T13:56:52.261847"
       }
     ]
   }
