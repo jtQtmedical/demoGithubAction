@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-01-19",
-    "repos": [
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
-        "language": "Python",
-        "stars": "4,633",
-        "crawled_at": "2026-01-19T13:36:00.943666"
-      },
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "22,457",
-        "crawled_at": "2026-01-19T13:36:00.943867"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "6,445",
-        "crawled_at": "2026-01-19T13:36:00.944053"
-      },
-      {
-        "name": "czlonkowski /n8n-mcp",
-        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-        "language": "TypeScript",
-        "stars": "12,012",
-        "crawled_at": "2026-01-19T13:36:00.944284"
-      },
-      {
-        "name": "nautechsystems /nautilus_trader",
-        "description": "A high-performance algorithmic trading platform and event-driven backtester",
-        "language": "Rust",
-        "stars": "17,889",
-        "crawled_at": "2026-01-19T13:36:00.944469"
-      },
-      {
-        "name": "ahujasid /blender-mcp",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "15,731",
-        "crawled_at": "2026-01-19T13:36:00.944736"
-      },
-      {
-        "name": "yichuan-w /LEANN",
-        "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-        "language": "Python",
-        "stars": "9,177",
-        "crawled_at": "2026-01-19T13:36:00.953393"
-      },
-      {
-        "name": "DavidXanatos /TaskExplorer",
-        "description": "Power full Task Manager",
-        "language": "C",
-        "stars": "2,331",
-        "crawled_at": "2026-01-19T13:36:00.953615"
-      }
-    ]
-  },
-  {
     "date": "2026-01-20",
     "repos": [
       {
@@ -2120,6 +2059,81 @@
         "language": "Python",
         "stars": "16,817",
         "crawled_at": "2026-02-17T13:56:52.261847"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-18",
+    "repos": [
+      {
+        "name": "alibaba /zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "stars": "4,734",
+        "crawled_at": "2026-02-18T13:58:12.625469"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "7,692",
+        "crawled_at": "2026-02-18T13:58:12.625671"
+      },
+      {
+        "name": "OpenCTI-Platform /opencti",
+        "description": "Open Cyber Threat Intelligence Platform",
+        "language": "TypeScript",
+        "stars": "8,562",
+        "crawled_at": "2026-02-18T13:58:12.625878"
+      },
+      {
+        "name": "QwenLM /qwen-code",
+        "description": "An open-source AI agent that lives in your terminal.",
+        "language": "TypeScript",
+        "stars": "18,664",
+        "crawled_at": "2026-02-18T13:58:12.626068"
+      },
+      {
+        "name": "NirDiamant /RAG_Techniques",
+        "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "language": "Jupyter Notebook",
+        "stars": "25,054",
+        "crawled_at": "2026-02-18T13:58:12.626296"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "JavaScript",
+        "stars": "19,348",
+        "crawled_at": "2026-02-18T13:58:12.626484"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "54,052",
+        "crawled_at": "2026-02-18T13:58:12.626708"
+      },
+      {
+        "name": "HailToDodongo /pyrite64",
+        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+        "language": "C++",
+        "stars": "963",
+        "crawled_at": "2026-02-18T13:58:12.626907"
+      },
+      {
+        "name": "ComposioHQ /composio",
+        "description": "Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling",
+        "language": "TypeScript",
+        "stars": "26,651",
+        "crawled_at": "2026-02-18T13:58:12.627091"
+      },
+      {
+        "name": "p2r3 /convert",
+        "description": "Truly universal online file converter",
+        "language": "TypeScript",
+        "stars": "1,174",
+        "crawled_at": "2026-02-18T13:58:12.627274"
       }
     ]
   }
