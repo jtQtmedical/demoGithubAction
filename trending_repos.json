@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-01-20",
-    "repos": [
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "10,569",
-        "crawled_at": "2026-01-20T13:36:32.929586"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "7,406",
-        "crawled_at": "2026-01-20T13:36:32.929785"
-      },
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "23,006",
-        "crawled_at": "2026-01-20T13:36:32.929969"
-      },
-      {
-        "name": "AlexxIT /go2rtc",
-        "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
-        "language": "Go",
-        "stars": "11,337",
-        "crawled_at": "2026-01-20T13:36:32.930185"
-      },
-      {
-        "name": "lukasz-madon /awesome-remote-job",
-        "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
-        "language": "未知",
-        "stars": "42,334",
-        "crawled_at": "2026-01-20T13:36:32.930396"
-      },
-      {
-        "name": "tobi /try",
-        "description": "fresh directories for every vibe",
-        "language": "Shell",
-        "stars": "2,856",
-        "crawled_at": "2026-01-20T13:36:32.930583"
-      },
-      {
-        "name": "DavidXanatos /TaskExplorer",
-        "description": "Power full Task Manager",
-        "language": "C",
-        "stars": "2,652",
-        "crawled_at": "2026-01-20T13:36:32.930772"
-      }
-    ]
-  },
-  {
     "date": "2026-01-21",
     "repos": [
       {
@@ -2134,6 +2080,60 @@
         "language": "TypeScript",
         "stars": "1,174",
         "crawled_at": "2026-02-18T13:58:12.627274"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-19",
+    "repos": [
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "54,949",
+        "crawled_at": "2026-02-19T13:59:17.643729"
+      },
+      {
+        "name": "open-mercato /open-mercato",
+        "description": "AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+        "language": "TypeScript",
+        "stars": "564",
+        "crawled_at": "2026-02-19T13:59:17.643934"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Introduction to Machine Learning Systems",
+        "language": "JavaScript",
+        "stars": "19,965",
+        "crawled_at": "2026-02-19T13:59:17.644128"
+      },
+      {
+        "name": "HailToDodongo /pyrite64",
+        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+        "language": "C++",
+        "stars": "1,539",
+        "crawled_at": "2026-02-19T13:59:17.644335"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "210,559",
+        "crawled_at": "2026-02-19T13:59:17.644566"
+      },
+      {
+        "name": "freemocap /freemocap",
+        "description": "Free Motion Capture for Everyone 💀✨",
+        "language": "Python",
+        "stars": "4,988",
+        "crawled_at": "2026-02-19T13:59:17.644751"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "8,315",
+        "crawled_at": "2026-02-19T13:59:17.644933"
       }
     ]
   }
