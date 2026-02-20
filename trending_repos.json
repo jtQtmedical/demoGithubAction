@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-01-21",
-    "repos": [
-      {
-        "name": "tambo-ai /tambo",
-        "description": "Generative UI SDK for React",
-        "language": "TypeScript",
-        "stars": "3,006",
-        "crawled_at": "2026-01-21T13:35:34.154638"
-      },
-      {
-        "name": "EveryInc /compound-engineering-plugin",
-        "description": "Official Claude Code compound engineering plugin",
-        "language": "Python",
-        "stars": "5,446",
-        "crawled_at": "2026-01-21T13:35:34.154874"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "71,176",
-        "crawled_at": "2026-01-21T13:35:34.155064"
-      },
-      {
-        "name": "xai-org /grok-1",
-        "description": "Grok open release",
-        "language": "Python",
-        "stars": "50,812",
-        "crawled_at": "2026-01-21T13:35:34.155261"
-      },
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "11,076",
-        "crawled_at": "2026-01-21T13:35:34.155446"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "language": "Python",
-        "stars": "5,917",
-        "crawled_at": "2026-01-21T13:35:34.155634"
-      },
-      {
-        "name": "microsoft /Data-Science-For-Beginners",
-        "description": "10 Weeks, 20 Lessons, Data Science for All!",
-        "language": "Jupyter Notebook",
-        "stars": "31,976",
-        "crawled_at": "2026-01-21T13:35:34.155835"
-      },
-      {
-        "name": "tobi /try",
-        "description": "fresh directories for every vibe",
-        "language": "Shell",
-        "stars": "3,043",
-        "crawled_at": "2026-01-21T13:35:34.156019"
-      }
-    ]
-  },
-  {
     "date": "2026-01-22",
     "repos": [
       {
@@ -2134,6 +2073,81 @@
         "language": "Python",
         "stars": "8,315",
         "crawled_at": "2026-02-19T13:59:17.644933"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-20",
+    "repos": [
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "2,795",
+        "crawled_at": "2026-02-20T13:49:32.889551"
+      },
+      {
+        "name": "blackboardsh /electrobun",
+        "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+        "language": "C++",
+        "stars": "5,729",
+        "crawled_at": "2026-02-20T13:49:32.889753"
+      },
+      {
+        "name": "HailToDodongo /pyrite64",
+        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+        "language": "C++",
+        "stars": "1,955",
+        "crawled_at": "2026-02-20T13:49:32.889944"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "55,873",
+        "crawled_at": "2026-02-20T13:49:32.890188"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "32,042",
+        "crawled_at": "2026-02-20T13:49:32.890380"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+        "language": "Python",
+        "stars": "31,380",
+        "crawled_at": "2026-02-20T13:49:32.890568"
+      },
+      {
+        "name": "eslint /eslint",
+        "description": "Find and fix problems in your JavaScript code.",
+        "language": "JavaScript",
+        "stars": "27,019",
+        "crawled_at": "2026-02-20T13:49:32.890793"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "7,734",
+        "crawled_at": "2026-02-20T13:49:32.890977"
+      },
+      {
+        "name": "Effect-TS /effect-smol",
+        "description": "Core libraries and experimental work for Effect v4",
+        "language": "TypeScript",
+        "stars": "340",
+        "crawled_at": "2026-02-20T13:49:32.891184"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "8,700",
+        "crawled_at": "2026-02-20T13:49:32.891370"
       }
     ]
   }
