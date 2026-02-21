@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-22",
-    "repos": [
-      {
-        "name": "remotion-dev /remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "stars": "26,325",
-        "crawled_at": "2026-01-22T13:36:47.751351"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "26,934",
-        "crawled_at": "2026-01-22T13:36:47.751560"
-      },
-      {
-        "name": "twitter /the-algorithm",
-        "description": "Source code for the X Recommendation Algorithm",
-        "language": "Scala",
-        "stars": "71,643",
-        "crawled_at": "2026-01-22T13:36:47.751752"
-      },
-      {
-        "name": "xai-org /grok-1",
-        "description": "Grok open release",
-        "language": "Python",
-        "stars": "51,140",
-        "crawled_at": "2026-01-22T13:36:47.751944"
-      },
-      {
-        "name": "deepseek-ai /FlashMLA",
-        "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
-        "language": "C++",
-        "stars": "12,076",
-        "crawled_at": "2026-01-22T13:36:47.752155"
-      },
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "11,388",
-        "crawled_at": "2026-01-22T13:36:47.752347"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "8,969",
-        "crawled_at": "2026-01-22T13:36:47.752535"
-      },
-      {
-        "name": "mastra-ai /mastra",
-        "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
-        "language": "TypeScript",
-        "stars": "20,024",
-        "crawled_at": "2026-01-22T13:36:47.752724"
-      },
-      {
-        "name": "microsoft /Data-Science-For-Beginners",
-        "description": "10 Weeks, 20 Lessons, Data Science for All!",
-        "language": "Jupyter Notebook",
-        "stars": "32,638",
-        "crawled_at": "2026-01-22T13:36:47.752915"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "8,177",
-        "crawled_at": "2026-01-22T13:36:47.753124"
-      }
-    ]
-  },
-  {
     "date": "2026-01-23",
     "repos": [
       {
@@ -2148,6 +2073,81 @@
         "language": "Python",
         "stars": "8,700",
         "crawled_at": "2026-02-20T13:49:32.891370"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-21",
+    "repos": [
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "4,764",
+        "crawled_at": "2026-02-21T13:32:57.113953"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "852",
+        "crawled_at": "2026-02-21T13:32:57.114219"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "56,613",
+        "crawled_at": "2026-02-21T13:32:57.114451"
+      },
+      {
+        "name": "huggingface /skills",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "1,551",
+        "crawled_at": "2026-02-21T13:32:57.114659"
+      },
+      {
+        "name": "PowerShell /PowerShell",
+        "description": "PowerShell for every system!",
+        "language": "C#",
+        "stars": "51,478",
+        "crawled_at": "2026-02-21T13:32:57.114846"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "68,181",
+        "crawled_at": "2026-02-21T13:32:57.115061"
+      },
+      {
+        "name": "stan-smith /FossFLOW",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "language": "TypeScript",
+        "stars": "17,609",
+        "crawled_at": "2026-02-21T13:32:57.115289"
+      },
+      {
+        "name": "ggml-org /ggml",
+        "description": "Tensor library for machine learning",
+        "language": "C++",
+        "stars": "14,017",
+        "crawled_at": "2026-02-21T13:32:57.115473"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "9,328",
+        "crawled_at": "2026-02-21T13:32:57.115657"
+      },
+      {
+        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
+        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "language": "Jupyter Notebook",
+        "stars": "22,377",
+        "crawled_at": "2026-02-21T13:32:57.115848"
       }
     ]
   }
