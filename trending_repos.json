@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-23",
-    "repos": [
-      {
-        "name": "remotion-dev /remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "stars": "27,872",
-        "crawled_at": "2026-01-23T13:33:37.567063"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "21,030",
-        "crawled_at": "2026-01-23T13:33:37.567313"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "27,418",
-        "crawled_at": "2026-01-23T13:33:37.567506"
-      },
-      {
-        "name": "ai-dynamo /dynamo",
-        "description": "A Datacenter Scale Distributed Inference Serving Framework",
-        "language": "Rust",
-        "stars": "5,844",
-        "crawled_at": "2026-01-23T13:33:37.567719"
-      },
-      {
-        "name": "browser-use /browser-use",
-        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "language": "Python",
-        "stars": "76,202",
-        "crawled_at": "2026-01-23T13:33:37.567904"
-      },
-      {
-        "name": "github /copilot-cli",
-        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-        "language": "Shell",
-        "stars": "7,027",
-        "crawled_at": "2026-01-23T13:33:37.568109"
-      },
-      {
-        "name": "Asabeneh /30-Days-Of-Python",
-        "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-        "language": "Python",
-        "stars": "56,205",
-        "crawled_at": "2026-01-23T13:33:37.568372"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "59,708",
-        "crawled_at": "2026-01-23T13:33:37.568558"
-      },
-      {
-        "name": "deepseek-ai /FlashMLA",
-        "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
-        "language": "C++",
-        "stars": "12,254",
-        "crawled_at": "2026-01-23T13:33:37.568760"
-      },
-      {
-        "name": "microsoft /Data-Science-For-Beginners",
-        "description": "10 Weeks, 20 Lessons, Data Science for All!",
-        "language": "Jupyter Notebook",
-        "stars": "33,158",
-        "crawled_at": "2026-01-23T13:33:37.568942"
-      }
-    ]
-  },
-  {
     "date": "2026-01-24",
     "repos": [
       {
@@ -2148,6 +2073,74 @@
         "language": "Jupyter Notebook",
         "stars": "22,377",
         "crawled_at": "2026-02-21T13:32:57.115848"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-22",
+    "repos": [
+      {
+        "name": "huggingface /skills",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "1,955",
+        "crawled_at": "2026-02-22T13:34:32.053297"
+      },
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "6,334",
+        "crawled_at": "2026-02-22T13:34:32.053495"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "68,676",
+        "crawled_at": "2026-02-22T13:34:32.053680"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "116,604",
+        "crawled_at": "2026-02-22T13:34:32.053947"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "9,571",
+        "crawled_at": "2026-02-22T13:34:32.054135"
+      },
+      {
+        "name": "OpenBB-finance /OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "stars": "60,768",
+        "crawled_at": "2026-02-22T13:34:32.054359"
+      },
+      {
+        "name": "cloudflare /agents",
+        "description": "Build and deploy AI Agents on Cloudflare",
+        "language": "TypeScript",
+        "stars": "3,579",
+        "crawled_at": "2026-02-22T13:34:32.054542"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "1,278",
+        "crawled_at": "2026-02-22T13:34:32.054767"
+      },
+      {
+        "name": "stan-smith /FossFLOW",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "language": "TypeScript",
+        "stars": "17,957",
+        "crawled_at": "2026-02-22T13:34:32.055009"
       }
     ]
   }
