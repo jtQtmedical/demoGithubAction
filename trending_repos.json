@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-24",
-    "repos": [
-      {
-        "name": "remotion-dev /remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "stars": "29,046",
-        "crawled_at": "2026-01-24T13:22:40.954985"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "language": "Python",
-        "stars": "7,833",
-        "crawled_at": "2026-01-24T13:22:40.955187"
-      },
-      {
-        "name": "OpenBMB /UltraRAG",
-        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-        "language": "Python",
-        "stars": "3,273",
-        "crawled_at": "2026-01-24T13:22:40.955375"
-      },
-      {
-        "name": "browser-use /browser-use",
-        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "language": "Python",
-        "stars": "76,591",
-        "crawled_at": "2026-01-24T13:22:40.955564"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "27,835",
-        "crawled_at": "2026-01-24T13:22:40.955750"
-      },
-      {
-        "name": "Blaizzy /mlx-audio",
-        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-        "language": "Python",
-        "stars": "3,402",
-        "crawled_at": "2026-01-24T13:22:40.955994"
-      },
-      {
-        "name": "simstudioai /sim",
-        "description": "Open-source platform to build and deploy AI agent workflows.",
-        "language": "TypeScript",
-        "stars": "26,083",
-        "crawled_at": "2026-01-24T13:22:40.956180"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "21,471",
-        "crawled_at": "2026-01-24T13:22:40.956368"
-      },
-      {
-        "name": "putyy /res-downloader",
-        "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
-        "language": "Go",
-        "stars": "14,266",
-        "crawled_at": "2026-01-24T13:22:40.956555"
-      },
-      {
-        "name": "AI4Finance-Foundation /FinRobot",
-        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-        "language": "Jupyter Notebook",
-        "stars": "5,060",
-        "crawled_at": "2026-01-24T13:22:40.956742"
-      }
-    ]
-  },
-  {
     "date": "2026-01-25",
     "repos": [
       {
@@ -2141,6 +2066,81 @@
         "language": "TypeScript",
         "stars": "17,957",
         "crawled_at": "2026-02-22T13:34:32.055009"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-23",
+    "repos": [
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "119,051",
+        "crawled_at": "2026-02-23T13:58:27.854039"
+      },
+      {
+        "name": "huggingface /skills",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "3,409",
+        "crawled_at": "2026-02-23T13:58:27.854393"
+      },
+      {
+        "name": "OpenBB-finance /OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "stars": "61,231",
+        "crawled_at": "2026-02-23T13:58:27.854754"
+      },
+      {
+        "name": "muratcankoylan /Agent-Skills-for-Context-Engineering",
+        "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+        "language": "Python",
+        "stars": "8,671",
+        "crawled_at": "2026-02-23T13:58:27.855091"
+      },
+      {
+        "name": "f /prompts.chat",
+        "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "language": "HTML",
+        "stars": "146,820",
+        "crawled_at": "2026-02-23T13:58:27.855421"
+      },
+      {
+        "name": "CompVis /stable-diffusion",
+        "description": "A latent text-to-image diffusion model",
+        "language": "Jupyter Notebook",
+        "stars": "72,444",
+        "crawled_at": "2026-02-23T13:58:27.855680"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "1,742",
+        "crawled_at": "2026-02-23T13:58:27.855996"
+      },
+      {
+        "name": "Stremio /stremio-web",
+        "description": "Stremio - Freedom to Stream",
+        "language": "JavaScript",
+        "stars": "9,842",
+        "crawled_at": "2026-02-23T13:58:27.856238"
+      },
+      {
+        "name": "stan-smith /FossFLOW",
+        "description": "Make beautiful isometric infrastructure diagrams",
+        "language": "TypeScript",
+        "stars": "18,387",
+        "crawled_at": "2026-02-23T13:58:27.856579"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "16,453",
+        "crawled_at": "2026-02-23T13:58:27.856838"
       }
     ]
   }
