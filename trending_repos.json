@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-01-25",
-    "repos": [
-      {
-        "name": "Blaizzy /mlx-audio",
-        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-        "language": "Python",
-        "stars": "3,746",
-        "crawled_at": "2026-01-25T13:23:45.263905"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "language": "Python",
-        "stars": "8,786",
-        "crawled_at": "2026-01-25T13:23:45.264123"
-      },
-      {
-        "name": "remotion-dev /remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "stars": "30,128",
-        "crawled_at": "2026-01-25T13:23:45.264314"
-      },
-      {
-        "name": "qarmin /czkawka",
-        "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
-        "language": "Rust",
-        "stars": "28,364",
-        "crawled_at": "2026-01-25T13:23:45.264537"
-      },
-      {
-        "name": "OpenBMB /UltraRAG",
-        "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
-        "language": "Python",
-        "stars": "3,720",
-        "crawled_at": "2026-01-25T13:23:45.264725"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "21,835",
-        "crawled_at": "2026-01-25T13:23:45.264905"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "57,271",
-        "crawled_at": "2026-01-25T13:23:45.265119"
-      },
-      {
-        "name": "supermemoryai /supermemory",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-        "language": "TypeScript",
-        "stars": "14,513",
-        "crawled_at": "2026-01-25T13:23:45.265307"
-      }
-    ]
-  },
-  {
     "date": "2026-01-26",
     "repos": [
       {
@@ -2141,6 +2080,81 @@
         "language": "Python",
         "stars": "16,453",
         "crawled_at": "2026-02-23T13:58:27.856838"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-24",
+    "repos": [
+      {
+        "name": "huggingface /skills",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "4,682",
+        "crawled_at": "2026-02-24T14:00:38.763945"
+      },
+      {
+        "name": "muratcankoylan /Agent-Skills-for-Context-Engineering",
+        "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+        "language": "Python",
+        "stars": "9,481",
+        "crawled_at": "2026-02-24T14:00:38.764211"
+      },
+      {
+        "name": "OpenBB-finance /OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "language": "Python",
+        "stars": "61,735",
+        "crawled_at": "2026-02-24T14:00:38.764445"
+      },
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "58,937",
+        "crawled_at": "2026-02-24T14:00:38.764632"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "122,527",
+        "crawled_at": "2026-02-24T14:00:38.764880"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "60,012",
+        "crawled_at": "2026-02-24T14:00:38.765106"
+      },
+      {
+        "name": "ruvnet /ruvector",
+        "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.",
+        "language": "Rust",
+        "stars": "561",
+        "crawled_at": "2026-02-24T14:00:38.765292"
+      },
+      {
+        "name": "D4Vinci /Scrapling",
+        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "stars": "11,953",
+        "crawled_at": "2026-02-24T14:00:38.765517"
+      },
+      {
+        "name": "GVCLab /PersonaLive",
+        "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
+        "language": "Python",
+        "stars": "1,818",
+        "crawled_at": "2026-02-24T14:00:38.765697"
+      },
+      {
+        "name": "HunxByts /GhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "stars": "7,288",
+        "crawled_at": "2026-02-24T14:00:38.765891"
       }
     ]
   }
