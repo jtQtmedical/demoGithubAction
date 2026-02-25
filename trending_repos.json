@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-01-26",
-    "repos": [
-      {
-        "name": "Blaizzy /mlx-audio",
-        "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
-        "language": "Python",
-        "stars": "4,902",
-        "crawled_at": "2026-01-26T13:35:42.493151"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "language": "Python",
-        "stars": "9,514",
-        "crawled_at": "2026-01-26T13:35:42.493358"
-      },
-      {
-        "name": "supermemoryai /supermemory",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-        "language": "TypeScript",
-        "stars": "14,935",
-        "crawled_at": "2026-01-26T13:35:42.493564"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "28,989",
-        "crawled_at": "2026-01-26T13:35:42.493754"
-      },
-      {
-        "name": "remotion-dev /remotion",
-        "description": "🎥 Make videos programmatically with React",
-        "language": "TypeScript",
-        "stars": "31,485",
-        "crawled_at": "2026-01-26T13:35:42.493940"
-      },
-      {
-        "name": "AI4Finance-Foundation /FinRobot",
-        "description": "FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀",
-        "language": "Jupyter Notebook",
-        "stars": "5,478",
-        "crawled_at": "2026-01-26T13:35:42.494124"
-      },
-      {
-        "name": "k4yt3x /video2x",
-        "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
-        "language": "C++",
-        "stars": "17,894",
-        "crawled_at": "2026-01-26T13:35:42.494343"
-      },
-      {
-        "name": "business-science /ai-data-science-team",
-        "description": "An AI-powered data science team of agents to help you perform common data science tasks 10X faster.",
-        "language": "Python",
-        "stars": "3,923",
-        "crawled_at": "2026-01-26T13:35:42.494539"
-      }
-    ]
-  },
-  {
     "date": "2026-01-27",
     "repos": [
       {
@@ -2155,6 +2094,81 @@
         "language": "Python",
         "stars": "7,288",
         "crawled_at": "2026-02-24T14:00:38.765891"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-25",
+    "repos": [
+      {
+        "name": "D4Vinci /Scrapling",
+        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "stars": "13,783",
+        "crawled_at": "2026-02-25T13:59:31.570729"
+      },
+      {
+        "name": "huggingface /skills",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "6,124",
+        "crawled_at": "2026-02-25T13:59:31.570960"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "3,299",
+        "crawled_at": "2026-02-25T13:59:31.571221"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "61,204",
+        "crawled_at": "2026-02-25T13:59:31.571514"
+      },
+      {
+        "name": "muratcankoylan /Agent-Skills-for-Context-Engineering",
+        "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+        "language": "Python",
+        "stars": "10,419",
+        "crawled_at": "2026-02-25T13:59:31.571747"
+      },
+      {
+        "name": "datawhalechina /hello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "language": "Python",
+        "stars": "21,815",
+        "crawled_at": "2026-02-25T13:59:31.571941"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "TypeScript",
+        "stars": "20,289",
+        "crawled_at": "2026-02-25T13:59:31.572129"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "17,457",
+        "crawled_at": "2026-02-25T13:59:31.572319"
+      },
+      {
+        "name": "NevaMind-AI /memU",
+        "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
+        "language": "Python",
+        "stars": "10,615",
+        "crawled_at": "2026-02-25T13:59:31.572524"
+      },
+      {
+        "name": "ruvnet /ruvector",
+        "description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
+        "language": "Rust",
+        "stars": "984",
+        "crawled_at": "2026-02-25T13:59:31.572715"
       }
     ]
   }
