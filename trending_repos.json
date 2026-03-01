@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-01-30",
-    "repos": [
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "112,891",
-        "crawled_at": "2026-01-30T13:44:48.741684"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
-        "language": "JavaScript",
-        "stars": "28,232",
-        "crawled_at": "2026-01-30T13:44:48.741937"
-      },
-      {
-        "name": "MoonshotAI /kimi-cli",
-        "description": "Kimi Code CLI is your next CLI agent.",
-        "language": "Python",
-        "stars": "5,181",
-        "crawled_at": "2026-01-30T13:44:48.742179"
-      },
-      {
-        "name": "modelcontextprotocol /ext-apps",
-        "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
-        "language": "TypeScript",
-        "stars": "944",
-        "crawled_at": "2026-01-30T13:44:48.742378"
-      },
-      {
-        "name": "NevaMind-AI /memU",
-        "description": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).",
-        "language": "Python",
-        "stars": "6,318",
-        "crawled_at": "2026-01-30T13:44:48.742587"
-      },
-      {
-        "name": "hashicorp /vault",
-        "description": "A tool for secrets management, encryption as a service, and privileged access management",
-        "language": "Go",
-        "stars": "34,744",
-        "crawled_at": "2026-01-30T13:44:48.742788"
-      },
-      {
-        "name": "badlogic /pi-mono",
-        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-        "language": "TypeScript",
-        "stars": "3,628",
-        "crawled_at": "2026-01-30T13:44:48.743018"
-      },
-      {
-        "name": "anomalyco /opencode-anthropic-auth",
-        "description": "無描述",
-        "language": "JavaScript",
-        "stars": "315",
-        "crawled_at": "2026-01-30T13:44:48.743280"
-      },
-      {
-        "name": "protocolbuffers /protobuf",
-        "description": "Protocol Buffers - Google's data interchange format",
-        "language": "C++",
-        "stars": "70,550",
-        "crawled_at": "2026-01-30T13:44:48.743497"
-      },
-      {
-        "name": "pedroslopez /whatsapp-web.js",
-        "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
-        "language": "JavaScript",
-        "stars": "20,796",
-        "crawled_at": "2026-01-30T13:44:48.743734"
-      }
-    ]
-  },
-  {
     "date": "2026-01-31",
     "repos": [
       {
@@ -2197,6 +2122,81 @@
         "language": "C",
         "stars": "6,103",
         "crawled_at": "2026-02-28T13:27:41.824027"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-01",
+    "repos": [
+      {
+        "name": "moeru-ai /airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "stars": "19,710",
+        "crawled_at": "2026-03-01T13:30:21.556725"
+      },
+      {
+        "name": "ruvnet /wifi-densepose",
+        "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "15,112",
+        "crawled_at": "2026-03-01T13:30:21.556930"
+      },
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "stars": "16,944",
+        "crawled_at": "2026-03-01T13:30:21.557117"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "88,715",
+        "crawled_at": "2026-03-01T13:30:21.557302"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "22,789",
+        "crawled_at": "2026-03-01T13:30:21.557494"
+      },
+      {
+        "name": "alibaba /OpenSandbox",
+        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+        "language": "Python",
+        "stars": "2,922",
+        "crawled_at": "2026-03-01T13:30:21.557696"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "language": "Python",
+        "stars": "98,481",
+        "crawled_at": "2026-03-01T13:30:21.557881"
+      },
+      {
+        "name": "K-Dense-AI /claude-scientific-skills",
+        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "language": "Python",
+        "stars": "9,935",
+        "crawled_at": "2026-03-01T13:30:21.558083"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars": "20,650",
+        "crawled_at": "2026-03-01T13:30:21.558266"
+      },
+      {
+        "name": "X-PLUG /MobileAgent",
+        "description": "Mobile-Agent: The Powerful GUI Agent Family",
+        "language": "Python",
+        "stars": "7,623",
+        "crawled_at": "2026-03-01T13:30:21.558450"
       }
     ]
   }
