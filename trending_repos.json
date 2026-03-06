@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-04",
-    "repos": [
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "21,661",
-        "crawled_at": "2026-02-04T13:52:52.503037"
-      },
-      {
-        "name": "masoncl /review-prompts",
-        "description": "AI review prompts",
-        "language": "Python",
-        "stars": "510",
-        "crawled_at": "2026-02-04T13:52:52.503235"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "3,428",
-        "crawled_at": "2026-02-04T13:52:52.503430"
-      },
-      {
-        "name": "automazeio /ccpm",
-        "description": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.",
-        "language": "Shell",
-        "stars": "6,900",
-        "crawled_at": "2026-02-04T13:52:52.503615"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "44,146",
-        "crawled_at": "2026-02-04T13:52:52.503857"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "10,342",
-        "crawled_at": "2026-02-04T13:52:52.504046"
-      },
-      {
-        "name": "karpathy /nanochat",
-        "description": "The best ChatGPT that $100 can buy.",
-        "language": "Python",
-        "stars": "42,184",
-        "crawled_at": "2026-02-04T13:52:52.504234"
-      },
-      {
-        "name": "kovidgoyal /calibre",
-        "description": "The official source code repository for the calibre ebook manager",
-        "language": "Python",
-        "stars": "23,984",
-        "crawled_at": "2026-02-04T13:52:52.504455"
-      },
-      {
-        "name": "OpenBMB /ChatDev",
-        "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-        "language": "Python",
-        "stars": "29,896",
-        "crawled_at": "2026-02-04T13:52:52.504635"
-      },
-      {
-        "name": "pedramamini /Maestro",
-        "description": "Agent Orchestration Command Center",
-        "language": "TypeScript",
-        "stars": "1,597",
-        "crawled_at": "2026-02-04T13:52:52.504840"
-      }
-    ]
-  },
-  {
     "date": "2026-02-05",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "PowerShell",
         "stars": "188",
         "crawled_at": "2026-03-05T13:51:30.889180"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "repos": [
+      {
+        "name": "moeru-ai /airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "stars": "28,965",
+        "crawled_at": "2026-03-06T13:43:11.961091"
+      },
+      {
+        "name": "QwenLM /Qwen-Agent",
+        "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+        "language": "Python",
+        "stars": "14,346",
+        "crawled_at": "2026-03-06T13:43:11.961302"
+      },
+      {
+        "name": "microsoft /hve-core",
+        "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+        "language": "PowerShell",
+        "stars": "450",
+        "crawled_at": "2026-03-06T13:43:11.961491"
+      },
+      {
+        "name": "Ed1s0nZ /CyberStrikeAI",
+        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+        "language": "Go",
+        "stars": "1,434",
+        "crawled_at": "2026-03-06T13:43:11.961683"
+      },
+      {
+        "name": "inclusionAI /AReaL",
+        "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+        "language": "Python",
+        "stars": "4,285",
+        "crawled_at": "2026-03-06T13:43:11.961888"
+      },
+      {
+        "name": "lingfengQAQ /webnovel-writer",
+        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+        "language": "Python",
+        "stars": "678",
+        "crawled_at": "2026-03-06T13:43:11.962076"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "11,501",
+        "crawled_at": "2026-03-06T13:43:11.962270"
+      },
+      {
+        "name": "TheCraigHewitt /seomachine",
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "stars": "1,975",
+        "crawled_at": "2026-03-06T13:43:11.962454"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "46,225",
+        "crawled_at": "2026-03-06T13:43:11.962637"
+      },
+      {
+        "name": "aidenybai /react-grab",
+        "description": "Select context for coding agents directly from your website",
+        "language": "TypeScript",
+        "stars": "5,793",
+        "crawled_at": "2026-03-06T13:43:11.962879"
       }
     ]
   }
