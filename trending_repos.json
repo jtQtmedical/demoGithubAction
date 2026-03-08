@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-05",
-    "repos": [
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "26,495",
-        "crawled_at": "2026-02-05T13:55:39.051660"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "4,047",
-        "crawled_at": "2026-02-05T13:55:39.051861"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "23,390",
-        "crawled_at": "2026-02-05T13:55:39.052099"
-      },
-      {
-        "name": "j178 /prek",
-        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
-        "language": "Rust",
-        "stars": "5,374",
-        "crawled_at": "2026-02-05T13:55:39.052329"
-      },
-      {
-        "name": "topoteretes /cognee",
-        "description": "Memory for AI Agents in 6 lines of code",
-        "language": "Python",
-        "stars": "11,734",
-        "crawled_at": "2026-02-05T13:55:39.052579"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "45,024",
-        "crawled_at": "2026-02-05T13:55:39.052805"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "31,293",
-        "crawled_at": "2026-02-05T13:55:39.052991"
-      },
-      {
-        "name": "fish-shell /fish-shell",
-        "description": "The user-friendly command line shell.",
-        "language": "Rust",
-        "stars": "32,293",
-        "crawled_at": "2026-02-05T13:55:39.053177"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "91,325",
-        "crawled_at": "2026-02-05T13:55:39.053376"
-      },
-      {
-        "name": "linshenkx /prompt-optimizer",
-        "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "language": "TypeScript",
-        "stars": "19,257",
-        "crawled_at": "2026-02-05T13:55:39.053563"
-      }
-    ]
-  },
-  {
     "date": "2026-02-06",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "TypeScript",
         "stars": "5,793",
         "crawled_at": "2026-03-06T13:43:11.962879"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "repos": [
+      {
+        "name": "GoogleCloudPlatform /generative-ai",
+        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "language": "Jupyter Notebook",
+        "stars": "13,836",
+        "crawled_at": "2026-03-08T13:31:24.980866"
+      },
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "6,430",
+        "crawled_at": "2026-03-08T13:31:24.981075"
+      },
+      {
+        "name": "shadcn-ui /ui",
+        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "language": "TypeScript",
+        "stars": "108,426",
+        "crawled_at": "2026-03-08T13:31:24.981267"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "278,736",
+        "crawled_at": "2026-03-08T13:31:24.981498"
+      },
+      {
+        "name": "toeverything /AFFiNE",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "language": "TypeScript",
+        "stars": "64,932",
+        "crawled_at": "2026-03-08T13:31:24.981754"
+      },
+      {
+        "name": "Ed1s0nZ /CyberStrikeAI",
+        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+        "language": "Go",
+        "stars": "2,072",
+        "crawled_at": "2026-03-08T13:31:24.981946"
+      },
+      {
+        "name": "shareAI-lab /learn-claude-code",
+        "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+        "language": "TypeScript",
+        "stars": "23,572",
+        "crawled_at": "2026-03-08T13:31:24.982136"
+      },
+      {
+        "name": "openai /skills",
+        "description": "Skills Catalog for Codex",
+        "language": "Python",
+        "stars": "13,006",
+        "crawled_at": "2026-03-08T13:31:24.982324"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "46,712",
+        "crawled_at": "2026-03-08T13:31:24.982512"
+      },
+      {
+        "name": "is-a-dev /register",
+        "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+        "language": "JavaScript",
+        "stars": "9,663",
+        "crawled_at": "2026-03-08T13:31:24.982722"
       }
     ]
   }
