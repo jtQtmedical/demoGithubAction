@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-06",
-    "repos": [
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "26,991",
-        "crawled_at": "2026-02-06T13:50:08.966350"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "4,616",
-        "crawled_at": "2026-02-06T13:50:08.966600"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "24,119",
-        "crawled_at": "2026-02-06T13:50:08.966848"
-      },
-      {
-        "name": "j178 /prek",
-        "description": "⚡ Better `pre-commit`, re-engineered in Rust",
-        "language": "Rust",
-        "stars": "5,660",
-        "crawled_at": "2026-02-06T13:50:08.967081"
-      },
-      {
-        "name": "topoteretes /cognee",
-        "description": "Memory for AI Agents in 6 lines of code",
-        "language": "Python",
-        "stars": "11,980",
-        "crawled_at": "2026-02-06T13:50:08.967312"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "45,938",
-        "crawled_at": "2026-02-06T13:50:08.967567"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "31,446",
-        "crawled_at": "2026-02-06T13:50:08.967759"
-      },
-      {
-        "name": "fish-shell /fish-shell",
-        "description": "The user-friendly command line shell.",
-        "language": "Rust",
-        "stars": "32,478",
-        "crawled_at": "2026-02-06T13:50:08.967946"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "91,445",
-        "crawled_at": "2026-02-06T13:50:08.968134"
-      },
-      {
-        "name": "linshenkx /prompt-optimizer",
-        "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "language": "TypeScript",
-        "stars": "19,584",
-        "crawled_at": "2026-02-06T13:50:08.968320"
-      }
-    ]
-  },
-  {
     "date": "2026-02-07",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "JavaScript",
         "stars": "9,663",
         "crawled_at": "2026-03-08T13:31:24.982722"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-09",
+    "repos": [
+      {
+        "name": "GoogleCloudPlatform /generative-ai",
+        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "language": "Jupyter Notebook",
+        "stars": "15,062",
+        "crawled_at": "2026-03-09T13:55:10.643403"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "288,054",
+        "crawled_at": "2026-03-09T13:55:10.643657"
+      },
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "9,267",
+        "crawled_at": "2026-03-09T13:55:10.643846"
+      },
+      {
+        "name": "karpathy /nanochat",
+        "description": "The best ChatGPT that $100 can buy.",
+        "language": "Python",
+        "stars": "45,250",
+        "crawled_at": "2026-03-09T13:55:10.644104"
+      },
+      {
+        "name": "666ghj /BettaFish",
+        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "language": "Python",
+        "stars": "37,153",
+        "crawled_at": "2026-03-09T13:55:10.644293"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "2,618",
+        "crawled_at": "2026-03-09T13:55:10.644479"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "stars": "2,579",
+        "crawled_at": "2026-03-09T13:55:10.644668"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "15,950",
+        "crawled_at": "2026-03-09T13:55:10.644927"
+      },
+      {
+        "name": "alibaba /page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "stars": "2,241",
+        "crawled_at": "2026-03-09T13:55:10.645121"
+      },
+      {
+        "name": "alirezarezvani /claude-skills",
+        "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+        "language": "Python",
+        "stars": "3,025",
+        "crawled_at": "2026-03-09T13:55:10.645306"
       }
     ]
   }
