@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-09",
-    "repos": [
-      {
-        "name": "KeygraphHQ /shannon",
-        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-        "language": "TypeScript",
-        "stars": "15,776",
-        "crawled_at": "2026-02-09T14:04:18.080907"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "13,242",
-        "crawled_at": "2026-02-09T14:04:18.081106"
-      },
-      {
-        "name": "pydantic /monty",
-        "description": "A minimal, secure Python interpreter written in Rust for use by AI",
-        "language": "Rust",
-        "stars": "3,520",
-        "crawled_at": "2026-02-09T14:04:18.081385"
-      },
-      {
-        "name": "hsliuping /TradingAgents-CN",
-        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-        "language": "Python",
-        "stars": "16,093",
-        "crawled_at": "2026-02-09T14:04:18.081577"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "13,588",
-        "crawled_at": "2026-02-09T14:04:18.081768"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "396,829",
-        "crawled_at": "2026-02-09T14:04:18.081952"
-      },
-      {
-        "name": "github /gh-aw",
-        "description": "GitHub Agentic Workflows",
-        "language": "Go",
-        "stars": "682",
-        "crawled_at": "2026-02-09T14:04:18.082138"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "92,992",
-        "crawled_at": "2026-02-09T14:04:18.082340"
-      },
-      {
-        "name": "gitbutlerapp /gitbutler",
-        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-        "language": "Rust",
-        "stars": "18,552",
-        "crawled_at": "2026-02-09T14:04:18.082522"
-      },
-      {
-        "name": "microsoft /litebox",
-        "description": "A security-focused library OS supporting kernel- and user-mode execution",
-        "language": "Rust",
-        "stars": "1,636",
-        "crawled_at": "2026-02-09T14:04:18.082703"
-      }
-    ]
-  },
-  {
     "date": "2026-02-10",
     "repos": [
       {
@@ -2183,6 +2108,81 @@
         "language": "Python",
         "stars": "20,826",
         "crawled_at": "2026-03-11T13:55:04.763697"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-12",
+    "repos": [
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "31,309",
+        "crawled_at": "2026-03-12T13:52:02.845808"
+      },
+      {
+        "name": "fishaudio /fish-speech",
+        "description": "SOTA Open Source TTS",
+        "language": "Python",
+        "stars": "26,159",
+        "crawled_at": "2026-03-12T13:52:02.846039"
+      },
+      {
+        "name": "langflow-ai /openrag",
+        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "language": "Python",
+        "stars": "1,128",
+        "crawled_at": "2026-03-12T13:52:02.846250"
+      },
+      {
+        "name": "InsForge /InsForge",
+        "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+        "language": "TypeScript",
+        "stars": "2,687",
+        "crawled_at": "2026-03-12T13:52:02.846492"
+      },
+      {
+        "name": "vectorize-io /hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars": "2,821",
+        "crawled_at": "2026-03-12T13:52:02.846695"
+      },
+      {
+        "name": "alibaba /page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "stars": "5,508",
+        "crawled_at": "2026-03-12T13:52:02.846894"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "79,208",
+        "crawled_at": "2026-03-12T13:52:02.847161"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "5,833",
+        "crawled_at": "2026-03-12T13:52:02.847363"
+      },
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "17,845",
+        "crawled_at": "2026-03-12T13:52:02.847562"
+      },
+      {
+        "name": "google-ai-edge /LiteRT",
+        "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+        "language": "C++",
+        "stars": "1,580",
+        "crawled_at": "2026-03-12T13:52:02.847770"
       }
     ]
   }
