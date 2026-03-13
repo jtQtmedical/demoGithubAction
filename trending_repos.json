@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-10",
-    "repos": [
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "26,980",
-        "crawled_at": "2026-02-10T14:11:54.313955"
-      },
-      {
-        "name": "iOfficeAI /AionUi",
-        "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "language": "TypeScript",
-        "stars": "14,212",
-        "crawled_at": "2026-02-10T14:11:54.314175"
-      },
-      {
-        "name": "KeygraphHQ /shannon",
-        "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-        "language": "TypeScript",
-        "stars": "19,188",
-        "crawled_at": "2026-02-10T14:11:54.314373"
-      },
-      {
-        "name": "github /gh-aw",
-        "description": "GitHub Agentic Workflows",
-        "language": "Go",
-        "stars": "1,166",
-        "crawled_at": "2026-02-10T14:11:54.314564"
-      },
-      {
-        "name": "EveryInc /compound-engineering-plugin",
-        "description": "Official Claude Code compound engineering plugin",
-        "language": "TypeScript",
-        "stars": "8,060",
-        "crawled_at": "2026-02-10T14:11:54.314771"
-      },
-      {
-        "name": "hsliuping /TradingAgents-CN",
-        "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-        "language": "Python",
-        "stars": "16,587",
-        "crawled_at": "2026-02-10T14:11:54.314977"
-      },
-      {
-        "name": "gitbutlerapp /gitbutler",
-        "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-        "language": "Rust",
-        "stars": "18,800",
-        "crawled_at": "2026-02-10T14:11:54.315183"
-      },
-      {
-        "name": "carlvellotti /claude-code-pm-course",
-        "description": "Interactive course teaching Product Managers how to use Claude Code effectively",
-        "language": "MDX",
-        "stars": "679",
-        "crawled_at": "2026-02-10T14:11:54.315380"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-        "language": "Python",
-        "stars": "93,430",
-        "crawled_at": "2026-02-10T14:11:54.315576"
-      },
-      {
-        "name": "drawdb-io /drawdb",
-        "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-        "language": "JavaScript",
-        "stars": "36,092",
-        "crawled_at": "2026-02-10T14:11:54.315786"
-      }
-    ]
-  },
-  {
     "date": "2026-02-11",
     "repos": [
       {
@@ -2183,6 +2108,81 @@
         "language": "C++",
         "stars": "1,580",
         "crawled_at": "2026-03-12T13:52:02.847770"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-13",
+    "repos": [
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "Python",
+        "stars": "33,370",
+        "crawled_at": "2026-03-13T13:48:07.133969"
+      },
+      {
+        "name": "langflow-ai /openrag",
+        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "language": "Python",
+        "stars": "1,992",
+        "crawled_at": "2026-03-13T13:48:07.134176"
+      },
+      {
+        "name": "lightpanda-io /browser",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "language": "Zig",
+        "stars": "14,530",
+        "crawled_at": "2026-03-13T13:48:07.134364"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "81,269",
+        "crawled_at": "2026-03-13T13:48:07.134586"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "408,947",
+        "crawled_at": "2026-03-13T13:48:07.134792"
+      },
+      {
+        "name": "promptfoo /promptfoo",
+        "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+        "language": "TypeScript",
+        "stars": "14,672",
+        "crawled_at": "2026-03-13T13:48:07.134983"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "38,234",
+        "crawled_at": "2026-03-13T13:48:07.135210"
+      },
+      {
+        "name": "dolthub /dolt",
+        "description": "Dolt – Git for Data",
+        "language": "Go",
+        "stars": "20,887",
+        "crawled_at": "2026-03-13T13:48:07.135434"
+      },
+      {
+        "name": "google /A2UI",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "12,926",
+        "crawled_at": "2026-03-13T13:48:07.135644"
+      },
+      {
+        "name": "fishaudio /fish-speech",
+        "description": "SOTA Open Source TTS",
+        "language": "Python",
+        "stars": "26,683",
+        "crawled_at": "2026-03-13T13:48:07.135844"
       }
     ]
   }
