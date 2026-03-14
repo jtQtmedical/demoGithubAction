@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-02-11",
-    "repos": [
-      {
-        "name": "google /langextract",
-        "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "language": "Python",
-        "stars": "29,925",
-        "crawled_at": "2026-02-11T14:05:26.547957"
-      },
-      {
-        "name": "github /gh-aw",
-        "description": "GitHub Agentic Workflows",
-        "language": "Go",
-        "stars": "1,547",
-        "crawled_at": "2026-02-11T14:05:26.548170"
-      },
-      {
-        "name": "microsoft /PowerToys",
-        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-        "language": "C#",
-        "stars": "129,268",
-        "crawled_at": "2026-02-11T14:05:26.548358"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "23,808",
-        "crawled_at": "2026-02-11T14:05:26.548547"
-      },
-      {
-        "name": "EveryInc /compound-engineering-plugin",
-        "description": "Official Claude Code compound engineering plugin",
-        "language": "TypeScript",
-        "stars": "8,319",
-        "crawled_at": "2026-02-11T14:05:26.548736"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "28,373",
-        "crawled_at": "2026-02-11T14:05:26.548960"
-      },
-      {
-        "name": "cheahjs /free-llm-api-resources",
-        "description": "A list of free LLM inference resources accessible via API.",
-        "language": "Python",
-        "stars": "8,956",
-        "crawled_at": "2026-02-11T14:05:26.549140"
-      }
-    ]
-  },
-  {
     "date": "2026-02-12",
     "repos": [
       {
@@ -2183,6 +2129,81 @@
         "language": "Python",
         "stars": "26,683",
         "crawled_at": "2026-03-13T13:48:07.135844"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-14",
+    "repos": [
+      {
+        "name": "volcengine /OpenViking",
+        "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "language": "Python",
+        "stars": "9,682",
+        "crawled_at": "2026-03-14T13:35:43.790183"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "11,024",
+        "crawled_at": "2026-03-14T13:35:43.790386"
+      },
+      {
+        "name": "dimensionalOS /dimos",
+        "description": "The Dimensional Framework",
+        "language": "Python",
+        "stars": "728",
+        "crawled_at": "2026-03-14T13:35:43.790574"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "13,232",
+        "crawled_at": "2026-03-14T13:35:43.790789"
+      },
+      {
+        "name": "langflow-ai /openrag",
+        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "language": "Python",
+        "stars": "2,519",
+        "crawled_at": "2026-03-14T13:35:43.790984"
+      },
+      {
+        "name": "lightpanda-io /browser",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "language": "Zig",
+        "stars": "16,472",
+        "crawled_at": "2026-03-14T13:35:43.791169"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "42,237",
+        "crawled_at": "2026-03-14T13:35:43.791392"
+      },
+      {
+        "name": "fishaudio /fish-speech",
+        "description": "SOTA Open Source TTS",
+        "language": "Python",
+        "stars": "27,055",
+        "crawled_at": "2026-03-14T13:35:43.791576"
+      },
+      {
+        "name": "InsForge /InsForge",
+        "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+        "language": "TypeScript",
+        "stars": "3,915",
+        "crawled_at": "2026-03-14T13:35:43.791817"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "82,587",
+        "crawled_at": "2026-03-14T13:35:43.792041"
       }
     ]
   }
