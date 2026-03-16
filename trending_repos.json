@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-13",
-    "repos": [
-      {
-        "name": "SynkraAI /aios-core",
-        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-        "language": "JavaScript",
-        "stars": "317",
-        "crawled_at": "2026-02-13T13:51:23.374461"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "24,577",
-        "crawled_at": "2026-02-13T13:51:23.374684"
-      },
-      {
-        "name": "danielmiessler /Personal_AI_Infrastructure",
-        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-        "language": "TypeScript",
-        "stars": "7,835",
-        "crawled_at": "2026-02-13T13:51:23.374972"
-      },
-      {
-        "name": "patchy631 /ai-engineering-hub",
-        "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-        "language": "Jupyter Notebook",
-        "stars": "29,028",
-        "crawled_at": "2026-02-13T13:51:23.375208"
-      },
-      {
-        "name": "TelegramMessenger /MTProxy",
-        "description": "無描述",
-        "language": "C",
-        "stars": "5,817",
-        "crawled_at": "2026-02-13T13:51:23.375422"
-      },
-      {
-        "name": "google-deepmind /superhuman",
-        "description": "無描述",
-        "language": "TeX",
-        "stars": "287",
-        "crawled_at": "2026-02-13T13:51:23.375628"
-      },
-      {
-        "name": "cheahjs /free-llm-api-resources",
-        "description": "A list of free LLM inference resources accessible via API.",
-        "language": "Python",
-        "stars": "10,394",
-        "crawled_at": "2026-02-13T13:51:23.375833"
-      },
-      {
-        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
-        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-        "language": "Jupyter Notebook",
-        "stars": "21,070",
-        "crawled_at": "2026-02-13T13:51:23.376019"
-      },
-      {
-        "name": "THUDM /slime",
-        "description": "slime is an LLM post-training framework for RL Scaling.",
-        "language": "Python",
-        "stars": "4,012",
-        "crawled_at": "2026-02-13T13:51:23.376202"
-      },
-      {
-        "name": "DebugSwift /DebugSwift",
-        "description": "A toolkit to make debugging iOS applications easier 🚀",
-        "language": "Swift",
-        "stars": "1,297",
-        "crawled_at": "2026-02-13T13:51:23.376428"
-      }
-    ]
-  },
-  {
     "date": "2026-02-14",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "Python",
         "stars": "13,683",
         "crawled_at": "2026-03-15T13:37:10.173776"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-16",
+    "repos": [
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "29,030",
+        "crawled_at": "2026-03-16T14:09:19.081500"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "36,219",
+        "crawled_at": "2026-03-16T14:09:19.081743"
+      },
+      {
+        "name": "Crosstalk-Solutions /project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "stars": "1,517",
+        "crawled_at": "2026-03-16T14:09:19.081939"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "87,700",
+        "crawled_at": "2026-03-16T14:09:19.082171"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "15,193",
+        "crawled_at": "2026-03-16T14:09:19.082401"
+      },
+      {
+        "name": "lightpanda-io /browser",
+        "description": "Lightpanda: the headless browser designed for AI and automation",
+        "language": "Zig",
+        "stars": "19,845",
+        "crawled_at": "2026-03-16T14:09:19.082609"
+      },
+      {
+        "name": "volcengine /OpenViking",
+        "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "language": "Python",
+        "stars": "13,592",
+        "crawled_at": "2026-03-16T14:09:19.082791"
+      },
+      {
+        "name": "shareAI-lab /learn-claude-code",
+        "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+        "language": "TypeScript",
+        "stars": "29,047",
+        "crawled_at": "2026-03-16T14:09:19.082975"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "15,071",
+        "crawled_at": "2026-03-16T14:09:19.083157"
+      },
+      {
+        "name": "langchain-ai /deepagents",
+        "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+        "language": "Python",
+        "stars": "12,279",
+        "crawled_at": "2026-03-16T14:09:19.083346"
       }
     ]
   }
