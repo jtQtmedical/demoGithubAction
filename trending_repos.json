@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-14",
-    "repos": [
-      {
-        "name": "tambo-ai /tambo",
-        "description": "Generative UI SDK for React",
-        "language": "TypeScript",
-        "stars": "9,432",
-        "crawled_at": "2026-02-14T13:34:55.575510"
-      },
-      {
-        "name": "SynkraAI /aios-core",
-        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-        "language": "JavaScript",
-        "stars": "522",
-        "crawled_at": "2026-02-14T13:34:55.575732"
-      },
-      {
-        "name": "rowboatlabs /rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "language": "TypeScript",
-        "stars": "5,616",
-        "crawled_at": "2026-02-14T13:34:55.575920"
-      },
-      {
-        "name": "minio /minio",
-        "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-        "language": "Go",
-        "stars": "60,230",
-        "crawled_at": "2026-02-14T13:34:55.576104"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "24,908",
-        "crawled_at": "2026-02-14T13:34:55.576287"
-      },
-      {
-        "name": "alibaba /zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "stars": "995",
-        "crawled_at": "2026-02-14T13:34:55.576489"
-      },
-      {
-        "name": "ruvnet /wifi-densepose",
-        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-        "language": "Python",
-        "stars": "5,984",
-        "crawled_at": "2026-02-14T13:34:55.576679"
-      },
-      {
-        "name": "Zipstack /unstract",
-        "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-        "language": "Python",
-        "stars": "6,177",
-        "crawled_at": "2026-02-14T13:34:55.576864"
-      },
-      {
-        "name": "letta-ai /letta-code",
-        "description": "The memory-first coding agent",
-        "language": "TypeScript",
-        "stars": "1,101",
-        "crawled_at": "2026-02-14T13:34:55.577045"
-      },
-      {
-        "name": "ruby /ruby",
-        "description": "The Ruby Programming Language",
-        "language": "Ruby",
-        "stars": "23,325",
-        "crawled_at": "2026-02-14T13:34:55.577227"
-      }
-    ]
-  },
-  {
     "date": "2026-02-15",
     "repos": [
       {
@@ -2204,6 +2129,53 @@
         "language": "Python",
         "stars": "12,279",
         "crawled_at": "2026-03-16T14:09:19.083346"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-17",
+    "repos": [
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "90,875",
+        "crawled_at": "2026-03-17T14:08:58.649520"
+      },
+      {
+        "name": "codecrafters-io /build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "stars": "479,100",
+        "crawled_at": "2026-03-17T14:08:58.649751"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "16,292",
+        "crawled_at": "2026-03-17T14:08:58.649989"
+      },
+      {
+        "name": "langchain-ai /deepagents",
+        "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+        "language": "Python",
+        "stars": "13,619",
+        "crawled_at": "2026-03-17T14:08:58.650178"
+      },
+      {
+        "name": "jarrodwatts /claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "language": "JavaScript",
+        "stars": "5,229",
+        "crawled_at": "2026-03-17T14:08:58.650371"
+      },
+      {
+        "name": "cloudflare /workerd",
+        "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+        "language": "C++",
+        "stars": "7,670",
+        "crawled_at": "2026-03-17T14:08:58.650563"
       }
     ]
   }
