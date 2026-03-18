@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-15",
-    "repos": [
-      {
-        "name": "nautechsystems /nautilus_trader",
-        "description": "A high-performance algorithmic trading platform and event-driven backtester",
-        "language": "Rust",
-        "stars": "19,071",
-        "crawled_at": "2026-02-15T13:35:28.451872"
-      },
-      {
-        "name": "steipete /gogcli",
-        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-        "language": "Go",
-        "stars": "2,649",
-        "crawled_at": "2026-02-15T13:35:28.452116"
-      },
-      {
-        "name": "rowboatlabs /rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "language": "TypeScript",
-        "stars": "6,433",
-        "crawled_at": "2026-02-15T13:35:28.452316"
-      },
-      {
-        "name": "github /gh-aw",
-        "description": "GitHub Agentic Workflows",
-        "language": "Go",
-        "stars": "2,513",
-        "crawled_at": "2026-02-15T13:35:28.452563"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "25,247",
-        "crawled_at": "2026-02-15T13:35:28.452755"
-      },
-      {
-        "name": "alibaba /zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "stars": "1,729",
-        "crawled_at": "2026-02-15T13:35:28.452940"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "195,736",
-        "crawled_at": "2026-02-15T13:35:28.453162"
-      },
-      {
-        "name": "moonshine-ai /moonshine",
-        "description": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-        "language": "C",
-        "stars": "3,594",
-        "crawled_at": "2026-02-15T13:35:28.453346"
-      },
-      {
-        "name": "brave /brave-browser",
-        "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
-        "language": "未知",
-        "stars": "21,442",
-        "crawled_at": "2026-02-15T13:35:28.453575"
-      },
-      {
-        "name": "SynkraAI /aios-core",
-        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-        "language": "JavaScript",
-        "stars": "686",
-        "crawled_at": "2026-02-15T13:35:28.453759"
-      }
-    ]
-  },
-  {
     "date": "2026-02-16",
     "repos": [
       {
@@ -2176,6 +2101,53 @@
         "language": "C++",
         "stars": "7,670",
         "crawled_at": "2026-03-17T14:08:58.650563"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-18",
+    "repos": [
+      {
+        "name": "jarrodwatts /claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "language": "JavaScript",
+        "stars": "6,317",
+        "crawled_at": "2026-03-18T14:10:09.441335"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "94,861",
+        "crawled_at": "2026-03-18T14:10:09.441578"
+      },
+      {
+        "name": "unslothai /unsloth",
+        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+        "language": "Python",
+        "stars": "55,266",
+        "crawled_at": "2026-03-18T14:10:09.441807"
+      },
+      {
+        "name": "newton-physics /newton",
+        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "language": "Python",
+        "stars": "2,778",
+        "crawled_at": "2026-03-18T14:10:09.442029"
+      },
+      {
+        "name": "shadps4-emu /shadPS4",
+        "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "language": "C++",
+        "stars": "29,613",
+        "crawled_at": "2026-03-18T14:10:09.442225"
+      },
+      {
+        "name": "langchain-ai /open-swe",
+        "description": "An Open-Source Asynchronous Coding Agent",
+        "language": "Python",
+        "stars": "5,926",
+        "crawled_at": "2026-03-18T14:10:09.442412"
       }
     ]
   }
