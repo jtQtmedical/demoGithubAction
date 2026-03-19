@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-16",
-    "repos": [
-      {
-        "name": "alibaba /zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "stars": "2,905",
-        "crawled_at": "2026-02-16T13:55:52.074161"
-      },
-      {
-        "name": "nautechsystems /nautilus_trader",
-        "description": "A high-performance algorithmic trading platform and event-driven backtester",
-        "language": "Rust",
-        "stars": "19,608",
-        "crawled_at": "2026-02-16T13:55:52.074360"
-      },
-      {
-        "name": "rowboatlabs /rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "language": "TypeScript",
-        "stars": "7,115",
-        "crawled_at": "2026-02-16T13:55:52.074547"
-      },
-      {
-        "name": "steipete /gogcli",
-        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-        "language": "Go",
-        "stars": "3,289",
-        "crawled_at": "2026-02-16T13:55:52.074836"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "199,736",
-        "crawled_at": "2026-02-16T13:55:52.075071"
-      },
-      {
-        "name": "SynkraAI /aios-core",
-        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-        "language": "JavaScript",
-        "stars": "890",
-        "crawled_at": "2026-02-16T13:55:52.075265"
-      },
-      {
-        "name": "letta-ai /letta-code",
-        "description": "The memory-first coding agent",
-        "language": "TypeScript",
-        "stars": "1,341",
-        "crawled_at": "2026-02-16T13:55:52.075450"
-      },
-      {
-        "name": "ruvnet /wifi-densepose",
-        "description": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
-        "language": "Python",
-        "stars": "6,667",
-        "crawled_at": "2026-02-16T13:55:52.075633"
-      },
-      {
-        "name": "seerr-team /seerr",
-        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-        "language": "TypeScript",
-        "stars": "8,921",
-        "crawled_at": "2026-02-16T13:55:52.075830"
-      },
-      {
-        "name": "hummingbot /hummingbot",
-        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-        "language": "Python",
-        "stars": "16,266",
-        "crawled_at": "2026-02-16T13:55:52.076060"
-      }
-    ]
-  },
-  {
     "date": "2026-02-17",
     "repos": [
       {
@@ -2148,6 +2073,81 @@
         "language": "Python",
         "stars": "5,926",
         "crawled_at": "2026-03-18T14:10:09.442412"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "repos": [
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "4,933",
+        "crawled_at": "2026-03-19T13:58:55.893021"
+      },
+      {
+        "name": "langchain-ai /open-swe",
+        "description": "An Open-Source Asynchronous Coding Agent",
+        "language": "Python",
+        "stars": "6,802",
+        "crawled_at": "2026-03-19T13:58:55.893221"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "98,201",
+        "crawled_at": "2026-03-19T13:58:55.893440"
+      },
+      {
+        "name": "jarrodwatts /claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "language": "JavaScript",
+        "stars": "8,105",
+        "crawled_at": "2026-03-19T13:58:55.893620"
+      },
+      {
+        "name": "unslothai /unsloth",
+        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+        "language": "Python",
+        "stars": "56,400",
+        "crawled_at": "2026-03-19T13:58:55.893840"
+      },
+      {
+        "name": "mobile-dev-inc /Maestro",
+        "description": "Painless E2E Automation for Mobile and Web",
+        "language": "Kotlin",
+        "stars": "12,221",
+        "crawled_at": "2026-03-19T13:58:55.894018"
+      },
+      {
+        "name": "newton-physics /newton",
+        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "language": "Python",
+        "stars": "3,106",
+        "crawled_at": "2026-03-19T13:58:55.894233"
+      },
+      {
+        "name": "louis-e /arnis",
+        "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+        "language": "Rust",
+        "stars": "10,292",
+        "crawled_at": "2026-03-19T13:58:55.894412"
+      },
+      {
+        "name": "FujiwaraChoki /MoneyPrinterV2",
+        "description": "Automate the process of making money online.",
+        "language": "Python",
+        "stars": "15,764",
+        "crawled_at": "2026-03-19T13:58:55.894665"
+      },
+      {
+        "name": "gsd-build /get-shit-done",
+        "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+        "language": "JavaScript",
+        "stars": "35,478",
+        "crawled_at": "2026-03-19T13:58:55.894858"
       }
     ]
   }
