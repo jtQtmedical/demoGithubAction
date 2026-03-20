@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-17",
-    "repos": [
-      {
-        "name": "p-e-w /heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "stars": "6,765",
-        "crawled_at": "2026-02-17T13:56:52.259905"
-      },
-      {
-        "name": "seerr-team /seerr",
-        "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-        "language": "TypeScript",
-        "stars": "9,185",
-        "crawled_at": "2026-02-17T13:56:52.260107"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "53,191",
-        "crawled_at": "2026-02-17T13:56:52.260338"
-      },
-      {
-        "name": "steipete /gogcli",
-        "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-        "language": "Go",
-        "stars": "3,723",
-        "crawled_at": "2026-02-17T13:56:52.260581"
-      },
-      {
-        "name": "alibaba /zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "stars": "4,250",
-        "crawled_at": "2026-02-17T13:56:52.260774"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "203,705",
-        "crawled_at": "2026-02-17T13:56:52.261004"
-      },
-      {
-        "name": "SynkraAI /aios-core",
-        "description": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-        "language": "JavaScript",
-        "stars": "1,078",
-        "crawled_at": "2026-02-17T13:56:52.261188"
-      },
-      {
-        "name": "ashishps1 /awesome-system-design-resources",
-        "description": "Learn System Design concepts and prepare for interviews using free resources.",
-        "language": "Java",
-        "stars": "32,621",
-        "crawled_at": "2026-02-17T13:56:52.261374"
-      },
-      {
-        "name": "steipete /summarize",
-        "description": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-        "language": "TypeScript",
-        "stars": "3,265",
-        "crawled_at": "2026-02-17T13:56:52.261621"
-      },
-      {
-        "name": "hummingbot /hummingbot",
-        "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-        "language": "Python",
-        "stars": "16,817",
-        "crawled_at": "2026-02-17T13:56:52.261847"
-      }
-    ]
-  },
-  {
     "date": "2026-02-18",
     "repos": [
       {
@@ -2148,6 +2073,74 @@
         "language": "JavaScript",
         "stars": "35,478",
         "crawled_at": "2026-03-19T13:58:55.894858"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-20",
+    "repos": [
+      {
+        "name": "jarrodwatts /claude-hud",
+        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "language": "JavaScript",
+        "stars": "9,161",
+        "crawled_at": "2026-03-20T13:49:34.108885"
+      },
+      {
+        "name": "langchain-ai /open-swe",
+        "description": "An Open-Source Asynchronous Coding Agent",
+        "language": "Python",
+        "stars": "7,419",
+        "crawled_at": "2026-03-20T13:49:34.109066"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "100,811",
+        "crawled_at": "2026-03-20T13:49:34.109275"
+      },
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "6,634",
+        "crawled_at": "2026-03-20T13:49:34.109444"
+      },
+      {
+        "name": "louis-e /arnis",
+        "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+        "language": "Rust",
+        "stars": "11,286",
+        "crawled_at": "2026-03-20T13:49:34.109622"
+      },
+      {
+        "name": "newton-physics /newton",
+        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "language": "Python",
+        "stars": "3,368",
+        "crawled_at": "2026-03-20T13:49:34.109790"
+      },
+      {
+        "name": "vas3k /TaxHacker",
+        "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+        "language": "TypeScript",
+        "stars": "1,684",
+        "crawled_at": "2026-03-20T13:49:34.109998"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "33,604",
+        "crawled_at": "2026-03-20T13:49:34.110171"
+      },
+      {
+        "name": "openrocket /openrocket",
+        "description": "Model-rocketry aerodynamics and trajectory simulation software",
+        "language": "Java",
+        "stars": "2,082",
+        "crawled_at": "2026-03-20T13:49:34.110342"
       }
     ]
   }
