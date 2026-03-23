@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-20",
-    "repos": [
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "2,795",
-        "crawled_at": "2026-02-20T13:49:32.889551"
-      },
-      {
-        "name": "blackboardsh /electrobun",
-        "description": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
-        "language": "C++",
-        "stars": "5,729",
-        "crawled_at": "2026-02-20T13:49:32.889753"
-      },
-      {
-        "name": "HailToDodongo /pyrite64",
-        "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
-        "language": "C++",
-        "stars": "1,955",
-        "crawled_at": "2026-02-20T13:49:32.889944"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "55,873",
-        "crawled_at": "2026-02-20T13:49:32.890188"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "32,042",
-        "crawled_at": "2026-02-20T13:49:32.890380"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-        "language": "Python",
-        "stars": "31,380",
-        "crawled_at": "2026-02-20T13:49:32.890568"
-      },
-      {
-        "name": "eslint /eslint",
-        "description": "Find and fix problems in your JavaScript code.",
-        "language": "JavaScript",
-        "stars": "27,019",
-        "crawled_at": "2026-02-20T13:49:32.890793"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "7,734",
-        "crawled_at": "2026-02-20T13:49:32.890977"
-      },
-      {
-        "name": "Effect-TS /effect-smol",
-        "description": "Core libraries and experimental work for Effect v4",
-        "language": "TypeScript",
-        "stars": "340",
-        "crawled_at": "2026-02-20T13:49:32.891184"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "8,700",
-        "crawled_at": "2026-02-20T13:49:32.891370"
-      }
-    ]
-  },
-  {
     "date": "2026-02-21",
     "repos": [
       {
@@ -2155,6 +2080,81 @@
         "language": "Python",
         "stars": "29,909",
         "crawled_at": "2026-03-22T13:34:35.221349"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-23",
+    "repos": [
+      {
+        "name": "FujiwaraChoki /MoneyPrinterV2",
+        "description": "Automate the process of making money online.",
+        "language": "Python",
+        "stars": "21,736",
+        "crawled_at": "2026-03-23T14:04:12.772134"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "37,753",
+        "crawled_at": "2026-03-23T14:04:12.772324"
+      },
+      {
+        "name": "Crosstalk-Solutions /project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "stars": "12,219",
+        "crawled_at": "2026-03-23T14:04:12.772501"
+      },
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "12,675",
+        "crawled_at": "2026-03-23T14:04:12.772684"
+      },
+      {
+        "name": "browser-use /browser-use",
+        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "language": "Python",
+        "stars": "83,278",
+        "crawled_at": "2026-03-23T14:04:12.772862"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "38,606",
+        "crawled_at": "2026-03-23T14:04:12.773072"
+      },
+      {
+        "name": "tinygrad /tinygrad",
+        "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+        "language": "Python",
+        "stars": "31,803",
+        "crawled_at": "2026-03-23T14:04:12.773336"
+      },
+      {
+        "name": "affaan-m /everything-claude-code",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "100,652",
+        "crawled_at": "2026-03-23T14:04:12.773549"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "10,999",
+        "crawled_at": "2026-03-23T14:04:12.773723"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+        "language": "Python",
+        "stars": "42,420",
+        "crawled_at": "2026-03-23T14:04:12.773895"
       }
     ]
   }
