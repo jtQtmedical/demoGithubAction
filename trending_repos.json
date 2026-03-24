@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-21",
-    "repos": [
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "4,764",
-        "crawled_at": "2026-02-21T13:32:57.113953"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "852",
-        "crawled_at": "2026-02-21T13:32:57.114219"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "56,613",
-        "crawled_at": "2026-02-21T13:32:57.114451"
-      },
-      {
-        "name": "huggingface /skills",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "1,551",
-        "crawled_at": "2026-02-21T13:32:57.114659"
-      },
-      {
-        "name": "PowerShell /PowerShell",
-        "description": "PowerShell for every system!",
-        "language": "C#",
-        "stars": "51,478",
-        "crawled_at": "2026-02-21T13:32:57.114846"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Shell",
-        "stars": "68,181",
-        "crawled_at": "2026-02-21T13:32:57.115061"
-      },
-      {
-        "name": "stan-smith /FossFLOW",
-        "description": "Make beautiful isometric infrastructure diagrams",
-        "language": "TypeScript",
-        "stars": "17,609",
-        "crawled_at": "2026-02-21T13:32:57.115289"
-      },
-      {
-        "name": "ggml-org /ggml",
-        "description": "Tensor library for machine learning",
-        "language": "C++",
-        "stars": "14,017",
-        "crawled_at": "2026-02-21T13:32:57.115473"
-      },
-      {
-        "name": "Stremio /stremio-web",
-        "description": "Stremio - Freedom to Stream",
-        "language": "JavaScript",
-        "stars": "9,328",
-        "crawled_at": "2026-02-21T13:32:57.115657"
-      },
-      {
-        "name": "HandsOnLLM /Hands-On-Large-Language-Models",
-        "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-        "language": "Jupyter Notebook",
-        "stars": "22,377",
-        "crawled_at": "2026-02-21T13:32:57.115848"
-      }
-    ]
-  },
-  {
     "date": "2026-02-22",
     "repos": [
       {
@@ -2155,6 +2080,81 @@
         "language": "Python",
         "stars": "42,420",
         "crawled_at": "2026-03-23T14:04:12.773895"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-24",
+    "repos": [
+      {
+        "name": "pascalorg /editor",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "4,381",
+        "crawled_at": "2026-03-24T14:08:30.204099"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "41,887",
+        "crawled_at": "2026-03-24T14:08:30.204320"
+      },
+      {
+        "name": "supermemoryai /supermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "stars": "18,266",
+        "crawled_at": "2026-03-24T14:08:30.204513"
+      },
+      {
+        "name": "FujiwaraChoki /MoneyPrinterV2",
+        "description": "Automate the process of making money online.",
+        "language": "Python",
+        "stars": "24,336",
+        "crawled_at": "2026-03-24T14:08:30.204746"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "52,382",
+        "crawled_at": "2026-03-24T14:08:30.204935"
+      },
+      {
+        "name": "Crosstalk-Solutions /project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "stars": "14,453",
+        "crawled_at": "2026-03-24T14:08:30.205141"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "40,308",
+        "crawled_at": "2026-03-24T14:08:30.205338"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "5,032",
+        "crawled_at": "2026-03-24T14:08:30.205525"
+      },
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "stars": "24,545",
+        "crawled_at": "2026-03-24T14:08:30.205711"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "12,134",
+        "crawled_at": "2026-03-24T14:08:30.205896"
       }
     ]
   }
