@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-02-24",
-    "repos": [
-      {
-        "name": "huggingface /skills",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "4,682",
-        "crawled_at": "2026-02-24T14:00:38.763945"
-      },
-      {
-        "name": "muratcankoylan /Agent-Skills-for-Context-Engineering",
-        "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
-        "language": "Python",
-        "stars": "9,481",
-        "crawled_at": "2026-02-24T14:00:38.764211"
-      },
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "61,735",
-        "crawled_at": "2026-02-24T14:00:38.764445"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "58,937",
-        "crawled_at": "2026-02-24T14:00:38.764632"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "language": "未知",
-        "stars": "122,527",
-        "crawled_at": "2026-02-24T14:00:38.764880"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "60,012",
-        "crawled_at": "2026-02-24T14:00:38.765106"
-      },
-      {
-        "name": "ruvnet /ruvector",
-        "description": "RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.",
-        "language": "Rust",
-        "stars": "561",
-        "crawled_at": "2026-02-24T14:00:38.765292"
-      },
-      {
-        "name": "D4Vinci /Scrapling",
-        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-        "language": "Python",
-        "stars": "11,953",
-        "crawled_at": "2026-02-24T14:00:38.765517"
-      },
-      {
-        "name": "GVCLab /PersonaLive",
-        "description": "[CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming",
-        "language": "Python",
-        "stars": "1,818",
-        "crawled_at": "2026-02-24T14:00:38.765697"
-      },
-      {
-        "name": "HunxByts /GhostTrack",
-        "description": "Useful tool to track location or mobile number",
-        "language": "Python",
-        "stars": "7,288",
-        "crawled_at": "2026-02-24T14:00:38.765891"
-      }
-    ]
-  },
-  {
     "date": "2026-02-25",
     "repos": [
       {
@@ -2155,6 +2080,81 @@
         "language": "Python",
         "stars": "5,795",
         "crawled_at": "2026-03-26T14:15:36.646878"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-27",
+    "repos": [
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "11,873",
+        "crawled_at": "2026-03-27T14:00:36.596543"
+      },
+      {
+        "name": "hacksider /Deep-Live-Cam",
+        "description": "real time face swap and one-click video deepfake with only a single image",
+        "language": "Python",
+        "stars": "82,226",
+        "crawled_at": "2026-03-27T14:00:36.596813"
+      },
+      {
+        "name": "SakanaAI /AI-Scientist-v2",
+        "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+        "language": "Python",
+        "stars": "2,677",
+        "crawled_at": "2026-03-27T14:00:36.597013"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "24,447",
+        "crawled_at": "2026-03-27T14:00:36.597203"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "Building a modern alternative to Salesforce, powered by the community.",
+        "language": "TypeScript",
+        "stars": "41,720",
+        "crawled_at": "2026-03-27T14:00:36.597388"
+      },
+      {
+        "name": "datalab-to /chandra",
+        "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+        "language": "Python",
+        "stars": "6,714",
+        "crawled_at": "2026-03-27T14:00:36.597574"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "117,642",
+        "crawled_at": "2026-03-27T14:00:36.597814"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "19,413",
+        "crawled_at": "2026-03-27T14:00:36.597997"
+      },
+      {
+        "name": "Yeachan-Heo /oh-my-claudecode",
+        "description": "Teams-first Multi-agent orchestration for Claude Code",
+        "language": "TypeScript",
+        "stars": "13,480",
+        "crawled_at": "2026-03-27T14:00:36.598215"
+      },
+      {
+        "name": "FreeCAD /FreeCAD",
+        "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+        "language": "C++",
+        "stars": "29,452",
+        "crawled_at": "2026-03-27T14:00:36.598434"
       }
     ]
   }
