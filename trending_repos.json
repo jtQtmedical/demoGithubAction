@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-03-02",
-    "repos": [
-      {
-        "name": "ruvnet /wifi-densepose",
-        "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "20,215",
-        "crawled_at": "2026-03-02T13:48:37.517193"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "21,127",
-        "crawled_at": "2026-03-02T13:48:37.517371"
-      },
-      {
-        "name": "anthropics /prompt-eng-interactive-tutorial",
-        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-        "language": "Jupyter Notebook",
-        "stars": "31,223",
-        "crawled_at": "2026-03-02T13:48:37.517576"
-      },
-      {
-        "name": "ruvnet /ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars": "17,751",
-        "crawled_at": "2026-03-02T13:48:37.517744"
-      },
-      {
-        "name": "alibaba /OpenSandbox",
-        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-        "language": "Python",
-        "stars": "3,865",
-        "crawled_at": "2026-03-02T13:48:37.517910"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "89,359",
-        "crawled_at": "2026-03-02T13:48:37.518075"
-      },
-      {
-        "name": "K-Dense-AI /claude-scientific-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "10,783",
-        "crawled_at": "2026-03-02T13:48:37.518241"
-      },
-      {
-        "name": "superset-sh /superset",
-        "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-        "language": "TypeScript",
-        "stars": "3,253",
-        "crawled_at": "2026-03-02T13:48:37.518408"
-      },
-      {
-        "name": "servo /servo",
-        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-        "language": "Rust",
-        "stars": "35,667",
-        "crawled_at": "2026-03-02T13:48:37.518615"
-      }
-    ]
-  },
-  {
     "date": "2026-03-03",
     "repos": [
       {
@@ -2134,6 +2066,67 @@
         "language": "HTML",
         "stars": "155,652",
         "crawled_at": "2026-04-01T14:21:18.961770"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-02",
+    "repos": [
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Shell",
+        "stars": "105,610",
+        "crawled_at": "2026-04-02T14:12:02.846616"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "35,002",
+        "crawled_at": "2026-04-02T14:12:02.846817"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "12,996",
+        "crawled_at": "2026-04-02T14:12:02.847043"
+      },
+      {
+        "name": "luongnv89 /claude-howto",
+        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "language": "Python",
+        "stars": "16,684",
+        "crawled_at": "2026-04-02T14:12:02.847294"
+      },
+      {
+        "name": "zai-org /GLM-OCR",
+        "description": "GLM-OCR: Accurate × Fast × Comprehensive",
+        "language": "Python",
+        "stars": "5,138",
+        "crawled_at": "2026-04-02T14:12:02.847481"
+      },
+      {
+        "name": "axios /axios",
+        "description": "Promise based HTTP client for the browser and node.js",
+        "language": "JavaScript",
+        "stars": "108,974",
+        "crawled_at": "2026-04-02T14:12:02.847706"
+      },
+      {
+        "name": "openai /codex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "stars": "72,451",
+        "crawled_at": "2026-04-02T14:12:02.847897"
+      },
+      {
+        "name": "f /prompts.chat",
+        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "language": "HTML",
+        "stars": "156,623",
+        "crawled_at": "2026-04-02T14:12:02.848149"
       }
     ]
   }
