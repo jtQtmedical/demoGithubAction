@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-03",
-    "repos": [
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "24,465",
-        "crawled_at": "2026-03-03T13:47:15.302594"
-      },
-      {
-        "name": "K-Dense-AI /claude-scientific-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "11,559",
-        "crawled_at": "2026-03-03T13:47:15.302798"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "21,933",
-        "crawled_at": "2026-03-03T13:47:15.302988"
-      },
-      {
-        "name": "CodebuffAI /codebuff",
-        "description": "Generate code from the terminal!",
-        "language": "TypeScript",
-        "stars": "3,135",
-        "crawled_at": "2026-03-03T13:47:15.303210"
-      },
-      {
-        "name": "agentscope-ai /agentscope",
-        "description": "Build and run agents you can see, understand and trust.",
-        "language": "Python",
-        "stars": "16,872",
-        "crawled_at": "2026-03-03T13:47:15.303400"
-      },
-      {
-        "name": "agentscope-ai /ReMe",
-        "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-        "language": "Python",
-        "stars": "1,166",
-        "crawled_at": "2026-03-03T13:47:15.303591"
-      },
-      {
-        "name": "LMCache /LMCache",
-        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
-        "language": "Python",
-        "stars": "7,298",
-        "crawled_at": "2026-03-03T13:47:15.303779"
-      },
-      {
-        "name": "superset-sh /superset",
-        "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-        "language": "TypeScript",
-        "stars": "3,868",
-        "crawled_at": "2026-03-03T13:47:15.303966"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "365",
-        "crawled_at": "2026-03-03T13:47:15.304180"
-      },
-      {
-        "name": "alibaba /OpenSandbox",
-        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-        "language": "Python",
-        "stars": "5,022",
-        "crawled_at": "2026-03-03T13:47:15.304370"
-      }
-    ]
-  },
-  {
     "date": "2026-03-04",
     "repos": [
       {
@@ -2127,6 +2052,60 @@
         "language": "HTML",
         "stars": "156,623",
         "crawled_at": "2026-04-02T14:12:02.848149"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-03",
+    "repos": [
+      {
+        "name": "Yeachan-Heo /oh-my-codex",
+        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+        "language": "TypeScript",
+        "stars": "13,309",
+        "crawled_at": "2026-04-03T13:52:56.197454"
+      },
+      {
+        "name": "onyx-dot-app /onyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "language": "Python",
+        "stars": "22,679",
+        "crawled_at": "2026-04-03T13:52:56.197685"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "13,764",
+        "crawled_at": "2026-04-03T13:52:56.197873"
+      },
+      {
+        "name": "siddharthvaddem /openscreen",
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "language": "TypeScript",
+        "stars": "17,485",
+        "crawled_at": "2026-04-03T13:52:56.198058"
+      },
+      {
+        "name": "dmtrKovalenko /fff.nvim",
+        "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+        "language": "Rust",
+        "stars": "3,018",
+        "crawled_at": "2026-04-03T13:52:56.198286"
+      },
+      {
+        "name": "f /prompts.chat",
+        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "language": "HTML",
+        "stars": "156,929",
+        "crawled_at": "2026-04-03T13:52:56.198529"
+      },
+      {
+        "name": "sherlock-project /sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars": "78,020",
+        "crawled_at": "2026-04-03T13:52:56.198717"
       }
     ]
   }
