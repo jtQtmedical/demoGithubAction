@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-05",
-    "repos": [
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "未知",
-        "stars": "6,209",
-        "crawled_at": "2026-03-05T13:51:30.887149"
-      },
-      {
-        "name": "TheCraigHewitt /seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars": "1,335",
-        "crawled_at": "2026-03-05T13:51:30.887367"
-      },
-      {
-        "name": "KeygraphHQ /shannon",
-        "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-        "language": "TypeScript",
-        "stars": "31,490",
-        "crawled_at": "2026-03-05T13:51:30.887570"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "32,796",
-        "crawled_at": "2026-03-05T13:51:30.887847"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "26,554",
-        "crawled_at": "2026-03-05T13:51:30.888078"
-      },
-      {
-        "name": "inclusionAI /AReaL",
-        "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-        "language": "Python",
-        "stars": "3,966",
-        "crawled_at": "2026-03-05T13:51:30.888283"
-      },
-      {
-        "name": "microsoft /mcp-for-beginners",
-        "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-        "language": "Jupyter Notebook",
-        "stars": "14,725",
-        "crawled_at": "2026-03-05T13:51:30.888500"
-      },
-      {
-        "name": "CodebuffAI /codebuff",
-        "description": "Generate code from the terminal!",
-        "language": "TypeScript",
-        "stars": "3,745",
-        "crawled_at": "2026-03-05T13:51:30.888701"
-      },
-      {
-        "name": "FujiwaraChoki /MoneyPrinterV2",
-        "description": "Automate the process of making money online.",
-        "language": "Python",
-        "stars": "14,517",
-        "crawled_at": "2026-03-05T13:51:30.888948"
-      },
-      {
-        "name": "microsoft /hve-core",
-        "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-        "language": "PowerShell",
-        "stars": "188",
-        "crawled_at": "2026-03-05T13:51:30.889180"
-      }
-    ]
-  },
-  {
     "date": "2026-03-06",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "Python",
         "stars": "78,947",
         "crawled_at": "2026-04-04T13:41:57.377910"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-05",
+    "repos": [
+      {
+        "name": "google-ai-edge /gallery",
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "stars": "16,460",
+        "crawled_at": "2026-04-05T13:43:15.906057"
+      },
+      {
+        "name": "Blaizzy /mlx-vlm",
+        "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+        "language": "Python",
+        "stars": "3,786",
+        "crawled_at": "2026-04-05T13:43:15.906298"
+      },
+      {
+        "name": "siddharthvaddem /openscreen",
+        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+        "language": "TypeScript",
+        "stars": "21,679",
+        "crawled_at": "2026-04-05T13:43:15.906506"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "36,273",
+        "crawled_at": "2026-04-05T13:43:15.906689"
+      },
+      {
+        "name": "onyx-dot-app /onyx",
+        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+        "language": "Python",
+        "stars": "24,704",
+        "crawled_at": "2026-04-05T13:43:15.906870"
+      },
+      {
+        "name": "badlogic /pi-mono",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "31,693",
+        "crawled_at": "2026-04-05T13:43:15.907099"
+      },
+      {
+        "name": "dmtrKovalenko /fff.nvim",
+        "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+        "language": "Rust",
+        "stars": "3,525",
+        "crawled_at": "2026-04-05T13:43:15.907341"
+      },
+      {
+        "name": "google-ai-edge /LiteRT-LM",
+        "description": "無描述",
+        "language": "C++",
+        "stars": "1,334",
+        "crawled_at": "2026-04-05T13:43:15.907549"
+      },
+      {
+        "name": "telegramdesktop /tdesktop",
+        "description": "Telegram Desktop messaging app",
+        "language": "C++",
+        "stars": "30,956",
+        "crawled_at": "2026-04-05T13:43:15.907731"
+      },
+      {
+        "name": "freeCodeCamp /freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "stars": "441,193",
+        "crawled_at": "2026-04-05T13:43:15.907952"
       }
     ]
   }
