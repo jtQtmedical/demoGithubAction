@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-06",
-    "repos": [
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "28,965",
-        "crawled_at": "2026-03-06T13:43:11.961091"
-      },
-      {
-        "name": "QwenLM /Qwen-Agent",
-        "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
-        "language": "Python",
-        "stars": "14,346",
-        "crawled_at": "2026-03-06T13:43:11.961302"
-      },
-      {
-        "name": "microsoft /hve-core",
-        "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-        "language": "PowerShell",
-        "stars": "450",
-        "crawled_at": "2026-03-06T13:43:11.961491"
-      },
-      {
-        "name": "Ed1s0nZ /CyberStrikeAI",
-        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-        "language": "Go",
-        "stars": "1,434",
-        "crawled_at": "2026-03-06T13:43:11.961683"
-      },
-      {
-        "name": "inclusionAI /AReaL",
-        "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-        "language": "Python",
-        "stars": "4,285",
-        "crawled_at": "2026-03-06T13:43:11.961888"
-      },
-      {
-        "name": "lingfengQAQ /webnovel-writer",
-        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-        "language": "Python",
-        "stars": "678",
-        "crawled_at": "2026-03-06T13:43:11.962076"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "11,501",
-        "crawled_at": "2026-03-06T13:43:11.962270"
-      },
-      {
-        "name": "TheCraigHewitt /seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars": "1,975",
-        "crawled_at": "2026-03-06T13:43:11.962454"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "46,225",
-        "crawled_at": "2026-03-06T13:43:11.962637"
-      },
-      {
-        "name": "aidenybai /react-grab",
-        "description": "Select context for coding agents directly from your website",
-        "language": "TypeScript",
-        "stars": "5,793",
-        "crawled_at": "2026-03-06T13:43:11.962879"
-      }
-    ]
-  },
-  {
     "date": "2026-03-08",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "TypeScript",
         "stars": "441,193",
         "crawled_at": "2026-04-05T13:43:15.907952"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "repos": [
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "23,002",
+        "crawled_at": "2026-04-06T14:01:48.664879"
+      },
+      {
+        "name": "google-ai-edge /gallery",
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "stars": "17,560",
+        "crawled_at": "2026-04-06T14:01:48.665089"
+      },
+      {
+        "name": "block /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "37,703",
+        "crawled_at": "2026-04-06T14:01:48.665281"
+      },
+      {
+        "name": "google-ai-edge /LiteRT-LM",
+        "description": "無描述",
+        "language": "C++",
+        "stars": "1,825",
+        "crawled_at": "2026-04-06T14:01:48.665532"
+      },
+      {
+        "name": "immich-app /immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "stars": "96,614",
+        "crawled_at": "2026-04-06T14:01:48.665715"
+      },
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+        "language": "TypeScript",
+        "stars": "36,116",
+        "crawled_at": "2026-04-06T14:01:48.665919"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "27,311",
+        "crawled_at": "2026-04-06T14:01:48.666108"
+      },
+      {
+        "name": "tobi /qmd",
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+        "language": "TypeScript",
+        "stars": "18,409",
+        "crawled_at": "2026-04-06T14:01:48.666292"
+      },
+      {
+        "name": "TelegramMessenger /Telegram-iOS",
+        "description": "Telegram-iOS",
+        "language": "Swift",
+        "stars": "8,246",
+        "crawled_at": "2026-04-06T14:01:48.666478"
+      },
+      {
+        "name": "kepano /obsidian-skills",
+        "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+        "language": "未知",
+        "stars": "20,181",
+        "crawled_at": "2026-04-06T14:01:48.666807"
       }
     ]
   }
