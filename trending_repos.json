@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-08",
-    "repos": [
-      {
-        "name": "GoogleCloudPlatform /generative-ai",
-        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-        "language": "Jupyter Notebook",
-        "stars": "13,836",
-        "crawled_at": "2026-03-08T13:31:24.980866"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "6,430",
-        "crawled_at": "2026-03-08T13:31:24.981075"
-      },
-      {
-        "name": "shadcn-ui /ui",
-        "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-        "language": "TypeScript",
-        "stars": "108,426",
-        "crawled_at": "2026-03-08T13:31:24.981267"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "278,736",
-        "crawled_at": "2026-03-08T13:31:24.981498"
-      },
-      {
-        "name": "toeverything /AFFiNE",
-        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
-        "language": "TypeScript",
-        "stars": "64,932",
-        "crawled_at": "2026-03-08T13:31:24.981754"
-      },
-      {
-        "name": "Ed1s0nZ /CyberStrikeAI",
-        "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-        "language": "Go",
-        "stars": "2,072",
-        "crawled_at": "2026-03-08T13:31:24.981946"
-      },
-      {
-        "name": "shareAI-lab /learn-claude-code",
-        "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-        "language": "TypeScript",
-        "stars": "23,572",
-        "crawled_at": "2026-03-08T13:31:24.982136"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "13,006",
-        "crawled_at": "2026-03-08T13:31:24.982324"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "46,712",
-        "crawled_at": "2026-03-08T13:31:24.982512"
-      },
-      {
-        "name": "is-a-dev /register",
-        "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-        "language": "JavaScript",
-        "stars": "9,663",
-        "crawled_at": "2026-03-08T13:31:24.982722"
-      }
-    ]
-  },
-  {
     "date": "2026-03-09",
     "repos": [
       {
@@ -2092,6 +2017,74 @@
         "language": "未知",
         "stars": "20,181",
         "crawled_at": "2026-04-06T14:01:48.666807"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-07",
+    "repos": [
+      {
+        "name": "google-ai-edge /gallery",
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "stars": "18,447",
+        "crawled_at": "2026-04-07T14:21:10.825584"
+      },
+      {
+        "name": "google-ai-edge /LiteRT-LM",
+        "description": "無描述",
+        "language": "C++",
+        "stars": "2,349",
+        "crawled_at": "2026-04-07T14:21:10.825845"
+      },
+      {
+        "name": "NVIDIA /personaplex",
+        "description": "PersonaPlex code.",
+        "language": "Python",
+        "stars": "7,713",
+        "crawled_at": "2026-04-07T14:21:10.826055"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "24,155",
+        "crawled_at": "2026-04-07T14:21:10.826296"
+      },
+      {
+        "name": "tobi /qmd",
+        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+        "language": "TypeScript",
+        "stars": "19,278",
+        "crawled_at": "2026-04-07T14:21:10.826499"
+      },
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "7,803",
+        "crawled_at": "2026-04-07T14:21:10.826722"
+      },
+      {
+        "name": "elebumm /RedditVideoMakerBot",
+        "description": "Create Reddit Videos with just✨ one command ✨",
+        "language": "Python",
+        "stars": "9,792",
+        "crawled_at": "2026-04-07T14:21:10.826941"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "stars": "11,758",
+        "crawled_at": "2026-04-07T14:21:10.827149"
+      },
+      {
+        "name": "TheCraigHewitt /seomachine",
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "stars": "3,634",
+        "crawled_at": "2026-04-07T14:21:10.827352"
       }
     ]
   }
