@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-09",
-    "repos": [
-      {
-        "name": "GoogleCloudPlatform /generative-ai",
-        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-        "language": "Jupyter Notebook",
-        "stars": "15,062",
-        "crawled_at": "2026-03-09T13:55:10.643403"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "288,054",
-        "crawled_at": "2026-03-09T13:55:10.643657"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "9,267",
-        "crawled_at": "2026-03-09T13:55:10.643846"
-      },
-      {
-        "name": "karpathy /nanochat",
-        "description": "The best ChatGPT that $100 can buy.",
-        "language": "Python",
-        "stars": "45,250",
-        "crawled_at": "2026-03-09T13:55:10.644104"
-      },
-      {
-        "name": "666ghj /BettaFish",
-        "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "language": "Python",
-        "stars": "37,153",
-        "crawled_at": "2026-03-09T13:55:10.644293"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "2,618",
-        "crawled_at": "2026-03-09T13:55:10.644479"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "JavaScript",
-        "stars": "2,579",
-        "crawled_at": "2026-03-09T13:55:10.644668"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "15,950",
-        "crawled_at": "2026-03-09T13:55:10.644927"
-      },
-      {
-        "name": "alibaba /page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars": "2,241",
-        "crawled_at": "2026-03-09T13:55:10.645121"
-      },
-      {
-        "name": "alirezarezvani /claude-skills",
-        "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-        "language": "Python",
-        "stars": "3,025",
-        "crawled_at": "2026-03-09T13:55:10.645306"
-      }
-    ]
-  },
-  {
     "date": "2026-03-10",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Python",
         "stars": "3,634",
         "crawled_at": "2026-04-07T14:21:10.827352"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-08",
+    "repos": [
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "8,558",
+        "crawled_at": "2026-04-08T14:23:33.514956"
+      },
+      {
+        "name": "TheCraigHewitt /seomachine",
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "stars": "4,294",
+        "crawled_at": "2026-04-08T14:23:33.515159"
+      },
+      {
+        "name": "google-ai-edge /gallery",
+        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+        "language": "Kotlin",
+        "stars": "19,272",
+        "crawled_at": "2026-04-08T14:23:33.515352"
+      },
+      {
+        "name": "NVIDIA /personaplex",
+        "description": "PersonaPlex code.",
+        "language": "Python",
+        "stars": "8,275",
+        "crawled_at": "2026-04-08T14:23:33.515573"
+      },
+      {
+        "name": "google-ai-edge /LiteRT-LM",
+        "description": "無描述",
+        "language": "C++",
+        "stars": "2,842",
+        "crawled_at": "2026-04-08T14:23:33.515780"
+      },
+      {
+        "name": "elebumm /RedditVideoMakerBot",
+        "description": "Create Reddit Videos with just✨ one command ✨",
+        "language": "Python",
+        "stars": "10,318",
+        "crawled_at": "2026-04-08T14:23:33.515968"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "140,852",
+        "crawled_at": "2026-04-08T14:23:33.516194"
+      },
+      {
+        "name": "newton-physics /newton",
+        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "language": "Python",
+        "stars": "3,941",
+        "crawled_at": "2026-04-08T14:23:33.516380"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "25,080",
+        "crawled_at": "2026-04-08T14:23:33.516631"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "50,504",
+        "crawled_at": "2026-04-08T14:23:33.516887"
       }
     ]
   }
