@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-10",
-    "repos": [
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "22,412",
-        "crawled_at": "2026-03-10T13:51:04.682375"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "13,302",
-        "crawled_at": "2026-03-10T13:51:04.682609"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "3,371",
-        "crawled_at": "2026-03-10T13:51:04.682804"
-      },
-      {
-        "name": "promptfoo /promptfoo",
-        "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-        "language": "TypeScript",
-        "stars": "11,641",
-        "crawled_at": "2026-03-10T13:51:04.682996"
-      },
-      {
-        "name": "GoogleCloudPlatform /generative-ai",
-        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-        "language": "Jupyter Notebook",
-        "stars": "15,554",
-        "crawled_at": "2026-03-10T13:51:04.683193"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "47,304",
-        "crawled_at": "2026-03-10T13:51:04.683389"
-      },
-      {
-        "name": "karpathy /nanochat",
-        "description": "The best ChatGPT that $100 can buy.",
-        "language": "Python",
-        "stars": "45,945",
-        "crawled_at": "2026-03-10T13:51:04.683597"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "76,036",
-        "crawled_at": "2026-03-10T13:51:04.683825"
-      },
-      {
-        "name": "alibaba /page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars": "3,138",
-        "crawled_at": "2026-03-10T13:51:04.684013"
-      },
-      {
-        "name": "sepinf-inc /IPED",
-        "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-        "language": "Java",
-        "stars": "2,042",
-        "crawled_at": "2026-03-10T13:51:04.684202"
-      }
-    ]
-  },
-  {
     "date": "2026-03-11",
     "repos": [
       {
@@ -2085,6 +2010,81 @@
         "language": "Python",
         "stars": "50,504",
         "crawled_at": "2026-04-08T14:23:33.516887"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-09",
+    "repos": [
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "42,537",
+        "crawled_at": "2026-04-09T14:31:27.292499"
+      },
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "9,923",
+        "crawled_at": "2026-04-09T14:31:27.292657"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "stars": "14,308",
+        "crawled_at": "2026-04-09T14:31:27.292831"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "7,410",
+        "crawled_at": "2026-04-09T14:31:27.292966"
+      },
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "13,295",
+        "crawled_at": "2026-04-09T14:31:27.293098"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "143,077",
+        "crawled_at": "2026-04-09T14:31:27.293275"
+      },
+      {
+        "name": "TheCraigHewitt /seomachine",
+        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "language": "Python",
+        "stars": "4,991",
+        "crawled_at": "2026-04-09T14:31:27.293437"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "stars": "14,155",
+        "crawled_at": "2026-04-09T14:31:27.293572"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "11,938",
+        "crawled_at": "2026-04-09T14:31:27.293704"
+      },
+      {
+        "name": "YishenTu /claudian",
+        "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+        "language": "TypeScript",
+        "stars": "6,590",
+        "crawled_at": "2026-04-09T14:31:27.293833"
       }
     ]
   }
