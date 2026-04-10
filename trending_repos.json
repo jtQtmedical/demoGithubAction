@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-03-11",
-    "repos": [
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "28,352",
-        "crawled_at": "2026-03-11T13:55:04.762109"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "16,127",
-        "crawled_at": "2026-03-11T13:55:04.762316"
-      },
-      {
-        "name": "promptfoo /promptfoo",
-        "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-        "language": "TypeScript",
-        "stars": "12,332",
-        "crawled_at": "2026-03-11T13:55:04.762503"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "77,500",
-        "crawled_at": "2026-03-11T13:55:04.762757"
-      },
-      {
-        "name": "fishaudio /fish-speech",
-        "description": "SOTA Open Source TTS",
-        "language": "Python",
-        "stars": "25,556",
-        "crawled_at": "2026-03-11T13:55:04.762943"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "47,943",
-        "crawled_at": "2026-03-11T13:55:04.763129"
-      },
-      {
-        "name": "alibaba /page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars": "4,352",
-        "crawled_at": "2026-03-11T13:55:04.763317"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "4,687",
-        "crawled_at": "2026-03-11T13:55:04.763499"
-      },
-      {
-        "name": "AstrBotDevs /AstrBot",
-        "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "language": "Python",
-        "stars": "20,826",
-        "crawled_at": "2026-03-11T13:55:04.763697"
-      }
-    ]
-  },
-  {
     "date": "2026-03-12",
     "repos": [
       {
@@ -2085,6 +2017,81 @@
         "language": "TypeScript",
         "stars": "6,590",
         "crawled_at": "2026-04-09T14:31:27.293833"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-10",
+    "repos": [
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "98,326",
+        "crawled_at": "2026-04-10T14:06:30.135449"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "stars": "14,956",
+        "crawled_at": "2026-04-10T14:06:30.135630"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "49,892",
+        "crawled_at": "2026-04-10T14:06:30.135793"
+      },
+      {
+        "name": "rowboatlabs /rowboat",
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "stars": "11,458",
+        "crawled_at": "2026-04-10T14:06:30.136033"
+      },
+      {
+        "name": "multica-ai /multica",
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "stars": "5,318",
+        "crawled_at": "2026-04-10T14:06:30.136203"
+      },
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "11,315",
+        "crawled_at": "2026-04-10T14:06:30.136379"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "12,508",
+        "crawled_at": "2026-04-10T14:06:30.136544"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+        "language": "Python",
+        "stars": "15,619",
+        "crawled_at": "2026-04-10T14:06:30.136704"
+      },
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "14,509",
+        "crawled_at": "2026-04-10T14:06:30.136866"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "145,123",
+        "crawled_at": "2026-04-10T14:06:30.137081"
       }
     ]
   }
