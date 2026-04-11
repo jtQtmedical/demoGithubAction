@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-12",
-    "repos": [
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "31,309",
-        "crawled_at": "2026-03-12T13:52:02.845808"
-      },
-      {
-        "name": "fishaudio /fish-speech",
-        "description": "SOTA Open Source TTS",
-        "language": "Python",
-        "stars": "26,159",
-        "crawled_at": "2026-03-12T13:52:02.846039"
-      },
-      {
-        "name": "langflow-ai /openrag",
-        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-        "language": "Python",
-        "stars": "1,128",
-        "crawled_at": "2026-03-12T13:52:02.846250"
-      },
-      {
-        "name": "InsForge /InsForge",
-        "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-        "language": "TypeScript",
-        "stars": "2,687",
-        "crawled_at": "2026-03-12T13:52:02.846492"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "2,821",
-        "crawled_at": "2026-03-12T13:52:02.846695"
-      },
-      {
-        "name": "alibaba /page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars": "5,508",
-        "crawled_at": "2026-03-12T13:52:02.846894"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "79,208",
-        "crawled_at": "2026-03-12T13:52:02.847161"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "5,833",
-        "crawled_at": "2026-03-12T13:52:02.847363"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "17,845",
-        "crawled_at": "2026-03-12T13:52:02.847562"
-      },
-      {
-        "name": "google-ai-edge /LiteRT",
-        "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-        "language": "C++",
-        "stars": "1,580",
-        "crawled_at": "2026-03-12T13:52:02.847770"
-      }
-    ]
-  },
-  {
     "date": "2026-03-13",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "Shell",
         "stars": "145,123",
         "crawled_at": "2026-04-10T14:06:30.137081"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-11",
+    "repos": [
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "56,159",
+        "crawled_at": "2026-04-11T13:44:16.339484"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "101,122",
+        "crawled_at": "2026-04-11T13:44:16.339662"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "stars": "16,166",
+        "crawled_at": "2026-04-11T13:44:16.339828"
+      },
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "12,367",
+        "crawled_at": "2026-04-11T13:44:16.340006"
+      },
+      {
+        "name": "multica-ai /multica",
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "stars": "7,186",
+        "crawled_at": "2026-04-11T13:44:16.340167"
+      },
+      {
+        "name": "shanraisshan /claude-code-best-practice",
+        "description": "practice made claude perfect",
+        "language": "HTML",
+        "stars": "36,572",
+        "crawled_at": "2026-04-11T13:44:16.340341"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "67,633",
+        "crawled_at": "2026-04-11T13:44:16.340501"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "9,389",
+        "crawled_at": "2026-04-11T13:44:16.340659"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "13,204",
+        "crawled_at": "2026-04-11T13:44:16.340817"
+      },
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "15,250",
+        "crawled_at": "2026-04-11T13:44:16.340976"
       }
     ]
   }
