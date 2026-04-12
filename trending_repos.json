@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-13",
-    "repos": [
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "Python",
-        "stars": "33,370",
-        "crawled_at": "2026-03-13T13:48:07.133969"
-      },
-      {
-        "name": "langflow-ai /openrag",
-        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-        "language": "Python",
-        "stars": "1,992",
-        "crawled_at": "2026-03-13T13:48:07.134176"
-      },
-      {
-        "name": "lightpanda-io /browser",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "language": "Zig",
-        "stars": "14,530",
-        "crawled_at": "2026-03-13T13:48:07.134364"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "81,269",
-        "crawled_at": "2026-03-13T13:48:07.134586"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "408,947",
-        "crawled_at": "2026-03-13T13:48:07.134792"
-      },
-      {
-        "name": "promptfoo /promptfoo",
-        "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-        "language": "TypeScript",
-        "stars": "14,672",
-        "crawled_at": "2026-03-13T13:48:07.134983"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "38,234",
-        "crawled_at": "2026-03-13T13:48:07.135210"
-      },
-      {
-        "name": "dolthub /dolt",
-        "description": "Dolt – Git for Data",
-        "language": "Go",
-        "stars": "20,887",
-        "crawled_at": "2026-03-13T13:48:07.135434"
-      },
-      {
-        "name": "google /A2UI",
-        "description": "無描述",
-        "language": "TypeScript",
-        "stars": "12,926",
-        "crawled_at": "2026-03-13T13:48:07.135644"
-      },
-      {
-        "name": "fishaudio /fish-speech",
-        "description": "SOTA Open Source TTS",
-        "language": "Python",
-        "stars": "26,683",
-        "crawled_at": "2026-03-13T13:48:07.135844"
-      }
-    ]
-  },
-  {
     "date": "2026-03-14",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "Java",
         "stars": "15,250",
         "crawled_at": "2026-04-11T13:44:16.340976"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-12",
+    "repos": [
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "63,594",
+        "crawled_at": "2026-04-12T13:49:35.565927"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "15,183",
+        "crawled_at": "2026-04-12T13:49:35.566157"
+      },
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "14,862",
+        "crawled_at": "2026-04-12T13:49:35.566355"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "103,657",
+        "crawled_at": "2026-04-12T13:49:35.566541"
+      },
+      {
+        "name": "multica-ai /multica",
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "stars": "8,806",
+        "crawled_at": "2026-04-12T13:49:35.566729"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "stars": "16,774",
+        "crawled_at": "2026-04-12T13:49:35.566980"
+      },
+      {
+        "name": "shanraisshan /claude-code-best-practice",
+        "description": "practice made claude perfect",
+        "language": "HTML",
+        "stars": "38,173",
+        "crawled_at": "2026-04-12T13:49:35.567173"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "10,728",
+        "crawled_at": "2026-04-12T13:49:35.567362"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "48,643",
+        "crawled_at": "2026-04-12T13:49:35.567586"
+      },
+      {
+        "name": "ahujasid /blender-mcp",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "19,018",
+        "crawled_at": "2026-04-12T13:49:35.567827"
       }
     ]
   }
