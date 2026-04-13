@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-14",
-    "repos": [
-      {
-        "name": "volcengine /OpenViking",
-        "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-        "language": "Python",
-        "stars": "9,682",
-        "crawled_at": "2026-03-14T13:35:43.790183"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "11,024",
-        "crawled_at": "2026-03-14T13:35:43.790386"
-      },
-      {
-        "name": "dimensionalOS /dimos",
-        "description": "The Dimensional Framework",
-        "language": "Python",
-        "stars": "728",
-        "crawled_at": "2026-03-14T13:35:43.790574"
-      },
-      {
-        "name": "p-e-w /heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "stars": "13,232",
-        "crawled_at": "2026-03-14T13:35:43.790789"
-      },
-      {
-        "name": "langflow-ai /openrag",
-        "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
-        "language": "Python",
-        "stars": "2,519",
-        "crawled_at": "2026-03-14T13:35:43.790984"
-      },
-      {
-        "name": "lightpanda-io /browser",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "language": "Zig",
-        "stars": "16,472",
-        "crawled_at": "2026-03-14T13:35:43.791169"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "42,237",
-        "crawled_at": "2026-03-14T13:35:43.791392"
-      },
-      {
-        "name": "fishaudio /fish-speech",
-        "description": "SOTA Open Source TTS",
-        "language": "Python",
-        "stars": "27,055",
-        "crawled_at": "2026-03-14T13:35:43.791576"
-      },
-      {
-        "name": "InsForge /InsForge",
-        "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-        "language": "TypeScript",
-        "stars": "3,915",
-        "crawled_at": "2026-03-14T13:35:43.791817"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "82,587",
-        "crawled_at": "2026-03-14T13:35:43.792041"
-      }
-    ]
-  },
-  {
     "date": "2026-03-15",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "Python",
         "stars": "19,018",
         "crawled_at": "2026-04-12T13:49:35.567827"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-13",
+    "repos": [
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "21,402",
+        "crawled_at": "2026-04-13T14:23:16.095705"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "74,917",
+        "crawled_at": "2026-04-13T14:23:16.095908"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "16,702",
+        "crawled_at": "2026-04-13T14:23:16.096095"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "52,039",
+        "crawled_at": "2026-04-13T14:23:16.096321"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "106,380",
+        "crawled_at": "2026-04-13T14:23:16.096521"
+      },
+      {
+        "name": "multica-ai /multica",
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "stars": "10,555",
+        "crawled_at": "2026-04-13T14:23:16.096787"
+      },
+      {
+        "name": "coleam00 /Archon",
+        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+        "language": "TypeScript",
+        "stars": "17,450",
+        "crawled_at": "2026-04-13T14:23:16.096975"
+      },
+      {
+        "name": "snarktank /ralph",
+        "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+        "language": "TypeScript",
+        "stars": "16,362",
+        "crawled_at": "2026-04-13T14:23:16.097166"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "52,720",
+        "crawled_at": "2026-04-13T14:23:16.097350"
+      },
+      {
+        "name": "anthropics /claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "stars": "39,114",
+        "crawled_at": "2026-04-13T14:23:16.097548"
       }
     ]
   }
