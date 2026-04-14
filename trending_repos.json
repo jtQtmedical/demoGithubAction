@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-15",
-    "repos": [
-      {
-        "name": "lightpanda-io /browser",
-        "description": "Lightpanda: the headless browser designed for AI and automation",
-        "language": "Zig",
-        "stars": "17,710",
-        "crawled_at": "2026-03-15T13:37:10.171870"
-      },
-      {
-        "name": "Crosstalk-Solutions /project-nomad",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "language": "TypeScript",
-        "stars": "737",
-        "crawled_at": "2026-03-15T13:37:10.172086"
-      },
-      {
-        "name": "volcengine /OpenViking",
-        "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-        "language": "Python",
-        "stars": "11,554",
-        "crawled_at": "2026-03-15T13:37:10.172304"
-      },
-      {
-        "name": "shareAI-lab /learn-claude-code",
-        "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-        "language": "TypeScript",
-        "stars": "27,509",
-        "crawled_at": "2026-03-15T13:37:10.172500"
-      },
-      {
-        "name": "shanraisshan /claude-code-best-practice",
-        "description": "practice made claude perfect",
-        "language": "HTML",
-        "stars": "16,502",
-        "crawled_at": "2026-03-15T13:37:10.172695"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "84,677",
-        "crawled_at": "2026-03-15T13:37:10.172923"
-      },
-      {
-        "name": "p-e-w /heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "stars": "14,299",
-        "crawled_at": "2026-03-15T13:37:10.173112"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "25,754",
-        "crawled_at": "2026-03-15T13:37:10.173321"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "13,303",
-        "crawled_at": "2026-03-15T13:37:10.173552"
-      },
-      {
-        "name": "topoteretes /cognee",
-        "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-        "language": "Python",
-        "stars": "13,683",
-        "crawled_at": "2026-03-15T13:37:10.173776"
-      }
-    ]
-  },
-  {
     "date": "2026-03-16",
     "repos": [
       {
@@ -2092,6 +2017,81 @@
         "language": "Jupyter Notebook",
         "stars": "39,114",
         "crawled_at": "2026-04-13T14:23:16.097548"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "repos": [
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "30,424",
+        "crawled_at": "2026-04-14T14:28:42.782082"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "54,859",
+        "crawled_at": "2026-04-14T14:28:42.782333"
+      },
+      {
+        "name": "jamiepine /voicebox",
+        "description": "The open-source voice synthesis studio",
+        "language": "TypeScript",
+        "stars": "16,918",
+        "crawled_at": "2026-04-14T14:28:42.782521"
+      },
+      {
+        "name": "pascalorg /editor",
+        "description": "Create and share 3D architectural projects.",
+        "language": "TypeScript",
+        "stars": "10,981",
+        "crawled_at": "2026-04-14T14:28:42.782708"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "108,001",
+        "crawled_at": "2026-04-14T14:28:42.782893"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "151,674",
+        "crawled_at": "2026-04-14T14:28:42.783152"
+      },
+      {
+        "name": "chrislgarry /Apollo-11",
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "language": "Assembly",
+        "stars": "66,080",
+        "crawled_at": "2026-04-14T14:28:42.783381"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "53,761",
+        "crawled_at": "2026-04-14T14:28:42.783565"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "17,590",
+        "crawled_at": "2026-04-14T14:28:42.783755"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "82,902",
+        "crawled_at": "2026-04-14T14:28:42.783961"
       }
     ]
   }
