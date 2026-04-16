@@ -1,52 +1,5 @@
 [
   {
-    "date": "2026-03-17",
-    "repos": [
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "90,875",
-        "crawled_at": "2026-03-17T14:08:58.649520"
-      },
-      {
-        "name": "codecrafters-io /build-your-own-x",
-        "description": "Master programming by recreating your favorite technologies from scratch.",
-        "language": "Markdown",
-        "stars": "479,100",
-        "crawled_at": "2026-03-17T14:08:58.649751"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "16,292",
-        "crawled_at": "2026-03-17T14:08:58.649989"
-      },
-      {
-        "name": "langchain-ai /deepagents",
-        "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-        "language": "Python",
-        "stars": "13,619",
-        "crawled_at": "2026-03-17T14:08:58.650178"
-      },
-      {
-        "name": "jarrodwatts /claude-hud",
-        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-        "language": "JavaScript",
-        "stars": "5,229",
-        "crawled_at": "2026-03-17T14:08:58.650371"
-      },
-      {
-        "name": "cloudflare /workerd",
-        "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-        "language": "C++",
-        "stars": "7,670",
-        "crawled_at": "2026-03-17T14:08:58.650563"
-      }
-    ]
-  },
-  {
     "date": "2026-03-18",
     "repos": [
       {
@@ -2092,6 +2045,81 @@
         "language": "TypeScript",
         "stars": "2,317",
         "crawled_at": "2026-04-15T14:20:50.313016"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-16",
+    "repos": [
+      {
+        "name": "forrestchang /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "47,634",
+        "crawled_at": "2026-04-16T14:28:59.492856"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "language": "TypeScript",
+        "stars": "58,922",
+        "crawled_at": "2026-04-16T14:28:59.493107"
+      },
+      {
+        "name": "lsdefine /GenericAgent",
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "stars": "2,531",
+        "crawled_at": "2026-04-16T14:28:59.493313"
+      },
+      {
+        "name": "jamiepine /voicebox",
+        "description": "The open-source voice synthesis studio",
+        "language": "TypeScript",
+        "stars": "18,813",
+        "crawled_at": "2026-04-16T14:28:59.493501"
+      },
+      {
+        "name": "vercel-labs /open-agents",
+        "description": "An open source template for building cloud agents.",
+        "language": "TypeScript",
+        "stars": "3,006",
+        "crawled_at": "2026-04-16T14:28:59.493713"
+      },
+      {
+        "name": "google /magika",
+        "description": "Fast and accurate AI powered file content types detection",
+        "language": "Python",
+        "stars": "14,377",
+        "crawled_at": "2026-04-16T14:28:59.493910"
+      },
+      {
+        "name": "steipete /wacli",
+        "description": "WhatsApp CLI",
+        "language": "Go",
+        "stars": "1,561",
+        "crawled_at": "2026-04-16T14:28:59.494138"
+      },
+      {
+        "name": "topoteretes /cognee",
+        "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+        "language": "Python",
+        "stars": "15,647",
+        "crawled_at": "2026-04-16T14:28:59.494364"
+      },
+      {
+        "name": "z-lab /dflash",
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+        "language": "Python",
+        "stars": "1,488",
+        "crawled_at": "2026-04-16T14:28:59.494548"
+      },
+      {
+        "name": "Lordog /dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "language": "Jupyter Notebook",
+        "stars": "30,442",
+        "crawled_at": "2026-04-16T14:28:59.494757"
       }
     ]
   }
