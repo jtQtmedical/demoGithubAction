@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-19",
-    "repos": [
-      {
-        "name": "opendataloader-project /opendataloader-pdf",
-        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-        "language": "Java",
-        "stars": "4,933",
-        "crawled_at": "2026-03-19T13:58:55.893021"
-      },
-      {
-        "name": "langchain-ai /open-swe",
-        "description": "An Open-Source Asynchronous Coding Agent",
-        "language": "Python",
-        "stars": "6,802",
-        "crawled_at": "2026-03-19T13:58:55.893221"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "98,201",
-        "crawled_at": "2026-03-19T13:58:55.893440"
-      },
-      {
-        "name": "jarrodwatts /claude-hud",
-        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-        "language": "JavaScript",
-        "stars": "8,105",
-        "crawled_at": "2026-03-19T13:58:55.893620"
-      },
-      {
-        "name": "unslothai /unsloth",
-        "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-        "language": "Python",
-        "stars": "56,400",
-        "crawled_at": "2026-03-19T13:58:55.893840"
-      },
-      {
-        "name": "mobile-dev-inc /Maestro",
-        "description": "Painless E2E Automation for Mobile and Web",
-        "language": "Kotlin",
-        "stars": "12,221",
-        "crawled_at": "2026-03-19T13:58:55.894018"
-      },
-      {
-        "name": "newton-physics /newton",
-        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-        "language": "Python",
-        "stars": "3,106",
-        "crawled_at": "2026-03-19T13:58:55.894233"
-      },
-      {
-        "name": "louis-e /arnis",
-        "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-        "language": "Rust",
-        "stars": "10,292",
-        "crawled_at": "2026-03-19T13:58:55.894412"
-      },
-      {
-        "name": "FujiwaraChoki /MoneyPrinterV2",
-        "description": "Automate the process of making money online.",
-        "language": "Python",
-        "stars": "15,764",
-        "crawled_at": "2026-03-19T13:58:55.894665"
-      },
-      {
-        "name": "gsd-build /get-shit-done",
-        "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-        "language": "JavaScript",
-        "stars": "35,478",
-        "crawled_at": "2026-03-19T13:58:55.894858"
-      }
-    ]
-  },
-  {
     "date": "2026-03-20",
     "repos": [
       {
@@ -2148,6 +2073,81 @@
         "language": "Shell",
         "stars": "157,274",
         "crawled_at": "2026-04-17T14:15:14.252190"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-18",
+    "repos": [
+      {
+        "name": "thunderbird /thunderbolt",
+        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+        "language": "TypeScript",
+        "stars": "1,268",
+        "crawled_at": "2026-04-18T13:51:03.414994"
+      },
+      {
+        "name": "BasedHardware /omi",
+        "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+        "language": "Dart",
+        "stars": "10,152",
+        "crawled_at": "2026-04-18T13:51:03.415254"
+      },
+      {
+        "name": "openai /openai-agents-python",
+        "description": "A lightweight, powerful framework for multi-agent workflows",
+        "language": "Python",
+        "stars": "22,094",
+        "crawled_at": "2026-04-18T13:51:03.415427"
+      },
+      {
+        "name": "EvoMap /evolver",
+        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+        "language": "JavaScript",
+        "stars": "4,782",
+        "crawled_at": "2026-04-18T13:51:03.415597"
+      },
+      {
+        "name": "deepseek-ai /DeepGEMM",
+        "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
+        "language": "Cuda",
+        "stars": "6,426",
+        "crawled_at": "2026-04-18T13:51:03.415764"
+      },
+      {
+        "name": "Lordog /dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "language": "Jupyter Notebook",
+        "stars": "31,862",
+        "crawled_at": "2026-04-18T13:51:03.415938"
+      },
+      {
+        "name": "aaddrick /claude-desktop-debian",
+        "description": "Claude Desktop for Debian-based Linux distributions",
+        "language": "Shell",
+        "stars": "3,387",
+        "crawled_at": "2026-04-18T13:51:03.416153"
+      },
+      {
+        "name": "rustdesk /rustdesk",
+        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+        "language": "Rust",
+        "stars": "111,860",
+        "crawled_at": "2026-04-18T13:51:03.416358"
+      },
+      {
+        "name": "SimoneAvogadro /android-reverse-engineering-skill",
+        "description": "Claude Code skill to support Android app's reverse engineering",
+        "language": "Shell",
+        "stars": "2,967",
+        "crawled_at": "2026-04-18T13:51:03.416549"
+      },
+      {
+        "name": "tractorjuice /arc-kit",
+        "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+        "language": "HTML",
+        "stars": "612",
+        "crawled_at": "2026-04-18T13:51:03.416754"
       }
     ]
   }
