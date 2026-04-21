@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-22",
-    "repos": [
-      {
-        "name": "FujiwaraChoki /MoneyPrinterV2",
-        "description": "Automate the process of making money online.",
-        "language": "Python",
-        "stars": "18,687",
-        "crawled_at": "2026-03-22T13:34:35.219548"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "36,132",
-        "crawled_at": "2026-03-22T13:34:35.219764"
-      },
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "11,428",
-        "crawled_at": "2026-03-22T13:34:35.219956"
-      },
-      {
-        "name": "jamwithai /production-agentic-rag-course",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "4,576",
-        "crawled_at": "2026-03-22T13:34:35.220168"
-      },
-      {
-        "name": "affaan-m /everything-claude-code",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "96,277",
-        "crawled_at": "2026-03-22T13:34:35.220394"
-      },
-      {
-        "name": "jarrodwatts /claude-hud",
-        "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-        "language": "JavaScript",
-        "stars": "10,901",
-        "crawled_at": "2026-03-22T13:34:35.220577"
-      },
-      {
-        "name": "Crosstalk-Solutions /project-nomad",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "language": "TypeScript",
-        "stars": "7,908",
-        "crawled_at": "2026-03-22T13:34:35.220784"
-      },
-      {
-        "name": "systemd /systemd",
-        "description": "The systemd System and Service Manager",
-        "language": "C",
-        "stars": "15,876",
-        "crawled_at": "2026-03-22T13:34:35.220975"
-      },
-      {
-        "name": "browser-use /browser-use",
-        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "language": "Python",
-        "stars": "82,131",
-        "crawled_at": "2026-03-22T13:34:35.221164"
-      },
-      {
-        "name": "HKUDS /LightRAG",
-        "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-        "language": "Python",
-        "stars": "29,909",
-        "crawled_at": "2026-03-22T13:34:35.221349"
-      }
-    ]
-  },
-  {
     "date": "2026-03-23",
     "repos": [
       {
@@ -2162,6 +2087,67 @@
         "language": "Go",
         "stars": "37,338",
         "crawled_at": "2026-04-20T14:25:09.055951"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-21",
+    "repos": [
+      {
+        "name": "Fincept-Corporation /FinceptTerminal",
+        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+        "language": "Python",
+        "stars": "11,014",
+        "crawled_at": "2026-04-21T14:25:01.016930"
+      },
+      {
+        "name": "thunderbird /thunderbolt",
+        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+        "language": "TypeScript",
+        "stars": "3,223",
+        "crawled_at": "2026-04-21T14:25:01.017180"
+      },
+      {
+        "name": "zilliztech /claude-context",
+        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+        "language": "TypeScript",
+        "stars": "6,314",
+        "crawled_at": "2026-04-21T14:25:01.017366"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "48,699",
+        "crawled_at": "2026-04-21T14:25:01.017553"
+      },
+      {
+        "name": "microsoft /ai-agents-for-beginners",
+        "description": "12 Lessons to Get Started Building AI Agents",
+        "language": "Jupyter Notebook",
+        "stars": "57,330",
+        "crawled_at": "2026-04-21T14:25:01.017736"
+      },
+      {
+        "name": "dayanch96 /YTLite",
+        "description": "A flexible enhancer for YouTube on iOS",
+        "language": "Logos",
+        "stars": "4,740",
+        "crawled_at": "2026-04-21T14:25:01.017989"
+      },
+      {
+        "name": "HKUDS /RAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "language": "Python",
+        "stars": "16,588",
+        "crawled_at": "2026-04-21T14:25:01.018174"
+      },
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+        "language": "Python",
+        "stars": "53,355",
+        "crawled_at": "2026-04-21T14:25:01.018359"
       }
     ]
   }
