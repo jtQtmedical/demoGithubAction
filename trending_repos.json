@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-23",
-    "repos": [
-      {
-        "name": "FujiwaraChoki /MoneyPrinterV2",
-        "description": "Automate the process of making money online.",
-        "language": "Python",
-        "stars": "21,736",
-        "crawled_at": "2026-03-23T14:04:12.772134"
-      },
-      {
-        "name": "bytedance /deer-flow",
-        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-        "language": "Python",
-        "stars": "37,753",
-        "crawled_at": "2026-03-23T14:04:12.772324"
-      },
-      {
-        "name": "Crosstalk-Solutions /project-nomad",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "language": "TypeScript",
-        "stars": "12,219",
-        "crawled_at": "2026-03-23T14:04:12.772501"
-      },
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "12,675",
-        "crawled_at": "2026-03-23T14:04:12.772684"
-      },
-      {
-        "name": "browser-use /browser-use",
-        "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-        "language": "Python",
-        "stars": "83,278",
-        "crawled_at": "2026-03-23T14:04:12.772862"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "38,606",
-        "crawled_at": "2026-03-23T14:04:12.773072"
-      },
-      {
-        "name": "tinygrad /tinygrad",
-        "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-        "language": "Python",
-        "stars": "31,803",
-        "crawled_at": "2026-03-23T14:04:12.773336"
-      },
-      {
-        "name": "affaan-m /everything-claude-code",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "100,652",
-        "crawled_at": "2026-03-23T14:04:12.773549"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "10,999",
-        "crawled_at": "2026-03-23T14:04:12.773723"
-      },
-      {
-        "name": "jingyaogong /minimind",
-        "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
-        "language": "Python",
-        "stars": "42,420",
-        "crawled_at": "2026-03-23T14:04:12.773895"
-      }
-    ]
-  },
-  {
     "date": "2026-03-24",
     "repos": [
       {
@@ -2148,6 +2073,81 @@
         "language": "Python",
         "stars": "53,355",
         "crawled_at": "2026-04-21T14:25:01.018359"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-22",
+    "repos": [
+      {
+        "name": "zilliztech /claude-context",
+        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+        "language": "TypeScript",
+        "stars": "7,175",
+        "crawled_at": "2026-04-22T14:25:09.426781"
+      },
+      {
+        "name": "Fincept-Corporation /FinceptTerminal",
+        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+        "language": "Python",
+        "stars": "12,695",
+        "crawled_at": "2026-04-22T14:25:09.427026"
+      },
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "51,200",
+        "crawled_at": "2026-04-22T14:25:09.427231"
+      },
+      {
+        "name": "langfuse /langfuse",
+        "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+        "language": "TypeScript",
+        "stars": "25,428",
+        "crawled_at": "2026-04-22T14:25:09.427424"
+      },
+      {
+        "name": "KeygraphHQ /shannon",
+        "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+        "language": "TypeScript",
+        "stars": "39,301",
+        "crawled_at": "2026-04-22T14:25:09.427612"
+      },
+      {
+        "name": "open-metadata /OpenMetadata",
+        "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+        "language": "TypeScript",
+        "stars": "11,943",
+        "crawled_at": "2026-04-22T14:25:09.427840"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "49,220",
+        "crawled_at": "2026-04-22T14:25:09.428030"
+      },
+      {
+        "name": "HKUDS /RAG-Anything",
+        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+        "language": "Python",
+        "stars": "17,342",
+        "crawled_at": "2026-04-22T14:25:09.428233"
+      },
+      {
+        "name": "sansan0 /TrendRadar",
+        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+        "language": "Python",
+        "stars": "54,238",
+        "crawled_at": "2026-04-22T14:25:09.428419"
+      },
+      {
+        "name": "AIDC-AI /Pixelle-Video",
+        "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "stars": "5,282",
+        "crawled_at": "2026-04-22T14:25:09.428602"
       }
     ]
   }
