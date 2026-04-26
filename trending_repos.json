@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-27",
-    "repos": [
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "11,873",
-        "crawled_at": "2026-03-27T14:00:36.596543"
-      },
-      {
-        "name": "hacksider /Deep-Live-Cam",
-        "description": "real time face swap and one-click video deepfake with only a single image",
-        "language": "Python",
-        "stars": "82,226",
-        "crawled_at": "2026-03-27T14:00:36.596813"
-      },
-      {
-        "name": "SakanaAI /AI-Scientist-v2",
-        "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-        "language": "Python",
-        "stars": "2,677",
-        "crawled_at": "2026-03-27T14:00:36.597013"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "24,447",
-        "crawled_at": "2026-03-27T14:00:36.597203"
-      },
-      {
-        "name": "twentyhq /twenty",
-        "description": "Building a modern alternative to Salesforce, powered by the community.",
-        "language": "TypeScript",
-        "stars": "41,720",
-        "crawled_at": "2026-03-27T14:00:36.597388"
-      },
-      {
-        "name": "datalab-to /chandra",
-        "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-        "language": "Python",
-        "stars": "6,714",
-        "crawled_at": "2026-03-27T14:00:36.597574"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "117,642",
-        "crawled_at": "2026-03-27T14:00:36.597814"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "19,413",
-        "crawled_at": "2026-03-27T14:00:36.597997"
-      },
-      {
-        "name": "Yeachan-Heo /oh-my-claudecode",
-        "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "language": "TypeScript",
-        "stars": "13,480",
-        "crawled_at": "2026-03-27T14:00:36.598215"
-      },
-      {
-        "name": "FreeCAD /FreeCAD",
-        "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-        "language": "C++",
-        "stars": "29,452",
-        "crawled_at": "2026-03-27T14:00:36.598434"
-      }
-    ]
-  },
-  {
     "date": "2026-03-28",
     "repos": [
       {
@@ -2155,6 +2080,81 @@
         "language": "Markdown",
         "stars": "495,527",
         "crawled_at": "2026-04-25T13:54:11.626336"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-26",
+    "repos": [
+      {
+        "name": "mattpocock /skills",
+        "description": "My personal directory of skills, straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "21,697",
+        "crawled_at": "2026-04-26T13:55:39.949434"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+        "language": "Python",
+        "stars": "12,501",
+        "crawled_at": "2026-04-26T13:55:39.949631"
+      },
+      {
+        "name": "Z4nzu /hackingtool",
+        "description": "ALL IN ONE Hacking Tool For Hackers",
+        "language": "Python",
+        "stars": "64,771",
+        "crawled_at": "2026-04-26T13:55:39.949824"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "29,768",
+        "crawled_at": "2026-04-26T13:55:39.950067"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+        "language": "Python",
+        "stars": "33,672",
+        "crawled_at": "2026-04-26T13:55:39.950256"
+      },
+      {
+        "name": "microsoft /typescript-go",
+        "description": "Staging repo for development of native port of TypeScript",
+        "language": "Go",
+        "stars": "25,115",
+        "crawled_at": "2026-04-26T13:55:39.950446"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+        "language": "HTML",
+        "stars": "14,236",
+        "crawled_at": "2026-04-26T13:55:39.950675"
+      },
+      {
+        "name": "gastownhall /beads",
+        "description": "Beads - A memory upgrade for your coding agent",
+        "language": "Go",
+        "stars": "21,492",
+        "crawled_at": "2026-04-26T13:55:39.950856"
+      },
+      {
+        "name": "curl /curl",
+        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+        "language": "C",
+        "stars": "41,433",
+        "crawled_at": "2026-04-26T13:55:39.951096"
+      },
+      {
+        "name": "home-assistant /core",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "stars": "86,309",
+        "crawled_at": "2026-04-26T13:55:39.951283"
       }
     ]
   }
