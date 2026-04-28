@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-29",
-    "repos": [
-      {
-        "name": "luongnv89 /claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "stars": "5,020",
-        "crawled_at": "2026-03-29T13:42:08.644240"
-      },
-      {
-        "name": "Yeachan-Heo /oh-my-claudecode",
-        "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "language": "TypeScript",
-        "stars": "15,356",
-        "crawled_at": "2026-03-29T13:42:08.644486"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "26,187",
-        "crawled_at": "2026-03-29T13:42:08.644734"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "15,914",
-        "crawled_at": "2026-03-29T13:42:08.644961"
-      },
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "63,831",
-        "crawled_at": "2026-03-29T13:42:08.645192"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "122,004",
-        "crawled_at": "2026-03-29T13:42:08.645426"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "42,194",
-        "crawled_at": "2026-03-29T13:42:08.645658"
-      },
-      {
-        "name": "hacksider /Deep-Live-Cam",
-        "description": "real time face swap and one-click video deepfake with only a single image",
-        "language": "Python",
-        "stars": "84,871",
-        "crawled_at": "2026-03-29T13:42:08.645912"
-      },
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "14,785",
-        "crawled_at": "2026-03-29T13:42:08.646107"
-      },
-      {
-        "name": "shareAI-lab /learn-claude-code",
-        "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
-        "language": "TypeScript",
-        "stars": "42,329",
-        "crawled_at": "2026-03-29T13:42:08.646307"
-      }
-    ]
-  },
-  {
     "date": "2026-03-30",
     "repos": [
       {
@@ -2162,6 +2087,81 @@
         "language": "Python",
         "stars": "53,436",
         "crawled_at": "2026-04-27T14:51:41.820176"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-28",
+    "repos": [
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "35,303",
+        "crawled_at": "2026-04-28T15:12:04.306847"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "32,409",
+        "crawled_at": "2026-04-28T15:12:04.307018"
+      },
+      {
+        "name": "ComposioHQ /awesome-codex-skills",
+        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+        "language": "Python",
+        "stars": "3,436",
+        "crawled_at": "2026-04-28T15:12:04.307163"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "44,136",
+        "crawled_at": "2026-04-28T15:12:04.307291"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars": "26,023",
+        "crawled_at": "2026-04-28T15:12:04.307421"
+      },
+      {
+        "name": "HunxByts /GhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "stars": "10,261",
+        "crawled_at": "2026-04-28T15:12:04.307550"
+      },
+      {
+        "name": "fspecii /ace-step-ui",
+        "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+        "language": "JavaScript",
+        "stars": "1,460",
+        "crawled_at": "2026-04-28T15:12:04.307678"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "427,729",
+        "crawled_at": "2026-04-28T15:12:04.307802"
+      },
+      {
+        "name": "CJackHwang /ds2api",
+        "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+        "language": "Go",
+        "stars": "2,186",
+        "crawled_at": "2026-04-28T15:12:04.307927"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+        "language": "Python",
+        "stars": "17,096",
+        "crawled_at": "2026-04-28T15:12:04.308051"
       }
     ]
   }
