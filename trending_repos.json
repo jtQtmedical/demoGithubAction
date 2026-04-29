@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-30",
-    "repos": [
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "28,848",
-        "crawled_at": "2026-03-30T14:15:55.043025"
-      },
-      {
-        "name": "luongnv89 /claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "stars": "9,173",
-        "crawled_at": "2026-03-30T14:15:55.043327"
-      },
-      {
-        "name": "Yeachan-Heo /oh-my-claudecode",
-        "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "language": "TypeScript",
-        "stars": "17,137",
-        "crawled_at": "2026-03-30T14:15:55.043635"
-      },
-      {
-        "name": "shanraisshan /claude-code-best-practice",
-        "description": "practice made claude perfect",
-        "language": "HTML",
-        "stars": "25,210",
-        "crawled_at": "2026-03-30T14:15:55.043861"
-      },
-      {
-        "name": "hacksider /Deep-Live-Cam",
-        "description": "real time face swap and one-click video deepfake with only a single image",
-        "language": "Python",
-        "stars": "85,987",
-        "crawled_at": "2026-03-30T14:15:55.044137"
-      },
-      {
-        "name": "OpenBB-finance /OpenBB",
-        "description": "Financial data platform for analysts, quants and AI agents.",
-        "language": "Python",
-        "stars": "64,324",
-        "crawled_at": "2026-03-30T14:15:55.044521"
-      },
-      {
-        "name": "freeCodeCamp /freeCodeCamp",
-        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "language": "TypeScript",
-        "stars": "439,441",
-        "crawled_at": "2026-03-30T14:15:55.044765"
-      },
-      {
-        "name": "sherlock-project /sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "stars": "74,365",
-        "crawled_at": "2026-03-30T14:15:55.044966"
-      },
-      {
-        "name": "apache /superset",
-        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-        "language": "TypeScript",
-        "stars": "71,735",
-        "crawled_at": "2026-03-30T14:15:55.045168"
-      },
-      {
-        "name": "fastfetch-cli /fastfetch",
-        "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-        "language": "C",
-        "stars": "21,312",
-        "crawled_at": "2026-03-30T14:15:55.045371"
-      }
-    ]
-  },
-  {
     "date": "2026-03-31",
     "repos": [
       {
@@ -2162,6 +2087,81 @@
         "language": "Python",
         "stars": "17,096",
         "crawled_at": "2026-04-28T15:12:04.308051"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-29",
+    "repos": [
+      {
+        "name": "warpdotdev /warp",
+        "description": "Warp is an agentic development environment, born out of the terminal.",
+        "language": "Rust",
+        "stars": "40,685",
+        "crawled_at": "2026-04-29T14:58:29.702834"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "42,118",
+        "crawled_at": "2026-04-29T14:58:29.703105"
+      },
+      {
+        "name": "HunxByts /GhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "stars": "11,268",
+        "crawled_at": "2026-04-29T14:58:29.703297"
+      },
+      {
+        "name": "ComposioHQ /awesome-codex-skills",
+        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+        "language": "Python",
+        "stars": "4,574",
+        "crawled_at": "2026-04-29T14:58:29.703484"
+      },
+      {
+        "name": "1jehuang /jcode",
+        "description": "Coding Agent Harness",
+        "language": "Rust",
+        "stars": "1,122",
+        "crawled_at": "2026-04-29T14:58:29.703667"
+      },
+      {
+        "name": "abhigyanpatwari /GitNexus",
+        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "language": "TypeScript",
+        "stars": "33,130",
+        "crawled_at": "2026-04-29T14:58:29.703896"
+      },
+      {
+        "name": "microsoft /VibeVoice",
+        "description": "Open-Source Frontier Voice AI",
+        "language": "Python",
+        "stars": "45,470",
+        "crawled_at": "2026-04-29T14:58:29.704101"
+      },
+      {
+        "name": "CJackHwang /ds2api",
+        "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+        "language": "Go",
+        "stars": "2,606",
+        "crawled_at": "2026-04-29T14:58:29.704289"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "172,671",
+        "crawled_at": "2026-04-29T14:58:29.704511"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+        "language": "Python",
+        "stars": "32,517",
+        "crawled_at": "2026-04-29T14:58:29.704694"
       }
     ]
   }
