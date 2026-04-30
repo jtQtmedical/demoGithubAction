@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-03-31",
-    "repos": [
-      {
-        "name": "luongnv89 /claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "stars": "11,802",
-        "crawled_at": "2026-03-31T14:19:22.878338"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "32,478",
-        "crawled_at": "2026-03-31T14:19:22.878564"
-      },
-      {
-        "name": "Yeachan-Heo /oh-my-claudecode",
-        "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "language": "TypeScript",
-        "stars": "18,223",
-        "crawled_at": "2026-03-31T14:19:22.878789"
-      },
-      {
-        "name": "shanraisshan /claude-code-best-practice",
-        "description": "practice made claude perfect",
-        "language": "HTML",
-        "stars": "27,667",
-        "crawled_at": "2026-03-31T14:19:22.878971"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "19,669",
-        "crawled_at": "2026-03-31T14:19:22.879153"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "127,416",
-        "crawled_at": "2026-03-31T14:19:22.879384"
-      },
-      {
-        "name": "microsoft /agent-lightning",
-        "description": "The absolute trainer to light up AI agents.",
-        "language": "Python",
-        "stars": "16,114",
-        "crawled_at": "2026-03-31T14:19:22.879588"
-      },
-      {
-        "name": "PaddlePaddle /PaddleOCR",
-        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-        "language": "Python",
-        "stars": "73,913",
-        "crawled_at": "2026-03-31T14:19:22.879773"
-      },
-      {
-        "name": "Dimillian /Skills",
-        "description": "My Codex Skills",
-        "language": "Shell",
-        "stars": "2,707",
-        "crawled_at": "2026-03-31T14:19:22.879994"
-      },
-      {
-        "name": "sherlock-project /sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "stars": "75,209",
-        "crawled_at": "2026-03-31T14:19:22.880175"
-      }
-    ]
-  },
-  {
     "date": "2026-04-01",
     "repos": [
       {
@@ -2162,6 +2087,81 @@
         "language": "Python",
         "stars": "32,517",
         "crawled_at": "2026-04-29T14:58:29.704694"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "repos": [
+      {
+        "name": "warpdotdev /warp",
+        "description": "Warp is an agentic development environment, born out of the terminal.",
+        "language": "Rust",
+        "stars": "47,994",
+        "crawled_at": "2026-04-30T14:54:18.469192"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "56,786",
+        "crawled_at": "2026-04-30T14:54:18.469373"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "48,030",
+        "crawled_at": "2026-04-30T14:54:18.469600"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "174,182",
+        "crawled_at": "2026-04-30T14:54:18.469806"
+      },
+      {
+        "name": "lukilabs /craft-agents-oss",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "5,495",
+        "crawled_at": "2026-04-30T14:54:18.469989"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "429,175",
+        "crawled_at": "2026-04-30T14:54:18.470152"
+      },
+      {
+        "name": "1jehuang /jcode",
+        "description": "Coding Agent Harness",
+        "language": "Rust",
+        "stars": "1,756",
+        "crawled_at": "2026-04-30T14:54:18.470319"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "20,631",
+        "crawled_at": "2026-04-30T14:54:18.470537"
+      },
+      {
+        "name": "HunxByts /GhostTrack",
+        "description": "Useful tool to track location or mobile number",
+        "language": "Python",
+        "stars": "11,997",
+        "crawled_at": "2026-04-30T14:54:18.470697"
+      },
+      {
+        "name": "iamgio /quarkdown",
+        "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+        "language": "Kotlin",
+        "stars": "12,817",
+        "crawled_at": "2026-04-30T14:54:18.470902"
       }
     ]
   }
