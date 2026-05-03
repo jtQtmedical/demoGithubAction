@@ -1,59 +1,5 @@
 [
   {
-    "date": "2026-04-03",
-    "repos": [
-      {
-        "name": "Yeachan-Heo /oh-my-codex",
-        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-        "language": "TypeScript",
-        "stars": "13,309",
-        "crawled_at": "2026-04-03T13:52:56.197454"
-      },
-      {
-        "name": "onyx-dot-app /onyx",
-        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-        "language": "Python",
-        "stars": "22,679",
-        "crawled_at": "2026-04-03T13:52:56.197685"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "13,764",
-        "crawled_at": "2026-04-03T13:52:56.197873"
-      },
-      {
-        "name": "siddharthvaddem /openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "language": "TypeScript",
-        "stars": "17,485",
-        "crawled_at": "2026-04-03T13:52:56.198058"
-      },
-      {
-        "name": "dmtrKovalenko /fff.nvim",
-        "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-        "language": "Rust",
-        "stars": "3,018",
-        "crawled_at": "2026-04-03T13:52:56.198286"
-      },
-      {
-        "name": "f /prompts.chat",
-        "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-        "language": "HTML",
-        "stars": "156,929",
-        "crawled_at": "2026-04-03T13:52:56.198529"
-      },
-      {
-        "name": "sherlock-project /sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "stars": "78,020",
-        "crawled_at": "2026-04-03T13:52:56.198717"
-      }
-    ]
-  },
-  {
     "date": "2026-04-04",
     "repos": [
       {
@@ -2176,6 +2122,74 @@
         "language": "未知",
         "stars": "344,249",
         "crawled_at": "2026-05-02T14:01:35.253478"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-03",
+    "repos": [
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "stars": "37,822",
+        "crawled_at": "2026-05-03T14:02:20.266712"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "64,313",
+        "crawled_at": "2026-05-03T14:02:20.266910"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "23,362",
+        "crawled_at": "2026-05-03T14:02:20.267164"
+      },
+      {
+        "name": "Hmbown /DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "stars": "1,870",
+        "crawled_at": "2026-05-03T14:02:20.267357"
+      },
+      {
+        "name": "AIDC-AI /Pixelle-Video",
+        "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+        "language": "Python",
+        "stars": "9,518",
+        "crawled_at": "2026-05-03T14:02:20.267541"
+      },
+      {
+        "name": "browserbase /skills",
+        "description": "Claude Agent SDK with a web browsing tool",
+        "language": "JavaScript",
+        "stars": "1,677",
+        "crawled_at": "2026-05-03T14:02:20.267725"
+      },
+      {
+        "name": "czlonkowski /n8n-mcp",
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "language": "TypeScript",
+        "stars": "19,285",
+        "crawled_at": "2026-05-03T14:02:20.267947"
+      },
+      {
+        "name": "1jehuang /jcode",
+        "description": "Coding Agent Harness",
+        "language": "Rust",
+        "stars": "3,190",
+        "crawled_at": "2026-05-03T14:02:20.268150"
+      },
+      {
+        "name": "openwrt /openwrt",
+        "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+        "language": "C",
+        "stars": "26,520",
+        "crawled_at": "2026-05-03T14:02:20.268344"
       }
     ]
   }
