@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-04-04",
-    "repos": [
-      {
-        "name": "Blaizzy /mlx-vlm",
-        "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-        "language": "Python",
-        "stars": "3,386",
-        "crawled_at": "2026-04-04T13:41:57.376620"
-      },
-      {
-        "name": "onyx-dot-app /onyx",
-        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-        "language": "Python",
-        "stars": "23,755",
-        "crawled_at": "2026-04-04T13:41:57.376806"
-      },
-      {
-        "name": "Yeachan-Heo /oh-my-codex",
-        "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-        "language": "TypeScript",
-        "stars": "14,965",
-        "crawled_at": "2026-04-04T13:41:57.377051"
-      },
-      {
-        "name": "siddharthvaddem /openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "language": "TypeScript",
-        "stars": "18,962",
-        "crawled_at": "2026-04-04T13:41:57.377222"
-      },
-      {
-        "name": "telegramdesktop /tdesktop",
-        "description": "Telegram Desktop messaging app",
-        "language": "C++",
-        "stars": "30,699",
-        "crawled_at": "2026-04-04T13:41:57.377392"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "35,346",
-        "crawled_at": "2026-04-04T13:41:57.377561"
-      },
-      {
-        "name": "microsoft /agent-framework",
-        "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-        "language": "Python",
-        "stars": "8,530",
-        "crawled_at": "2026-04-04T13:41:57.377733"
-      },
-      {
-        "name": "sherlock-project /sherlock",
-        "description": "Hunt down social media accounts by username across social networks",
-        "language": "Python",
-        "stars": "78,947",
-        "crawled_at": "2026-04-04T13:41:57.377910"
-      }
-    ]
-  },
-  {
     "date": "2026-04-05",
     "repos": [
       {
@@ -2190,6 +2129,81 @@
         "language": "C",
         "stars": "26,520",
         "crawled_at": "2026-05-03T14:02:20.268344"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-04",
+    "repos": [
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "stars": "40,489",
+        "crawled_at": "2026-05-04T14:58:03.840066"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "66,621",
+        "crawled_at": "2026-05-04T14:58:03.840271"
+      },
+      {
+        "name": "browserbase /skills",
+        "description": "Claude Agent SDK with a web browsing tool",
+        "language": "JavaScript",
+        "stars": "2,013",
+        "crawled_at": "2026-05-04T14:58:03.840464"
+      },
+      {
+        "name": "Hmbown /DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "stars": "3,429",
+        "crawled_at": "2026-05-04T14:58:03.840674"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "24,490",
+        "crawled_at": "2026-05-04T14:58:03.840910"
+      },
+      {
+        "name": "qbittorrent /qBittorrent",
+        "description": "qBittorrent BitTorrent client",
+        "language": "C++",
+        "stars": "36,943",
+        "crawled_at": "2026-05-04T14:58:03.841098"
+      },
+      {
+        "name": "czlonkowski /n8n-mcp",
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "language": "TypeScript",
+        "stars": "19,786",
+        "crawled_at": "2026-05-04T14:58:03.841332"
+      },
+      {
+        "name": "1jehuang /jcode",
+        "description": "Coding Agent Harness",
+        "language": "Rust",
+        "stars": "3,738",
+        "crawled_at": "2026-05-04T14:58:03.841518"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "92,191",
+        "crawled_at": "2026-05-04T14:58:03.841765"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "22,935",
+        "crawled_at": "2026-05-04T14:58:03.841950"
       }
     ]
   }
