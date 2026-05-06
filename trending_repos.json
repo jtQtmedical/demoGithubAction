@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "repos": [
-      {
-        "name": "google-ai-edge /gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "language": "Kotlin",
-        "stars": "16,460",
-        "crawled_at": "2026-04-05T13:43:15.906057"
-      },
-      {
-        "name": "Blaizzy /mlx-vlm",
-        "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-        "language": "Python",
-        "stars": "3,786",
-        "crawled_at": "2026-04-05T13:43:15.906298"
-      },
-      {
-        "name": "siddharthvaddem /openscreen",
-        "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-        "language": "TypeScript",
-        "stars": "21,679",
-        "crawled_at": "2026-04-05T13:43:15.906506"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "36,273",
-        "crawled_at": "2026-04-05T13:43:15.906689"
-      },
-      {
-        "name": "onyx-dot-app /onyx",
-        "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-        "language": "Python",
-        "stars": "24,704",
-        "crawled_at": "2026-04-05T13:43:15.906870"
-      },
-      {
-        "name": "badlogic /pi-mono",
-        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-        "language": "TypeScript",
-        "stars": "31,693",
-        "crawled_at": "2026-04-05T13:43:15.907099"
-      },
-      {
-        "name": "dmtrKovalenko /fff.nvim",
-        "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-        "language": "Rust",
-        "stars": "3,525",
-        "crawled_at": "2026-04-05T13:43:15.907341"
-      },
-      {
-        "name": "google-ai-edge /LiteRT-LM",
-        "description": "無描述",
-        "language": "C++",
-        "stars": "1,334",
-        "crawled_at": "2026-04-05T13:43:15.907549"
-      },
-      {
-        "name": "telegramdesktop /tdesktop",
-        "description": "Telegram Desktop messaging app",
-        "language": "C++",
-        "stars": "30,956",
-        "crawled_at": "2026-04-05T13:43:15.907731"
-      },
-      {
-        "name": "freeCodeCamp /freeCodeCamp",
-        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "language": "TypeScript",
-        "stars": "441,193",
-        "crawled_at": "2026-04-05T13:43:15.907952"
-      }
-    ]
-  },
-  {
     "date": "2026-04-06",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "TypeScript",
         "stars": "22,935",
         "crawled_at": "2026-05-04T14:58:03.841950"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "repos": [
+      {
+        "name": "Hmbown /DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "stars": "12,635",
+        "crawled_at": "2026-05-06T15:16:30.271969"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "29,615",
+        "crawled_at": "2026-05-06T15:16:30.272121"
+      },
+      {
+        "name": "PriorLabs /TabPFN",
+        "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+        "language": "Python",
+        "stars": "6,505",
+        "crawled_at": "2026-05-06T15:16:30.272253"
+      },
+      {
+        "name": "docusealco /docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+        "language": "Ruby",
+        "stars": "14,577",
+        "crawled_at": "2026-05-06T15:16:30.272382"
+      },
+      {
+        "name": "LearningCircuit /local-deep-research",
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+        "language": "Python",
+        "stars": "5,491",
+        "crawled_at": "2026-05-06T15:16:30.272539"
+      },
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "62,872",
+        "crawled_at": "2026-05-06T15:16:30.272676"
+      },
+      {
+        "name": "InsForge /InsForge",
+        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+        "language": "TypeScript",
+        "stars": "8,293",
+        "crawled_at": "2026-05-06T15:16:30.272853"
+      },
+      {
+        "name": "virattt /dexter",
+        "description": "An autonomous agent for deep financial research",
+        "language": "TypeScript",
+        "stars": "24,201",
+        "crawled_at": "2026-05-06T15:16:30.272983"
+      },
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "8,722",
+        "crawled_at": "2026-05-06T15:16:30.273125"
+      },
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "language": "TypeScript",
+        "stars": "44,857",
+        "crawled_at": "2026-05-06T15:16:30.273255"
       }
     ]
   }
