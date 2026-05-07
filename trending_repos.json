@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-06",
-    "repos": [
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "23,002",
-        "crawled_at": "2026-04-06T14:01:48.664879"
-      },
-      {
-        "name": "google-ai-edge /gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "language": "Kotlin",
-        "stars": "17,560",
-        "crawled_at": "2026-04-06T14:01:48.665089"
-      },
-      {
-        "name": "block /goose",
-        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "language": "Rust",
-        "stars": "37,703",
-        "crawled_at": "2026-04-06T14:01:48.665281"
-      },
-      {
-        "name": "google-ai-edge /LiteRT-LM",
-        "description": "無描述",
-        "language": "C++",
-        "stars": "1,825",
-        "crawled_at": "2026-04-06T14:01:48.665532"
-      },
-      {
-        "name": "immich-app /immich",
-        "description": "High performance self-hosted photo and video management solution.",
-        "language": "TypeScript",
-        "stars": "96,614",
-        "crawled_at": "2026-04-06T14:01:48.665715"
-      },
-      {
-        "name": "KeygraphHQ /shannon",
-        "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-        "language": "TypeScript",
-        "stars": "36,116",
-        "crawled_at": "2026-04-06T14:01:48.665919"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "27,311",
-        "crawled_at": "2026-04-06T14:01:48.666108"
-      },
-      {
-        "name": "tobi /qmd",
-        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-        "language": "TypeScript",
-        "stars": "18,409",
-        "crawled_at": "2026-04-06T14:01:48.666292"
-      },
-      {
-        "name": "TelegramMessenger /Telegram-iOS",
-        "description": "Telegram-iOS",
-        "language": "Swift",
-        "stars": "8,246",
-        "crawled_at": "2026-04-06T14:01:48.666478"
-      },
-      {
-        "name": "kepano /obsidian-skills",
-        "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-        "language": "未知",
-        "stars": "20,181",
-        "crawled_at": "2026-04-06T14:01:48.666807"
-      }
-    ]
-  },
-  {
     "date": "2026-04-07",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "TypeScript",
         "stars": "44,857",
         "crawled_at": "2026-05-06T15:16:30.273255"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "repos": [
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "10,477",
+        "crawled_at": "2026-05-07T15:19:14.003586"
+      },
+      {
+        "name": "Hmbown /DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "stars": "17,928",
+        "crawled_at": "2026-05-07T15:19:14.003776"
+      },
+      {
+        "name": "z-lab /dflash",
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+        "language": "Python",
+        "stars": "3,322",
+        "crawled_at": "2026-05-07T15:19:14.003945"
+      },
+      {
+        "name": "InsForge /InsForge",
+        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+        "language": "TypeScript",
+        "stars": "8,730",
+        "crawled_at": "2026-05-07T15:19:14.004162"
+      },
+      {
+        "name": "LearningCircuit /local-deep-research",
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+        "language": "Python",
+        "stars": "6,073",
+        "crawled_at": "2026-05-07T15:19:14.004366"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "32,442",
+        "crawled_at": "2026-05-07T15:19:14.004543"
+      },
+      {
+        "name": "VectifyAI /PageIndex",
+        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "language": "Python",
+        "stars": "29,316",
+        "crawled_at": "2026-05-07T15:19:14.004751"
+      },
+      {
+        "name": "vercel-labs /open-agents",
+        "description": "An open source template for building cloud agents.",
+        "language": "TypeScript",
+        "stars": "4,941",
+        "crawled_at": "2026-05-07T15:19:14.004914"
+      },
+      {
+        "name": "docusealco /docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+        "language": "Ruby",
+        "stars": "15,380",
+        "crawled_at": "2026-05-07T15:19:14.005076"
+      },
+      {
+        "name": "decolua /9router",
+        "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "language": "JavaScript",
+        "stars": "4,260",
+        "crawled_at": "2026-05-07T15:19:14.005240"
       }
     ]
   }
