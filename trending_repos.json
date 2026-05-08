@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-04-07",
-    "repos": [
-      {
-        "name": "google-ai-edge /gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "language": "Kotlin",
-        "stars": "18,447",
-        "crawled_at": "2026-04-07T14:21:10.825584"
-      },
-      {
-        "name": "google-ai-edge /LiteRT-LM",
-        "description": "無描述",
-        "language": "C++",
-        "stars": "2,349",
-        "crawled_at": "2026-04-07T14:21:10.825845"
-      },
-      {
-        "name": "NVIDIA /personaplex",
-        "description": "PersonaPlex code.",
-        "language": "Python",
-        "stars": "7,713",
-        "crawled_at": "2026-04-07T14:21:10.826055"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "24,155",
-        "crawled_at": "2026-04-07T14:21:10.826296"
-      },
-      {
-        "name": "tobi /qmd",
-        "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-        "language": "TypeScript",
-        "stars": "19,278",
-        "crawled_at": "2026-04-07T14:21:10.826499"
-      },
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "7,803",
-        "crawled_at": "2026-04-07T14:21:10.826722"
-      },
-      {
-        "name": "elebumm /RedditVideoMakerBot",
-        "description": "Create Reddit Videos with just✨ one command ✨",
-        "language": "Python",
-        "stars": "9,792",
-        "crawled_at": "2026-04-07T14:21:10.826941"
-      },
-      {
-        "name": "HKUDS /DeepTutor",
-        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-        "language": "Python",
-        "stars": "11,758",
-        "crawled_at": "2026-04-07T14:21:10.827149"
-      },
-      {
-        "name": "TheCraigHewitt /seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars": "3,634",
-        "crawled_at": "2026-04-07T14:21:10.827352"
-      }
-    ]
-  },
-  {
     "date": "2026-04-08",
     "repos": [
       {
@@ -2204,6 +2136,81 @@
         "language": "JavaScript",
         "stars": "4,260",
         "crawled_at": "2026-05-07T15:19:14.005240"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "repos": [
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "13,885",
+        "crawled_at": "2026-05-08T14:27:08.020283"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "34,336",
+        "crawled_at": "2026-05-08T14:27:08.020506"
+      },
+      {
+        "name": "Hmbown /DeepSeek-TUI",
+        "description": "Coding agent for DeepSeek models that runs in your terminal",
+        "language": "Rust",
+        "stars": "21,289",
+        "crawled_at": "2026-05-08T14:27:08.020745"
+      },
+      {
+        "name": "z-lab /dflash",
+        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+        "language": "Python",
+        "stars": "3,698",
+        "crawled_at": "2026-05-08T14:27:08.020942"
+      },
+      {
+        "name": "decolua /9router",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "language": "JavaScript",
+        "stars": "5,241",
+        "crawled_at": "2026-05-08T14:27:08.021138"
+      },
+      {
+        "name": "CloakHQ /CloakBrowser",
+        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "language": "Python",
+        "stars": "2,572",
+        "crawled_at": "2026-05-08T14:27:08.021333"
+      },
+      {
+        "name": "awslabs /aidlc-workflows",
+        "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+        "language": "Python",
+        "stars": "1,639",
+        "crawled_at": "2026-05-08T14:27:08.021537"
+      },
+      {
+        "name": "HKUDS /AI-Trader",
+        "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+        "language": "Python",
+        "stars": "14,391",
+        "crawled_at": "2026-05-08T14:27:08.021765"
+      },
+      {
+        "name": "LearningCircuit /local-deep-research",
+        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+        "language": "Python",
+        "stars": "6,586",
+        "crawled_at": "2026-05-08T14:27:08.022007"
+      },
+      {
+        "name": "lobehub /lobehub",
+        "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+        "language": "TypeScript",
+        "stars": "76,307",
+        "crawled_at": "2026-05-08T14:27:08.022248"
       }
     ]
   }
