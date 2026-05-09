@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-08",
-    "repos": [
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "8,558",
-        "crawled_at": "2026-04-08T14:23:33.514956"
-      },
-      {
-        "name": "TheCraigHewitt /seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars": "4,294",
-        "crawled_at": "2026-04-08T14:23:33.515159"
-      },
-      {
-        "name": "google-ai-edge /gallery",
-        "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-        "language": "Kotlin",
-        "stars": "19,272",
-        "crawled_at": "2026-04-08T14:23:33.515352"
-      },
-      {
-        "name": "NVIDIA /personaplex",
-        "description": "PersonaPlex code.",
-        "language": "Python",
-        "stars": "8,275",
-        "crawled_at": "2026-04-08T14:23:33.515573"
-      },
-      {
-        "name": "google-ai-edge /LiteRT-LM",
-        "description": "無描述",
-        "language": "C++",
-        "stars": "2,842",
-        "crawled_at": "2026-04-08T14:23:33.515780"
-      },
-      {
-        "name": "elebumm /RedditVideoMakerBot",
-        "description": "Create Reddit Videos with just✨ one command ✨",
-        "language": "Python",
-        "stars": "10,318",
-        "crawled_at": "2026-04-08T14:23:33.515968"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "140,852",
-        "crawled_at": "2026-04-08T14:23:33.516194"
-      },
-      {
-        "name": "newton-physics /newton",
-        "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-        "language": "Python",
-        "stars": "3,941",
-        "crawled_at": "2026-04-08T14:23:33.516380"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "25,080",
-        "crawled_at": "2026-04-08T14:23:33.516631"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "50,504",
-        "crawled_at": "2026-04-08T14:23:33.516887"
-      }
-    ]
-  },
-  {
     "date": "2026-04-09",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "TypeScript",
         "stars": "76,307",
         "crawled_at": "2026-05-08T14:27:08.022248"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "repos": [
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "16,753",
+        "crawled_at": "2026-05-09T14:09:35.122360"
+      },
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "31,137",
+        "crawled_at": "2026-05-09T14:09:35.122559"
+      },
+      {
+        "name": "rohitg00 /agentmemory",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "language": "TypeScript",
+        "stars": "3,135",
+        "crawled_at": "2026-05-09T14:09:35.122790"
+      },
+      {
+        "name": "datawhalechina /hello-agents",
+        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "language": "Python",
+        "stars": "45,451",
+        "crawled_at": "2026-05-09T14:09:35.123000"
+      },
+      {
+        "name": "datawhalechina /easy-vibe",
+        "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+        "language": "JavaScript",
+        "stars": "8,256",
+        "crawled_at": "2026-05-09T14:09:35.123193"
+      },
+      {
+        "name": "rowboatlabs /rowboat",
+        "description": "Open-source AI coworker, with memory",
+        "language": "TypeScript",
+        "stars": "13,583",
+        "crawled_at": "2026-05-09T14:09:35.123378"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "38,656",
+        "crawled_at": "2026-05-09T14:09:35.123565"
+      },
+      {
+        "name": "masterking32 /MasterDnsVPN",
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "language": "Go",
+        "stars": "2,194",
+        "crawled_at": "2026-05-09T14:09:35.123751"
+      },
+      {
+        "name": "playcanvas /supersplat",
+        "description": "3D Gaussian Splat Editor",
+        "language": "TypeScript",
+        "stars": "6,034",
+        "crawled_at": "2026-05-09T14:09:35.123934"
+      },
+      {
+        "name": "Lordog /dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "language": "Jupyter Notebook",
+        "stars": "36,409",
+        "crawled_at": "2026-05-09T14:09:35.124143"
       }
     ]
   }
