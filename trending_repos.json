@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-09",
-    "repos": [
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "42,537",
-        "crawled_at": "2026-04-09T14:31:27.292499"
-      },
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "9,923",
-        "crawled_at": "2026-04-09T14:31:27.292657"
-      },
-      {
-        "name": "HKUDS /DeepTutor",
-        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-        "language": "Python",
-        "stars": "14,308",
-        "crawled_at": "2026-04-09T14:31:27.292831"
-      },
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "language": "Python",
-        "stars": "7,410",
-        "crawled_at": "2026-04-09T14:31:27.292966"
-      },
-      {
-        "name": "opendataloader-project /opendataloader-pdf",
-        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-        "language": "Java",
-        "stars": "13,295",
-        "crawled_at": "2026-04-09T14:31:27.293098"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "143,077",
-        "crawled_at": "2026-04-09T14:31:27.293275"
-      },
-      {
-        "name": "TheCraigHewitt /seomachine",
-        "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-        "language": "Python",
-        "stars": "4,991",
-        "crawled_at": "2026-04-09T14:31:27.293437"
-      },
-      {
-        "name": "coleam00 /Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-        "language": "TypeScript",
-        "stars": "14,155",
-        "crawled_at": "2026-04-09T14:31:27.293572"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "11,938",
-        "crawled_at": "2026-04-09T14:31:27.293704"
-      },
-      {
-        "name": "YishenTu /claudian",
-        "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-        "language": "TypeScript",
-        "stars": "6,590",
-        "crawled_at": "2026-04-09T14:31:27.293833"
-      }
-    ]
-  },
-  {
     "date": "2026-04-10",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "Jupyter Notebook",
         "stars": "36,409",
         "crawled_at": "2026-05-09T14:09:35.124143"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "repos": [
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "31,826",
+        "crawled_at": "2026-05-10T14:11:55.776158"
+      },
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "18,217",
+        "crawled_at": "2026-05-10T14:11:55.776383"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "37,993",
+        "crawled_at": "2026-05-10T14:11:55.776570"
+      },
+      {
+        "name": "CloakHQ /CloakBrowser",
+        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "language": "Python",
+        "stars": "4,275",
+        "crawled_at": "2026-05-10T14:11:55.776786"
+      },
+      {
+        "name": "HKUDS /AI-Trader",
+        "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+        "language": "Python",
+        "stars": "15,259",
+        "crawled_at": "2026-05-10T14:11:55.776973"
+      },
+      {
+        "name": "jundot /omlx",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "language": "Python",
+        "stars": "13,124",
+        "crawled_at": "2026-05-10T14:11:55.777156"
+      },
+      {
+        "name": "datawhalechina /easy-vibe",
+        "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+        "language": "JavaScript",
+        "stars": "8,878",
+        "crawled_at": "2026-05-10T14:11:55.777346"
+      },
+      {
+        "name": "playcanvas /supersplat",
+        "description": "3D Gaussian Splat Editor",
+        "language": "TypeScript",
+        "stars": "6,596",
+        "crawled_at": "2026-05-10T14:11:55.777528"
+      },
+      {
+        "name": "masterking32 /MasterDnsVPN",
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "language": "Go",
+        "stars": "2,836",
+        "crawled_at": "2026-05-10T14:11:55.777757"
+      },
+      {
+        "name": "lsdefine /GenericAgent",
+        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+        "language": "Python",
+        "stars": "10,406",
+        "crawled_at": "2026-05-10T14:11:55.777947"
       }
     ]
   }
