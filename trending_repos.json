@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-10",
-    "repos": [
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "98,326",
-        "crawled_at": "2026-04-10T14:06:30.135449"
-      },
-      {
-        "name": "coleam00 /Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-        "language": "TypeScript",
-        "stars": "14,956",
-        "crawled_at": "2026-04-10T14:06:30.135630"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "49,892",
-        "crawled_at": "2026-04-10T14:06:30.135793"
-      },
-      {
-        "name": "rowboatlabs /rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "language": "TypeScript",
-        "stars": "11,458",
-        "crawled_at": "2026-04-10T14:06:30.136033"
-      },
-      {
-        "name": "multica-ai /multica",
-        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-        "language": "TypeScript",
-        "stars": "5,318",
-        "crawled_at": "2026-04-10T14:06:30.136203"
-      },
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "11,315",
-        "crawled_at": "2026-04-10T14:06:30.136379"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "12,508",
-        "crawled_at": "2026-04-10T14:06:30.136544"
-      },
-      {
-        "name": "HKUDS /DeepTutor",
-        "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-        "language": "Python",
-        "stars": "15,619",
-        "crawled_at": "2026-04-10T14:06:30.136704"
-      },
-      {
-        "name": "opendataloader-project /opendataloader-pdf",
-        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-        "language": "Java",
-        "stars": "14,509",
-        "crawled_at": "2026-04-10T14:06:30.136866"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "145,123",
-        "crawled_at": "2026-04-10T14:06:30.137081"
-      }
-    ]
-  },
-  {
     "date": "2026-04-11",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "Python",
         "stars": "10,406",
         "crawled_at": "2026-05-10T14:11:55.777947"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "repos": [
+      {
+        "name": "bytedance /UI-TARS-desktop",
+        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+        "language": "TypeScript",
+        "stars": "32,826",
+        "crawled_at": "2026-05-11T15:50:03.052431"
+      },
+      {
+        "name": "CloakHQ /CloakBrowser",
+        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "language": "Python",
+        "stars": "5,744",
+        "crawled_at": "2026-05-11T15:50:03.052663"
+      },
+      {
+        "name": "yikart /AiToEarn",
+        "description": "Let's use AI to Earn!",
+        "language": "TypeScript",
+        "stars": "10,481",
+        "crawled_at": "2026-05-11T15:50:03.052863"
+      },
+      {
+        "name": "playcanvas /supersplat",
+        "description": "3D Gaussian Splat Editor",
+        "language": "TypeScript",
+        "stars": "7,163",
+        "crawled_at": "2026-05-11T15:50:03.053052"
+      },
+      {
+        "name": "datawhalechina /easy-vibe",
+        "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+        "language": "JavaScript",
+        "stars": "9,730",
+        "crawled_at": "2026-05-11T15:50:03.053246"
+      },
+      {
+        "name": "decolua /9router",
+        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+        "language": "JavaScript",
+        "stars": "8,024",
+        "crawled_at": "2026-05-11T15:50:03.053434"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "1,134",
+        "crawled_at": "2026-05-11T15:50:03.053645"
+      },
+      {
+        "name": "millionco /react-doctor",
+        "description": "Your agent writes bad React. This catches it",
+        "language": "TypeScript",
+        "stars": "7,795",
+        "crawled_at": "2026-05-11T15:50:03.053836"
+      },
+      {
+        "name": "Lordog /dive-into-llms",
+        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+        "language": "Jupyter Notebook",
+        "stars": "37,223",
+        "crawled_at": "2026-05-11T15:50:03.054023"
+      },
+      {
+        "name": "AUTOMATIC1111 /stable-diffusion-webui",
+        "description": "Stable Diffusion web UI",
+        "language": "Python",
+        "stars": "162,857",
+        "crawled_at": "2026-05-11T15:50:03.054210"
       }
     ]
   }
