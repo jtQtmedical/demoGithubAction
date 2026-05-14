@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-13",
-    "repos": [
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "21,402",
-        "crawled_at": "2026-04-13T14:23:16.095705"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "74,917",
-        "crawled_at": "2026-04-13T14:23:16.095908"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "16,702",
-        "crawled_at": "2026-04-13T14:23:16.096095"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "52,039",
-        "crawled_at": "2026-04-13T14:23:16.096321"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "106,380",
-        "crawled_at": "2026-04-13T14:23:16.096521"
-      },
-      {
-        "name": "multica-ai /multica",
-        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-        "language": "TypeScript",
-        "stars": "10,555",
-        "crawled_at": "2026-04-13T14:23:16.096787"
-      },
-      {
-        "name": "coleam00 /Archon",
-        "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-        "language": "TypeScript",
-        "stars": "17,450",
-        "crawled_at": "2026-04-13T14:23:16.096975"
-      },
-      {
-        "name": "snarktank /ralph",
-        "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-        "language": "TypeScript",
-        "stars": "16,362",
-        "crawled_at": "2026-04-13T14:23:16.097166"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "52,720",
-        "crawled_at": "2026-04-13T14:23:16.097350"
-      },
-      {
-        "name": "anthropics /claude-cookbooks",
-        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "language": "Jupyter Notebook",
-        "stars": "39,114",
-        "crawled_at": "2026-04-13T14:23:16.097548"
-      }
-    ]
-  },
-  {
     "date": "2026-04-14",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "Python",
         "stars": "9,124",
         "crawled_at": "2026-05-13T15:37:51.617913"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "repos": [
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "55,314",
+        "crawled_at": "2026-05-14T15:11:20.756375"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "7,343",
+        "crawled_at": "2026-05-14T15:11:20.756566"
+      },
+      {
+        "name": "rohitg00 /agentmemory",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "language": "TypeScript",
+        "stars": "8,721",
+        "crawled_at": "2026-05-14T15:11:20.756771"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "190,786",
+        "crawled_at": "2026-05-14T15:11:20.756979"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "language": "Python",
+        "stars": "21,598",
+        "crawled_at": "2026-05-14T15:11:20.757147"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "24,666",
+        "crawled_at": "2026-05-14T15:11:20.757320"
+      },
+      {
+        "name": "roboflow /supervision",
+        "description": "We write your reusable computer vision tools. 💜",
+        "language": "Python",
+        "stars": "38,762",
+        "crawled_at": "2026-05-14T15:11:20.757482"
+      },
+      {
+        "name": "influxdata /telegraf",
+        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "language": "Go",
+        "stars": "17,136",
+        "crawled_at": "2026-05-14T15:11:20.757645"
+      },
+      {
+        "name": "supertone-inc /supertonic",
+        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+        "language": "Swift",
+        "stars": "5,077",
+        "crawled_at": "2026-05-14T15:11:20.757807"
+      },
+      {
+        "name": "Genymobile /scrcpy",
+        "description": "Display and control your Android device",
+        "language": "C",
+        "stars": "141,102",
+        "crawled_at": "2026-05-14T15:11:20.757966"
       }
     ]
   }
