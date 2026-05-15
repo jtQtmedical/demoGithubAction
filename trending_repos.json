@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-14",
-    "repos": [
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "30,424",
-        "crawled_at": "2026-04-14T14:28:42.782082"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "54,859",
-        "crawled_at": "2026-04-14T14:28:42.782333"
-      },
-      {
-        "name": "jamiepine /voicebox",
-        "description": "The open-source voice synthesis studio",
-        "language": "TypeScript",
-        "stars": "16,918",
-        "crawled_at": "2026-04-14T14:28:42.782521"
-      },
-      {
-        "name": "pascalorg /editor",
-        "description": "Create and share 3D architectural projects.",
-        "language": "TypeScript",
-        "stars": "10,981",
-        "crawled_at": "2026-04-14T14:28:42.782708"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "108,001",
-        "crawled_at": "2026-04-14T14:28:42.782893"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "151,674",
-        "crawled_at": "2026-04-14T14:28:42.783152"
-      },
-      {
-        "name": "chrislgarry /Apollo-11",
-        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "language": "Assembly",
-        "stars": "66,080",
-        "crawled_at": "2026-04-14T14:28:42.783381"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "53,761",
-        "crawled_at": "2026-04-14T14:28:42.783565"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "17,590",
-        "crawled_at": "2026-04-14T14:28:42.783755"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "82,902",
-        "crawled_at": "2026-04-14T14:28:42.783961"
-      }
-    ]
-  },
-  {
     "date": "2026-04-15",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "C",
         "stars": "141,102",
         "crawled_at": "2026-05-14T15:11:20.757966"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "repos": [
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "8,591",
+        "crawled_at": "2026-05-15T15:07:17.768908"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "192,385",
+        "crawled_at": "2026-05-15T15:07:17.769152"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "language": "Python",
+        "stars": "22,221",
+        "crawled_at": "2026-05-15T15:07:17.769349"
+      },
+      {
+        "name": "supertone-inc /supertonic",
+        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+        "language": "Swift",
+        "stars": "5,767",
+        "crawled_at": "2026-05-15T15:07:17.769537"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "57,077",
+        "crawled_at": "2026-05-15T15:07:17.769753"
+      },
+      {
+        "name": "influxdata /telegraf",
+        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+        "language": "Go",
+        "stars": "17,337",
+        "crawled_at": "2026-05-15T15:07:17.769946"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "134,796",
+        "crawled_at": "2026-05-15T15:07:17.770132"
+      },
+      {
+        "name": "czlonkowski /n8n-mcp",
+        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+        "language": "TypeScript",
+        "stars": "20,782",
+        "crawled_at": "2026-05-15T15:07:17.770359"
+      },
+      {
+        "name": "NVIDIA-AI-Blueprints /video-search-and-summarization",
+        "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+        "language": "Python",
+        "stars": "1,042",
+        "crawled_at": "2026-05-15T15:07:17.770545"
+      },
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Rust",
+        "stars": "90,513",
+        "crawled_at": "2026-05-15T15:07:17.770753"
       }
     ]
   }
