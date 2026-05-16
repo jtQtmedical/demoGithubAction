@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-15",
-    "repos": [
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "39,952",
-        "crawled_at": "2026-04-15T14:20:50.311347"
-      },
-      {
-        "name": "pascalorg /editor",
-        "description": "Create and share 3D architectural projects.",
-        "language": "TypeScript",
-        "stars": "12,295",
-        "crawled_at": "2026-04-15T14:20:50.311533"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "57,040",
-        "crawled_at": "2026-04-15T14:20:50.311746"
-      },
-      {
-        "name": "Lordog /dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "language": "Jupyter Notebook",
-        "stars": "29,092",
-        "crawled_at": "2026-04-15T14:20:50.311920"
-      },
-      {
-        "name": "virattt /ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars": "54,759",
-        "crawled_at": "2026-04-15T14:20:50.312090"
-      },
-      {
-        "name": "chrislgarry /Apollo-11",
-        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "language": "Assembly",
-        "stars": "66,640",
-        "crawled_at": "2026-04-15T14:20:50.312296"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "153,633",
-        "crawled_at": "2026-04-15T14:20:50.312511"
-      },
-      {
-        "name": "jamiepine /voicebox",
-        "description": "The open-source voice synthesis studio",
-        "language": "TypeScript",
-        "stars": "17,937",
-        "crawled_at": "2026-04-15T14:20:50.312679"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "422,704",
-        "crawled_at": "2026-04-15T14:20:50.312848"
-      },
-      {
-        "name": "vercel-labs /open-agents",
-        "description": "An open source template for building cloud agents.",
-        "language": "TypeScript",
-        "stars": "2,317",
-        "crawled_at": "2026-04-15T14:20:50.313016"
-      }
-    ]
-  },
-  {
     "date": "2026-04-16",
     "repos": [
       {
@@ -2211,6 +2136,74 @@
         "language": "Rust",
         "stars": "90,513",
         "crawled_at": "2026-05-15T15:07:17.770753"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "repos": [
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Rust",
+        "stars": "90,881",
+        "crawled_at": "2026-05-16T14:14:06.601689"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "language": "Python",
+        "stars": "22,872",
+        "crawled_at": "2026-05-16T14:14:06.601895"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "193,552",
+        "crawled_at": "2026-05-16T14:14:06.602134"
+      },
+      {
+        "name": "Anil-matcha /Open-Generative-AI",
+        "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "language": "JavaScript",
+        "stars": "14,151",
+        "crawled_at": "2026-05-16T14:14:06.602341"
+      },
+      {
+        "name": "supertone-inc /supertonic",
+        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+        "language": "Swift",
+        "stars": "6,485",
+        "crawled_at": "2026-05-16T14:14:06.602538"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "10,147",
+        "crawled_at": "2026-05-16T14:14:06.602725"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "57,974",
+        "crawled_at": "2026-05-16T14:14:06.602924"
+      },
+      {
+        "name": "pranshuparmar /witr",
+        "description": "Why is this running?",
+        "language": "Go",
+        "stars": "16,625",
+        "crawled_at": "2026-05-16T14:14:06.603151"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "2,177",
+        "crawled_at": "2026-05-16T14:14:06.603356"
       }
     ]
   }
