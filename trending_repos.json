@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-16",
-    "repos": [
-      {
-        "name": "forrestchang /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "47,634",
-        "crawled_at": "2026-04-16T14:28:59.492856"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-        "language": "TypeScript",
-        "stars": "58,922",
-        "crawled_at": "2026-04-16T14:28:59.493107"
-      },
-      {
-        "name": "lsdefine /GenericAgent",
-        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-        "language": "Python",
-        "stars": "2,531",
-        "crawled_at": "2026-04-16T14:28:59.493313"
-      },
-      {
-        "name": "jamiepine /voicebox",
-        "description": "The open-source voice synthesis studio",
-        "language": "TypeScript",
-        "stars": "18,813",
-        "crawled_at": "2026-04-16T14:28:59.493501"
-      },
-      {
-        "name": "vercel-labs /open-agents",
-        "description": "An open source template for building cloud agents.",
-        "language": "TypeScript",
-        "stars": "3,006",
-        "crawled_at": "2026-04-16T14:28:59.493713"
-      },
-      {
-        "name": "google /magika",
-        "description": "Fast and accurate AI powered file content types detection",
-        "language": "Python",
-        "stars": "14,377",
-        "crawled_at": "2026-04-16T14:28:59.493910"
-      },
-      {
-        "name": "steipete /wacli",
-        "description": "WhatsApp CLI",
-        "language": "Go",
-        "stars": "1,561",
-        "crawled_at": "2026-04-16T14:28:59.494138"
-      },
-      {
-        "name": "topoteretes /cognee",
-        "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-        "language": "Python",
-        "stars": "15,647",
-        "crawled_at": "2026-04-16T14:28:59.494364"
-      },
-      {
-        "name": "z-lab /dflash",
-        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-        "language": "Python",
-        "stars": "1,488",
-        "crawled_at": "2026-04-16T14:28:59.494548"
-      },
-      {
-        "name": "Lordog /dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "language": "Jupyter Notebook",
-        "stars": "30,442",
-        "crawled_at": "2026-04-16T14:28:59.494757"
-      }
-    ]
-  },
-  {
     "date": "2026-04-17",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "TypeScript",
         "stars": "2,177",
         "crawled_at": "2026-05-16T14:14:06.603356"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "repos": [
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "11,970",
+        "crawled_at": "2026-05-17T14:16:35.591576"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "35,311",
+        "crawled_at": "2026-05-17T14:16:35.591811"
+      },
+      {
+        "name": "calcom /cal.diy",
+        "description": "Scheduling infrastructure for absolutely everyone.",
+        "language": "TypeScript",
+        "stars": "43,047",
+        "crawled_at": "2026-05-17T14:16:35.592015"
+      },
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Rust",
+        "stars": "91,612",
+        "crawled_at": "2026-05-17T14:16:35.592217"
+      },
+      {
+        "name": "Anil-matcha /Open-Generative-AI",
+        "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "language": "JavaScript",
+        "stars": "14,818",
+        "crawled_at": "2026-05-17T14:16:35.592442"
+      },
+      {
+        "name": "BigBodyCobain /Shadowbroker",
+        "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+        "language": "Python",
+        "stars": "6,768",
+        "crawled_at": "2026-05-17T14:16:35.592663"
+      },
+      {
+        "name": "tech-leads-club /agent-skills",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "stars": "2,616",
+        "crawled_at": "2026-05-17T14:16:35.592872"
+      },
+      {
+        "name": "NirDiamant /agents-towards-production",
+        "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+        "language": "Jupyter Notebook",
+        "stars": "19,758",
+        "crawled_at": "2026-05-17T14:16:35.593123"
+      },
+      {
+        "name": "dograh-hq /dograh",
+        "description": "Open Source Voice Agent Platform",
+        "language": "Python",
+        "stars": "1,454",
+        "crawled_at": "2026-05-17T14:16:35.593325"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "language": "Python",
+        "stars": "23,592",
+        "crawled_at": "2026-05-17T14:16:35.593562"
       }
     ]
   }
