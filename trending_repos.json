@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-18",
-    "repos": [
-      {
-        "name": "thunderbird /thunderbolt",
-        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-        "language": "TypeScript",
-        "stars": "1,268",
-        "crawled_at": "2026-04-18T13:51:03.414994"
-      },
-      {
-        "name": "BasedHardware /omi",
-        "description": "AI that sees your screen, listens to your conversations and tells you what to do",
-        "language": "Dart",
-        "stars": "10,152",
-        "crawled_at": "2026-04-18T13:51:03.415254"
-      },
-      {
-        "name": "openai /openai-agents-python",
-        "description": "A lightweight, powerful framework for multi-agent workflows",
-        "language": "Python",
-        "stars": "22,094",
-        "crawled_at": "2026-04-18T13:51:03.415427"
-      },
-      {
-        "name": "EvoMap /evolver",
-        "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-        "language": "JavaScript",
-        "stars": "4,782",
-        "crawled_at": "2026-04-18T13:51:03.415597"
-      },
-      {
-        "name": "deepseek-ai /DeepGEMM",
-        "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-        "language": "Cuda",
-        "stars": "6,426",
-        "crawled_at": "2026-04-18T13:51:03.415764"
-      },
-      {
-        "name": "Lordog /dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "language": "Jupyter Notebook",
-        "stars": "31,862",
-        "crawled_at": "2026-04-18T13:51:03.415938"
-      },
-      {
-        "name": "aaddrick /claude-desktop-debian",
-        "description": "Claude Desktop for Debian-based Linux distributions",
-        "language": "Shell",
-        "stars": "3,387",
-        "crawled_at": "2026-04-18T13:51:03.416153"
-      },
-      {
-        "name": "rustdesk /rustdesk",
-        "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "language": "Rust",
-        "stars": "111,860",
-        "crawled_at": "2026-04-18T13:51:03.416358"
-      },
-      {
-        "name": "SimoneAvogadro /android-reverse-engineering-skill",
-        "description": "Claude Code skill to support Android app's reverse engineering",
-        "language": "Shell",
-        "stars": "2,967",
-        "crawled_at": "2026-04-18T13:51:03.416549"
-      },
-      {
-        "name": "tractorjuice /arc-kit",
-        "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-        "language": "HTML",
-        "stars": "612",
-        "crawled_at": "2026-04-18T13:51:03.416754"
-      }
-    ]
-  },
-  {
     "date": "2026-04-19",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "Python",
         "stars": "7,572",
         "crawled_at": "2026-05-18T16:14:49.106998"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "repos": [
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+        "language": "Rust",
+        "stars": "20,262",
+        "crawled_at": "2026-05-19T16:11:36.024176"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "37,501",
+        "crawled_at": "2026-05-19T16:11:36.025003"
+      },
+      {
+        "name": "Imbad0202 /academic-research-skills",
+        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+        "language": "Python",
+        "stars": "13,813",
+        "crawled_at": "2026-05-19T16:11:36.025196"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "198,055",
+        "crawled_at": "2026-05-19T16:11:36.025417"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "19,979",
+        "crawled_at": "2026-05-19T16:11:36.025599"
+      },
+      {
+        "name": "rohitg00 /agentmemory",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "language": "TypeScript",
+        "stars": "13,834",
+        "crawled_at": "2026-05-19T16:11:36.025822"
+      },
+      {
+        "name": "CloakHQ /CloakBrowser",
+        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "language": "Python",
+        "stars": "16,216",
+        "crawled_at": "2026-05-19T16:11:36.026029"
+      },
+      {
+        "name": "rtk-ai /rtk",
+        "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+        "language": "Rust",
+        "stars": "50,582",
+        "crawled_at": "2026-05-19T16:11:36.026214"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "101,150",
+        "crawled_at": "2026-05-19T16:11:36.026437"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "6,066",
+        "crawled_at": "2026-05-19T16:11:36.026616"
       }
     ]
   }
