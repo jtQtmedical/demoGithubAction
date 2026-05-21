@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-20",
-    "repos": [
-      {
-        "name": "Fincept-Corporation /FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-        "language": "Python",
-        "stars": "8,624",
-        "crawled_at": "2026-04-20T14:25:09.054084"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "47,939",
-        "crawled_at": "2026-04-20T14:25:09.054294"
-      },
-      {
-        "name": "thunderbird /thunderbolt",
-        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-        "language": "TypeScript",
-        "stars": "2,605",
-        "crawled_at": "2026-04-20T14:25:09.054536"
-      },
-      {
-        "name": "paperless-ngx /paperless-ngx",
-        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-        "language": "Python",
-        "stars": "39,230",
-        "crawled_at": "2026-04-20T14:25:09.054742"
-      },
-      {
-        "name": "tractorjuice /arc-kit",
-        "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-        "language": "HTML",
-        "stars": "1,212",
-        "crawled_at": "2026-04-20T14:25:09.054934"
-      },
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "49,592",
-        "crawled_at": "2026-04-20T14:25:09.055121"
-      },
-      {
-        "name": "openai /openai-agents-python",
-        "description": "A lightweight, powerful framework for multi-agent workflows",
-        "language": "Python",
-        "stars": "23,736",
-        "crawled_at": "2026-04-20T14:25:09.055318"
-      },
-      {
-        "name": "deepseek-ai /DeepGEMM",
-        "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-        "language": "Cuda",
-        "stars": "6,757",
-        "crawled_at": "2026-04-20T14:25:09.055506"
-      },
-      {
-        "name": "pi-hole /pi-hole",
-        "description": "A black hole for Internet advertisements",
-        "language": "Shell",
-        "stars": "56,876",
-        "crawled_at": "2026-04-20T14:25:09.055759"
-      },
-      {
-        "name": "XTLS /Xray-core",
-        "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-        "language": "Go",
-        "stars": "37,338",
-        "crawled_at": "2026-04-20T14:25:09.055951"
-      }
-    ]
-  },
-  {
     "date": "2026-04-21",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "Shell",
         "stars": "102,585",
         "crawled_at": "2026-05-20T16:20:32.276367"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "repos": [
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "21,697",
+        "crawled_at": "2026-05-21T16:08:31.547423"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "12,546",
+        "crawled_at": "2026-05-21T16:08:31.547649"
+      },
+      {
+        "name": "multica-ai /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "142,648",
+        "crawled_at": "2026-05-21T16:08:31.547862"
+      },
+      {
+        "name": "dotnet /skills",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "stars": "2,079",
+        "crawled_at": "2026-05-21T16:08:31.548050"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "201,205",
+        "crawled_at": "2026-05-21T16:08:31.548277"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "38,959",
+        "crawled_at": "2026-05-21T16:08:31.548479"
+      },
+      {
+        "name": "rmyndharis /OpenWA",
+        "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+        "language": "TypeScript",
+        "stars": "5,261",
+        "crawled_at": "2026-05-21T16:08:31.548689"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "40,345",
+        "crawled_at": "2026-05-21T16:08:31.548892"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "10,478",
+        "crawled_at": "2026-05-21T16:08:31.549120"
+      },
+      {
+        "name": "teng-lin /notebooklm-py",
+        "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+        "language": "Python",
+        "stars": "14,260",
+        "crawled_at": "2026-05-21T16:08:31.549305"
       }
     ]
   }
