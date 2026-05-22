@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-04-21",
-    "repos": [
-      {
-        "name": "Fincept-Corporation /FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-        "language": "Python",
-        "stars": "11,014",
-        "crawled_at": "2026-04-21T14:25:01.016930"
-      },
-      {
-        "name": "thunderbird /thunderbolt",
-        "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-        "language": "TypeScript",
-        "stars": "3,223",
-        "crawled_at": "2026-04-21T14:25:01.017180"
-      },
-      {
-        "name": "zilliztech /claude-context",
-        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-        "language": "TypeScript",
-        "stars": "6,314",
-        "crawled_at": "2026-04-21T14:25:01.017366"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "48,699",
-        "crawled_at": "2026-04-21T14:25:01.017553"
-      },
-      {
-        "name": "microsoft /ai-agents-for-beginners",
-        "description": "12 Lessons to Get Started Building AI Agents",
-        "language": "Jupyter Notebook",
-        "stars": "57,330",
-        "crawled_at": "2026-04-21T14:25:01.017736"
-      },
-      {
-        "name": "dayanch96 /YTLite",
-        "description": "A flexible enhancer for YouTube on iOS",
-        "language": "Logos",
-        "stars": "4,740",
-        "crawled_at": "2026-04-21T14:25:01.017989"
-      },
-      {
-        "name": "HKUDS /RAG-Anything",
-        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-        "language": "Python",
-        "stars": "16,588",
-        "crawled_at": "2026-04-21T14:25:01.018174"
-      },
-      {
-        "name": "sansan0 /TrendRadar",
-        "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "language": "Python",
-        "stars": "53,355",
-        "crawled_at": "2026-04-21T14:25:01.018359"
-      }
-    ]
-  },
-  {
     "date": "2026-04-22",
     "repos": [
       {
@@ -2204,6 +2143,81 @@
         "language": "Python",
         "stars": "14,260",
         "crawled_at": "2026-05-21T16:08:31.549305"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "repos": [
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "24,147",
+        "crawled_at": "2026-05-22T15:41:35.973046"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "15,918",
+        "crawled_at": "2026-05-22T15:41:35.973253"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "63,677",
+        "crawled_at": "2026-05-22T15:41:35.973457"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "11,427",
+        "crawled_at": "2026-05-22T15:41:35.973693"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "40,832",
+        "crawled_at": "2026-05-22T15:41:35.973911"
+      },
+      {
+        "name": "dotnet /skills",
+        "description": "Repository for skills to assist AI coding agents with .NET and C#",
+        "language": "C#",
+        "stars": "2,436",
+        "crawled_at": "2026-05-22T15:41:35.974102"
+      },
+      {
+        "name": "Lum1104 /Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "stars": "17,833",
+        "crawled_at": "2026-05-22T15:41:35.974289"
+      },
+      {
+        "name": "odoo /odoo",
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "language": "Python",
+        "stars": "50,986",
+        "crawled_at": "2026-05-22T15:41:35.974480"
+      },
+      {
+        "name": "byJoey /cfnew",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "13,242",
+        "crawled_at": "2026-05-22T15:41:35.974693"
+      },
+      {
+        "name": "trimstray /the-book-of-secret-knowledge",
+        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+        "language": "未知",
+        "stars": "223,006",
+        "crawled_at": "2026-05-22T15:41:35.974913"
       }
     ]
   }
