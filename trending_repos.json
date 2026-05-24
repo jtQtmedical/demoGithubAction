@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-23",
-    "repos": [
-      {
-        "name": "huggingface /ml-intern",
-        "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-        "language": "Python",
-        "stars": "2,169",
-        "crawled_at": "2026-04-23T15:02:02.890663"
-      },
-      {
-        "name": "zilliztech /claude-context",
-        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-        "language": "TypeScript",
-        "stars": "8,176",
-        "crawled_at": "2026-04-23T15:02:02.890852"
-      },
-      {
-        "name": "HKUDS /RAG-Anything",
-        "description": "\"RAG-Anything: All-in-One RAG Framework\"",
-        "language": "Python",
-        "stars": "17,956",
-        "crawled_at": "2026-04-23T15:02:02.891023"
-      },
-      {
-        "name": "Z4nzu /hackingtool",
-        "description": "ALL IN ONE Hacking Tool For Hackers",
-        "language": "Python",
-        "stars": "60,563",
-        "crawled_at": "2026-04-23T15:02:02.891191"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "49,648",
-        "crawled_at": "2026-04-23T15:02:02.891363"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-        "language": "Python",
-        "stars": "4,592",
-        "crawled_at": "2026-04-23T15:02:02.891556"
-      },
-      {
-        "name": "open-metadata /OpenMetadata",
-        "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-        "language": "TypeScript",
-        "stars": "12,738",
-        "crawled_at": "2026-04-23T15:02:02.891783"
-      },
-      {
-        "name": "microsoft /ai-agents-for-beginners",
-        "description": "12 Lessons to Get Started Building AI Agents",
-        "language": "Jupyter Notebook",
-        "stars": "58,583",
-        "crawled_at": "2026-04-23T15:02:02.891954"
-      },
-      {
-        "name": "PowerShell /PowerShell",
-        "description": "PowerShell for every system!",
-        "language": "C#",
-        "stars": "52,679",
-        "crawled_at": "2026-04-23T15:02:02.892125"
-      },
-      {
-        "name": "cline /cline",
-        "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
-        "language": "TypeScript",
-        "stars": "60,705",
-        "crawled_at": "2026-04-23T15:02:02.892295"
-      }
-    ]
-  },
-  {
     "date": "2026-04-24",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "TypeScript",
         "stars": "6,116",
         "crawled_at": "2026-05-23T14:20:48.050851"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "repos": [
+      {
+        "name": "Lum1104 /Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "stars": "24,130",
+        "crawled_at": "2026-05-24T14:15:39.687241"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "14,880",
+        "crawled_at": "2026-05-24T14:15:39.687565"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "27,063",
+        "crawled_at": "2026-05-24T14:15:39.687762"
+      },
+      {
+        "name": "anthropics /knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars": "13,403",
+        "crawled_at": "2026-05-24T14:15:39.687956"
+      },
+      {
+        "name": "multica-ai /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "151,132",
+        "crawled_at": "2026-05-24T14:15:39.688162"
+      },
+      {
+        "name": "earendil-works /pi",
+        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+        "language": "TypeScript",
+        "stars": "53,689",
+        "crawled_at": "2026-05-24T14:15:39.688352"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+        "language": "Python",
+        "stars": "28,888",
+        "crawled_at": "2026-05-24T14:15:39.688566"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "21,172",
+        "crawled_at": "2026-05-24T14:15:39.688760"
+      },
+      {
+        "name": "multica-ai /multica",
+        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+        "language": "TypeScript",
+        "stars": "32,254",
+        "crawled_at": "2026-05-24T14:15:39.688953"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "25,700",
+        "crawled_at": "2026-05-24T14:15:39.689141"
       }
     ]
   }
