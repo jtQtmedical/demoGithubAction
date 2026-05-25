@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-24",
-    "repos": [
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-        "language": "Python",
-        "stars": "7,164",
-        "crawled_at": "2026-04-24T14:23:58.909223"
-      },
-      {
-        "name": "huggingface /ml-intern",
-        "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-        "language": "Python",
-        "stars": "4,754",
-        "crawled_at": "2026-04-24T14:23:58.909451"
-      },
-      {
-        "name": "google /osv-scanner",
-        "description": "Vulnerability scanner written in Go which uses the data provided byhttps://osv.dev",
-        "language": "Go",
-        "stars": "9,296",
-        "crawled_at": "2026-04-24T14:23:58.909652"
-      },
-      {
-        "name": "Z4nzu /hackingtool",
-        "description": "ALL IN ONE Hacking Tool For Hackers",
-        "language": "Python",
-        "stars": "61,858",
-        "crawled_at": "2026-04-24T14:23:58.909835"
-      },
-      {
-        "name": "zilliztech /claude-context",
-        "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-        "language": "TypeScript",
-        "stars": "8,808",
-        "crawled_at": "2026-04-24T14:23:58.910019"
-      },
-      {
-        "name": "open-metadata /OpenMetadata",
-        "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-        "language": "TypeScript",
-        "stars": "13,204",
-        "crawled_at": "2026-04-24T14:23:58.910242"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-        "language": "Python",
-        "stars": "32,918",
-        "crawled_at": "2026-04-24T14:23:58.910451"
-      },
-      {
-        "name": "dani-garcia /vaultwarden",
-        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "language": "Rust",
-        "stars": "59,068",
-        "crawled_at": "2026-04-24T14:23:58.910677"
-      },
-      {
-        "name": "codecrafters-io /build-your-own-x",
-        "description": "Master programming by recreating your favorite technologies from scratch.",
-        "language": "Markdown",
-        "stars": "494,198",
-        "crawled_at": "2026-04-24T14:23:58.910860"
-      },
-      {
-        "name": "deepseek-ai /DeepEP",
-        "description": "DeepEP: an efficient expert-parallel communication library",
-        "language": "Cuda",
-        "stars": "9,251",
-        "crawled_at": "2026-04-24T14:23:58.911041"
-      }
-    ]
-  },
-  {
     "date": "2026-04-25",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "Python",
         "stars": "25,700",
         "crawled_at": "2026-05-24T14:15:39.689141"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "repos": [
+      {
+        "name": "Lum1104 /Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "stars": "29,953",
+        "crawled_at": "2026-05-25T15:44:04.321267"
+      },
+      {
+        "name": "anthropics /knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars": "14,897",
+        "crawled_at": "2026-05-25T15:44:04.321467"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "18,017",
+        "crawled_at": "2026-05-25T15:44:04.321680"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "191,974",
+        "crawled_at": "2026-05-25T15:44:04.321886"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "8,956",
+        "crawled_at": "2026-05-25T15:44:04.322092"
+      },
+      {
+        "name": "colbymchenry /codegraph",
+        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+        "language": "TypeScript",
+        "stars": "24,412",
+        "crawled_at": "2026-05-25T15:44:04.322256"
+      },
+      {
+        "name": "manaflow-ai /cmux",
+        "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+        "language": "Swift",
+        "stars": "19,368",
+        "crawled_at": "2026-05-25T15:44:04.322432"
+      },
+      {
+        "name": "multica-ai /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "154,166",
+        "crawled_at": "2026-05-25T15:44:04.322609"
+      },
+      {
+        "name": "Fincept-Corporation /FinceptTerminal",
+        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+        "language": "Python",
+        "stars": "23,746",
+        "crawled_at": "2026-05-25T15:44:04.322810"
+      },
+      {
+        "name": "paperless-ngx /paperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "language": "Python",
+        "stars": "41,196",
+        "crawled_at": "2026-05-25T15:44:04.322972"
       }
     ]
   }
