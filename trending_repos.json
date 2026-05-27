@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-26",
-    "repos": [
-      {
-        "name": "mattpocock /skills",
-        "description": "My personal directory of skills, straight from my .claude directory.",
-        "language": "Shell",
-        "stars": "21,697",
-        "crawled_at": "2026-04-26T13:55:39.949434"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-        "language": "Python",
-        "stars": "12,501",
-        "crawled_at": "2026-04-26T13:55:39.949631"
-      },
-      {
-        "name": "Z4nzu /hackingtool",
-        "description": "ALL IN ONE Hacking Tool For Hackers",
-        "language": "Python",
-        "stars": "64,771",
-        "crawled_at": "2026-04-26T13:55:39.949824"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "29,768",
-        "crawled_at": "2026-04-26T13:55:39.950067"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-        "language": "Python",
-        "stars": "33,672",
-        "crawled_at": "2026-04-26T13:55:39.950256"
-      },
-      {
-        "name": "microsoft /typescript-go",
-        "description": "Staging repo for development of native port of TypeScript",
-        "language": "Go",
-        "stars": "25,115",
-        "crawled_at": "2026-04-26T13:55:39.950446"
-      },
-      {
-        "name": "trycua /cua",
-        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-        "language": "HTML",
-        "stars": "14,236",
-        "crawled_at": "2026-04-26T13:55:39.950675"
-      },
-      {
-        "name": "gastownhall /beads",
-        "description": "Beads - A memory upgrade for your coding agent",
-        "language": "Go",
-        "stars": "21,492",
-        "crawled_at": "2026-04-26T13:55:39.950856"
-      },
-      {
-        "name": "curl /curl",
-        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-        "language": "C",
-        "stars": "41,433",
-        "crawled_at": "2026-04-26T13:55:39.951096"
-      },
-      {
-        "name": "home-assistant /core",
-        "description": "🏡 Open source home automation that puts local control and privacy first.",
-        "language": "Python",
-        "stars": "86,309",
-        "crawled_at": "2026-04-26T13:55:39.951283"
-      }
-    ]
-  },
-  {
     "date": "2026-04-27",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "JavaScript",
         "stars": "5,069",
         "crawled_at": "2026-05-26T16:32:19.771863"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "61,124",
+        "crawled_at": "2026-05-27T16:29:26.516579"
+      },
+      {
+        "name": "Lum1104 /Understand-Anything",
+        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+        "language": "TypeScript",
+        "stars": "38,985",
+        "crawled_at": "2026-05-27T16:29:26.516782"
+      },
+      {
+        "name": "hardikpandya /stop-slop",
+        "description": "A skill file for removing AI tells from prose",
+        "language": "未知",
+        "stars": "5,487",
+        "crawled_at": "2026-05-27T16:29:26.516977"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "195,717",
+        "crawled_at": "2026-05-27T16:29:26.517212"
+      },
+      {
+        "name": "anthropics /knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars": "17,101",
+        "crawled_at": "2026-05-27T16:29:26.517397"
+      },
+      {
+        "name": "Leonxlnx /taste-skill",
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "stars": "23,714",
+        "crawled_at": "2026-05-27T16:29:26.517644"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "21,898",
+        "crawled_at": "2026-05-27T16:29:26.517877"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "26,781",
+        "crawled_at": "2026-05-27T16:29:26.518069"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "10,730",
+        "crawled_at": "2026-05-27T16:29:26.518294"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "stars": "47,174",
+        "crawled_at": "2026-05-27T16:29:26.518480"
       }
     ]
   }
