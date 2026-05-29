@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-28",
-    "repos": [
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "language": "Shell",
-        "stars": "35,303",
-        "crawled_at": "2026-04-28T15:12:04.306847"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "32,409",
-        "crawled_at": "2026-04-28T15:12:04.307018"
-      },
-      {
-        "name": "ComposioHQ /awesome-codex-skills",
-        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-        "language": "Python",
-        "stars": "3,436",
-        "crawled_at": "2026-04-28T15:12:04.307163"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "44,136",
-        "crawled_at": "2026-04-28T15:12:04.307291"
-      },
-      {
-        "name": "davila7 /claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "language": "Python",
-        "stars": "26,023",
-        "crawled_at": "2026-04-28T15:12:04.307421"
-      },
-      {
-        "name": "HunxByts /GhostTrack",
-        "description": "Useful tool to track location or mobile number",
-        "language": "Python",
-        "stars": "10,261",
-        "crawled_at": "2026-04-28T15:12:04.307550"
-      },
-      {
-        "name": "fspecii /ace-step-ui",
-        "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-        "language": "JavaScript",
-        "stars": "1,460",
-        "crawled_at": "2026-04-28T15:12:04.307678"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "427,729",
-        "crawled_at": "2026-04-28T15:12:04.307802"
-      },
-      {
-        "name": "CJackHwang /ds2api",
-        "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-        "language": "Go",
-        "stars": "2,186",
-        "crawled_at": "2026-04-28T15:12:04.307927"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-        "language": "Python",
-        "stars": "17,096",
-        "crawled_at": "2026-04-28T15:12:04.308051"
-      }
-    ]
-  },
-  {
     "date": "2026-04-29",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "HTML",
         "stars": "3,778",
         "crawled_at": "2026-05-28T16:44:13.181089"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "69,058",
+        "crawled_at": "2026-05-29T16:31:14.676474"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "129,199",
+        "crawled_at": "2026-05-29T16:31:14.676653"
+      },
+      {
+        "name": "EveryInc /compound-engineering-plugin",
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "language": "TypeScript",
+        "stars": "18,034",
+        "crawled_at": "2026-05-29T16:31:14.676814"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "stars": "48,248",
+        "crawled_at": "2026-05-29T16:31:14.676974"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "stars": "127,731",
+        "crawled_at": "2026-05-29T16:31:14.677153"
+      },
+      {
+        "name": "Leonxlnx /taste-skill",
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "Shell",
+        "stars": "27,766",
+        "crawled_at": "2026-05-29T16:31:14.677353"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "1,213",
+        "crawled_at": "2026-05-29T16:31:14.677516"
+      },
+      {
+        "name": "run-llama /liteparse",
+        "description": "A fast, helpful, and open-source document parser",
+        "language": "Rust",
+        "stars": "6,987",
+        "crawled_at": "2026-05-29T16:31:14.677675"
+      },
+      {
+        "name": "galilai-group /stable-worldmodel",
+        "description": "A platform for reproducible world model research and evaluation",
+        "language": "Python",
+        "stars": "1,140",
+        "crawled_at": "2026-05-29T16:31:14.677835"
+      },
+      {
+        "name": "byoungd /English-level-up-tips",
+        "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+        "language": "未知",
+        "stars": "49,547",
+        "crawled_at": "2026-05-29T16:31:14.678016"
       }
     ]
   }
