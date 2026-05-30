@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-04-29",
-    "repos": [
-      {
-        "name": "warpdotdev /warp",
-        "description": "Warp is an agentic development environment, born out of the terminal.",
-        "language": "Rust",
-        "stars": "40,685",
-        "crawled_at": "2026-04-29T14:58:29.702834"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "language": "Shell",
-        "stars": "42,118",
-        "crawled_at": "2026-04-29T14:58:29.703105"
-      },
-      {
-        "name": "HunxByts /GhostTrack",
-        "description": "Useful tool to track location or mobile number",
-        "language": "Python",
-        "stars": "11,268",
-        "crawled_at": "2026-04-29T14:58:29.703297"
-      },
-      {
-        "name": "ComposioHQ /awesome-codex-skills",
-        "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-        "language": "Python",
-        "stars": "4,574",
-        "crawled_at": "2026-04-29T14:58:29.703484"
-      },
-      {
-        "name": "1jehuang /jcode",
-        "description": "Coding Agent Harness",
-        "language": "Rust",
-        "stars": "1,122",
-        "crawled_at": "2026-04-29T14:58:29.703667"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "33,130",
-        "crawled_at": "2026-04-29T14:58:29.703896"
-      },
-      {
-        "name": "microsoft /VibeVoice",
-        "description": "Open-Source Frontier Voice AI",
-        "language": "Python",
-        "stars": "45,470",
-        "crawled_at": "2026-04-29T14:58:29.704101"
-      },
-      {
-        "name": "CJackHwang /ds2api",
-        "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-        "language": "Go",
-        "stars": "2,606",
-        "crawled_at": "2026-04-29T14:58:29.704289"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "172,671",
-        "crawled_at": "2026-04-29T14:58:29.704511"
-      },
-      {
-        "name": "ZhuLinsen /daily_stock_analysis",
-        "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
-        "language": "Python",
-        "stars": "32,517",
-        "crawled_at": "2026-04-29T14:58:29.704694"
-      }
-    ]
-  },
-  {
     "date": "2026-04-30",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "未知",
         "stars": "49,547",
         "crawled_at": "2026-05-29T16:31:14.678016"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "repos": [
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "131,269",
+        "crawled_at": "2026-05-30T14:19:53.722228"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "71,354",
+        "crawled_at": "2026-05-30T14:19:53.722458"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "stars": "128,209",
+        "crawled_at": "2026-05-30T14:19:53.722655"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "1,382",
+        "crawled_at": "2026-05-30T14:19:53.722840"
+      },
+      {
+        "name": "revfactory /harness",
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "stars": "4,142",
+        "crawled_at": "2026-05-30T14:19:53.723027"
+      },
+      {
+        "name": "EveryInc /compound-engineering-plugin",
+        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+        "language": "TypeScript",
+        "stars": "18,319",
+        "crawled_at": "2026-05-30T14:19:53.723211"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "199,003",
+        "crawled_at": "2026-05-30T14:19:53.723460"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "22,546",
+        "crawled_at": "2026-05-30T14:19:53.723647"
+      },
+      {
+        "name": "galilai-group /stable-worldmodel",
+        "description": "A platform for reproducible world model research and evaluation",
+        "language": "Python",
+        "stars": "1,383",
+        "crawled_at": "2026-05-30T14:19:53.723829"
+      },
+      {
+        "name": "Crosstalk-Solutions /project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "stars": "27,174",
+        "crawled_at": "2026-05-30T14:19:53.724013"
       }
     ]
   }
