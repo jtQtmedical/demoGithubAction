@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-05-02",
-    "repos": [
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "61,160",
-        "crawled_at": "2026-05-02T14:01:35.251761"
-      },
-      {
-        "name": "ruvnet /ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars": "35,941",
-        "crawled_at": "2026-05-02T14:01:35.251970"
-      },
-      {
-        "name": "browserbase /skills",
-        "description": "Claude Agent SDK with a web browsing tool",
-        "language": "JavaScript",
-        "stars": "1,367",
-        "crawled_at": "2026-05-02T14:01:35.252158"
-      },
-      {
-        "name": "D4Vinci /Scrapling",
-        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-        "language": "Python",
-        "stars": "40,999",
-        "crawled_at": "2026-05-02T14:01:35.252412"
-      },
-      {
-        "name": "soxoj /maigret",
-        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "language": "Python",
-        "stars": "22,231",
-        "crawled_at": "2026-05-02T14:01:35.252653"
-      },
-      {
-        "name": "Flowseal /zapret-discord-youtube",
-        "description": "無描述",
-        "language": "Batchfile",
-        "stars": "27,047",
-        "crawled_at": "2026-05-02T14:01:35.252862"
-      },
-      {
-        "name": "1jehuang /jcode",
-        "description": "Coding Agent Harness",
-        "language": "Rust",
-        "stars": "2,599",
-        "crawled_at": "2026-05-02T14:01:35.253056"
-      },
-      {
-        "name": "ShareX /ShareX",
-        "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-        "language": "C#",
-        "stars": "36,585",
-        "crawled_at": "2026-05-02T14:01:35.253244"
-      },
-      {
-        "name": "jwasham /coding-interview-university",
-        "description": "A complete computer science study plan to become a software engineer.",
-        "language": "未知",
-        "stars": "344,249",
-        "crawled_at": "2026-05-02T14:01:35.253478"
-      }
-    ]
-  },
-  {
     "date": "2026-05-03",
     "repos": [
       {
@@ -2225,6 +2157,81 @@
         "language": "HTML",
         "stars": "5,066",
         "crawled_at": "2026-06-01T18:29:48.445495"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "repos": [
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "5,585",
+        "crawled_at": "2026-06-02T17:10:11.805199"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "140,769",
+        "crawled_at": "2026-06-02T17:10:11.805405"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "203,357",
+        "crawled_at": "2026-06-02T17:10:11.805644"
+      },
+      {
+        "name": "D4Vinci /Scrapling",
+        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "stars": "58,941",
+        "crawled_at": "2026-06-02T17:10:11.805877"
+      },
+      {
+        "name": "nesquena /hermes-webui",
+        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+        "language": "Python",
+        "stars": "12,381",
+        "crawled_at": "2026-06-02T17:10:11.806130"
+      },
+      {
+        "name": "reconurge /flowsint",
+        "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+        "language": "TypeScript",
+        "stars": "4,380",
+        "crawled_at": "2026-06-02T17:10:11.806329"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "24,966",
+        "crawled_at": "2026-06-02T17:10:11.806519"
+      },
+      {
+        "name": "stefan-jansen /machine-learning-for-trading",
+        "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+        "language": "Jupyter Notebook",
+        "stars": "18,298",
+        "crawled_at": "2026-06-02T17:10:11.806709"
+      },
+      {
+        "name": "jamwithai /production-agentic-rag-course",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "6,301",
+        "crawled_at": "2026-06-02T17:10:11.806915"
+      },
+      {
+        "name": "supermemoryai /supermemory",
+        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+        "language": "TypeScript",
+        "stars": "24,485",
+        "crawled_at": "2026-06-02T17:10:11.807133"
       }
     ]
   }
