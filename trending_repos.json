@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "repos": [
-      {
-        "name": "ruvnet /ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars": "37,822",
-        "crawled_at": "2026-05-03T14:02:20.266712"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "64,313",
-        "crawled_at": "2026-05-03T14:02:20.266910"
-      },
-      {
-        "name": "soxoj /maigret",
-        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "language": "Python",
-        "stars": "23,362",
-        "crawled_at": "2026-05-03T14:02:20.267164"
-      },
-      {
-        "name": "Hmbown /DeepSeek-TUI",
-        "description": "Coding agent for DeepSeek models that runs in your terminal",
-        "language": "Rust",
-        "stars": "1,870",
-        "crawled_at": "2026-05-03T14:02:20.267357"
-      },
-      {
-        "name": "AIDC-AI /Pixelle-Video",
-        "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-        "language": "Python",
-        "stars": "9,518",
-        "crawled_at": "2026-05-03T14:02:20.267541"
-      },
-      {
-        "name": "browserbase /skills",
-        "description": "Claude Agent SDK with a web browsing tool",
-        "language": "JavaScript",
-        "stars": "1,677",
-        "crawled_at": "2026-05-03T14:02:20.267725"
-      },
-      {
-        "name": "czlonkowski /n8n-mcp",
-        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-        "language": "TypeScript",
-        "stars": "19,285",
-        "crawled_at": "2026-05-03T14:02:20.267947"
-      },
-      {
-        "name": "1jehuang /jcode",
-        "description": "Coding Agent Harness",
-        "language": "Rust",
-        "stars": "3,190",
-        "crawled_at": "2026-05-03T14:02:20.268150"
-      },
-      {
-        "name": "openwrt /openwrt",
-        "description": "This repository is a mirror ofhttps://git.openwrt.org/openwrt/openwrt.gitIt is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-        "language": "C",
-        "stars": "26,520",
-        "crawled_at": "2026-05-03T14:02:20.268344"
-      }
-    ]
-  },
-  {
     "date": "2026-05-04",
     "repos": [
       {
@@ -2232,6 +2164,81 @@
         "language": "TypeScript",
         "stars": "24,485",
         "crawled_at": "2026-06-02T17:10:11.807133"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "repos": [
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "9,083",
+        "crawled_at": "2026-06-03T17:52:50.296973"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "205,359",
+        "crawled_at": "2026-06-03T17:52:50.297214"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "35,324",
+        "crawled_at": "2026-06-03T17:52:50.297406"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "178,732",
+        "crawled_at": "2026-06-03T17:52:50.297615"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "142,614",
+        "crawled_at": "2026-06-03T17:52:50.297800"
+      },
+      {
+        "name": "nesquena /hermes-webui",
+        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+        "language": "Python",
+        "stars": "13,008",
+        "crawled_at": "2026-06-03T17:52:50.298025"
+      },
+      {
+        "name": "D4Vinci /Scrapling",
+        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+        "language": "Python",
+        "stars": "59,985",
+        "crawled_at": "2026-06-03T17:52:50.298258"
+      },
+      {
+        "name": "opendataloader-project /opendataloader-pdf",
+        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "language": "Java",
+        "stars": "23,143",
+        "crawled_at": "2026-06-03T17:52:50.298453"
+      },
+      {
+        "name": "odoo /odoo",
+        "description": "Odoo. Open Source Apps To Grow Your Business.",
+        "language": "Python",
+        "stars": "51,859",
+        "crawled_at": "2026-06-03T17:52:50.298658"
+      },
+      {
+        "name": "Open-LLM-VTuber /Open-LLM-VTuber",
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "stars": "8,847",
+        "crawled_at": "2026-06-03T17:52:50.298842"
       }
     ]
   }
