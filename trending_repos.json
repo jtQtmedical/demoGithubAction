@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-04",
-    "repos": [
-      {
-        "name": "ruvnet /ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars": "40,489",
-        "crawled_at": "2026-05-04T14:58:03.840066"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "66,621",
-        "crawled_at": "2026-05-04T14:58:03.840271"
-      },
-      {
-        "name": "browserbase /skills",
-        "description": "Claude Agent SDK with a web browsing tool",
-        "language": "JavaScript",
-        "stars": "2,013",
-        "crawled_at": "2026-05-04T14:58:03.840464"
-      },
-      {
-        "name": "Hmbown /DeepSeek-TUI",
-        "description": "Coding agent for DeepSeek models that runs in your terminal",
-        "language": "Rust",
-        "stars": "3,429",
-        "crawled_at": "2026-05-04T14:58:03.840674"
-      },
-      {
-        "name": "soxoj /maigret",
-        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "language": "Python",
-        "stars": "24,490",
-        "crawled_at": "2026-05-04T14:58:03.840910"
-      },
-      {
-        "name": "qbittorrent /qBittorrent",
-        "description": "qBittorrent BitTorrent client",
-        "language": "C++",
-        "stars": "36,943",
-        "crawled_at": "2026-05-04T14:58:03.841098"
-      },
-      {
-        "name": "czlonkowski /n8n-mcp",
-        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-        "language": "TypeScript",
-        "stars": "19,786",
-        "crawled_at": "2026-05-04T14:58:03.841332"
-      },
-      {
-        "name": "1jehuang /jcode",
-        "description": "Coding Agent Harness",
-        "language": "Rust",
-        "stars": "3,738",
-        "crawled_at": "2026-05-04T14:58:03.841518"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "92,191",
-        "crawled_at": "2026-05-04T14:58:03.841765"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "22,935",
-        "crawled_at": "2026-05-04T14:58:03.841950"
-      }
-    ]
-  },
-  {
     "date": "2026-05-06",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "8,847",
         "crawled_at": "2026-06-03T17:52:50.298842"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "repos": [
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "11,852",
+        "crawled_at": "2026-06-04T16:13:06.471121"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "180,503",
+        "crawled_at": "2026-06-04T16:13:06.471266"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "206,841",
+        "crawled_at": "2026-06-04T16:13:06.471429"
+      },
+      {
+        "name": "PaddlePaddle /PaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "language": "Python",
+        "stars": "79,699",
+        "crawled_at": "2026-06-04T16:13:06.471574"
+      },
+      {
+        "name": "github /spec-kit",
+        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+        "language": "Python",
+        "stars": "108,385",
+        "crawled_at": "2026-06-04T16:13:06.471705"
+      },
+      {
+        "name": "NVIDIA /cosmos",
+        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "language": "Jupyter Notebook",
+        "stars": "8,872",
+        "crawled_at": "2026-06-04T16:13:06.471832"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "stars": "24,654",
+        "crawled_at": "2026-06-04T16:13:06.471958"
+      },
+      {
+        "name": "Open-LLM-VTuber /Open-LLM-VTuber",
+        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+        "language": "Python",
+        "stars": "9,428",
+        "crawled_at": "2026-06-04T16:13:06.472083"
+      },
+      {
+        "name": "jwasham /coding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "未知",
+        "stars": "349,559",
+        "crawled_at": "2026-06-04T16:13:06.472216"
+      },
+      {
+        "name": "github /copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "stars": "8,872",
+        "crawled_at": "2026-06-04T16:13:06.472342"
       }
     ]
   }
