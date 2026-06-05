@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-06",
-    "repos": [
-      {
-        "name": "Hmbown /DeepSeek-TUI",
-        "description": "Coding agent for DeepSeek models that runs in your terminal",
-        "language": "Rust",
-        "stars": "12,635",
-        "crawled_at": "2026-05-06T15:16:30.271969"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "29,615",
-        "crawled_at": "2026-05-06T15:16:30.272121"
-      },
-      {
-        "name": "PriorLabs /TabPFN",
-        "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-        "language": "Python",
-        "stars": "6,505",
-        "crawled_at": "2026-05-06T15:16:30.272253"
-      },
-      {
-        "name": "docusealco /docuseal",
-        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "language": "Ruby",
-        "stars": "14,577",
-        "crawled_at": "2026-05-06T15:16:30.272382"
-      },
-      {
-        "name": "LearningCircuit /local-deep-research",
-        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-        "language": "Python",
-        "stars": "5,491",
-        "crawled_at": "2026-05-06T15:16:30.272539"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "62,872",
-        "crawled_at": "2026-05-06T15:16:30.272676"
-      },
-      {
-        "name": "InsForge /InsForge",
-        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-        "language": "TypeScript",
-        "stars": "8,293",
-        "crawled_at": "2026-05-06T15:16:30.272853"
-      },
-      {
-        "name": "virattt /dexter",
-        "description": "An autonomous agent for deep financial research",
-        "language": "TypeScript",
-        "stars": "24,201",
-        "crawled_at": "2026-05-06T15:16:30.272983"
-      },
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "8,722",
-        "crawled_at": "2026-05-06T15:16:30.273125"
-      },
-      {
-        "name": "ruvnet /ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars": "44,857",
-        "crawled_at": "2026-05-06T15:16:30.273255"
-      }
-    ]
-  },
-  {
     "date": "2026-05-07",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Java",
         "stars": "8,872",
         "crawled_at": "2026-06-04T16:13:06.472342"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "repos": [
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "182,404",
+        "crawled_at": "2026-06-05T15:42:44.825436"
+      },
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "14,132",
+        "crawled_at": "2026-06-05T15:42:44.825661"
+      },
+      {
+        "name": "CopilotKit /CopilotKit",
+        "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "stars": "32,459",
+        "crawled_at": "2026-06-05T15:42:44.825828"
+      },
+      {
+        "name": "lfnovo /open-notebook",
+        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+        "language": "TypeScript",
+        "stars": "25,706",
+        "crawled_at": "2026-06-05T15:42:44.826059"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "208,052",
+        "crawled_at": "2026-06-05T15:42:44.826263"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "21,381",
+        "crawled_at": "2026-06-05T15:42:44.826428"
+      },
+      {
+        "name": "NVIDIA /cosmos",
+        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+        "language": "Jupyter Notebook",
+        "stars": "9,319",
+        "crawled_at": "2026-06-05T15:42:44.826588"
+      },
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "64,549",
+        "crawled_at": "2026-06-05T15:42:44.826754"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "28,074",
+        "crawled_at": "2026-06-05T15:42:44.826925"
+      },
+      {
+        "name": "PaddlePaddle /PaddleOCR",
+        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+        "language": "Python",
+        "stars": "80,390",
+        "crawled_at": "2026-06-05T15:42:44.827084"
       }
     ]
   }
