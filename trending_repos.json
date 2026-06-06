@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-07",
-    "repos": [
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "10,477",
-        "crawled_at": "2026-05-07T15:19:14.003586"
-      },
-      {
-        "name": "Hmbown /DeepSeek-TUI",
-        "description": "Coding agent for DeepSeek models that runs in your terminal",
-        "language": "Rust",
-        "stars": "17,928",
-        "crawled_at": "2026-05-07T15:19:14.003776"
-      },
-      {
-        "name": "z-lab /dflash",
-        "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
-        "language": "Python",
-        "stars": "3,322",
-        "crawled_at": "2026-05-07T15:19:14.003945"
-      },
-      {
-        "name": "InsForge /InsForge",
-        "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-        "language": "TypeScript",
-        "stars": "8,730",
-        "crawled_at": "2026-05-07T15:19:14.004162"
-      },
-      {
-        "name": "LearningCircuit /local-deep-research",
-        "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-        "language": "Python",
-        "stars": "6,073",
-        "crawled_at": "2026-05-07T15:19:14.004366"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "32,442",
-        "crawled_at": "2026-05-07T15:19:14.004543"
-      },
-      {
-        "name": "VectifyAI /PageIndex",
-        "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-        "language": "Python",
-        "stars": "29,316",
-        "crawled_at": "2026-05-07T15:19:14.004751"
-      },
-      {
-        "name": "vercel-labs /open-agents",
-        "description": "An open source template for building cloud agents.",
-        "language": "TypeScript",
-        "stars": "4,941",
-        "crawled_at": "2026-05-07T15:19:14.004914"
-      },
-      {
-        "name": "docusealco /docuseal",
-        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-        "language": "Ruby",
-        "stars": "15,380",
-        "crawled_at": "2026-05-07T15:19:14.005076"
-      },
-      {
-        "name": "decolua /9router",
-        "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "language": "JavaScript",
-        "stars": "4,260",
-        "crawled_at": "2026-05-07T15:19:14.005240"
-      }
-    ]
-  },
-  {
     "date": "2026-05-08",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "80,390",
         "crawled_at": "2026-06-05T15:42:44.827084"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "repos": [
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "28,500",
+        "crawled_at": "2026-06-06T14:20:58.045645"
+      },
+      {
+        "name": "CopilotKit /CopilotKit",
+        "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+        "language": "TypeScript",
+        "stars": "32,988",
+        "crawled_at": "2026-06-06T14:20:58.045826"
+      },
+      {
+        "name": "MemPalace /mempalace",
+        "description": "The best-benchmarked open-source AI memory system. And it's free.",
+        "language": "Python",
+        "stars": "54,105",
+        "crawled_at": "2026-06-06T14:20:58.045992"
+      },
+      {
+        "name": "danielmiessler /Personal_AI_Infrastructure",
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "stars": "14,814",
+        "crawled_at": "2026-06-06T14:20:58.046217"
+      },
+      {
+        "name": "openai /plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "stars": "1,658",
+        "crawled_at": "2026-06-06T14:20:58.046385"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "22,027",
+        "crawled_at": "2026-06-06T14:20:58.046553"
+      },
+      {
+        "name": "sveltejs /svelte",
+        "description": "web development for the rest of us",
+        "language": "JavaScript",
+        "stars": "86,881",
+        "crawled_at": "2026-06-06T14:20:58.046758"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "30,617",
+        "crawled_at": "2026-06-06T14:20:58.046925"
+      },
+      {
+        "name": "aquasecurity /trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars": "35,934",
+        "crawled_at": "2026-06-06T14:20:58.047111"
+      },
+      {
+        "name": "golang /go",
+        "description": "The Go programming language",
+        "language": "Go",
+        "stars": "134,448",
+        "crawled_at": "2026-06-06T14:20:58.047282"
       }
     ]
   }
