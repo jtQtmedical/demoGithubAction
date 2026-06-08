@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "repos": [
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "16,753",
-        "crawled_at": "2026-05-09T14:09:35.122360"
-      },
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "31,137",
-        "crawled_at": "2026-05-09T14:09:35.122559"
-      },
-      {
-        "name": "rohitg00 /agentmemory",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "language": "TypeScript",
-        "stars": "3,135",
-        "crawled_at": "2026-05-09T14:09:35.122790"
-      },
-      {
-        "name": "datawhalechina /hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "stars": "45,451",
-        "crawled_at": "2026-05-09T14:09:35.123000"
-      },
-      {
-        "name": "datawhalechina /easy-vibe",
-        "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-        "language": "JavaScript",
-        "stars": "8,256",
-        "crawled_at": "2026-05-09T14:09:35.123193"
-      },
-      {
-        "name": "rowboatlabs /rowboat",
-        "description": "Open-source AI coworker, with memory",
-        "language": "TypeScript",
-        "stars": "13,583",
-        "crawled_at": "2026-05-09T14:09:35.123378"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "38,656",
-        "crawled_at": "2026-05-09T14:09:35.123565"
-      },
-      {
-        "name": "masterking32 /MasterDnsVPN",
-        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-        "language": "Go",
-        "stars": "2,194",
-        "crawled_at": "2026-05-09T14:09:35.123751"
-      },
-      {
-        "name": "playcanvas /supersplat",
-        "description": "3D Gaussian Splat Editor",
-        "language": "TypeScript",
-        "stars": "6,034",
-        "crawled_at": "2026-05-09T14:09:35.123934"
-      },
-      {
-        "name": "Lordog /dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "language": "Jupyter Notebook",
-        "stars": "36,409",
-        "crawled_at": "2026-05-09T14:09:35.124143"
-      }
-    ]
-  },
-  {
     "date": "2026-05-10",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "6,464",
         "crawled_at": "2026-06-07T14:43:26.952589"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "repos": [
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "33,729",
+        "crawled_at": "2026-06-08T16:39:55.848495"
+      },
+      {
+        "name": "RyanCodrai /turbovec",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "language": "Python",
+        "stars": "8,365",
+        "crawled_at": "2026-06-08T16:39:55.848673"
+      },
+      {
+        "name": "google /skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "stars": "12,219",
+        "crawled_at": "2026-06-08T16:39:55.848843"
+      },
+      {
+        "name": "refactoringhq /tolaria",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "stars": "13,400",
+        "crawled_at": "2026-06-08T16:39:55.849008"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "23,860",
+        "crawled_at": "2026-06-08T16:39:55.849174"
+      },
+      {
+        "name": "danielmiessler /Personal_AI_Infrastructure",
+        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "language": "TypeScript",
+        "stars": "15,304",
+        "crawled_at": "2026-06-08T16:39:55.849376"
+      },
+      {
+        "name": "santifer /career-ops",
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "language": "JavaScript",
+        "stars": "50,220",
+        "crawled_at": "2026-06-08T16:39:55.849575"
+      },
+      {
+        "name": "phuryn /pm-skills",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "language": "未知",
+        "stars": "12,494",
+        "crawled_at": "2026-06-08T16:39:55.849738"
+      },
+      {
+        "name": "openai /plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "stars": "2,244",
+        "crawled_at": "2026-06-08T16:39:55.849906"
+      },
+      {
+        "name": "Andyyyy64 /whichllm",
+        "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+        "language": "Python",
+        "stars": "3,303",
+        "crawled_at": "2026-06-08T16:39:55.850063"
       }
     ]
   }
