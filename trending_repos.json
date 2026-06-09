@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-10",
-    "repos": [
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "31,826",
-        "crawled_at": "2026-05-10T14:11:55.776158"
-      },
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "18,217",
-        "crawled_at": "2026-05-10T14:11:55.776383"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "37,993",
-        "crawled_at": "2026-05-10T14:11:55.776570"
-      },
-      {
-        "name": "CloakHQ /CloakBrowser",
-        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-        "language": "Python",
-        "stars": "4,275",
-        "crawled_at": "2026-05-10T14:11:55.776786"
-      },
-      {
-        "name": "HKUDS /AI-Trader",
-        "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
-        "language": "Python",
-        "stars": "15,259",
-        "crawled_at": "2026-05-10T14:11:55.776973"
-      },
-      {
-        "name": "jundot /omlx",
-        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-        "language": "Python",
-        "stars": "13,124",
-        "crawled_at": "2026-05-10T14:11:55.777156"
-      },
-      {
-        "name": "datawhalechina /easy-vibe",
-        "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-        "language": "JavaScript",
-        "stars": "8,878",
-        "crawled_at": "2026-05-10T14:11:55.777346"
-      },
-      {
-        "name": "playcanvas /supersplat",
-        "description": "3D Gaussian Splat Editor",
-        "language": "TypeScript",
-        "stars": "6,596",
-        "crawled_at": "2026-05-10T14:11:55.777528"
-      },
-      {
-        "name": "masterking32 /MasterDnsVPN",
-        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-        "language": "Go",
-        "stars": "2,836",
-        "crawled_at": "2026-05-10T14:11:55.777757"
-      },
-      {
-        "name": "lsdefine /GenericAgent",
-        "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-        "language": "Python",
-        "stars": "10,406",
-        "crawled_at": "2026-05-10T14:11:55.777947"
-      }
-    ]
-  },
-  {
     "date": "2026-05-11",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "3,303",
         "crawled_at": "2026-06-08T16:39:55.850063"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "repos": [
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "36,603",
+        "crawled_at": "2026-06-09T15:46:19.887162"
+      },
+      {
+        "name": "RyanCodrai /turbovec",
+        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+        "language": "Python",
+        "stars": "9,908",
+        "crawled_at": "2026-06-09T15:46:19.887339"
+      },
+      {
+        "name": "roboflow /supervision",
+        "description": "We write your reusable computer vision tools. 💜",
+        "language": "Python",
+        "stars": "42,798",
+        "crawled_at": "2026-06-09T15:46:19.887504"
+      },
+      {
+        "name": "opencv /opencv",
+        "description": "Open Source Computer Vision Library",
+        "language": "C++",
+        "stars": "88,492",
+        "crawled_at": "2026-06-09T15:46:19.887713"
+      },
+      {
+        "name": "refactoringhq /tolaria",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "stars": "14,147",
+        "crawled_at": "2026-06-09T15:46:19.887901"
+      },
+      {
+        "name": "aaif-goose /goose",
+        "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "language": "Rust",
+        "stars": "48,375",
+        "crawled_at": "2026-06-09T15:46:19.888066"
+      },
+      {
+        "name": "Andyyyy64 /whichllm",
+        "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+        "language": "Python",
+        "stars": "3,917",
+        "crawled_at": "2026-06-09T15:46:19.888223"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "73,409",
+        "crawled_at": "2026-06-09T15:46:19.888382"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "139,057",
+        "crawled_at": "2026-06-09T15:46:19.888591"
+      },
+      {
+        "name": "yikart /AiToEarn",
+        "description": "Let's use AI to Earn!",
+        "language": "TypeScript",
+        "stars": "19,770",
+        "crawled_at": "2026-06-09T15:46:19.888759"
       }
     ]
   }
