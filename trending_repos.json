@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-11",
-    "repos": [
-      {
-        "name": "bytedance /UI-TARS-desktop",
-        "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-        "language": "TypeScript",
-        "stars": "32,826",
-        "crawled_at": "2026-05-11T15:50:03.052431"
-      },
-      {
-        "name": "CloakHQ /CloakBrowser",
-        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-        "language": "Python",
-        "stars": "5,744",
-        "crawled_at": "2026-05-11T15:50:03.052663"
-      },
-      {
-        "name": "yikart /AiToEarn",
-        "description": "Let's use AI to Earn!",
-        "language": "TypeScript",
-        "stars": "10,481",
-        "crawled_at": "2026-05-11T15:50:03.052863"
-      },
-      {
-        "name": "playcanvas /supersplat",
-        "description": "3D Gaussian Splat Editor",
-        "language": "TypeScript",
-        "stars": "7,163",
-        "crawled_at": "2026-05-11T15:50:03.053052"
-      },
-      {
-        "name": "datawhalechina /easy-vibe",
-        "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-        "language": "JavaScript",
-        "stars": "9,730",
-        "crawled_at": "2026-05-11T15:50:03.053246"
-      },
-      {
-        "name": "decolua /9router",
-        "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-        "language": "JavaScript",
-        "stars": "8,024",
-        "crawled_at": "2026-05-11T15:50:03.053434"
-      },
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "1,134",
-        "crawled_at": "2026-05-11T15:50:03.053645"
-      },
-      {
-        "name": "millionco /react-doctor",
-        "description": "Your agent writes bad React. This catches it",
-        "language": "TypeScript",
-        "stars": "7,795",
-        "crawled_at": "2026-05-11T15:50:03.053836"
-      },
-      {
-        "name": "Lordog /dive-into-llms",
-        "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-        "language": "Jupyter Notebook",
-        "stars": "37,223",
-        "crawled_at": "2026-05-11T15:50:03.054023"
-      },
-      {
-        "name": "AUTOMATIC1111 /stable-diffusion-webui",
-        "description": "Stable Diffusion web UI",
-        "language": "Python",
-        "stars": "162,857",
-        "crawled_at": "2026-05-11T15:50:03.054210"
-      }
-    ]
-  },
-  {
     "date": "2026-05-12",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "TypeScript",
         "stars": "19,770",
         "crawled_at": "2026-06-09T15:46:19.888759"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "repos": [
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "50,996",
+        "crawled_at": "2026-06-10T16:26:58.623398"
+      },
+      {
+        "name": "phuryn /pm-skills",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "language": "未知",
+        "stars": "14,396",
+        "crawled_at": "2026-06-10T16:26:58.623611"
+      },
+      {
+        "name": "refactoringhq /tolaria",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "stars": "14,757",
+        "crawled_at": "2026-06-10T16:26:58.623798"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "38,841",
+        "crawled_at": "2026-06-10T16:26:58.623981"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "31,830",
+        "crawled_at": "2026-06-10T16:26:58.624227"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "139,435",
+        "crawled_at": "2026-06-10T16:26:58.624474"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "223,345",
+        "crawled_at": "2026-06-10T16:26:58.624699"
+      },
+      {
+        "name": "masterking32 /MasterDnsVPN",
+        "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+        "language": "Go",
+        "stars": "5,047",
+        "crawled_at": "2026-06-10T16:26:58.624922"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+        "language": "Python",
+        "stars": "84,689",
+        "crawled_at": "2026-06-10T16:26:58.625100"
+      },
+      {
+        "name": "maziyarpanahi /openmed",
+        "description": "open-source healthcare ai",
+        "language": "Python",
+        "stars": "2,176",
+        "crawled_at": "2026-06-10T16:26:58.625361"
       }
     ]
   }
