@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "repos": [
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "2,243",
-        "crawled_at": "2026-05-12T15:34:34.397341"
-      },
-      {
-        "name": "rohitg00 /agentmemory",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "language": "TypeScript",
-        "stars": "5,488",
-        "crawled_at": "2026-05-12T15:34:34.397514"
-      },
-      {
-        "name": "CloakHQ /CloakBrowser",
-        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-        "language": "Python",
-        "stars": "7,280",
-        "crawled_at": "2026-05-12T15:34:34.397646"
-      },
-      {
-        "name": "apernet /hysteria",
-        "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
-        "language": "Go",
-        "stars": "20,068",
-        "crawled_at": "2026-05-12T15:34:34.397773"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .claude directory.",
-        "language": "Shell",
-        "stars": "75,171",
-        "crawled_at": "2026-05-12T15:34:34.397944"
-      },
-      {
-        "name": "anonfaded /FadCam",
-        "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
-        "language": "Java",
-        "stars": "2,107",
-        "crawled_at": "2026-05-12T15:34:34.398072"
-      },
-      {
-        "name": "millionco /react-doctor",
-        "description": "Your agent writes bad React. This catches it",
-        "language": "TypeScript",
-        "stars": "8,561",
-        "crawled_at": "2026-05-12T15:34:34.398201"
-      },
-      {
-        "name": "rasbt /LLMs-from-scratch",
-        "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-        "language": "Jupyter Notebook",
-        "stars": "93,495",
-        "crawled_at": "2026-05-12T15:34:34.398330"
-      },
-      {
-        "name": "datawhalechina /hello-agents",
-        "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-        "language": "Python",
-        "stars": "48,076",
-        "crawled_at": "2026-05-12T15:34:34.398499"
-      },
-      {
-        "name": "yikart /AiToEarn",
-        "description": "Let's use AI to Earn!",
-        "language": "TypeScript",
-        "stars": "11,634",
-        "crawled_at": "2026-05-12T15:34:34.398623"
-      }
-    ]
-  },
-  {
     "date": "2026-05-13",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "2,176",
         "crawled_at": "2026-06-10T16:26:58.625361"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "repos": [
+      {
+        "name": "apple /container",
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "stars": "31,548",
+        "crawled_at": "2026-06-11T16:41:21.521812"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "Shell",
+        "stars": "54,074",
+        "crawled_at": "2026-06-11T16:41:21.521993"
+      },
+      {
+        "name": "maziyarpanahi /openmed",
+        "description": "open-source healthcare ai",
+        "language": "Python",
+        "stars": "2,625",
+        "crawled_at": "2026-06-11T16:41:21.522153"
+      },
+      {
+        "name": "phuryn /pm-skills",
+        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+        "language": "未知",
+        "stars": "16,031",
+        "crawled_at": "2026-06-11T16:41:21.522330"
+      },
+      {
+        "name": "NVIDIA /SkillSpector",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "stars": "2,441",
+        "crawled_at": "2026-06-11T16:41:21.522494"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "32,469",
+        "crawled_at": "2026-06-11T16:41:21.522696"
+      },
+      {
+        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
+        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+        "language": "未知",
+        "stars": "139,786",
+        "crawled_at": "2026-06-11T16:41:21.522905"
+      },
+      {
+        "name": "refactoringhq /tolaria",
+        "description": "Desktop app to manage markdown knowledge bases",
+        "language": "TypeScript",
+        "stars": "15,296",
+        "crawled_at": "2026-06-11T16:41:21.523063"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "224,588",
+        "crawled_at": "2026-06-11T16:41:21.523259"
+      },
+      {
+        "name": "restic /restic",
+        "description": "Fast, secure, efficient backup program",
+        "language": "Go",
+        "stars": "34,073",
+        "crawled_at": "2026-06-11T16:41:21.523428"
       }
     ]
   }
