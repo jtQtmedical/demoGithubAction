@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-15",
-    "repos": [
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "8,591",
-        "crawled_at": "2026-05-15T15:07:17.768908"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "192,385",
-        "crawled_at": "2026-05-15T15:07:17.769152"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "22,221",
-        "crawled_at": "2026-05-15T15:07:17.769349"
-      },
-      {
-        "name": "supertone-inc /supertonic",
-        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-        "language": "Swift",
-        "stars": "5,767",
-        "crawled_at": "2026-05-15T15:07:17.769537"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "57,077",
-        "crawled_at": "2026-05-15T15:07:17.769753"
-      },
-      {
-        "name": "influxdata /telegraf",
-        "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-        "language": "Go",
-        "stars": "17,337",
-        "crawled_at": "2026-05-15T15:07:17.769946"
-      },
-      {
-        "name": "anthropics /skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars": "134,796",
-        "crawled_at": "2026-05-15T15:07:17.770132"
-      },
-      {
-        "name": "czlonkowski /n8n-mcp",
-        "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
-        "language": "TypeScript",
-        "stars": "20,782",
-        "crawled_at": "2026-05-15T15:07:17.770359"
-      },
-      {
-        "name": "NVIDIA-AI-Blueprints /video-search-and-summarization",
-        "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-        "language": "Python",
-        "stars": "1,042",
-        "crawled_at": "2026-05-15T15:07:17.770545"
-      },
-      {
-        "name": "oven-sh /bun",
-        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "language": "Rust",
-        "stars": "90,513",
-        "crawled_at": "2026-05-15T15:07:17.770753"
-      }
-    ]
-  },
-  {
     "date": "2026-05-16",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "14,008",
         "crawled_at": "2026-06-13T14:54:05.585081"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "repos": [
+      {
+        "name": "iptv-org /iptv",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "stars": "120,122",
+        "crawled_at": "2026-06-14T15:00:25.720922"
+      },
+      {
+        "name": "freeCodeCamp /freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "stars": "446,972",
+        "crawled_at": "2026-06-14T15:00:25.721156"
+      },
+      {
+        "name": "pytest-dev /pytest",
+        "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+        "language": "Python",
+        "stars": "13,962",
+        "crawled_at": "2026-06-14T15:00:25.721377"
+      },
+      {
+        "name": "swc-project /swc",
+        "description": "Rust-based platform for the Web",
+        "language": "Rust",
+        "stars": "33,730",
+        "crawled_at": "2026-06-14T15:00:25.721638"
+      },
+      {
+        "name": "chatwoot /chatwoot",
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+        "language": "Ruby",
+        "stars": "31,086",
+        "crawled_at": "2026-06-14T15:00:25.721874"
+      },
+      {
+        "name": "NVIDIA /SkillSpector",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+        "language": "Python",
+        "stars": "4,958",
+        "crawled_at": "2026-06-14T15:00:25.722053"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "stars": "10,319",
+        "crawled_at": "2026-06-14T15:00:25.722231"
+      },
+      {
+        "name": "cypress-io /cypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "language": "TypeScript",
+        "stars": "49,815",
+        "crawled_at": "2026-06-14T15:00:25.722407"
+      },
+      {
+        "name": "GorvGoyl /Clone-Wars",
+        "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+        "language": "未知",
+        "stars": "35,177",
+        "crawled_at": "2026-06-14T15:00:25.722669"
+      },
+      {
+        "name": "Introduction-to-Autonomous-Robots /Introduction-to-Autonomous-Robots",
+        "description": "Introduction to Autonomous Robots",
+        "language": "TeX",
+        "stars": "2,529",
+        "crawled_at": "2026-06-14T15:00:25.722859"
       }
     ]
   }
