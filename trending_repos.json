@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-05-16",
-    "repos": [
-      {
-        "name": "oven-sh /bun",
-        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "language": "Rust",
-        "stars": "90,881",
-        "crawled_at": "2026-05-16T14:14:06.601689"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "22,872",
-        "crawled_at": "2026-05-16T14:14:06.601895"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "193,552",
-        "crawled_at": "2026-05-16T14:14:06.602134"
-      },
-      {
-        "name": "Anil-matcha /Open-Generative-AI",
-        "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "language": "JavaScript",
-        "stars": "14,151",
-        "crawled_at": "2026-05-16T14:14:06.602341"
-      },
-      {
-        "name": "supertone-inc /supertonic",
-        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-        "language": "Swift",
-        "stars": "6,485",
-        "crawled_at": "2026-05-16T14:14:06.602538"
-      },
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "10,147",
-        "crawled_at": "2026-05-16T14:14:06.602725"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "57,974",
-        "crawled_at": "2026-05-16T14:14:06.602924"
-      },
-      {
-        "name": "pranshuparmar /witr",
-        "description": "Why is this running?",
-        "language": "Go",
-        "stars": "16,625",
-        "crawled_at": "2026-05-16T14:14:06.603151"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "2,177",
-        "crawled_at": "2026-05-16T14:14:06.603356"
-      }
-    ]
-  },
-  {
     "date": "2026-05-17",
     "repos": [
       {
@@ -2239,6 +2171,81 @@
         "language": "TeX",
         "stars": "2,529",
         "crawled_at": "2026-06-14T15:00:25.722859"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "repos": [
+      {
+        "name": "iptv-org /iptv",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "stars": "122,650",
+        "crawled_at": "2026-06-15T17:46:08.727429"
+      },
+      {
+        "name": "teslamate-org /teslamate",
+        "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+        "language": "Elixir",
+        "stars": "8,190",
+        "crawled_at": "2026-06-15T17:46:08.727616"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "29,834",
+        "crawled_at": "2026-06-15T17:46:08.727783"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "stars": "10,579",
+        "crawled_at": "2026-06-15T17:46:08.727948"
+      },
+      {
+        "name": "chatwoot /chatwoot",
+        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+        "language": "Ruby",
+        "stars": "31,571",
+        "crawled_at": "2026-06-15T17:46:08.728163"
+      },
+      {
+        "name": "krahets /hello-algo",
+        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+        "language": "Java",
+        "stars": "126,831",
+        "crawled_at": "2026-06-15T17:46:08.728323"
+      },
+      {
+        "name": "freeCodeCamp /freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "stars": "447,759",
+        "crawled_at": "2026-06-15T17:46:08.728523"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+        "language": "HTML",
+        "stars": "18,085",
+        "crawled_at": "2026-06-15T17:46:08.728719"
+      },
+      {
+        "name": "jwasham /coding-interview-university",
+        "description": "A complete computer science study plan to become a software engineer.",
+        "language": "未知",
+        "stars": "352,186",
+        "crawled_at": "2026-06-15T17:46:08.728888"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "32,927",
+        "crawled_at": "2026-06-15T17:46:08.729097"
       }
     ]
   }
