@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-17",
-    "repos": [
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "11,970",
-        "crawled_at": "2026-05-17T14:16:35.591576"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "35,311",
-        "crawled_at": "2026-05-17T14:16:35.591811"
-      },
-      {
-        "name": "calcom /cal.diy",
-        "description": "Scheduling infrastructure for absolutely everyone.",
-        "language": "TypeScript",
-        "stars": "43,047",
-        "crawled_at": "2026-05-17T14:16:35.592015"
-      },
-      {
-        "name": "oven-sh /bun",
-        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-        "language": "Rust",
-        "stars": "91,612",
-        "crawled_at": "2026-05-17T14:16:35.592217"
-      },
-      {
-        "name": "Anil-matcha /Open-Generative-AI",
-        "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "language": "JavaScript",
-        "stars": "14,818",
-        "crawled_at": "2026-05-17T14:16:35.592442"
-      },
-      {
-        "name": "BigBodyCobain /Shadowbroker",
-        "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-        "language": "Python",
-        "stars": "6,768",
-        "crawled_at": "2026-05-17T14:16:35.592663"
-      },
-      {
-        "name": "tech-leads-club /agent-skills",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "language": "TypeScript",
-        "stars": "2,616",
-        "crawled_at": "2026-05-17T14:16:35.592872"
-      },
-      {
-        "name": "NirDiamant /agents-towards-production",
-        "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-        "language": "Jupyter Notebook",
-        "stars": "19,758",
-        "crawled_at": "2026-05-17T14:16:35.593123"
-      },
-      {
-        "name": "dograh-hq /dograh",
-        "description": "Open Source Voice Agent Platform",
-        "language": "Python",
-        "stars": "1,454",
-        "crawled_at": "2026-05-17T14:16:35.593325"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "23,592",
-        "crawled_at": "2026-05-17T14:16:35.593562"
-      }
-    ]
-  },
-  {
     "date": "2026-05-18",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "32,927",
         "crawled_at": "2026-06-15T17:46:08.729097"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "repos": [
+      {
+        "name": "freeCodeCamp /freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "stars": "448,414",
+        "crawled_at": "2026-06-16T17:50:27.903813"
+      },
+      {
+        "name": "swc-project /swc",
+        "description": "Rust-based platform for the Web",
+        "language": "Rust",
+        "stars": "33,933",
+        "crawled_at": "2026-06-16T17:50:27.904042"
+      },
+      {
+        "name": "teslamate-org /teslamate",
+        "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+        "language": "Elixir",
+        "stars": "8,376",
+        "crawled_at": "2026-06-16T17:50:27.904212"
+      },
+      {
+        "name": "iptv-org /iptv",
+        "description": "Collection of publicly available IPTV channels from all over the world",
+        "language": "TypeScript",
+        "stars": "123,848",
+        "crawled_at": "2026-06-16T17:50:27.904376"
+      },
+      {
+        "name": "puppeteer /puppeteer",
+        "description": "JavaScript API for Chrome and Firefox",
+        "language": "TypeScript",
+        "stars": "94,837",
+        "crawled_at": "2026-06-16T17:50:27.904543"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "stars": "10,795",
+        "crawled_at": "2026-06-16T17:50:27.904711"
+      },
+      {
+        "name": "cypress-io /cypress",
+        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+        "language": "TypeScript",
+        "stars": "50,141",
+        "crawled_at": "2026-06-16T17:50:27.904883"
+      },
+      {
+        "name": "music-assistant /server",
+        "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+        "language": "Python",
+        "stars": "2,517",
+        "crawled_at": "2026-06-16T17:50:27.905088"
+      },
+      {
+        "name": "Universal-Debloater-Alliance /universal-android-debloater-next-generation",
+        "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+        "language": "Rust",
+        "stars": "7,191",
+        "crawled_at": "2026-06-16T17:50:27.905244"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "30,054",
+        "crawled_at": "2026-06-16T17:50:27.905402"
       }
     ]
   }
