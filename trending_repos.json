@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-18",
-    "repos": [
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "16,285",
-        "crawled_at": "2026-05-18T16:14:49.105262"
-      },
-      {
-        "name": "Imbad0202 /academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "language": "Python",
-        "stars": "11,000",
-        "crawled_at": "2026-05-18T16:14:49.105464"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "36,420",
-        "crawled_at": "2026-05-18T16:14:49.105657"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-        "language": "Python",
-        "stars": "24,245",
-        "crawled_at": "2026-05-18T16:14:49.105839"
-      },
-      {
-        "name": "supertone-inc /supertonic",
-        "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-        "language": "Swift",
-        "stars": "8,140",
-        "crawled_at": "2026-05-18T16:14:49.106044"
-      },
-      {
-        "name": "ggml-org /llama.cpp",
-        "description": "LLM inference in C/C++",
-        "language": "C++",
-        "stars": "110,853",
-        "crawled_at": "2026-05-18T16:14:49.106234"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "59,665",
-        "crawled_at": "2026-05-18T16:14:49.106428"
-      },
-      {
-        "name": "CloakHQ /CloakBrowser",
-        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-        "language": "Python",
-        "stars": "14,817",
-        "crawled_at": "2026-05-18T16:14:49.106611"
-      },
-      {
-        "name": "tech-leads-club /agent-skills",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "language": "TypeScript",
-        "stars": "3,892",
-        "crawled_at": "2026-05-18T16:14:49.106791"
-      },
-      {
-        "name": "BigBodyCobain /Shadowbroker",
-        "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-        "language": "Python",
-        "stars": "7,572",
-        "crawled_at": "2026-05-18T16:14:49.106998"
-      }
-    ]
-  },
-  {
     "date": "2026-05-19",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "30,054",
         "crawled_at": "2026-06-16T17:50:27.905402"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "repos": [
+      {
+        "name": "DeusData /codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "stars": "4,676",
+        "crawled_at": "2026-06-17T16:29:49.683920"
+      },
+      {
+        "name": "n0-computer /iroh",
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "language": "Rust",
+        "stars": "9,545",
+        "crawled_at": "2026-06-17T16:29:49.684097"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "32,884",
+        "crawled_at": "2026-06-17T16:29:49.684257"
+      },
+      {
+        "name": "meshery /meshery",
+        "description": "Meshery, the cloud native manager",
+        "language": "TypeScript",
+        "stars": "10,968",
+        "crawled_at": "2026-06-17T16:29:49.684416"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "230,762",
+        "crawled_at": "2026-06-17T16:29:49.684617"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "21,642",
+        "crawled_at": "2026-06-17T16:29:49.684792"
+      },
+      {
+        "name": "RocketChat /Rocket.Chat",
+        "description": "The Secure CommsOS™ for mission-critical operations",
+        "language": "TypeScript",
+        "stars": "45,525",
+        "crawled_at": "2026-06-17T16:29:49.684988"
+      },
+      {
+        "name": "continuedev /continue",
+        "description": "open-source coding agent",
+        "language": "TypeScript",
+        "stars": "33,824",
+        "crawled_at": "2026-06-17T16:29:49.685147"
+      },
+      {
+        "name": "penpot /penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "stars": "49,973",
+        "crawled_at": "2026-06-17T16:29:49.685304"
+      },
+      {
+        "name": "krahets /hello-algo",
+        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+        "language": "Java",
+        "stars": "127,398",
+        "crawled_at": "2026-06-17T16:29:49.685463"
       }
     ]
   }
