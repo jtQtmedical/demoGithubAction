@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-19",
-    "repos": [
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "20,262",
-        "crawled_at": "2026-05-19T16:11:36.024176"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "37,501",
-        "crawled_at": "2026-05-19T16:11:36.025003"
-      },
-      {
-        "name": "Imbad0202 /academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "language": "Python",
-        "stars": "13,813",
-        "crawled_at": "2026-05-19T16:11:36.025196"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "198,055",
-        "crawled_at": "2026-05-19T16:11:36.025417"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "19,979",
-        "crawled_at": "2026-05-19T16:11:36.025599"
-      },
-      {
-        "name": "rohitg00 /agentmemory",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "language": "TypeScript",
-        "stars": "13,834",
-        "crawled_at": "2026-05-19T16:11:36.025822"
-      },
-      {
-        "name": "CloakHQ /CloakBrowser",
-        "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-        "language": "Python",
-        "stars": "16,216",
-        "crawled_at": "2026-05-19T16:11:36.026029"
-      },
-      {
-        "name": "rtk-ai /rtk",
-        "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-        "language": "Rust",
-        "stars": "50,582",
-        "crawled_at": "2026-05-19T16:11:36.026214"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "101,150",
-        "crawled_at": "2026-05-19T16:11:36.026437"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "6,066",
-        "crawled_at": "2026-05-19T16:11:36.026616"
-      }
-    ]
-  },
-  {
     "date": "2026-05-20",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Java",
         "stars": "127,398",
         "crawled_at": "2026-06-17T16:29:49.685463"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "repos": [
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "22,686",
+        "crawled_at": "2026-06-18T16:18:59.577790"
+      },
+      {
+        "name": "n0-computer /iroh",
+        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+        "language": "Rust",
+        "stars": "9,907",
+        "crawled_at": "2026-06-18T16:18:59.577983"
+      },
+      {
+        "name": "freeCodeCamp /freeCodeCamp",
+        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+        "language": "TypeScript",
+        "stars": "449,424",
+        "crawled_at": "2026-06-18T16:18:59.578189"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "232,145",
+        "crawled_at": "2026-06-18T16:18:59.578395"
+      },
+      {
+        "name": "zai-org /GLM-5",
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "language": "未知",
+        "stars": "3,971",
+        "crawled_at": "2026-06-18T16:18:59.578571"
+      },
+      {
+        "name": "DeusData /codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "stars": "6,722",
+        "crawled_at": "2026-06-18T16:18:59.578735"
+      },
+      {
+        "name": "alibaba /zvec",
+        "description": "A lightweight, lightning-fast, in-process vector database",
+        "language": "C++",
+        "stars": "11,121",
+        "crawled_at": "2026-06-18T16:18:59.578899"
+      },
+      {
+        "name": "withastro /flue",
+        "description": "The sandbox agent framework.",
+        "language": "TypeScript",
+        "stars": "5,400",
+        "crawled_at": "2026-06-18T16:18:59.579110"
+      },
+      {
+        "name": "Kilo-Org /kilocode",
+        "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+        "language": "TypeScript",
+        "stars": "21,746",
+        "crawled_at": "2026-06-18T16:18:59.579270"
+      },
+      {
+        "name": "makeplane /plane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "stars": "51,684",
+        "crawled_at": "2026-06-18T16:18:59.579432"
       }
     ]
   }
