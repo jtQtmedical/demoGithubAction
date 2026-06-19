@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-20",
-    "repos": [
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "8,491",
-        "crawled_at": "2026-05-20T16:20:32.274605"
-      },
-      {
-        "name": "Imbad0202 /academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "language": "Python",
-        "stars": "15,591",
-        "crawled_at": "2026-05-20T16:20:32.274798"
-      },
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-        "language": "Rust",
-        "stars": "23,295",
-        "crawled_at": "2026-05-20T16:20:32.275025"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "140,190",
-        "crawled_at": "2026-05-20T16:20:32.275220"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "9,201",
-        "crawled_at": "2026-05-20T16:20:32.275426"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "38,357",
-        "crawled_at": "2026-05-20T16:20:32.275601"
-      },
-      {
-        "name": "can1357 /oh-my-pi",
-        "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-        "language": "TypeScript",
-        "stars": "5,277",
-        "crawled_at": "2026-05-20T16:20:32.275778"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "199,707",
-        "crawled_at": "2026-05-20T16:20:32.275985"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "20,613",
-        "crawled_at": "2026-05-20T16:20:32.276150"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "102,585",
-        "crawled_at": "2026-05-20T16:20:32.276367"
-      }
-    ]
-  },
-  {
     "date": "2026-05-21",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "51,684",
         "crawled_at": "2026-06-18T16:18:59.579432"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "repos": [
+      {
+        "name": "DeusData /codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "stars": "7,799",
+        "crawled_at": "2026-06-19T15:54:20.163465"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "23,936",
+        "crawled_at": "2026-06-19T15:54:20.163647"
+      },
+      {
+        "name": "palmier-io /palmier-pro",
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "stars": "1,560",
+        "crawled_at": "2026-06-19T15:54:20.163810"
+      },
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "56,982",
+        "crawled_at": "2026-06-19T15:54:20.163975"
+      },
+      {
+        "name": "aishwaryanr /awesome-generative-ai-guide",
+        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+        "language": "HTML",
+        "stars": "27,492",
+        "crawled_at": "2026-06-19T15:54:20.164155"
+      },
+      {
+        "name": "BuilderIO /agent-native",
+        "description": "A framework for building agent-native applications.",
+        "language": "TypeScript",
+        "stars": "901",
+        "crawled_at": "2026-06-19T15:54:20.164319"
+      },
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "37,386",
+        "crawled_at": "2026-06-19T15:54:20.164521"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "6,031",
+        "crawled_at": "2026-06-19T15:54:20.164680"
+      },
+      {
+        "name": "zai-org /GLM-5",
+        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+        "language": "未知",
+        "stars": "4,413",
+        "crawled_at": "2026-06-19T15:54:20.164853"
+      },
+      {
+        "name": "withastro /flue",
+        "description": "The sandbox agent framework.",
+        "language": "TypeScript",
+        "stars": "5,723",
+        "crawled_at": "2026-06-19T15:54:20.165056"
       }
     ]
   }
