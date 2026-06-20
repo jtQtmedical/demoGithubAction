@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-21",
-    "repos": [
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "21,697",
-        "crawled_at": "2026-05-21T16:08:31.547423"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "12,546",
-        "crawled_at": "2026-05-21T16:08:31.547649"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "142,648",
-        "crawled_at": "2026-05-21T16:08:31.547862"
-      },
-      {
-        "name": "dotnet /skills",
-        "description": "Repository for skills to assist AI coding agents with .NET and C#",
-        "language": "C#",
-        "stars": "2,079",
-        "crawled_at": "2026-05-21T16:08:31.548050"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "201,205",
-        "crawled_at": "2026-05-21T16:08:31.548277"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "38,959",
-        "crawled_at": "2026-05-21T16:08:31.548479"
-      },
-      {
-        "name": "rmyndharis /OpenWA",
-        "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-        "language": "TypeScript",
-        "stars": "5,261",
-        "crawled_at": "2026-05-21T16:08:31.548689"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "40,345",
-        "crawled_at": "2026-05-21T16:08:31.548892"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "10,478",
-        "crawled_at": "2026-05-21T16:08:31.549120"
-      },
-      {
-        "name": "teng-lin /notebooklm-py",
-        "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-        "language": "Python",
-        "stars": "14,260",
-        "crawled_at": "2026-05-21T16:08:31.549305"
-      }
-    ]
-  },
-  {
     "date": "2026-05-22",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "5,723",
         "crawled_at": "2026-06-19T15:54:20.165056"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "repos": [
+      {
+        "name": "palmier-io /palmier-pro",
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "stars": "2,614",
+        "crawled_at": "2026-06-20T14:56:45.601111"
+      },
+      {
+        "name": "penpot /penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "stars": "50,952",
+        "crawled_at": "2026-06-20T14:56:45.601307"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "6,713",
+        "crawled_at": "2026-06-20T14:56:45.601487"
+      },
+      {
+        "name": "tursodatabase /turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "stars": "20,094",
+        "crawled_at": "2026-06-20T14:56:45.601685"
+      },
+      {
+        "name": "DeusData /codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "stars": "8,954",
+        "crawled_at": "2026-06-20T14:56:45.601879"
+      },
+      {
+        "name": "google-research /timesfm",
+        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "language": "Python",
+        "stars": "24,335",
+        "crawled_at": "2026-06-20T14:56:45.602062"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "stars": "50,720",
+        "crawled_at": "2026-06-20T14:56:45.602240"
+      },
+      {
+        "name": "Kong /insomnia",
+        "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+        "language": "TypeScript",
+        "stars": "39,169",
+        "crawled_at": "2026-06-20T14:56:45.602421"
+      },
+      {
+        "name": "tw93 /Pake",
+        "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+        "language": "Rust",
+        "stars": "53,596",
+        "crawled_at": "2026-06-20T14:56:45.602664"
+      },
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "40,813",
+        "crawled_at": "2026-06-20T14:56:45.602888"
       }
     ]
   }
