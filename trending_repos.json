@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "repos": [
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "24,147",
-        "crawled_at": "2026-05-22T15:41:35.973046"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "15,918",
-        "crawled_at": "2026-05-22T15:41:35.973253"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "63,677",
-        "crawled_at": "2026-05-22T15:41:35.973457"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "11,427",
-        "crawled_at": "2026-05-22T15:41:35.973693"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "40,832",
-        "crawled_at": "2026-05-22T15:41:35.973911"
-      },
-      {
-        "name": "dotnet /skills",
-        "description": "Repository for skills to assist AI coding agents with .NET and C#",
-        "language": "C#",
-        "stars": "2,436",
-        "crawled_at": "2026-05-22T15:41:35.974102"
-      },
-      {
-        "name": "Lum1104 /Understand-Anything",
-        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "language": "TypeScript",
-        "stars": "17,833",
-        "crawled_at": "2026-05-22T15:41:35.974289"
-      },
-      {
-        "name": "odoo /odoo",
-        "description": "Odoo. Open Source Apps To Grow Your Business.",
-        "language": "Python",
-        "stars": "50,986",
-        "crawled_at": "2026-05-22T15:41:35.974480"
-      },
-      {
-        "name": "byJoey /cfnew",
-        "description": "無描述",
-        "language": "未知",
-        "stars": "13,242",
-        "crawled_at": "2026-05-22T15:41:35.974693"
-      },
-      {
-        "name": "trimstray /the-book-of-secret-knowledge",
-        "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-        "language": "未知",
-        "stars": "223,006",
-        "crawled_at": "2026-05-22T15:41:35.974913"
-      }
-    ]
-  },
-  {
     "date": "2026-05-23",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "40,813",
         "crawled_at": "2026-06-20T14:56:45.602888"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "repos": [
+      {
+        "name": "palmier-io /palmier-pro",
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "stars": "4,392",
+        "crawled_at": "2026-06-21T15:04:25.204891"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "7,888",
+        "crawled_at": "2026-06-21T15:04:25.205077"
+      },
+      {
+        "name": "chopratejas /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "43,298",
+        "crawled_at": "2026-06-21T15:04:25.205279"
+      },
+      {
+        "name": "tursodatabase /turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "stars": "20,619",
+        "crawled_at": "2026-06-21T15:04:25.205442"
+      },
+      {
+        "name": "penpot /penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "stars": "51,982",
+        "crawled_at": "2026-06-21T15:04:25.205617"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "44,087",
+        "crawled_at": "2026-06-21T15:04:25.205781"
+      },
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "57,828",
+        "crawled_at": "2026-06-21T15:04:25.205945"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "72,316",
+        "crawled_at": "2026-06-21T15:04:25.206106"
+      },
+      {
+        "name": "DeusData /codebase-memory-mcp",
+        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+        "language": "C",
+        "stars": "9,927",
+        "crawled_at": "2026-06-21T15:04:25.206266"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "17,351",
+        "crawled_at": "2026-06-21T15:04:25.206468"
       }
     ]
   }
