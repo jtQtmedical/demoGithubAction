@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-23",
-    "repos": [
-      {
-        "name": "Lum1104 /Understand-Anything",
-        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "language": "TypeScript",
-        "stars": "20,060",
-        "crawled_at": "2026-05-23T14:20:48.048906"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "25,991",
-        "crawled_at": "2026-05-23T14:20:48.049115"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "18,244",
-        "crawled_at": "2026-05-23T14:20:48.049302"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "12,969",
-        "crawled_at": "2026-05-23T14:20:48.049525"
-      },
-      {
-        "name": "Fincept-Corporation /FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-        "language": "Python",
-        "stars": "22,930",
-        "crawled_at": "2026-05-23T14:20:48.049787"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "148,682",
-        "crawled_at": "2026-05-23T14:20:48.049997"
-      },
-      {
-        "name": "dotnet /skills",
-        "description": "Repository for skills to assist AI coding agents with .NET and C#",
-        "language": "C#",
-        "stars": "2,673",
-        "crawled_at": "2026-05-23T14:20:48.050187"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "41,213",
-        "crawled_at": "2026-05-23T14:20:48.050371"
-      },
-      {
-        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
-        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-        "language": "Python",
-        "stars": "7,003",
-        "crawled_at": "2026-05-23T14:20:48.050598"
-      },
-      {
-        "name": "presenton /presenton",
-        "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-        "language": "TypeScript",
-        "stars": "6,116",
-        "crawled_at": "2026-05-23T14:20:48.050851"
-      }
-    ]
-  },
-  {
     "date": "2026-05-24",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "17,351",
         "crawled_at": "2026-06-21T15:04:25.206468"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "repos": [
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "11,259",
+        "crawled_at": "2026-06-22T17:20:01.070967"
+      },
+      {
+        "name": "palmier-io /palmier-pro",
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "stars": "6,968",
+        "crawled_at": "2026-06-22T17:20:01.071152"
+      },
+      {
+        "name": "jamiepine /voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "language": "TypeScript",
+        "stars": "32,010",
+        "crawled_at": "2026-06-22T17:20:01.071316"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "18,413",
+        "crawled_at": "2026-06-22T17:20:01.071515"
+      },
+      {
+        "name": "penpot /penpot",
+        "description": "Penpot: The open-source design tool for design and code collaboration",
+        "language": "Clojure",
+        "stars": "52,723",
+        "crawled_at": "2026-06-22T17:20:01.071676"
+      },
+      {
+        "name": "Stirling-Tools /Stirling-PDF",
+        "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+        "language": "TypeScript",
+        "stars": "82,661",
+        "crawled_at": "2026-06-22T17:20:01.071886"
+      },
+      {
+        "name": "garrytan /gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "stars": "112,907",
+        "crawled_at": "2026-06-22T17:20:01.072050"
+      },
+      {
+        "name": "heygen-com /hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": "29,814",
+        "crawled_at": "2026-06-22T17:20:01.072209"
+      },
+      {
+        "name": "tursodatabase /turso",
+        "description": "Turso is an in-process SQL database, compatible with SQLite.",
+        "language": "Rust",
+        "stars": "21,221",
+        "crawled_at": "2026-06-22T17:20:01.072365"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "73,091",
+        "crawled_at": "2026-06-22T17:20:01.072523"
       }
     ]
   }
