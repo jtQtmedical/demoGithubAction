@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "repos": [
-      {
-        "name": "Lum1104 /Understand-Anything",
-        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "language": "TypeScript",
-        "stars": "24,130",
-        "crawled_at": "2026-05-24T14:15:39.687241"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "14,880",
-        "crawled_at": "2026-05-24T14:15:39.687565"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "27,063",
-        "crawled_at": "2026-05-24T14:15:39.687762"
-      },
-      {
-        "name": "anthropics /knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars": "13,403",
-        "crawled_at": "2026-05-24T14:15:39.687956"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "151,132",
-        "crawled_at": "2026-05-24T14:15:39.688162"
-      },
-      {
-        "name": "earendil-works /pi",
-        "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-        "language": "TypeScript",
-        "stars": "53,689",
-        "crawled_at": "2026-05-24T14:15:39.688352"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
-        "language": "Python",
-        "stars": "28,888",
-        "crawled_at": "2026-05-24T14:15:39.688566"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "21,172",
-        "crawled_at": "2026-05-24T14:15:39.688760"
-      },
-      {
-        "name": "multica-ai /multica",
-        "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-        "language": "TypeScript",
-        "stars": "32,254",
-        "crawled_at": "2026-05-24T14:15:39.688953"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "25,700",
-        "crawled_at": "2026-05-24T14:15:39.689141"
-      }
-    ]
-  },
-  {
     "date": "2026-05-25",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "73,091",
         "crawled_at": "2026-06-22T17:20:01.072523"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "repos": [
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "14,678",
+        "crawled_at": "2026-06-23T15:40:45.273077"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "46,761",
+        "crawled_at": "2026-06-23T15:40:45.273265"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "19,369",
+        "crawled_at": "2026-06-23T15:40:45.273467"
+      },
+      {
+        "name": "garrytan /gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "stars": "113,826",
+        "crawled_at": "2026-06-23T15:40:45.273641"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "73,761",
+        "crawled_at": "2026-06-23T15:40:45.273795"
+      },
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "58,874",
+        "crawled_at": "2026-06-23T15:40:45.273956"
+      },
+      {
+        "name": "palmier-io /palmier-pro",
+        "description": "macOS video editor built for AI",
+        "language": "Swift",
+        "stars": "8,257",
+        "crawled_at": "2026-06-23T15:40:45.274112"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "30,736",
+        "crawled_at": "2026-06-23T15:40:45.274265"
+      },
+      {
+        "name": "shanraisshan /claude-code-best-practice",
+        "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+        "language": "HTML",
+        "stars": "59,183",
+        "crawled_at": "2026-06-23T15:40:45.274424"
+      },
+      {
+        "name": "revfactory /harness",
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "stars": "7,350",
+        "crawled_at": "2026-06-23T15:40:45.274587"
       }
     ]
   }
