@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-25",
-    "repos": [
-      {
-        "name": "Lum1104 /Understand-Anything",
-        "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-        "language": "TypeScript",
-        "stars": "29,953",
-        "crawled_at": "2026-05-25T15:44:04.321267"
-      },
-      {
-        "name": "anthropics /knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars": "14,897",
-        "crawled_at": "2026-05-25T15:44:04.321467"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "18,017",
-        "crawled_at": "2026-05-25T15:44:04.321680"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "191,974",
-        "crawled_at": "2026-05-25T15:44:04.321886"
-      },
-      {
-        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
-        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-        "language": "Python",
-        "stars": "8,956",
-        "crawled_at": "2026-05-25T15:44:04.322092"
-      },
-      {
-        "name": "colbymchenry /codegraph",
-        "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-        "language": "TypeScript",
-        "stars": "24,412",
-        "crawled_at": "2026-05-25T15:44:04.322256"
-      },
-      {
-        "name": "manaflow-ai /cmux",
-        "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-        "language": "Swift",
-        "stars": "19,368",
-        "crawled_at": "2026-05-25T15:44:04.322432"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "154,166",
-        "crawled_at": "2026-05-25T15:44:04.322609"
-      },
-      {
-        "name": "Fincept-Corporation /FinceptTerminal",
-        "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-        "language": "Python",
-        "stars": "23,746",
-        "crawled_at": "2026-05-25T15:44:04.322810"
-      },
-      {
-        "name": "paperless-ngx /paperless-ngx",
-        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-        "language": "Python",
-        "stars": "41,196",
-        "crawled_at": "2026-05-25T15:44:04.322972"
-      }
-    ]
-  },
-  {
     "date": "2026-05-26",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "HTML",
         "stars": "7,350",
         "crawled_at": "2026-06-23T15:40:45.274587"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "repos": [
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "18,302",
+        "crawled_at": "2026-06-24T15:27:41.702894"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "48,179",
+        "crawled_at": "2026-06-24T15:27:41.703127"
+      },
+      {
+        "name": "apple /container",
+        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+        "language": "Swift",
+        "stars": "41,658",
+        "crawled_at": "2026-06-24T15:27:41.703317"
+      },
+      {
+        "name": "interviewstreet /hiring-agent",
+        "description": "AI agent to evaluate and score resumes.",
+        "language": "Python",
+        "stars": "1,958",
+        "crawled_at": "2026-06-24T15:27:41.703500"
+      },
+      {
+        "name": "JCodesMore /ai-website-cloner-template",
+        "description": "Clone any website with one command using AI coding agents",
+        "language": "TypeScript",
+        "stars": "19,057",
+        "crawled_at": "2026-06-24T15:27:41.703688"
+      },
+      {
+        "name": "revfactory /harness",
+        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+        "language": "HTML",
+        "stars": "7,628",
+        "crawled_at": "2026-06-24T15:27:41.703869"
+      },
+      {
+        "name": "flutter /flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars": "177,176",
+        "crawled_at": "2026-06-24T15:27:41.704077"
+      },
+      {
+        "name": "andreknieriem /headunit-revived",
+        "description": "Headunit App for displaying Android Auto",
+        "language": "Kotlin",
+        "stars": "1,371",
+        "crawled_at": "2026-06-24T15:27:41.704260"
+      },
+      {
+        "name": "stablyai /orca",
+        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+        "language": "TypeScript",
+        "stars": "6,566",
+        "crawled_at": "2026-06-24T15:27:41.704445"
+      },
+      {
+        "name": "google-labs-code /design.md",
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "language": "TypeScript",
+        "stars": "16,935",
+        "crawled_at": "2026-06-24T15:27:41.704625"
       }
     ]
   }
