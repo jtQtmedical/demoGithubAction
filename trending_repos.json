@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-28",
-    "repos": [
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "65,701",
-        "crawled_at": "2026-05-28T16:44:13.179156"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "196,976",
-        "crawled_at": "2026-05-28T16:44:13.179405"
-      },
-      {
-        "name": "Leonxlnx /taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "language": "Shell",
-        "stars": "25,932",
-        "crawled_at": "2026-05-28T16:44:13.179641"
-      },
-      {
-        "name": "hardikpandya /stop-slop",
-        "description": "A skill file for removing AI tells from prose",
-        "language": "未知",
-        "stars": "6,234",
-        "crawled_at": "2026-05-28T16:44:13.179859"
-      },
-      {
-        "name": "twentyhq /twenty",
-        "description": "The open alternative to Salesforce, designed for AI.",
-        "language": "TypeScript",
-        "stars": "47,692",
-        "crawled_at": "2026-05-28T16:44:13.180046"
-      },
-      {
-        "name": "DigitalPlatDev /FreeDomain",
-        "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-        "language": "HTML",
-        "stars": "170,400",
-        "crawled_at": "2026-05-28T16:44:13.180237"
-      },
-      {
-        "name": "byoungd /English-level-up-tips",
-        "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-        "language": "未知",
-        "stars": "48,216",
-        "crawled_at": "2026-05-28T16:44:13.180477"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "127,243",
-        "crawled_at": "2026-05-28T16:44:13.180677"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "210,815",
-        "crawled_at": "2026-05-28T16:44:13.180906"
-      },
-      {
-        "name": "revfactory /harness",
-        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-        "language": "HTML",
-        "stars": "3,778",
-        "crawled_at": "2026-05-28T16:44:13.181089"
-      }
-    ]
-  },
-  {
     "date": "2026-05-29",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "2,928",
         "crawled_at": "2026-06-26T15:17:25.027056"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "repos": [
+      {
+        "name": "simplex-chat /simplex-chat",
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+        "language": "Haskell",
+        "stars": "13,345",
+        "crawled_at": "2026-06-27T14:18:51.277003"
+      },
+      {
+        "name": "xbtlin /ai-berkshire",
+        "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "stars": "3,665",
+        "crawled_at": "2026-06-27T14:18:51.277211"
+      },
+      {
+        "name": "commaai /openpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "language": "Python",
+        "stars": "61,962",
+        "crawled_at": "2026-06-27T14:18:51.277425"
+      },
+      {
+        "name": "IceWhaleTech /CasaOS",
+        "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+        "language": "Go",
+        "stars": "35,630",
+        "crawled_at": "2026-06-27T14:18:51.277617"
+      },
+      {
+        "name": "ripienaar /free-for-dev",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "language": "HTML",
+        "stars": "123,993",
+        "crawled_at": "2026-06-27T14:18:51.277804"
+      },
+      {
+        "name": "google-labs-code /design.md",
+        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+        "language": "TypeScript",
+        "stars": "22,027",
+        "crawled_at": "2026-06-27T14:18:51.277996"
+      },
+      {
+        "name": "microsoft /PowerToys",
+        "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "language": "C",
+        "stars": "135,609",
+        "crawled_at": "2026-06-27T14:18:51.278181"
+      },
+      {
+        "name": "hugohe3 /ppt-master",
+        "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+        "language": "Python",
+        "stars": "32,752",
+        "crawled_at": "2026-06-27T14:18:51.278384"
+      },
+      {
+        "name": "JCodesMore /ai-website-cloner-template",
+        "description": "Clone any website with one command using AI coding agents",
+        "language": "TypeScript",
+        "stars": "21,820",
+        "crawled_at": "2026-06-27T14:18:51.278574"
+      },
+      {
+        "name": "garrytan /gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "stars": "116,965",
+        "crawled_at": "2026-06-27T14:18:51.278758"
       }
     ]
   }
