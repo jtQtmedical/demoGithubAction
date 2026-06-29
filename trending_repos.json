@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-05-30",
-    "repos": [
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "131,269",
-        "crawled_at": "2026-05-30T14:19:53.722228"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "71,354",
-        "crawled_at": "2026-05-30T14:19:53.722458"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Python",
-        "stars": "128,209",
-        "crawled_at": "2026-05-30T14:19:53.722655"
-      },
-      {
-        "name": "cursor /plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars": "1,382",
-        "crawled_at": "2026-05-30T14:19:53.722840"
-      },
-      {
-        "name": "revfactory /harness",
-        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-        "language": "HTML",
-        "stars": "4,142",
-        "crawled_at": "2026-05-30T14:19:53.723027"
-      },
-      {
-        "name": "EveryInc /compound-engineering-plugin",
-        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-        "language": "TypeScript",
-        "stars": "18,319",
-        "crawled_at": "2026-05-30T14:19:53.723211"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "199,003",
-        "crawled_at": "2026-05-30T14:19:53.723460"
-      },
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "language": "Python",
-        "stars": "22,546",
-        "crawled_at": "2026-05-30T14:19:53.723647"
-      },
-      {
-        "name": "galilai-group /stable-worldmodel",
-        "description": "A platform for reproducible world model research and evaluation",
-        "language": "Python",
-        "stars": "1,383",
-        "crawled_at": "2026-05-30T14:19:53.723829"
-      },
-      {
-        "name": "Crosstalk-Solutions /project-nomad",
-        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-        "language": "TypeScript",
-        "stars": "27,174",
-        "crawled_at": "2026-05-30T14:19:53.724013"
-      }
-    ]
-  },
-  {
     "date": "2026-05-31",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "14,052",
         "crawled_at": "2026-06-28T14:27:55.296363"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "repos": [
+      {
+        "name": "simplex-chat /simplex-chat",
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+        "language": "Haskell",
+        "stars": "16,239",
+        "crawled_at": "2026-06-29T16:29:17.328952"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "118,592",
+        "crawled_at": "2026-06-29T16:29:17.329182"
+      },
+      {
+        "name": "cupy /cupy",
+        "description": "NumPy & SciPy for GPU",
+        "language": "Python",
+        "stars": "11,750",
+        "crawled_at": "2026-06-29T16:29:17.329385"
+      },
+      {
+        "name": "altic-dev /FluidVoice",
+        "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
+        "language": "Swift",
+        "stars": "4,217",
+        "crawled_at": "2026-06-29T16:29:17.329592"
+      },
+      {
+        "name": "soxoj /maigret",
+        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+        "language": "Python",
+        "stars": "34,213",
+        "crawled_at": "2026-06-29T16:29:17.329791"
+      },
+      {
+        "name": "commaai /openpilot",
+        "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+        "language": "Python",
+        "stars": "62,696",
+        "crawled_at": "2026-06-29T16:29:17.329948"
+      },
+      {
+        "name": "ripienaar /free-for-dev",
+        "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+        "language": "HTML",
+        "stars": "126,538",
+        "crawled_at": "2026-06-29T16:29:17.330106"
+      },
+      {
+        "name": "logto-io /logto",
+        "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+        "language": "TypeScript",
+        "stars": "12,467",
+        "crawled_at": "2026-06-29T16:29:17.330313"
+      },
+      {
+        "name": "xbtlin /ai-berkshire",
+        "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+        "language": "Python",
+        "stars": "6,474",
+        "crawled_at": "2026-06-29T16:29:17.330468"
+      },
+      {
+        "name": "browser-use /video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "stars": "11,731",
+        "crawled_at": "2026-06-29T16:29:17.330627"
       }
     ]
   }
