@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-01",
-    "repos": [
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "137,756",
-        "crawled_at": "2026-06-01T18:29:48.443805"
-      },
-      {
-        "name": "nesquena /hermes-webui",
-        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-        "language": "Python",
-        "stars": "10,942",
-        "crawled_at": "2026-06-01T18:29:48.444034"
-      },
-      {
-        "name": "supermemoryai /supermemory",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-        "language": "TypeScript",
-        "stars": "23,848",
-        "crawled_at": "2026-06-01T18:29:48.444214"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "language": "Python",
-        "stars": "76,663",
-        "crawled_at": "2026-06-01T18:29:48.444402"
-      },
-      {
-        "name": "D4Vinci /Scrapling",
-        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-        "language": "Python",
-        "stars": "57,819",
-        "crawled_at": "2026-06-01T18:29:48.444614"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "JavaScript",
-        "stars": "32,520",
-        "crawled_at": "2026-06-01T18:29:48.444788"
-      },
-      {
-        "name": "p-e-w /heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "stars": "22,968",
-        "crawled_at": "2026-06-01T18:29:48.444963"
-      },
-      {
-        "name": "EveryInc /compound-engineering-plugin",
-        "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-        "language": "TypeScript",
-        "stars": "19,041",
-        "crawled_at": "2026-06-01T18:29:48.445134"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "81,632",
-        "crawled_at": "2026-06-01T18:29:48.445320"
-      },
-      {
-        "name": "revfactory /harness",
-        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-        "language": "HTML",
-        "stars": "5,066",
-        "crawled_at": "2026-06-01T18:29:48.445495"
-      }
-    ]
-  },
-  {
     "date": "2026-06-02",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "45,778",
         "crawled_at": "2026-06-30T15:20:09.660673"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-01",
+    "repos": [
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "122,512",
+        "crawled_at": "2026-07-01T15:32:14.772182"
+      },
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "29,090",
+        "crawled_at": "2026-07-01T15:32:14.772389"
+      },
+      {
+        "name": "HKUDS /Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "stars": "16,312",
+        "crawled_at": "2026-07-01T15:32:14.772589"
+      },
+      {
+        "name": "hasaneyldrm /exercises-dataset",
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "language": "HTML",
+        "stars": "8,099",
+        "crawled_at": "2026-07-01T15:32:14.772776"
+      },
+      {
+        "name": "facebook /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "2,233",
+        "crawled_at": "2026-07-01T15:32:14.772962"
+      },
+      {
+        "name": "diegosouzapw /OmniRoute",
+        "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+        "language": "TypeScript",
+        "stars": "9,278",
+        "crawled_at": "2026-07-01T15:32:14.773188"
+      },
+      {
+        "name": "allenai /olmocr",
+        "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+        "language": "Python",
+        "stars": "18,137",
+        "crawled_at": "2026-07-01T15:32:14.773367"
+      },
+      {
+        "name": "logto-io /logto",
+        "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+        "language": "TypeScript",
+        "stars": "13,124",
+        "crawled_at": "2026-07-01T15:32:14.773610"
+      },
+      {
+        "name": "togatoga /karukan",
+        "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+        "language": "Rust",
+        "stars": "553",
+        "crawled_at": "2026-07-01T15:32:14.773795"
+      },
+      {
+        "name": "Mebus /cupp",
+        "description": "Common User Passwords Profiler (CUPP)",
+        "language": "Python",
+        "stars": "6,215",
+        "crawled_at": "2026-07-01T15:32:14.773974"
       }
     ]
   }
