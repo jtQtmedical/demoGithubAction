@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-02",
-    "repos": [
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "5,585",
-        "crawled_at": "2026-06-02T17:10:11.805199"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "140,769",
-        "crawled_at": "2026-06-02T17:10:11.805405"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "203,357",
-        "crawled_at": "2026-06-02T17:10:11.805644"
-      },
-      {
-        "name": "D4Vinci /Scrapling",
-        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-        "language": "Python",
-        "stars": "58,941",
-        "crawled_at": "2026-06-02T17:10:11.805877"
-      },
-      {
-        "name": "nesquena /hermes-webui",
-        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-        "language": "Python",
-        "stars": "12,381",
-        "crawled_at": "2026-06-02T17:10:11.806130"
-      },
-      {
-        "name": "reconurge /flowsint",
-        "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-        "language": "TypeScript",
-        "stars": "4,380",
-        "crawled_at": "2026-06-02T17:10:11.806329"
-      },
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "language": "Python",
-        "stars": "24,966",
-        "crawled_at": "2026-06-02T17:10:11.806519"
-      },
-      {
-        "name": "stefan-jansen /machine-learning-for-trading",
-        "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
-        "language": "Jupyter Notebook",
-        "stars": "18,298",
-        "crawled_at": "2026-06-02T17:10:11.806709"
-      },
-      {
-        "name": "jamwithai /production-agentic-rag-course",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "6,301",
-        "crawled_at": "2026-06-02T17:10:11.806915"
-      },
-      {
-        "name": "supermemoryai /supermemory",
-        "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-        "language": "TypeScript",
-        "stars": "24,485",
-        "crawled_at": "2026-06-02T17:10:11.807133"
-      }
-    ]
-  },
-  {
     "date": "2026-06-03",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "6,215",
         "crawled_at": "2026-07-01T15:32:14.773974"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "repos": [
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "31,216",
+        "crawled_at": "2026-07-02T15:00:19.995227"
+      },
+      {
+        "name": "JuliusBrussee /caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "stars": "79,961",
+        "crawled_at": "2026-07-02T15:00:19.995473"
+      },
+      {
+        "name": "msitarzewski /agency-agents",
+        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "language": "Shell",
+        "stars": "125,133",
+        "crawled_at": "2026-07-02T15:00:19.995697"
+      },
+      {
+        "name": "hasaneyldrm /exercises-dataset",
+        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+        "language": "HTML",
+        "stars": "9,010",
+        "crawled_at": "2026-07-02T15:00:19.995882"
+      },
+      {
+        "name": "santifer /career-ops",
+        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+        "language": "JavaScript",
+        "stars": "57,466",
+        "crawled_at": "2026-07-02T15:00:19.996128"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "244,110",
+        "crawled_at": "2026-07-02T15:00:19.996354"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "44,981",
+        "crawled_at": "2026-07-02T15:00:19.996539"
+      },
+      {
+        "name": "browser-use /video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "stars": "13,604",
+        "crawled_at": "2026-07-02T15:00:19.996720"
+      },
+      {
+        "name": "actions /checkout",
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "stars": "8,110",
+        "crawled_at": "2026-07-02T15:00:19.996902"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "224,958",
+        "crawled_at": "2026-07-02T15:00:19.997145"
       }
     ]
   }
