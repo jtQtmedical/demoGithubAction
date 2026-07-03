@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-03",
-    "repos": [
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "9,083",
-        "crawled_at": "2026-06-03T17:52:50.296973"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "205,359",
-        "crawled_at": "2026-06-03T17:52:50.297214"
-      },
-      {
-        "name": "aquasecurity /trivy",
-        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-        "language": "Go",
-        "stars": "35,324",
-        "crawled_at": "2026-06-03T17:52:50.297406"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "178,732",
-        "crawled_at": "2026-06-03T17:52:50.297615"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "142,614",
-        "crawled_at": "2026-06-03T17:52:50.297800"
-      },
-      {
-        "name": "nesquena /hermes-webui",
-        "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-        "language": "Python",
-        "stars": "13,008",
-        "crawled_at": "2026-06-03T17:52:50.298025"
-      },
-      {
-        "name": "D4Vinci /Scrapling",
-        "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-        "language": "Python",
-        "stars": "59,985",
-        "crawled_at": "2026-06-03T17:52:50.298258"
-      },
-      {
-        "name": "opendataloader-project /opendataloader-pdf",
-        "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-        "language": "Java",
-        "stars": "23,143",
-        "crawled_at": "2026-06-03T17:52:50.298453"
-      },
-      {
-        "name": "odoo /odoo",
-        "description": "Odoo. Open Source Apps To Grow Your Business.",
-        "language": "Python",
-        "stars": "51,859",
-        "crawled_at": "2026-06-03T17:52:50.298658"
-      },
-      {
-        "name": "Open-LLM-VTuber /Open-LLM-VTuber",
-        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-        "language": "Python",
-        "stars": "8,847",
-        "crawled_at": "2026-06-03T17:52:50.298842"
-      }
-    ]
-  },
-  {
     "date": "2026-06-04",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "JavaScript",
         "stars": "224,958",
         "crawled_at": "2026-07-02T15:00:19.997145"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "repos": [
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "33,884",
+        "crawled_at": "2026-07-03T14:58:45.352711"
+      },
+      {
+        "name": "openai /codex-plugin-cc",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "stars": "22,991",
+        "crawled_at": "2026-07-03T14:58:45.352911"
+      },
+      {
+        "name": "JuliusBrussee /caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "stars": "82,538",
+        "crawled_at": "2026-07-03T14:58:45.353145"
+      },
+      {
+        "name": "elastic /elasticsearch",
+        "description": "Free and Open Source, Distributed, RESTful Search Engine",
+        "language": "Java",
+        "stars": "77,254",
+        "crawled_at": "2026-07-03T14:58:45.353329"
+      },
+      {
+        "name": "actions /checkout",
+        "description": "Action for checking out a repo",
+        "language": "TypeScript",
+        "stars": "8,233",
+        "crawled_at": "2026-07-03T14:58:45.353506"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "45,372",
+        "crawled_at": "2026-07-03T14:58:45.353706"
+      },
+      {
+        "name": "ansible /ansible",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+        "language": "Python",
+        "stars": "69,117",
+        "crawled_at": "2026-07-03T14:58:45.353893"
+      },
+      {
+        "name": "facebook /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "4,235",
+        "crawled_at": "2026-07-03T14:58:45.354072"
+      },
+      {
+        "name": "rommapp /romm",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "language": "Python",
+        "stars": "9,627",
+        "crawled_at": "2026-07-03T14:58:45.354253"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "stars": "26,005",
+        "crawled_at": "2026-07-03T14:58:45.354431"
       }
     ]
   }
