@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-04",
-    "repos": [
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "11,852",
-        "crawled_at": "2026-06-04T16:13:06.471121"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "180,503",
-        "crawled_at": "2026-06-04T16:13:06.471266"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "206,841",
-        "crawled_at": "2026-06-04T16:13:06.471429"
-      },
-      {
-        "name": "PaddlePaddle /PaddleOCR",
-        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-        "language": "Python",
-        "stars": "79,699",
-        "crawled_at": "2026-06-04T16:13:06.471574"
-      },
-      {
-        "name": "github /spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "stars": "108,385",
-        "crawled_at": "2026-06-04T16:13:06.471705"
-      },
-      {
-        "name": "NVIDIA /cosmos",
-        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-        "language": "Jupyter Notebook",
-        "stars": "8,872",
-        "crawled_at": "2026-06-04T16:13:06.471832"
-      },
-      {
-        "name": "lfnovo /open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-        "language": "TypeScript",
-        "stars": "24,654",
-        "crawled_at": "2026-06-04T16:13:06.471958"
-      },
-      {
-        "name": "Open-LLM-VTuber /Open-LLM-VTuber",
-        "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-        "language": "Python",
-        "stars": "9,428",
-        "crawled_at": "2026-06-04T16:13:06.472083"
-      },
-      {
-        "name": "jwasham /coding-interview-university",
-        "description": "A complete computer science study plan to become a software engineer.",
-        "language": "未知",
-        "stars": "349,559",
-        "crawled_at": "2026-06-04T16:13:06.472216"
-      },
-      {
-        "name": "github /copilot-sdk",
-        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-        "language": "Java",
-        "stars": "8,872",
-        "crawled_at": "2026-06-04T16:13:06.472342"
-      }
-    ]
-  },
-  {
     "date": "2026-06-05",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "26,005",
         "crawled_at": "2026-07-03T14:58:45.354431"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "repos": [
+      {
+        "name": "openai /codex-plugin-cc",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "stars": "23,771",
+        "crawled_at": "2026-07-04T14:19:00.990745"
+      },
+      {
+        "name": "JuliusBrussee /caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "JavaScript",
+        "stars": "83,540",
+        "crawled_at": "2026-07-04T14:19:00.990925"
+      },
+      {
+        "name": "alibaba /page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "stars": "22,785",
+        "crawled_at": "2026-07-04T14:19:00.991052"
+      },
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "35,577",
+        "crawled_at": "2026-07-04T14:19:00.991175"
+      },
+      {
+        "name": "ChromeDevTools /chrome-devtools-mcp",
+        "description": "Chrome DevTools for coding agents",
+        "language": "TypeScript",
+        "stars": "45,654",
+        "crawled_at": "2026-07-04T14:19:00.991298"
+      },
+      {
+        "name": "Zackriya-Solutions /meetily",
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "language": "Rust",
+        "stars": "14,610",
+        "crawled_at": "2026-07-04T14:19:00.991459"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "stars": "48,502",
+        "crawled_at": "2026-07-04T14:19:00.991622"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "stars": "26,425",
+        "crawled_at": "2026-07-04T14:19:00.991745"
+      },
+      {
+        "name": "rommapp /romm",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "language": "Python",
+        "stars": "9,999",
+        "crawled_at": "2026-07-04T14:19:00.991866"
+      },
+      {
+        "name": "ogulcancelik /herdr",
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "stars": "11,155",
+        "crawled_at": "2026-07-04T14:19:00.992019"
       }
     ]
   }
