@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-05",
-    "repos": [
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "182,404",
-        "crawled_at": "2026-06-05T15:42:44.825436"
-      },
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "14,132",
-        "crawled_at": "2026-06-05T15:42:44.825661"
-      },
-      {
-        "name": "CopilotKit /CopilotKit",
-        "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
-        "language": "TypeScript",
-        "stars": "32,459",
-        "crawled_at": "2026-06-05T15:42:44.825828"
-      },
-      {
-        "name": "lfnovo /open-notebook",
-        "description": "An Open Source implementation of Notebook LM with more flexibility and features",
-        "language": "TypeScript",
-        "stars": "25,706",
-        "crawled_at": "2026-06-05T15:42:44.826059"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "208,052",
-        "crawled_at": "2026-06-05T15:42:44.826263"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "21,381",
-        "crawled_at": "2026-06-05T15:42:44.826428"
-      },
-      {
-        "name": "NVIDIA /cosmos",
-        "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-        "language": "Jupyter Notebook",
-        "stars": "9,319",
-        "crawled_at": "2026-06-05T15:42:44.826588"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "64,549",
-        "crawled_at": "2026-06-05T15:42:44.826754"
-      },
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "28,074",
-        "crawled_at": "2026-06-05T15:42:44.826925"
-      },
-      {
-        "name": "PaddlePaddle /PaddleOCR",
-        "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-        "language": "Python",
-        "stars": "80,390",
-        "crawled_at": "2026-06-05T15:42:44.827084"
-      }
-    ]
-  },
-  {
     "date": "2026-06-06",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Rust",
         "stars": "11,155",
         "crawled_at": "2026-07-04T14:19:00.992019"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "repos": [
+      {
+        "name": "Zackriya-Solutions /meetily",
+        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+        "language": "Rust",
+        "stars": "16,080",
+        "crawled_at": "2026-07-05T14:21:24.482241"
+      },
+      {
+        "name": "openai /codex-plugin-cc",
+        "description": "Use Codex from Claude Code to review code or delegate tasks.",
+        "language": "JavaScript",
+        "stars": "25,167",
+        "crawled_at": "2026-07-05T14:21:24.482459"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "stars": "49,497",
+        "crawled_at": "2026-07-05T14:21:24.482693"
+      },
+      {
+        "name": "Leonxlnx /taste-skill",
+        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+        "language": "JavaScript",
+        "stars": "57,024",
+        "crawled_at": "2026-07-05T14:21:24.482911"
+      },
+      {
+        "name": "alirezarezvani /claude-skills",
+        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+        "language": "Python",
+        "stars": "20,354",
+        "crawled_at": "2026-07-05T14:21:24.483091"
+      },
+      {
+        "name": "rommapp /romm",
+        "description": "A beautiful, powerful, self-hosted rom manager and player.",
+        "language": "Python",
+        "stars": "10,392",
+        "crawled_at": "2026-07-05T14:21:24.483292"
+      },
+      {
+        "name": "ogulcancelik /herdr",
+        "description": "agent multiplexer that lives in your terminal.",
+        "language": "Rust",
+        "stars": "11,801",
+        "crawled_at": "2026-07-05T14:21:24.483516"
+      },
+      {
+        "name": "alibaba /page-agent",
+        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "language": "TypeScript",
+        "stars": "23,558",
+        "crawled_at": "2026-07-05T14:21:24.483694"
+      },
+      {
+        "name": "harvard-edge /cs249r_book",
+        "description": "Machine Learning Systems",
+        "language": "Python",
+        "stars": "26,740",
+        "crawled_at": "2026-07-05T14:21:24.483871"
+      },
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "36,691",
+        "crawled_at": "2026-07-05T14:21:24.484060"
       }
     ]
   }
