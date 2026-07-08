@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "repos": [
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "33,729",
-        "crawled_at": "2026-06-08T16:39:55.848495"
-      },
-      {
-        "name": "RyanCodrai /turbovec",
-        "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-        "language": "Python",
-        "stars": "8,365",
-        "crawled_at": "2026-06-08T16:39:55.848673"
-      },
-      {
-        "name": "google /skills",
-        "description": "Agent Skills for Google products and technologies",
-        "language": "Python",
-        "stars": "12,219",
-        "crawled_at": "2026-06-08T16:39:55.848843"
-      },
-      {
-        "name": "refactoringhq /tolaria",
-        "description": "Desktop app to manage markdown knowledge bases",
-        "language": "TypeScript",
-        "stars": "13,400",
-        "crawled_at": "2026-06-08T16:39:55.849008"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "23,860",
-        "crawled_at": "2026-06-08T16:39:55.849174"
-      },
-      {
-        "name": "danielmiessler /Personal_AI_Infrastructure",
-        "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-        "language": "TypeScript",
-        "stars": "15,304",
-        "crawled_at": "2026-06-08T16:39:55.849376"
-      },
-      {
-        "name": "santifer /career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "language": "JavaScript",
-        "stars": "50,220",
-        "crawled_at": "2026-06-08T16:39:55.849575"
-      },
-      {
-        "name": "phuryn /pm-skills",
-        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-        "language": "未知",
-        "stars": "12,494",
-        "crawled_at": "2026-06-08T16:39:55.849738"
-      },
-      {
-        "name": "openai /plugins",
-        "description": "OpenAI Plugins",
-        "language": "JavaScript",
-        "stars": "2,244",
-        "crawled_at": "2026-06-08T16:39:55.849906"
-      },
-      {
-        "name": "Andyyyy64 /whichllm",
-        "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-        "language": "Python",
-        "stars": "3,303",
-        "crawled_at": "2026-06-08T16:39:55.850063"
-      }
-    ]
-  },
-  {
     "date": "2026-06-09",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C#",
         "stars": "9,530",
         "crawled_at": "2026-07-07T15:36:33.776063"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "repos": [
+      {
+        "name": "MadsLorentzen /ai-job-search",
+        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+        "language": "TypeScript",
+        "stars": "14,096",
+        "crawled_at": "2026-07-08T15:01:47.950325"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "73,203",
+        "crawled_at": "2026-07-08T15:01:47.950507"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "78,908",
+        "crawled_at": "2026-07-08T15:01:47.950681"
+      },
+      {
+        "name": "TencentCloud /TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+        "language": "TypeScript",
+        "stars": "7,422",
+        "crawled_at": "2026-07-08T15:01:47.950846"
+      },
+      {
+        "name": "prisma /prisma",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "language": "TypeScript",
+        "stars": "46,430",
+        "crawled_at": "2026-07-08T15:01:47.951010"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "50,554",
+        "crawled_at": "2026-07-08T15:01:47.951178"
+      },
+      {
+        "name": "argoproj /argo-cd",
+        "description": "Declarative Continuous Deployment for Kubernetes",
+        "language": "Go",
+        "stars": "23,378",
+        "crawled_at": "2026-07-08T15:01:47.951340"
+      },
+      {
+        "name": "iOfficeAI /OfficeCLI",
+        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+        "language": "C#",
+        "stars": "11,235",
+        "crawled_at": "2026-07-08T15:01:47.951504"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+        "language": "JavaScript",
+        "stars": "53,765",
+        "crawled_at": "2026-07-08T15:01:47.951713"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "249,530",
+        "crawled_at": "2026-07-08T15:01:47.951909"
       }
     ]
   }
