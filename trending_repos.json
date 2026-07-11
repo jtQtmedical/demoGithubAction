@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-11",
-    "repos": [
-      {
-        "name": "apple /container",
-        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-        "language": "Swift",
-        "stars": "31,548",
-        "crawled_at": "2026-06-11T16:41:21.521812"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "54,074",
-        "crawled_at": "2026-06-11T16:41:21.521993"
-      },
-      {
-        "name": "maziyarpanahi /openmed",
-        "description": "open-source healthcare ai",
-        "language": "Python",
-        "stars": "2,625",
-        "crawled_at": "2026-06-11T16:41:21.522153"
-      },
-      {
-        "name": "phuryn /pm-skills",
-        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-        "language": "未知",
-        "stars": "16,031",
-        "crawled_at": "2026-06-11T16:41:21.522330"
-      },
-      {
-        "name": "NVIDIA /SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "language": "Python",
-        "stars": "2,441",
-        "crawled_at": "2026-06-11T16:41:21.522494"
-      },
-      {
-        "name": "soxoj /maigret",
-        "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-        "language": "Python",
-        "stars": "32,469",
-        "crawled_at": "2026-06-11T16:41:21.522696"
-      },
-      {
-        "name": "x1xhlol /system-prompts-and-models-of-ai-tools",
-        "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-        "language": "未知",
-        "stars": "139,786",
-        "crawled_at": "2026-06-11T16:41:21.522905"
-      },
-      {
-        "name": "refactoringhq /tolaria",
-        "description": "Desktop app to manage markdown knowledge bases",
-        "language": "TypeScript",
-        "stars": "15,296",
-        "crawled_at": "2026-06-11T16:41:21.523063"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "224,588",
-        "crawled_at": "2026-06-11T16:41:21.523259"
-      },
-      {
-        "name": "restic /restic",
-        "description": "Fast, secure, efficient backup program",
-        "language": "Go",
-        "stars": "34,073",
-        "crawled_at": "2026-06-11T16:41:21.523428"
-      }
-    ]
-  },
-  {
     "date": "2026-06-12",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C++",
         "stars": "6,041",
         "crawled_at": "2026-07-10T15:24:07.820416"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "repos": [
+      {
+        "name": "catchorg /Catch2",
+        "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+        "language": "C++",
+        "stars": "20,757",
+        "crawled_at": "2026-07-11T14:13:51.250779"
+      },
+      {
+        "name": "abseil /abseil-cpp",
+        "description": "Abseil Common Libraries (C++)",
+        "language": "C++",
+        "stars": "17,632",
+        "crawled_at": "2026-07-11T14:13:51.250974"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars": "28,891",
+        "crawled_at": "2026-07-11T14:13:51.251161"
+      },
+      {
+        "name": "google-labs-code /stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars": "6,925",
+        "crawled_at": "2026-07-11T14:13:51.251367"
+      },
+      {
+        "name": "hashicorp /terraform",
+        "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+        "language": "Go",
+        "stars": "49,277",
+        "crawled_at": "2026-07-11T14:13:51.251548"
+      },
+      {
+        "name": "zeux /meshoptimizer",
+        "description": "Mesh optimization library that makes meshes smaller and faster to render",
+        "language": "C++",
+        "stars": "8,088",
+        "crawled_at": "2026-07-11T14:13:51.251731"
+      },
+      {
+        "name": "openai /plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "stars": "4,322",
+        "crawled_at": "2026-07-11T14:13:51.251913"
+      },
+      {
+        "name": "wonderwhy-er /DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "stars": "7,682",
+        "crawled_at": "2026-07-11T14:13:51.252136"
+      },
+      {
+        "name": "chriskohlhoff /asio",
+        "description": "Asio C++ Library",
+        "language": "C++",
+        "stars": "6,111",
+        "crawled_at": "2026-07-11T14:13:51.252341"
+      },
+      {
+        "name": "oven-sh /bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+        "language": "Rust",
+        "stars": "94,489",
+        "crawled_at": "2026-07-11T14:13:51.252525"
       }
     ]
   }
