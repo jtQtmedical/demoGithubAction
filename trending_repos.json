@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-12",
-    "repos": [
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "56,444",
-        "crawled_at": "2026-06-12T15:59:20.074197"
-      },
-      {
-        "name": "music-assistant /server",
-        "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-        "language": "Python",
-        "stars": "1,676",
-        "crawled_at": "2026-06-12T15:59:20.074439"
-      },
-      {
-        "name": "mattermost /mattermost",
-        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-        "language": "TypeScript",
-        "stars": "37,539",
-        "crawled_at": "2026-06-12T15:59:20.074621"
-      },
-      {
-        "name": "apple /container",
-        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-        "language": "Swift",
-        "stars": "34,627",
-        "crawled_at": "2026-06-12T15:59:20.074802"
-      },
-      {
-        "name": "iptv-org /iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "language": "TypeScript",
-        "stars": "117,853",
-        "crawled_at": "2026-06-12T15:59:20.075058"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "225,758",
-        "crawled_at": "2026-06-12T15:59:20.075289"
-      },
-      {
-        "name": "refactoringhq /tolaria",
-        "description": "Desktop app to manage markdown knowledge bases",
-        "language": "TypeScript",
-        "stars": "15,636",
-        "crawled_at": "2026-06-12T15:59:20.075470"
-      },
-      {
-        "name": "maziyarpanahi /openmed",
-        "description": "open-source healthcare ai",
-        "language": "Python",
-        "stars": "3,104",
-        "crawled_at": "2026-06-12T15:59:20.075649"
-      },
-      {
-        "name": "LMCache /LMCache",
-        "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-        "language": "Python",
-        "stars": "8,551",
-        "crawled_at": "2026-06-12T15:59:20.075837"
-      },
-      {
-        "name": "phuryn /pm-skills",
-        "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
-        "language": "未知",
-        "stars": "16,786",
-        "crawled_at": "2026-06-12T15:59:20.076046"
-      }
-    ]
-  },
-  {
     "date": "2026-06-13",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Rust",
         "stars": "94,489",
         "crawled_at": "2026-07-11T14:13:51.252525"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "repos": [
+      {
+        "name": "Dicklesworthstone /destructive_command_guard",
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "language": "Rust",
+        "stars": "2,440",
+        "crawled_at": "2026-07-12T14:18:49.771599"
+      },
+      {
+        "name": "wonderwhy-er /DesktopCommanderMCP",
+        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+        "language": "TypeScript",
+        "stars": "7,887",
+        "crawled_at": "2026-07-12T14:18:49.771845"
+      },
+      {
+        "name": "HKUDS /Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "stars": "20,154",
+        "crawled_at": "2026-07-12T14:18:49.772047"
+      },
+      {
+        "name": "PrefectHQ /prefect",
+        "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+        "language": "Python",
+        "stars": "23,031",
+        "crawled_at": "2026-07-12T14:18:49.772237"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "stars": "118,292",
+        "crawled_at": "2026-07-12T14:18:49.772416"
+      },
+      {
+        "name": "anthropics /claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "stars": "48,185",
+        "crawled_at": "2026-07-12T14:18:49.772596"
+      },
+      {
+        "name": "home-assistant /core",
+        "description": "🏡 Open source home automation that puts local control and privacy first.",
+        "language": "Python",
+        "stars": "88,880",
+        "crawled_at": "2026-07-12T14:18:49.772788"
+      },
+      {
+        "name": "Crosstalk-Solutions /project-nomad",
+        "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "language": "TypeScript",
+        "stars": "33,632",
+        "crawled_at": "2026-07-12T14:18:49.772966"
+      },
+      {
+        "name": "ColeMurray /background-agents",
+        "description": "An open-source background agents coding system",
+        "language": "TypeScript",
+        "stars": "2,171",
+        "crawled_at": "2026-07-12T14:18:49.773176"
+      },
+      {
+        "name": "k1tbyte /Wand-Enhancer",
+        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+        "language": "C#",
+        "stars": "6,622",
+        "crawled_at": "2026-07-12T14:18:49.773355"
       }
     ]
   }
