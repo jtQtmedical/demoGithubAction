@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-14",
-    "repos": [
-      {
-        "name": "iptv-org /iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "language": "TypeScript",
-        "stars": "120,122",
-        "crawled_at": "2026-06-14T15:00:25.720922"
-      },
-      {
-        "name": "freeCodeCamp /freeCodeCamp",
-        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "language": "TypeScript",
-        "stars": "446,972",
-        "crawled_at": "2026-06-14T15:00:25.721156"
-      },
-      {
-        "name": "pytest-dev /pytest",
-        "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-        "language": "Python",
-        "stars": "13,962",
-        "crawled_at": "2026-06-14T15:00:25.721377"
-      },
-      {
-        "name": "swc-project /swc",
-        "description": "Rust-based platform for the Web",
-        "language": "Rust",
-        "stars": "33,730",
-        "crawled_at": "2026-06-14T15:00:25.721638"
-      },
-      {
-        "name": "chatwoot /chatwoot",
-        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "language": "Ruby",
-        "stars": "31,086",
-        "crawled_at": "2026-06-14T15:00:25.721874"
-      },
-      {
-        "name": "NVIDIA /SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-        "language": "Python",
-        "stars": "4,958",
-        "crawled_at": "2026-06-14T15:00:25.722053"
-      },
-      {
-        "name": "meshery /meshery",
-        "description": "Meshery, the cloud native manager",
-        "language": "TypeScript",
-        "stars": "10,319",
-        "crawled_at": "2026-06-14T15:00:25.722231"
-      },
-      {
-        "name": "cypress-io /cypress",
-        "description": "Fast, easy and reliable testing for anything that runs in a browser.",
-        "language": "TypeScript",
-        "stars": "49,815",
-        "crawled_at": "2026-06-14T15:00:25.722407"
-      },
-      {
-        "name": "GorvGoyl /Clone-Wars",
-        "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
-        "language": "未知",
-        "stars": "35,177",
-        "crawled_at": "2026-06-14T15:00:25.722669"
-      },
-      {
-        "name": "Introduction-to-Autonomous-Robots /Introduction-to-Autonomous-Robots",
-        "description": "Introduction to Autonomous Robots",
-        "language": "TeX",
-        "stars": "2,529",
-        "crawled_at": "2026-06-14T15:00:25.722859"
-      }
-    ]
-  },
-  {
     "date": "2026-06-15",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "120,380",
         "crawled_at": "2026-07-13T15:36:44.866199"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "repos": [
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "stars": "120,423",
+        "crawled_at": "2026-07-14T14:30:08.120596"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "169,612",
+        "crawled_at": "2026-07-14T14:30:08.120822"
+      },
+      {
+        "name": "Dicklesworthstone /destructive_command_guard",
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "language": "Rust",
+        "stars": "4,158",
+        "crawled_at": "2026-07-14T14:30:08.121027"
+      },
+      {
+        "name": "OpenCut-app /OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "stars": "68,725",
+        "crawled_at": "2026-07-14T14:30:08.121240"
+      },
+      {
+        "name": "virattt /ai-hedge-fund",
+        "description": "An AI Hedge Fund Team",
+        "language": "Python",
+        "stars": "61,722",
+        "crawled_at": "2026-07-14T14:30:08.121401"
+      },
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "5,832",
+        "crawled_at": "2026-07-14T14:30:08.121565"
+      },
+      {
+        "name": "HKUDS /Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "stars": "22,542",
+        "crawled_at": "2026-07-14T14:30:08.121727"
+      },
+      {
+        "name": "Raphire /Win11Debloat",
+        "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+        "language": "PowerShell",
+        "stars": "51,343",
+        "crawled_at": "2026-07-14T14:30:08.121926"
+      },
+      {
+        "name": "hasaneyldrm /exercises-dataset",
+        "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+        "language": "HTML",
+        "stars": "13,149",
+        "crawled_at": "2026-07-14T14:30:08.122102"
+      },
+      {
+        "name": "penpot /penpot",
+        "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+        "language": "Clojure",
+        "stars": "55,971",
+        "crawled_at": "2026-07-14T14:30:08.122261"
       }
     ]
   }
