@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "repos": [
-      {
-        "name": "iptv-org /iptv",
-        "description": "Collection of publicly available IPTV channels from all over the world",
-        "language": "TypeScript",
-        "stars": "122,650",
-        "crawled_at": "2026-06-15T17:46:08.727429"
-      },
-      {
-        "name": "teslamate-org /teslamate",
-        "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-        "language": "Elixir",
-        "stars": "8,190",
-        "crawled_at": "2026-06-15T17:46:08.727616"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "29,834",
-        "crawled_at": "2026-06-15T17:46:08.727783"
-      },
-      {
-        "name": "meshery /meshery",
-        "description": "Meshery, the cloud native manager",
-        "language": "TypeScript",
-        "stars": "10,579",
-        "crawled_at": "2026-06-15T17:46:08.727948"
-      },
-      {
-        "name": "chatwoot /chatwoot",
-        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "language": "Ruby",
-        "stars": "31,571",
-        "crawled_at": "2026-06-15T17:46:08.728163"
-      },
-      {
-        "name": "krahets /hello-algo",
-        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-        "language": "Java",
-        "stars": "126,831",
-        "crawled_at": "2026-06-15T17:46:08.728323"
-      },
-      {
-        "name": "freeCodeCamp /freeCodeCamp",
-        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "language": "TypeScript",
-        "stars": "447,759",
-        "crawled_at": "2026-06-15T17:46:08.728523"
-      },
-      {
-        "name": "trycua /cua",
-        "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-        "language": "HTML",
-        "stars": "18,085",
-        "crawled_at": "2026-06-15T17:46:08.728719"
-      },
-      {
-        "name": "jwasham /coding-interview-university",
-        "description": "A complete computer science study plan to become a software engineer.",
-        "language": "未知",
-        "stars": "352,186",
-        "crawled_at": "2026-06-15T17:46:08.728888"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "32,927",
-        "crawled_at": "2026-06-15T17:46:08.729097"
-      }
-    ]
-  },
-  {
     "date": "2026-06-16",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Clojure",
         "stars": "55,971",
         "crawled_at": "2026-07-14T14:30:08.122261"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "repos": [
+      {
+        "name": "OpenCut-app /OpenCut",
+        "description": "The open-source CapCut alternative",
+        "language": "TypeScript",
+        "stars": "70,419",
+        "crawled_at": "2026-07-15T14:29:23.633726"
+      },
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "7,151",
+        "crawled_at": "2026-07-15T14:29:23.633905"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .claude directory.",
+        "language": "Shell",
+        "stars": "171,686",
+        "crawled_at": "2026-07-15T14:29:23.634139"
+      },
+      {
+        "name": "moeru-ai /airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "stars": "42,361",
+        "crawled_at": "2026-07-15T14:29:23.634312"
+      },
+      {
+        "name": "Dicklesworthstone /destructive_command_guard",
+        "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+        "language": "Rust",
+        "stars": "4,607",
+        "crawled_at": "2026-07-15T14:29:23.634507"
+      },
+      {
+        "name": "HKUDS /Vibe-Trading",
+        "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+        "language": "Python",
+        "stars": "23,418",
+        "crawled_at": "2026-07-15T14:29:23.634663"
+      },
+      {
+        "name": "openinterpreter /openinterpreter",
+        "description": "A coding agent for low-cost models",
+        "language": "Rust",
+        "stars": "65,213",
+        "crawled_at": "2026-07-15T14:29:23.634824"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "stars": "26,072",
+        "crawled_at": "2026-07-15T14:29:23.634990"
+      },
+      {
+        "name": "HenryNdubuaku /maths-cs-ai-compendium",
+        "description": "Become a cracked AI/ML Research Engineer",
+        "language": "TypeScript",
+        "stars": "5,688",
+        "crawled_at": "2026-07-15T14:29:23.635200"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+        "language": "Python",
+        "stars": "121,605",
+        "crawled_at": "2026-07-15T14:29:23.635360"
       }
     ]
   }
