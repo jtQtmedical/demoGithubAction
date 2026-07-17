@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-17",
-    "repos": [
-      {
-        "name": "DeusData /codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "language": "C",
-        "stars": "4,676",
-        "crawled_at": "2026-06-17T16:29:49.683920"
-      },
-      {
-        "name": "n0-computer /iroh",
-        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-        "language": "Rust",
-        "stars": "9,545",
-        "crawled_at": "2026-06-17T16:29:49.684097"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "32,884",
-        "crawled_at": "2026-06-17T16:29:49.684257"
-      },
-      {
-        "name": "meshery /meshery",
-        "description": "Meshery, the cloud native manager",
-        "language": "TypeScript",
-        "stars": "10,968",
-        "crawled_at": "2026-06-17T16:29:49.684416"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "230,762",
-        "crawled_at": "2026-06-17T16:29:49.684617"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "21,642",
-        "crawled_at": "2026-06-17T16:29:49.684792"
-      },
-      {
-        "name": "RocketChat /Rocket.Chat",
-        "description": "The Secure CommsOS™ for mission-critical operations",
-        "language": "TypeScript",
-        "stars": "45,525",
-        "crawled_at": "2026-06-17T16:29:49.684988"
-      },
-      {
-        "name": "continuedev /continue",
-        "description": "open-source coding agent",
-        "language": "TypeScript",
-        "stars": "33,824",
-        "crawled_at": "2026-06-17T16:29:49.685147"
-      },
-      {
-        "name": "penpot /penpot",
-        "description": "Penpot: The open-source design tool for design and code collaboration",
-        "language": "Clojure",
-        "stars": "49,973",
-        "crawled_at": "2026-06-17T16:29:49.685304"
-      },
-      {
-        "name": "krahets /hello-algo",
-        "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-        "language": "Java",
-        "stars": "127,398",
-        "crawled_at": "2026-06-17T16:29:49.685463"
-      }
-    ]
-  },
-  {
     "date": "2026-06-18",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "79,983",
         "crawled_at": "2026-07-16T14:48:55.734813"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "repos": [
+      {
+        "name": "codecrafters-io /build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "stars": "526,925",
+        "crawled_at": "2026-07-17T14:20:32.834316"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "stars": "36,063",
+        "crawled_at": "2026-07-17T14:20:32.834523"
+      },
+      {
+        "name": "HenryNdubuaku /maths-cs-ai-compendium",
+        "description": "Become a cracked AI/ML Research Engineer",
+        "language": "TypeScript",
+        "stars": "6,435",
+        "crawled_at": "2026-07-17T14:20:32.834751"
+      },
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "11,680",
+        "crawled_at": "2026-07-17T14:20:32.834933"
+      },
+      {
+        "name": "github /copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "stars": "9,751",
+        "crawled_at": "2026-07-17T14:20:32.835138"
+      },
+      {
+        "name": "anthropics /cwc-workshops",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "1,511",
+        "crawled_at": "2026-07-17T14:20:32.835344"
+      },
+      {
+        "name": "PrismML-Eng /Bonsai-demo",
+        "description": "Bonsai Demo",
+        "language": "Shell",
+        "stars": "1,661",
+        "crawled_at": "2026-07-17T14:20:32.835531"
+      },
+      {
+        "name": "protocolbuffers /protobuf",
+        "description": "Protocol Buffers - Google's data interchange format",
+        "language": "C++",
+        "stars": "71,511",
+        "crawled_at": "2026-07-17T14:20:32.835714"
+      },
+      {
+        "name": "tirth8205 /code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "stars": "19,633",
+        "crawled_at": "2026-07-17T14:20:32.835938"
+      },
+      {
+        "name": "docusealco /docuseal",
+        "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+        "language": "Ruby",
+        "stars": "17,726",
+        "crawled_at": "2026-07-17T14:20:32.836140"
       }
     ]
   }
