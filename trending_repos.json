@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "repos": [
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "22,686",
-        "crawled_at": "2026-06-18T16:18:59.577790"
-      },
-      {
-        "name": "n0-computer /iroh",
-        "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-        "language": "Rust",
-        "stars": "9,907",
-        "crawled_at": "2026-06-18T16:18:59.577983"
-      },
-      {
-        "name": "freeCodeCamp /freeCodeCamp",
-        "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-        "language": "TypeScript",
-        "stars": "449,424",
-        "crawled_at": "2026-06-18T16:18:59.578189"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "232,145",
-        "crawled_at": "2026-06-18T16:18:59.578395"
-      },
-      {
-        "name": "zai-org /GLM-5",
-        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-        "language": "未知",
-        "stars": "3,971",
-        "crawled_at": "2026-06-18T16:18:59.578571"
-      },
-      {
-        "name": "DeusData /codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "language": "C",
-        "stars": "6,722",
-        "crawled_at": "2026-06-18T16:18:59.578735"
-      },
-      {
-        "name": "alibaba /zvec",
-        "description": "A lightweight, lightning-fast, in-process vector database",
-        "language": "C++",
-        "stars": "11,121",
-        "crawled_at": "2026-06-18T16:18:59.578899"
-      },
-      {
-        "name": "withastro /flue",
-        "description": "The sandbox agent framework.",
-        "language": "TypeScript",
-        "stars": "5,400",
-        "crawled_at": "2026-06-18T16:18:59.579110"
-      },
-      {
-        "name": "Kilo-Org /kilocode",
-        "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-        "language": "TypeScript",
-        "stars": "21,746",
-        "crawled_at": "2026-06-18T16:18:59.579270"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-        "language": "TypeScript",
-        "stars": "51,684",
-        "crawled_at": "2026-06-18T16:18:59.579432"
-      }
-    ]
-  },
-  {
     "date": "2026-06-19",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Ruby",
         "stars": "17,726",
         "crawled_at": "2026-07-17T14:20:32.836140"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "repos": [
+      {
+        "name": "Robbyant /lingbot-map",
+        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+        "language": "Python",
+        "stars": "12,540",
+        "crawled_at": "2026-07-18T14:11:27.606979"
+      },
+      {
+        "name": "apache /ossie",
+        "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+        "language": "Python",
+        "stars": "1,190",
+        "crawled_at": "2026-07-18T14:11:27.607185"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "stars": "36,410",
+        "crawled_at": "2026-07-18T14:11:27.607384"
+      },
+      {
+        "name": "ibelick /ui-skills",
+        "description": "Skills for Design Engineers",
+        "language": "TypeScript",
+        "stars": "4,751",
+        "crawled_at": "2026-07-18T14:11:27.607614"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "38,922",
+        "crawled_at": "2026-07-18T14:11:27.607847"
+      },
+      {
+        "name": "tirth8205 /code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "stars": "19,989",
+        "crawled_at": "2026-07-18T14:11:27.608092"
+      },
+      {
+        "name": "elder-plinius /G0DM0D3",
+        "description": "LIBERATED AI CHAT",
+        "language": "TypeScript",
+        "stars": "9,385",
+        "crawled_at": "2026-07-18T14:11:27.608283"
+      },
+      {
+        "name": "lyogavin /airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "stars": "23,175",
+        "crawled_at": "2026-07-18T14:11:27.608508"
+      },
+      {
+        "name": "KnockOutEZ /wigolo",
+        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "language": "TypeScript",
+        "stars": "998",
+        "crawled_at": "2026-07-18T14:11:27.608697"
+      },
+      {
+        "name": "codecrafters-io /build-your-own-x",
+        "description": "Master programming by recreating your favorite technologies from scratch.",
+        "language": "Markdown",
+        "stars": "527,969",
+        "crawled_at": "2026-07-18T14:11:27.608901"
       }
     ]
   }
