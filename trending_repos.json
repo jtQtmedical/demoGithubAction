@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-19",
-    "repos": [
-      {
-        "name": "DeusData /codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "language": "C",
-        "stars": "7,799",
-        "crawled_at": "2026-06-19T15:54:20.163465"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "23,936",
-        "crawled_at": "2026-06-19T15:54:20.163647"
-      },
-      {
-        "name": "palmier-io /palmier-pro",
-        "description": "macOS video editor built for AI",
-        "language": "Swift",
-        "stars": "1,560",
-        "crawled_at": "2026-06-19T15:54:20.163810"
-      },
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "56,982",
-        "crawled_at": "2026-06-19T15:54:20.163975"
-      },
-      {
-        "name": "aishwaryanr /awesome-generative-ai-guide",
-        "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-        "language": "HTML",
-        "stars": "27,492",
-        "crawled_at": "2026-06-19T15:54:20.164155"
-      },
-      {
-        "name": "BuilderIO /agent-native",
-        "description": "A framework for building agent-native applications.",
-        "language": "TypeScript",
-        "stars": "901",
-        "crawled_at": "2026-06-19T15:54:20.164319"
-      },
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "37,386",
-        "crawled_at": "2026-06-19T15:54:20.164521"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "6,031",
-        "crawled_at": "2026-06-19T15:54:20.164680"
-      },
-      {
-        "name": "zai-org /GLM-5",
-        "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-        "language": "未知",
-        "stars": "4,413",
-        "crawled_at": "2026-06-19T15:54:20.164853"
-      },
-      {
-        "name": "withastro /flue",
-        "description": "The sandbox agent framework.",
-        "language": "TypeScript",
-        "stars": "5,723",
-        "crawled_at": "2026-06-19T15:54:20.165056"
-      }
-    ]
-  },
-  {
     "date": "2026-06-20",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Markdown",
         "stars": "527,969",
         "crawled_at": "2026-07-18T14:11:27.608901"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "repos": [
+      {
+        "name": "tirth8205 /code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "stars": "20,653",
+        "crawled_at": "2026-07-19T14:15:39.528919"
+      },
+      {
+        "name": "kvcache-ai /ktransformers",
+        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+        "language": "Python",
+        "stars": "18,200",
+        "crawled_at": "2026-07-19T14:15:39.529100"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "39,413",
+        "crawled_at": "2026-07-19T14:15:39.529314"
+      },
+      {
+        "name": "jamiepine /voicebox",
+        "description": "The open-source AI voice studio. Clone, dictate, create.",
+        "language": "TypeScript",
+        "stars": "43,064",
+        "crawled_at": "2026-07-19T14:15:39.529485"
+      },
+      {
+        "name": "KnockOutEZ /wigolo",
+        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+        "language": "TypeScript",
+        "stars": "1,593",
+        "crawled_at": "2026-07-19T14:15:39.529647"
+      },
+      {
+        "name": "andrewrabert /jellium-desktop",
+        "description": "An unofficial desktop client for Jellyfin",
+        "language": "Rust",
+        "stars": "1,220",
+        "crawled_at": "2026-07-19T14:15:39.529809"
+      },
+      {
+        "name": "github /copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "stars": "9,901",
+        "crawled_at": "2026-07-19T14:15:39.529965"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "stars": "36,800",
+        "crawled_at": "2026-07-19T14:15:39.530125"
+      },
+      {
+        "name": "microsoft /terminal",
+        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+        "language": "C++",
+        "stars": "104,044",
+        "crawled_at": "2026-07-19T14:15:39.530292"
+      },
+      {
+        "name": "AstrBotDevs /AstrBot",
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+        "language": "Python",
+        "stars": "36,610",
+        "crawled_at": "2026-07-19T14:15:39.530456"
       }
     ]
   }
