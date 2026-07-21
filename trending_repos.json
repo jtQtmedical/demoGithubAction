@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-21",
-    "repos": [
-      {
-        "name": "palmier-io /palmier-pro",
-        "description": "macOS video editor built for AI",
-        "language": "Swift",
-        "stars": "4,392",
-        "crawled_at": "2026-06-21T15:04:25.204891"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "7,888",
-        "crawled_at": "2026-06-21T15:04:25.205077"
-      },
-      {
-        "name": "chopratejas /headroom",
-        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-        "language": "Python",
-        "stars": "43,298",
-        "crawled_at": "2026-06-21T15:04:25.205279"
-      },
-      {
-        "name": "tursodatabase /turso",
-        "description": "Turso is an in-process SQL database, compatible with SQLite.",
-        "language": "Rust",
-        "stars": "20,619",
-        "crawled_at": "2026-06-21T15:04:25.205442"
-      },
-      {
-        "name": "penpot /penpot",
-        "description": "Penpot: The open-source design tool for design and code collaboration",
-        "language": "Clojure",
-        "stars": "51,982",
-        "crawled_at": "2026-06-21T15:04:25.205617"
-      },
-      {
-        "name": "ZhuLinsen /daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "language": "Python",
-        "stars": "44,087",
-        "crawled_at": "2026-06-21T15:04:25.205781"
-      },
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "57,828",
-        "crawled_at": "2026-06-21T15:04:25.205945"
-      },
-      {
-        "name": "bytedance /deer-flow",
-        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "language": "Python",
-        "stars": "72,316",
-        "crawled_at": "2026-06-21T15:04:25.206106"
-      },
-      {
-        "name": "DeusData /codebase-memory-mcp",
-        "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-        "language": "C",
-        "stars": "9,927",
-        "crawled_at": "2026-06-21T15:04:25.206266"
-      },
-      {
-        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
-        "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-        "language": "Python",
-        "stars": "17,351",
-        "crawled_at": "2026-06-21T15:04:25.206468"
-      }
-    ]
-  },
-  {
     "date": "2026-06-22",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "5,526",
         "crawled_at": "2026-07-20T14:58:49.306528"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "repos": [
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "63,971",
+        "crawled_at": "2026-07-21T14:50:25.731096"
+      },
+      {
+        "name": "bojieli /ai-agent-book",
+        "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "language": "Python",
+        "stars": "13,731",
+        "crawled_at": "2026-07-21T14:50:25.731320"
+      },
+      {
+        "name": "tirth8205 /code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "stars": "24,289",
+        "crawled_at": "2026-07-21T14:50:25.731558"
+      },
+      {
+        "name": "ayghri /i-have-adhd",
+        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+        "language": "未知",
+        "stars": "6,220",
+        "crawled_at": "2026-07-21T14:50:25.731768"
+      },
+      {
+        "name": "earthtojake /text-to-cad",
+        "description": "A collection of agent skills for CAD, robotics and hardware design",
+        "language": "JavaScript",
+        "stars": "8,870",
+        "crawled_at": "2026-07-21T14:50:25.731959"
+      },
+      {
+        "name": "1jehuang /jcode",
+        "description": "The most intelligent agent harness for code",
+        "language": "Rust",
+        "stars": "10,116",
+        "crawled_at": "2026-07-21T14:50:25.732173"
+      },
+      {
+        "name": "oblien /openship",
+        "description": "Self-hosted deployment platform",
+        "language": "TypeScript",
+        "stars": "5,672",
+        "crawled_at": "2026-07-21T14:50:25.732372"
+      },
+      {
+        "name": "AstrBotDevs /AstrBot",
+        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+        "language": "Python",
+        "stars": "37,350",
+        "crawled_at": "2026-07-21T14:50:25.732562"
+      },
+      {
+        "name": "every-app /open-seo",
+        "description": "Open source alternative to Semrush and Ahrefs",
+        "language": "TypeScript",
+        "stars": "6,357",
+        "crawled_at": "2026-07-21T14:50:25.732753"
+      },
+      {
+        "name": "tradesdontlie /tradingview-mcp",
+        "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+        "language": "JavaScript",
+        "stars": "4,669",
+        "crawled_at": "2026-07-21T14:50:25.732954"
       }
     ]
   }
