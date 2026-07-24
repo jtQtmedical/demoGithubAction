@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "repos": [
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "18,302",
-        "crawled_at": "2026-06-24T15:27:41.702894"
-      },
-      {
-        "name": "ZhuLinsen /daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "language": "Python",
-        "stars": "48,179",
-        "crawled_at": "2026-06-24T15:27:41.703127"
-      },
-      {
-        "name": "apple /container",
-        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-        "language": "Swift",
-        "stars": "41,658",
-        "crawled_at": "2026-06-24T15:27:41.703317"
-      },
-      {
-        "name": "interviewstreet /hiring-agent",
-        "description": "AI agent to evaluate and score resumes.",
-        "language": "Python",
-        "stars": "1,958",
-        "crawled_at": "2026-06-24T15:27:41.703500"
-      },
-      {
-        "name": "JCodesMore /ai-website-cloner-template",
-        "description": "Clone any website with one command using AI coding agents",
-        "language": "TypeScript",
-        "stars": "19,057",
-        "crawled_at": "2026-06-24T15:27:41.703688"
-      },
-      {
-        "name": "revfactory /harness",
-        "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-        "language": "HTML",
-        "stars": "7,628",
-        "crawled_at": "2026-06-24T15:27:41.703869"
-      },
-      {
-        "name": "flutter /flutter",
-        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "language": "Dart",
-        "stars": "177,176",
-        "crawled_at": "2026-06-24T15:27:41.704077"
-      },
-      {
-        "name": "andreknieriem /headunit-revived",
-        "description": "Headunit App for displaying Android Auto",
-        "language": "Kotlin",
-        "stars": "1,371",
-        "crawled_at": "2026-06-24T15:27:41.704260"
-      },
-      {
-        "name": "stablyai /orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
-        "language": "TypeScript",
-        "stars": "6,566",
-        "crawled_at": "2026-06-24T15:27:41.704445"
-      },
-      {
-        "name": "google-labs-code /design.md",
-        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-        "language": "TypeScript",
-        "stars": "16,935",
-        "crawled_at": "2026-06-24T15:27:41.704625"
-      }
-    ]
-  },
-  {
     "date": "2026-06-25",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "2,272",
         "crawled_at": "2026-07-23T14:54:36.418814"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "repos": [
+      {
+        "name": "block /buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "stars": "8,795",
+        "crawled_at": "2026-07-24T14:27:45.855045"
+      },
+      {
+        "name": "koala73 /worldmonitor",
+        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+        "language": "TypeScript",
+        "stars": "72,856",
+        "crawled_at": "2026-07-24T14:27:45.855243"
+      },
+      {
+        "name": "ComposioHQ /awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "stars": "69,829",
+        "crawled_at": "2026-07-24T14:27:45.855424"
+      },
+      {
+        "name": "Pumpkin-MC /Pumpkin",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "language": "Rust",
+        "stars": "9,197",
+        "crawled_at": "2026-07-24T14:27:45.855624"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "33,365",
+        "crawled_at": "2026-07-24T14:27:45.855812"
+      },
+      {
+        "name": "Automattic /harper",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "language": "Rust",
+        "stars": "12,786",
+        "crawled_at": "2026-07-24T14:27:45.855993"
+      },
+      {
+        "name": "likec4 /likec4",
+        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "language": "TypeScript",
+        "stars": "4,905",
+        "crawled_at": "2026-07-24T14:27:45.856214"
+      },
+      {
+        "name": "citrolabs /ego-lite",
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "stars": "2,212",
+        "crawled_at": "2026-07-24T14:27:45.856393"
+      },
+      {
+        "name": "yorukot /superfile",
+        "description": "Pretty fancy and modern terminal file manager",
+        "language": "Go",
+        "stars": "19,237",
+        "crawled_at": "2026-07-24T14:27:45.856573"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "85,691",
+        "crawled_at": "2026-07-24T14:27:45.856775"
       }
     ]
   }
