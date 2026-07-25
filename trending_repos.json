@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-06-25",
-    "repos": [
-      {
-        "name": "google-labs-code /design.md",
-        "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-        "language": "TypeScript",
-        "stars": "18,497",
-        "crawled_at": "2026-06-25T15:34:12.102389"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "21,575",
-        "crawled_at": "2026-06-25T15:34:12.102629"
-      },
-      {
-        "name": "xbtlin /ai-berkshire",
-        "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-        "language": "Python",
-        "stars": "1,677",
-        "crawled_at": "2026-06-25T15:34:12.102815"
-      },
-      {
-        "name": "mauriceboe /TREK",
-        "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-        "language": "TypeScript",
-        "stars": "6,335",
-        "crawled_at": "2026-06-25T15:34:12.102996"
-      },
-      {
-        "name": "apple /container",
-        "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-        "language": "Swift",
-        "stars": "42,958",
-        "crawled_at": "2026-06-25T15:34:12.103203"
-      },
-      {
-        "name": "JCodesMore /ai-website-cloner-template",
-        "description": "Clone any website with one command using AI coding agents",
-        "language": "TypeScript",
-        "stars": "20,084",
-        "crawled_at": "2026-06-25T15:34:12.103435"
-      },
-      {
-        "name": "garrytan /gstack",
-        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-        "language": "TypeScript",
-        "stars": "115,517",
-        "crawled_at": "2026-06-25T15:34:12.103618"
-      },
-      {
-        "name": "aws /agent-toolkit-for-aws",
-        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-        "language": "Python",
-        "stars": "1,053",
-        "crawled_at": "2026-06-25T15:34:12.103800"
-      },
-      {
-        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
-        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-        "language": "Python",
-        "stars": "20,972",
-        "crawled_at": "2026-06-25T15:34:12.104026"
-      },
-      {
-        "name": "alibaba /page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars": "19,672",
-        "crawled_at": "2026-06-25T15:34:12.104226"
-      }
-    ]
-  },
-  {
     "date": "2026-06-26",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Rust",
         "stars": "85,691",
         "crawled_at": "2026-07-24T14:27:45.856775"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "repos": [
+      {
+        "name": "block /buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "stars": "11,128",
+        "crawled_at": "2026-07-25T14:21:51.722493"
+      },
+      {
+        "name": "alibaba /open-code-review",
+        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars": "12,665",
+        "crawled_at": "2026-07-25T14:21:51.722668"
+      },
+      {
+        "name": "citrolabs /ego-lite",
+        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+        "language": "JavaScript",
+        "stars": "3,199",
+        "crawled_at": "2026-07-25T14:21:51.722831"
+      },
+      {
+        "name": "ComposioHQ /awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "stars": "70,386",
+        "crawled_at": "2026-07-25T14:21:51.722987"
+      },
+      {
+        "name": "anthropics /claude-cookbooks",
+        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+        "language": "Jupyter Notebook",
+        "stars": "49,727",
+        "crawled_at": "2026-07-25T14:21:51.723154"
+      },
+      {
+        "name": "Automattic /harper",
+        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+        "language": "Rust",
+        "stars": "13,247",
+        "crawled_at": "2026-07-25T14:21:51.723314"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "33,672",
+        "crawled_at": "2026-07-25T14:21:51.723469"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "260,858",
+        "crawled_at": "2026-07-25T14:21:51.723668"
+      },
+      {
+        "name": "Pumpkin-MC /Pumpkin",
+        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+        "language": "Rust",
+        "stars": "9,546",
+        "crawled_at": "2026-07-25T14:21:51.723823"
+      },
+      {
+        "name": "permissionlesstech /bitchat",
+        "description": "bluetooth mesh chat, IRC vibes",
+        "language": "Swift",
+        "stars": "28,212",
+        "crawled_at": "2026-07-25T14:21:51.723982"
       }
     ]
   }
