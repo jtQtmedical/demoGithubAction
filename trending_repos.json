@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-02",
-    "repos": [
-      {
-        "name": "usestrix /strix",
-        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-        "language": "Python",
-        "stars": "31,216",
-        "crawled_at": "2026-07-02T15:00:19.995227"
-      },
-      {
-        "name": "JuliusBrussee /caveman",
-        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "language": "JavaScript",
-        "stars": "79,961",
-        "crawled_at": "2026-07-02T15:00:19.995473"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "125,133",
-        "crawled_at": "2026-07-02T15:00:19.995697"
-      },
-      {
-        "name": "hasaneyldrm /exercises-dataset",
-        "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-        "language": "HTML",
-        "stars": "9,010",
-        "crawled_at": "2026-07-02T15:00:19.995882"
-      },
-      {
-        "name": "santifer /career-ops",
-        "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-        "language": "JavaScript",
-        "stars": "57,466",
-        "crawled_at": "2026-07-02T15:00:19.996128"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "244,110",
-        "crawled_at": "2026-07-02T15:00:19.996354"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "44,981",
-        "crawled_at": "2026-07-02T15:00:19.996539"
-      },
-      {
-        "name": "browser-use /video-use",
-        "description": "Edit videos with coding agents",
-        "language": "Python",
-        "stars": "13,604",
-        "crawled_at": "2026-07-02T15:00:19.996720"
-      },
-      {
-        "name": "actions /checkout",
-        "description": "Action for checking out a repo",
-        "language": "TypeScript",
-        "stars": "8,110",
-        "crawled_at": "2026-07-02T15:00:19.996902"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "224,958",
-        "crawled_at": "2026-07-02T15:00:19.997145"
-      }
-    ]
-  },
-  {
     "date": "2026-07-03",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C++",
         "stars": "4,782",
         "crawled_at": "2026-07-31T15:10:40.803198"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-01",
+    "repos": [
+      {
+        "name": "microsoft /AI-For-Beginners",
+        "description": "12 Weeks, 24 Lessons, AI for All!",
+        "language": "Jupyter Notebook",
+        "stars": "56,080",
+        "crawled_at": "2026-08-01T14:16:36.494317"
+      },
+      {
+        "name": "paperswithbacktest /awesome-systematic-trading",
+        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+        "language": "Python",
+        "stars": "12,042",
+        "crawled_at": "2026-08-01T14:16:36.494516"
+      },
+      {
+        "name": "usekaneo /kaneo",
+        "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
+        "language": "TypeScript",
+        "stars": "5,452",
+        "crawled_at": "2026-08-01T14:16:36.494748"
+      },
+      {
+        "name": "zhaoxuya520 /reverse-skill",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "language": "PowerShell",
+        "stars": "11,480",
+        "crawled_at": "2026-08-01T14:16:36.494934"
+      },
+      {
+        "name": "microsoft /generative-ai-for-beginners",
+        "description": "21 Lessons, Get Started Building with Generative AI",
+        "language": "Jupyter Notebook",
+        "stars": "113,950",
+        "crawled_at": "2026-08-01T14:16:36.495123"
+      },
+      {
+        "name": "github /copilot-sdk",
+        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+        "language": "Java",
+        "stars": "10,215",
+        "crawled_at": "2026-08-01T14:16:36.495327"
+      },
+      {
+        "name": "github /gh-stack",
+        "description": "GitHub Stacked PRs",
+        "language": "Go",
+        "stars": "713",
+        "crawled_at": "2026-08-01T14:16:36.495516"
+      },
+      {
+        "name": "huggingface /speech-to-speech",
+        "description": "Build local voice agents with open-source models",
+        "language": "Python",
+        "stars": "10,027",
+        "crawled_at": "2026-08-01T14:16:36.495701"
+      },
+      {
+        "name": "abus-aikorea /voice-pro",
+        "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+        "language": "Python",
+        "stars": "11,581",
+        "crawled_at": "2026-08-01T14:16:36.495882"
+      },
+      {
+        "name": "iv-org /invidious",
+        "description": "Invidious is an alternative front-end to YouTube",
+        "language": "Crystal",
+        "stars": "21,486",
+        "crawled_at": "2026-08-01T14:16:36.496067"
       }
     ]
   }
