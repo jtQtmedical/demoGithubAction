@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-06",
-    "repos": [
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-        "language": "JavaScript",
-        "stars": "51,018",
-        "crawled_at": "2026-07-06T16:10:32.200404"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "Shell",
-        "stars": "70,488",
-        "crawled_at": "2026-07-06T16:10:32.200634"
-      },
-      {
-        "name": "Zackriya-Solutions /meetily",
-        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-        "language": "Rust",
-        "stars": "18,793",
-        "crawled_at": "2026-07-06T16:10:32.200879"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "77,185",
-        "crawled_at": "2026-07-06T16:10:32.201078"
-      },
-      {
-        "name": "Leonxlnx /taste-skill",
-        "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-        "language": "JavaScript",
-        "stars": "58,574",
-        "crawled_at": "2026-07-06T16:10:32.201315"
-      },
-      {
-        "name": "alirezarezvani /claude-skills",
-        "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-        "language": "Python",
-        "stars": "21,011",
-        "crawled_at": "2026-07-06T16:10:32.201511"
-      },
-      {
-        "name": "openai /codex-plugin-cc",
-        "description": "Use Codex from Claude Code to review code or delegate tasks.",
-        "language": "JavaScript",
-        "stars": "26,138",
-        "crawled_at": "2026-07-06T16:10:32.201729"
-      },
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "49,583",
-        "crawled_at": "2026-07-06T16:10:32.201927"
-      },
-      {
-        "name": "ogulcancelik /herdr",
-        "description": "agent multiplexer that lives in your terminal.",
-        "language": "Rust",
-        "stars": "12,662",
-        "crawled_at": "2026-07-06T16:10:32.202152"
-      },
-      {
-        "name": "bradautomates /claude-video",
-        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-        "language": "Python",
-        "stars": "3,988",
-        "crawled_at": "2026-07-06T16:10:32.202341"
-      }
-    ]
-  },
-  {
     "date": "2026-07-07",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "C++",
         "stars": "29,351",
         "crawled_at": "2026-08-04T15:11:14.280949"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "repos": [
+      {
+        "name": "cloudflare /computer",
+        "description": "Give your agent a computer 👾",
+        "language": "TypeScript",
+        "stars": "1,946",
+        "crawled_at": "2026-08-05T15:02:54.494367"
+      },
+      {
+        "name": "huangruiteng /loopx",
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "language": "Python",
+        "stars": "1,868",
+        "crawled_at": "2026-08-05T15:02:54.494573"
+      },
+      {
+        "name": "TencentCloud /TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "stars": "14,776",
+        "crawled_at": "2026-08-05T15:02:54.494763"
+      },
+      {
+        "name": "donnemartin /system-design-primer",
+        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+        "language": "Python",
+        "stars": "361,249",
+        "crawled_at": "2026-08-05T15:02:54.494947"
+      },
+      {
+        "name": "firecrawl /pdf-inspector",
+        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+        "language": "Rust",
+        "stars": "11,020",
+        "crawled_at": "2026-08-05T15:02:54.495130"
+      },
+      {
+        "name": "esengine /DeepSeek-Reasonix",
+        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+        "language": "Go",
+        "stars": "31,339",
+        "crawled_at": "2026-08-05T15:02:54.495311"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "81,834",
+        "crawled_at": "2026-08-05T15:02:54.495515"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "267,050",
+        "crawled_at": "2026-08-05T15:02:54.495736"
+      },
+      {
+        "name": "roboflow /supervision",
+        "description": "We write your reusable computer vision tools. 💜",
+        "language": "Python",
+        "stars": "48,801",
+        "crawled_at": "2026-08-05T15:02:54.495918"
+      },
+      {
+        "name": "vercel /next.js",
+        "description": "The React Framework",
+        "language": "JavaScript",
+        "stars": "141,430",
+        "crawled_at": "2026-08-05T15:02:54.496099"
       }
     ]
   }
