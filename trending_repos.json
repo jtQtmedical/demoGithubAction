@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-07",
-    "repos": [
-      {
-        "name": "MadsLorentzen /ai-job-search",
-        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-        "language": "TypeScript",
-        "stars": "9,338",
-        "crawled_at": "2026-07-07T15:36:33.774179"
-      },
-      {
-        "name": "Zackriya-Solutions /meetily",
-        "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
-        "language": "Rust",
-        "stars": "20,294",
-        "crawled_at": "2026-07-07T15:36:33.774421"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "71,774",
-        "crawled_at": "2026-07-07T15:36:33.774606"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "78,229",
-        "crawled_at": "2026-07-07T15:36:33.774839"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-        "language": "JavaScript",
-        "stars": "52,587",
-        "crawled_at": "2026-07-07T15:36:33.775062"
-      },
-      {
-        "name": "TencentCloud /CubeSandbox",
-        "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-        "language": "Rust",
-        "stars": "8,278",
-        "crawled_at": "2026-07-07T15:36:33.775241"
-      },
-      {
-        "name": "AhmadIbrahiim /Website-downloader",
-        "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-        "language": "HTML",
-        "stars": "3,755",
-        "crawled_at": "2026-07-07T15:36:33.775459"
-      },
-      {
-        "name": "steipete /CodexBar",
-        "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-        "language": "Swift",
-        "stars": "16,959",
-        "crawled_at": "2026-07-07T15:36:33.775701"
-      },
-      {
-        "name": "dotnet /skills",
-        "description": "Repository for skills to assist AI coding agents with .NET and C#",
-        "language": "C#",
-        "stars": "4,240",
-        "crawled_at": "2026-07-07T15:36:33.775885"
-      },
-      {
-        "name": "iOfficeAI /OfficeCLI",
-        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-        "language": "C#",
-        "stars": "9,530",
-        "crawled_at": "2026-07-07T15:36:33.776063"
-      }
-    ]
-  },
-  {
     "date": "2026-07-08",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "JavaScript",
         "stars": "141,430",
         "crawled_at": "2026-08-05T15:02:54.496099"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "repos": [
+      {
+        "name": "TencentCloud /TencentDB-Agent-Memory",
+        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+        "language": "TypeScript",
+        "stars": "15,939",
+        "crawled_at": "2026-08-06T15:01:31.642287"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "82,497",
+        "crawled_at": "2026-08-06T15:01:31.642484"
+      },
+      {
+        "name": "cloudflare /computer",
+        "description": "Give your agent a computer 👾",
+        "language": "TypeScript",
+        "stars": "4,488",
+        "crawled_at": "2026-08-06T15:01:31.642668"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "206,307",
+        "crawled_at": "2026-08-06T15:01:31.642895"
+      },
+      {
+        "name": "goauthentik /authentik",
+        "description": "The authentication glue you need.",
+        "language": "Python",
+        "stars": "22,907",
+        "crawled_at": "2026-08-06T15:01:31.643161"
+      },
+      {
+        "name": "huangruiteng /loopx",
+        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+        "language": "Python",
+        "stars": "2,668",
+        "crawled_at": "2026-08-06T15:01:31.643344"
+      },
+      {
+        "name": "google /guava",
+        "description": "Google core libraries for Java",
+        "language": "Java",
+        "stars": "51,571",
+        "crawled_at": "2026-08-06T15:01:31.643523"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "76,975",
+        "crawled_at": "2026-08-06T15:01:31.643706"
+      },
+      {
+        "name": "Significant-Gravitas /AutoGPT",
+        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+        "language": "Python",
+        "stars": "185,894",
+        "crawled_at": "2026-08-06T15:01:31.643883"
+      },
+      {
+        "name": "tirth8205 /code-review-graph",
+        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+        "language": "Python",
+        "stars": "28,876",
+        "crawled_at": "2026-08-06T15:01:31.644129"
       }
     ]
   }
