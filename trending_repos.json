@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-09",
-    "repos": [
-      {
-        "name": "MadsLorentzen /ai-job-search",
-        "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-        "language": "TypeScript",
-        "stars": "17,799",
-        "crawled_at": "2026-07-09T15:49:25.826689"
-      },
-      {
-        "name": "SmartlyDressedGames /U3-SDK",
-        "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
-        "language": "C#",
-        "stars": "1,862",
-        "crawled_at": "2026-07-09T15:49:25.826874"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "75,576",
-        "crawled_at": "2026-07-09T15:49:25.827060"
-      },
-      {
-        "name": "VoltAgent /awesome-design-md",
-        "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-        "language": "未知",
-        "stars": "99,269",
-        "crawled_at": "2026-07-09T15:49:25.827268"
-      },
-      {
-        "name": "iOfficeAI /OfficeCLI",
-        "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-        "language": "C#",
-        "stars": "13,089",
-        "crawled_at": "2026-07-09T15:49:25.827475"
-      },
-      {
-        "name": "wonderwhy-er /DesktopCommanderMCP",
-        "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-        "language": "TypeScript",
-        "stars": "6,498",
-        "crawled_at": "2026-07-09T15:49:25.827687"
-      },
-      {
-        "name": "anthropics /claude-cookbooks",
-        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "language": "Jupyter Notebook",
-        "stars": "46,975",
-        "crawled_at": "2026-07-09T15:49:25.827848"
-      },
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "19,189",
-        "crawled_at": "2026-07-09T15:49:25.828031"
-      },
-      {
-        "name": "unclecode /crawl4ai",
-        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-        "language": "Python",
-        "stars": "71,696",
-        "crawled_at": "2026-07-09T15:49:25.828247"
-      },
-      {
-        "name": "imthenachoman /How-To-Secure-A-Linux-Server",
-        "description": "An evolving how-to guide for securing a Linux server.",
-        "language": "未知",
-        "stars": "28,922",
-        "crawled_at": "2026-07-09T15:49:25.828459"
-      }
-    ]
-  },
-  {
     "date": "2026-07-10",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Rust",
         "stars": "31,979",
         "crawled_at": "2026-08-07T14:01:11.932378"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "repos": [
+      {
+        "name": "PrimeIntellect-ai /prime-agent",
+        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "language": "TypeScript",
+        "stars": "7,775",
+        "crawled_at": "2026-08-08T13:34:43.237671"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "84,233",
+        "crawled_at": "2026-08-08T13:34:43.237869"
+      },
+      {
+        "name": "TapXWorld /ChinaTextbook",
+        "description": "所有小初高、大学PDF教材。",
+        "language": "Roff",
+        "stars": "77,707",
+        "crawled_at": "2026-08-08T13:34:43.238055"
+      },
+      {
+        "name": "google /skills",
+        "description": "Agent Skills for Google products and technologies",
+        "language": "Python",
+        "stars": "16,487",
+        "crawled_at": "2026-08-08T13:34:43.238236"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "209,504",
+        "crawled_at": "2026-08-08T13:34:43.238499"
+      },
+      {
+        "name": "goauthentik /authentik",
+        "description": "The authentication glue you need.",
+        "language": "Python",
+        "stars": "23,836",
+        "crawled_at": "2026-08-08T13:34:43.238736"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "96,179",
+        "crawled_at": "2026-08-08T13:34:43.238924"
+      },
+      {
+        "name": "google /guava",
+        "description": "Google core libraries for Java",
+        "language": "Java",
+        "stars": "51,800",
+        "crawled_at": "2026-08-08T13:34:43.239105"
+      },
+      {
+        "name": "LadybirdBrowser /ladybird",
+        "description": "Truly independent web browser",
+        "language": "C++",
+        "stars": "64,870",
+        "crawled_at": "2026-08-08T13:34:43.239287"
+      },
+      {
+        "name": "denoland /celld",
+        "description": "self-hosted, distributed Durable Objects",
+        "language": "Rust",
+        "stars": "2,397",
+        "crawled_at": "2026-08-08T13:34:43.239497"
       }
     ]
   }
