@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-18",
-    "repos": [
-      {
-        "name": "Robbyant /lingbot-map",
-        "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-        "language": "Python",
-        "stars": "12,540",
-        "crawled_at": "2026-07-18T14:11:27.606979"
-      },
-      {
-        "name": "apache /ossie",
-        "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-        "language": "Python",
-        "stars": "1,190",
-        "crawled_at": "2026-07-18T14:11:27.607185"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-        "language": "Python",
-        "stars": "36,410",
-        "crawled_at": "2026-07-18T14:11:27.607384"
-      },
-      {
-        "name": "ibelick /ui-skills",
-        "description": "Skills for Design Engineers",
-        "language": "TypeScript",
-        "stars": "4,751",
-        "crawled_at": "2026-07-18T14:11:27.607614"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "38,922",
-        "crawled_at": "2026-07-18T14:11:27.607847"
-      },
-      {
-        "name": "tirth8205 /code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "stars": "19,989",
-        "crawled_at": "2026-07-18T14:11:27.608092"
-      },
-      {
-        "name": "elder-plinius /G0DM0D3",
-        "description": "LIBERATED AI CHAT",
-        "language": "TypeScript",
-        "stars": "9,385",
-        "crawled_at": "2026-07-18T14:11:27.608283"
-      },
-      {
-        "name": "lyogavin /airllm",
-        "description": "AirLLM 70B inference with single 4GB GPU",
-        "language": "Jupyter Notebook",
-        "stars": "23,175",
-        "crawled_at": "2026-07-18T14:11:27.608508"
-      },
-      {
-        "name": "KnockOutEZ /wigolo",
-        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-        "language": "TypeScript",
-        "stars": "998",
-        "crawled_at": "2026-07-18T14:11:27.608697"
-      },
-      {
-        "name": "codecrafters-io /build-your-own-x",
-        "description": "Master programming by recreating your favorite technologies from scratch.",
-        "language": "Markdown",
-        "stars": "527,969",
-        "crawled_at": "2026-07-18T14:11:27.608901"
-      }
-    ]
-  },
-  {
     "date": "2026-07-19",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "6,306",
         "crawled_at": "2026-08-16T13:20:53.178867"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "105,378",
+        "crawled_at": "2026-08-17T13:28:12.488309"
+      },
+      {
+        "name": "usestrix /strix",
+        "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+        "language": "Python",
+        "stars": "53,714",
+        "crawled_at": "2026-08-17T13:28:12.488504"
+      },
+      {
+        "name": "nautechsystems /nautilus_trader",
+        "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+        "language": "Rust",
+        "stars": "25,703",
+        "crawled_at": "2026-08-17T13:28:12.488685"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "28,131",
+        "crawled_at": "2026-08-17T13:28:12.488954"
+      },
+      {
+        "name": "AlexsJones /llmfit",
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "stars": "32,055",
+        "crawled_at": "2026-08-17T13:28:12.489184"
+      },
+      {
+        "name": "santifer /career-ops",
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+        "language": "JavaScript",
+        "stars": "64,267",
+        "crawled_at": "2026-08-17T13:28:12.489405"
+      },
+      {
+        "name": "jundot /omlx",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "language": "Python",
+        "stars": "18,858",
+        "crawled_at": "2026-08-17T13:28:12.489586"
+      },
+      {
+        "name": "immich-app /immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "language": "TypeScript",
+        "stars": "110,876",
+        "crawled_at": "2026-08-17T13:28:12.489764"
+      },
+      {
+        "name": "cordiverse /cordis",
+        "description": "Meta-Framework of Spatiotemporal Composability",
+        "language": "TypeScript",
+        "stars": "5,400",
+        "crawled_at": "2026-08-17T13:28:12.489964"
+      },
+      {
+        "name": "agalwood /Motrix",
+        "description": "A full-featured download manager.",
+        "language": "TypeScript",
+        "stars": "52,862",
+        "crawled_at": "2026-08-17T13:28:12.490149"
       }
     ]
   }
