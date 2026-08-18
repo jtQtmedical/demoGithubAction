@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-19",
-    "repos": [
-      {
-        "name": "tirth8205 /code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "stars": "20,653",
-        "crawled_at": "2026-07-19T14:15:39.528919"
-      },
-      {
-        "name": "kvcache-ai /ktransformers",
-        "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-        "language": "Python",
-        "stars": "18,200",
-        "crawled_at": "2026-07-19T14:15:39.529100"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "39,413",
-        "crawled_at": "2026-07-19T14:15:39.529314"
-      },
-      {
-        "name": "jamiepine /voicebox",
-        "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "language": "TypeScript",
-        "stars": "43,064",
-        "crawled_at": "2026-07-19T14:15:39.529485"
-      },
-      {
-        "name": "KnockOutEZ /wigolo",
-        "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-        "language": "TypeScript",
-        "stars": "1,593",
-        "crawled_at": "2026-07-19T14:15:39.529647"
-      },
-      {
-        "name": "andrewrabert /jellium-desktop",
-        "description": "An unofficial desktop client for Jellyfin",
-        "language": "Rust",
-        "stars": "1,220",
-        "crawled_at": "2026-07-19T14:15:39.529809"
-      },
-      {
-        "name": "github /copilot-sdk",
-        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-        "language": "Java",
-        "stars": "9,901",
-        "crawled_at": "2026-07-19T14:15:39.529965"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-        "language": "Python",
-        "stars": "36,800",
-        "crawled_at": "2026-07-19T14:15:39.530125"
-      },
-      {
-        "name": "microsoft /terminal",
-        "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
-        "language": "C++",
-        "stars": "104,044",
-        "crawled_at": "2026-07-19T14:15:39.530292"
-      },
-      {
-        "name": "AstrBotDevs /AstrBot",
-        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "language": "Python",
-        "stars": "36,610",
-        "crawled_at": "2026-07-19T14:15:39.530456"
-      }
-    ]
-  },
-  {
     "date": "2026-07-20",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "TypeScript",
         "stars": "52,862",
         "crawled_at": "2026-08-17T13:28:12.490149"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "repos": [
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "107,660",
+        "crawled_at": "2026-08-18T13:31:21.368946"
+      },
+      {
+        "name": "chaitanyagiri /munder-difflin",
+        "description": "local multi-agent harness",
+        "language": "TypeScript",
+        "stars": "1,704",
+        "crawled_at": "2026-08-18T13:31:21.369138"
+      },
+      {
+        "name": "akitaonrails /ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "stars": "2,483",
+        "crawled_at": "2026-08-18T13:31:21.369324"
+      },
+      {
+        "name": "volcengine /OpenViking",
+        "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+        "language": "Python",
+        "stars": "29,087",
+        "crawled_at": "2026-08-18T13:31:21.369532"
+      },
+      {
+        "name": "mukul975 /Anthropic-Cybersecurity-Skills",
+        "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+        "language": "Python",
+        "stars": "28,840",
+        "crawled_at": "2026-08-18T13:31:21.369779"
+      },
+      {
+        "name": "public-apis /public-apis",
+        "description": "A collective list of free APIs",
+        "language": "Python",
+        "stars": "463,819",
+        "crawled_at": "2026-08-18T13:31:21.369963"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars": "26,205",
+        "crawled_at": "2026-08-18T13:31:21.370146"
+      },
+      {
+        "name": "agalwood /Motrix",
+        "description": "A full-featured download manager.",
+        "language": "TypeScript",
+        "stars": "53,445",
+        "crawled_at": "2026-08-18T13:31:21.370325"
+      },
+      {
+        "name": "NawfalMotii79 /PLFM_RADAR",
+        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+        "language": "PLSQL",
+        "stars": "24,175",
+        "crawled_at": "2026-08-18T13:31:21.370526"
+      },
+      {
+        "name": "jundot /omlx",
+        "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+        "language": "Python",
+        "stars": "19,212",
+        "crawled_at": "2026-08-18T13:31:21.370710"
       }
     ]
   }
