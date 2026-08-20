@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "repos": [
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "63,971",
-        "crawled_at": "2026-07-21T14:50:25.731096"
-      },
-      {
-        "name": "bojieli /ai-agent-book",
-        "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-        "language": "Python",
-        "stars": "13,731",
-        "crawled_at": "2026-07-21T14:50:25.731320"
-      },
-      {
-        "name": "tirth8205 /code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "stars": "24,289",
-        "crawled_at": "2026-07-21T14:50:25.731558"
-      },
-      {
-        "name": "ayghri /i-have-adhd",
-        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-        "language": "未知",
-        "stars": "6,220",
-        "crawled_at": "2026-07-21T14:50:25.731768"
-      },
-      {
-        "name": "earthtojake /text-to-cad",
-        "description": "A collection of agent skills for CAD, robotics and hardware design",
-        "language": "JavaScript",
-        "stars": "8,870",
-        "crawled_at": "2026-07-21T14:50:25.731959"
-      },
-      {
-        "name": "1jehuang /jcode",
-        "description": "The most intelligent agent harness for code",
-        "language": "Rust",
-        "stars": "10,116",
-        "crawled_at": "2026-07-21T14:50:25.732173"
-      },
-      {
-        "name": "oblien /openship",
-        "description": "Self-hosted deployment platform",
-        "language": "TypeScript",
-        "stars": "5,672",
-        "crawled_at": "2026-07-21T14:50:25.732372"
-      },
-      {
-        "name": "AstrBotDevs /AstrBot",
-        "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "language": "Python",
-        "stars": "37,350",
-        "crawled_at": "2026-07-21T14:50:25.732562"
-      },
-      {
-        "name": "every-app /open-seo",
-        "description": "Open source alternative to Semrush and Ahrefs",
-        "language": "TypeScript",
-        "stars": "6,357",
-        "crawled_at": "2026-07-21T14:50:25.732753"
-      },
-      {
-        "name": "tradesdontlie /tradingview-mcp",
-        "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-        "language": "JavaScript",
-        "stars": "4,669",
-        "crawled_at": "2026-07-21T14:50:25.732954"
-      }
-    ]
-  },
-  {
     "date": "2026-07-22",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "19,677",
         "crawled_at": "2026-08-19T13:32:57.475504"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "repos": [
+      {
+        "name": "modular /modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "stars": "27,564",
+        "crawled_at": "2026-08-20T13:35:16.767016"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "225,069",
+        "crawled_at": "2026-08-20T13:35:16.767262"
+      },
+      {
+        "name": "AprilNEA /OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars": "11,193",
+        "crawled_at": "2026-08-20T13:35:16.767489"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "274,685",
+        "crawled_at": "2026-08-20T13:35:16.767713"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "3,890",
+        "crawled_at": "2026-08-20T13:35:16.767919"
+      },
+      {
+        "name": "santifer /career-ops",
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+        "language": "JavaScript",
+        "stars": "66,274",
+        "crawled_at": "2026-08-20T13:35:16.768151"
+      },
+      {
+        "name": "akitaonrails /ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "stars": "3,403",
+        "crawled_at": "2026-08-20T13:35:16.768332"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "112,429",
+        "crawled_at": "2026-08-20T13:35:16.768512"
+      },
+      {
+        "name": "agent-substrate /substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars": "1,301",
+        "crawled_at": "2026-08-20T13:35:16.768696"
+      },
+      {
+        "name": "chaitanyagiri /munder-difflin",
+        "description": "local multi-agent harness",
+        "language": "TypeScript",
+        "stars": "2,972",
+        "crawled_at": "2026-08-20T13:35:16.768897"
       }
     ]
   }
