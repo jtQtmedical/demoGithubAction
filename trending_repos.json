@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-22",
-    "repos": [
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "67,913",
-        "crawled_at": "2026-07-22T14:48:41.991803"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "83,213",
-        "crawled_at": "2026-07-22T14:48:41.992017"
-      },
-      {
-        "name": "ayghri /i-have-adhd",
-        "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars": "7,795",
-        "crawled_at": "2026-07-22T14:48:41.992236"
-      },
-      {
-        "name": "schollz /croc",
-        "description": "Easily and securely send things from one computer to another 🐊 📦",
-        "language": "Go",
-        "stars": "37,294",
-        "crawled_at": "2026-07-22T14:48:41.992471"
-      },
-      {
-        "name": "likec4 /likec4",
-        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-        "language": "TypeScript",
-        "stars": "4,130",
-        "crawled_at": "2026-07-22T14:48:41.992702"
-      },
-      {
-        "name": "chrislgarry /Apollo-11",
-        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "language": "Assembly",
-        "stars": "70,382",
-        "crawled_at": "2026-07-22T14:48:41.992945"
-      },
-      {
-        "name": "jamiepine /voicebox",
-        "description": "The open-source AI voice studio. Clone, dictate, create.",
-        "language": "TypeScript",
-        "stars": "45,489",
-        "crawled_at": "2026-07-22T14:48:41.993150"
-      },
-      {
-        "name": "diegosouzapw /OmniRoute",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-        "language": "TypeScript",
-        "stars": "24,575",
-        "crawled_at": "2026-07-22T14:48:41.993391"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "32,475",
-        "crawled_at": "2026-07-22T14:48:41.993589"
-      },
-      {
-        "name": "ComposioHQ /awesome-claude-skills",
-        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "language": "Python",
-        "stars": "68,568",
-        "crawled_at": "2026-07-22T14:48:41.993781"
-      }
-    ]
-  },
-  {
     "date": "2026-07-23",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "TypeScript",
         "stars": "2,972",
         "crawled_at": "2026-08-20T13:35:16.768897"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "repos": [
+      {
+        "name": "modular /modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "stars": "28,430",
+        "crawled_at": "2026-08-21T13:34:17.184934"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "228,355",
+        "crawled_at": "2026-08-21T13:34:17.185183"
+      },
+      {
+        "name": "AprilNEA /OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars": "12,515",
+        "crawled_at": "2026-08-21T13:34:17.185427"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "275,384",
+        "crawled_at": "2026-08-21T13:34:17.185650"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "4,272",
+        "crawled_at": "2026-08-21T13:34:17.185831"
+      },
+      {
+        "name": "santifer /career-ops",
+        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+        "language": "JavaScript",
+        "stars": "67,171",
+        "crawled_at": "2026-08-21T13:34:17.186063"
+      },
+      {
+        "name": "akitaonrails /ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "stars": "3,850",
+        "crawled_at": "2026-08-21T13:34:17.186244"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "113,546",
+        "crawled_at": "2026-08-21T13:34:17.186458"
+      },
+      {
+        "name": "agent-substrate /substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars": "1,535",
+        "crawled_at": "2026-08-21T13:34:17.186641"
+      },
+      {
+        "name": "chaitanyagiri /munder-difflin",
+        "description": "local multi-agent harness",
+        "language": "TypeScript",
+        "stars": "3,300",
+        "crawled_at": "2026-08-21T13:34:17.186825"
       }
     ]
   }
