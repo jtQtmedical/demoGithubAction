@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "repos": [
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "5,707",
-        "crawled_at": "2026-07-23T14:54:36.417221"
-      },
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "70,863",
-        "crawled_at": "2026-07-23T14:54:36.417411"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "32,886",
-        "crawled_at": "2026-07-23T14:54:36.417576"
-      },
-      {
-        "name": "Pumpkin-MC /Pumpkin",
-        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-        "language": "Rust",
-        "stars": "8,739",
-        "crawled_at": "2026-07-23T14:54:36.417776"
-      },
-      {
-        "name": "citrolabs /ego-lite",
-        "description": "The best browser for both you and your AI agents work in parallel.",
-        "language": "JavaScript",
-        "stars": "1,365",
-        "crawled_at": "2026-07-23T14:54:36.417932"
-      },
-      {
-        "name": "chrislgarry /Apollo-11",
-        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "language": "Assembly",
-        "stars": "70,918",
-        "crawled_at": "2026-07-23T14:54:36.418126"
-      },
-      {
-        "name": "diegosouzapw /OmniRoute",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-        "language": "TypeScript",
-        "stars": "26,515",
-        "crawled_at": "2026-07-23T14:54:36.418322"
-      },
-      {
-        "name": "ComposioHQ /awesome-claude-skills",
-        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "language": "Python",
-        "stars": "69,204",
-        "crawled_at": "2026-07-23T14:54:36.418496"
-      },
-      {
-        "name": "earthtojake /text-to-cad",
-        "description": "A collection of agent skills for CAD, robotics and hardware design",
-        "language": "JavaScript",
-        "stars": "9,802",
-        "crawled_at": "2026-07-23T14:54:36.418656"
-      },
-      {
-        "name": "agegr /pi-web",
-        "description": "Web UI for the pi coding agent",
-        "language": "TypeScript",
-        "stars": "2,272",
-        "crawled_at": "2026-07-23T14:54:36.418814"
-      }
-    ]
-  },
-  {
     "date": "2026-07-24",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "TypeScript",
         "stars": "3,300",
         "crawled_at": "2026-08-21T13:34:17.186825"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "repos": [
+      {
+        "name": "openai /codex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "stars": "112,101",
+        "crawled_at": "2026-08-22T13:20:56.708811"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "230,911",
+        "crawled_at": "2026-08-22T13:20:56.709028"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "241,984",
+        "crawled_at": "2026-08-22T13:20:56.709231"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "275,922",
+        "crawled_at": "2026-08-22T13:20:56.709427"
+      },
+      {
+        "name": "Wei-Shaw /sub2api",
+        "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+        "language": "Go",
+        "stars": "38,679",
+        "crawled_at": "2026-08-22T13:20:56.709585"
+      },
+      {
+        "name": "makeplane /plane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "stars": "57,040",
+        "crawled_at": "2026-08-22T13:20:56.709763"
+      },
+      {
+        "name": "n8n-io /n8n",
+        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+        "language": "TypeScript",
+        "stars": "201,599",
+        "crawled_at": "2026-08-22T13:20:56.709919"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "Python",
+        "stars": "142,362",
+        "crawled_at": "2026-08-22T13:20:56.710077"
+      },
+      {
+        "name": "AprilNEA /OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars": "13,449",
+        "crawled_at": "2026-08-22T13:20:56.710272"
+      },
+      {
+        "name": "modular /modular",
+        "description": "The Modular Platform (includes MAX & Mojo)",
+        "language": "Mojo",
+        "stars": "28,775",
+        "crawled_at": "2026-08-22T13:20:56.710431"
       }
     ]
   }
