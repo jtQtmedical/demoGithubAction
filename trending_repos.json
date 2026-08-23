@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-24",
-    "repos": [
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "8,795",
-        "crawled_at": "2026-07-24T14:27:45.855045"
-      },
-      {
-        "name": "koala73 /worldmonitor",
-        "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-        "language": "TypeScript",
-        "stars": "72,856",
-        "crawled_at": "2026-07-24T14:27:45.855243"
-      },
-      {
-        "name": "ComposioHQ /awesome-claude-skills",
-        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "language": "Python",
-        "stars": "69,829",
-        "crawled_at": "2026-07-24T14:27:45.855424"
-      },
-      {
-        "name": "Pumpkin-MC /Pumpkin",
-        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-        "language": "Rust",
-        "stars": "9,197",
-        "crawled_at": "2026-07-24T14:27:45.855624"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "33,365",
-        "crawled_at": "2026-07-24T14:27:45.855812"
-      },
-      {
-        "name": "Automattic /harper",
-        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-        "language": "Rust",
-        "stars": "12,786",
-        "crawled_at": "2026-07-24T14:27:45.855993"
-      },
-      {
-        "name": "likec4 /likec4",
-        "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-        "language": "TypeScript",
-        "stars": "4,905",
-        "crawled_at": "2026-07-24T14:27:45.856214"
-      },
-      {
-        "name": "citrolabs /ego-lite",
-        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "stars": "2,212",
-        "crawled_at": "2026-07-24T14:27:45.856393"
-      },
-      {
-        "name": "yorukot /superfile",
-        "description": "Pretty fancy and modern terminal file manager",
-        "language": "Go",
-        "stars": "19,237",
-        "crawled_at": "2026-07-24T14:27:45.856573"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "85,691",
-        "crawled_at": "2026-07-24T14:27:45.856775"
-      }
-    ]
-  },
-  {
     "date": "2026-07-25",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Mojo",
         "stars": "28,775",
         "crawled_at": "2026-08-22T13:20:56.710431"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "repos": [
+      {
+        "name": "openai /codex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "stars": "114,770",
+        "crawled_at": "2026-08-23T13:21:57.691024"
+      },
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars": "12,442",
+        "crawled_at": "2026-08-23T13:21:57.691247"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "233,251",
+        "crawled_at": "2026-08-23T13:21:57.691489"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars": "28,679",
+        "crawled_at": "2026-08-23T13:21:57.691675"
+      },
+      {
+        "name": "AprilNEA /OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars": "14,447",
+        "crawled_at": "2026-08-23T13:21:57.691901"
+      },
+      {
+        "name": "block /buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "stars": "29,909",
+        "crawled_at": "2026-08-23T13:21:57.692085"
+      },
+      {
+        "name": "apache /maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "stars": "2,201",
+        "crawled_at": "2026-08-23T13:21:57.692337"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "stars": "47,610",
+        "crawled_at": "2026-08-23T13:21:57.692532"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "language": "Rust",
+        "stars": "36,535",
+        "crawled_at": "2026-08-23T13:21:57.692715"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "242,378",
+        "crawled_at": "2026-08-23T13:21:57.692938"
       }
     ]
   }
