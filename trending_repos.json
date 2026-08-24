@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "repos": [
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "11,128",
-        "crawled_at": "2026-07-25T14:21:51.722493"
-      },
-      {
-        "name": "alibaba /open-code-review",
-        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "stars": "12,665",
-        "crawled_at": "2026-07-25T14:21:51.722668"
-      },
-      {
-        "name": "citrolabs /ego-lite",
-        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "stars": "3,199",
-        "crawled_at": "2026-07-25T14:21:51.722831"
-      },
-      {
-        "name": "ComposioHQ /awesome-claude-skills",
-        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "language": "Python",
-        "stars": "70,386",
-        "crawled_at": "2026-07-25T14:21:51.722987"
-      },
-      {
-        "name": "anthropics /claude-cookbooks",
-        "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-        "language": "Jupyter Notebook",
-        "stars": "49,727",
-        "crawled_at": "2026-07-25T14:21:51.723154"
-      },
-      {
-        "name": "Automattic /harper",
-        "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-        "language": "Rust",
-        "stars": "13,247",
-        "crawled_at": "2026-07-25T14:21:51.723314"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "33,672",
-        "crawled_at": "2026-07-25T14:21:51.723469"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "260,858",
-        "crawled_at": "2026-07-25T14:21:51.723668"
-      },
-      {
-        "name": "Pumpkin-MC /Pumpkin",
-        "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-        "language": "Rust",
-        "stars": "9,546",
-        "crawled_at": "2026-07-25T14:21:51.723823"
-      },
-      {
-        "name": "permissionlesstech /bitchat",
-        "description": "bluetooth mesh chat, IRC vibes",
-        "language": "Swift",
-        "stars": "28,212",
-        "crawled_at": "2026-07-25T14:21:51.723982"
-      }
-    ]
-  },
-  {
     "date": "2026-07-26",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "JavaScript",
         "stars": "242,378",
         "crawled_at": "2026-08-23T13:21:57.692938"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "repos": [
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "stars": "48,513",
+        "crawled_at": "2026-08-24T13:39:00.337389"
+      },
+      {
+        "name": "openai /codex",
+        "description": "Lightweight coding agent that runs in your terminal",
+        "language": "Rust",
+        "stars": "116,717",
+        "crawled_at": "2026-08-24T13:39:00.337634"
+      },
+      {
+        "name": "MadsLorentzen /ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars": "33,513",
+        "crawled_at": "2026-08-24T13:39:00.337860"
+      },
+      {
+        "name": "multica-ai /andrej-karpathy-skills",
+        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+        "language": "未知",
+        "stars": "206,174",
+        "crawled_at": "2026-08-24T13:39:00.338057"
+      },
+      {
+        "name": "makeplane /plane",
+        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+        "language": "TypeScript",
+        "stars": "57,691",
+        "crawled_at": "2026-08-24T13:39:00.338238"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "235,486",
+        "crawled_at": "2026-08-24T13:39:00.338416"
+      },
+      {
+        "name": "anthropics /claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "stars": "1,216",
+        "crawled_at": "2026-08-24T13:39:00.338621"
+      },
+      {
+        "name": "AprilNEA /OpenLogi",
+        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+        "language": "Rust",
+        "stars": "15,536",
+        "crawled_at": "2026-08-24T13:39:00.338840"
+      },
+      {
+        "name": "apache /maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "stars": "2,645",
+        "crawled_at": "2026-08-24T13:39:00.339025"
+      },
+      {
+        "name": "PostHog /posthog",
+        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+        "language": "Python",
+        "stars": "38,849",
+        "crawled_at": "2026-08-24T13:39:00.339204"
       }
     ]
   }
