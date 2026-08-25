@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "repos": [
-      {
-        "name": "permissionlesstech /bitchat",
-        "description": "bluetooth mesh chat, IRC vibes",
-        "language": "Swift",
-        "stars": "29,449",
-        "crawled_at": "2026-07-26T14:18:48.412015"
-      },
-      {
-        "name": "citrolabs /ego-lite",
-        "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "stars": "4,116",
-        "crawled_at": "2026-07-26T14:18:48.412191"
-      },
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "12,728",
-        "crawled_at": "2026-07-26T14:18:48.412356"
-      },
-      {
-        "name": "pingdotgg /t3code",
-        "description": "無描述",
-        "language": "TypeScript",
-        "stars": "14,943",
-        "crawled_at": "2026-07-26T14:18:48.412554"
-      },
-      {
-        "name": "CoreBunch /Instatic",
-        "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-        "language": "TypeScript",
-        "stars": "5,414",
-        "crawled_at": "2026-07-26T14:18:48.412754"
-      },
-      {
-        "name": "yorukot /superfile",
-        "description": "Pretty fancy and modern terminal file manager",
-        "language": "Go",
-        "stars": "20,005",
-        "crawled_at": "2026-07-26T14:18:48.412916"
-      },
-      {
-        "name": "nodejs /node",
-        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-        "language": "JavaScript",
-        "stars": "118,406",
-        "crawled_at": "2026-07-26T14:18:48.413116"
-      },
-      {
-        "name": "OtterMind /Chat2DB",
-        "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-        "language": "Java",
-        "stars": "26,926",
-        "crawled_at": "2026-07-26T14:18:48.413278"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "JavaScript",
-        "stars": "50,344",
-        "crawled_at": "2026-07-26T14:18:48.413438"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "34,006",
-        "crawled_at": "2026-07-26T14:18:48.413609"
-      }
-    ]
-  },
-  {
     "date": "2026-07-27",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "38,849",
         "crawled_at": "2026-08-24T13:39:00.339204"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "repos": [
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars": "16,647",
+        "crawled_at": "2026-08-25T13:36:59.639413"
+      },
+      {
+        "name": "anthropics /claude-plugins-community",
+        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+        "language": "Python",
+        "stars": "1,558",
+        "crawled_at": "2026-08-25T13:36:59.639612"
+      },
+      {
+        "name": "MadsLorentzen /ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars": "34,785",
+        "crawled_at": "2026-08-25T13:36:59.639829"
+      },
+      {
+        "name": "apache /maka",
+        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+        "language": "TypeScript",
+        "stars": "3,150",
+        "crawled_at": "2026-08-25T13:36:59.640034"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "99,903",
+        "crawled_at": "2026-08-25T13:36:59.640217"
+      },
+      {
+        "name": "AgriciDaniel /claude-obsidian",
+        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+        "language": "Python",
+        "stars": "12,367",
+        "crawled_at": "2026-08-25T13:36:59.640395"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "48,639",
+        "crawled_at": "2026-08-25T13:36:59.640612"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "language": "Rust",
+        "stars": "37,558",
+        "crawled_at": "2026-08-25T13:36:59.640793"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars": "30,790",
+        "crawled_at": "2026-08-25T13:36:59.640987"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "language": "Python",
+        "stars": "134,029",
+        "crawled_at": "2026-08-25T13:36:59.641163"
       }
     ]
   }
