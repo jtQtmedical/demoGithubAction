@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-27",
-    "repos": [
-      {
-        "name": "permissionlesstech /bitchat",
-        "description": "bluetooth mesh chat, IRC vibes",
-        "language": "Swift",
-        "stars": "31,794",
-        "crawled_at": "2026-07-27T15:32:21.537939"
-      },
-      {
-        "name": "amnezia-vpn /amnezia-client",
-        "description": "Amnezia VPN Client (Desktop+Mobile)",
-        "language": "C++",
-        "stars": "13,653",
-        "crawled_at": "2026-07-27T15:32:21.538160"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "43,827",
-        "crawled_at": "2026-07-27T15:32:21.538354"
-      },
-      {
-        "name": "yorukot /superfile",
-        "description": "Pretty fancy and modern terminal file manager",
-        "language": "Go",
-        "stars": "20,676",
-        "crawled_at": "2026-07-27T15:32:21.538538"
-      },
-      {
-        "name": "NanmiCoder /MediaCrawler",
-        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-        "language": "Python",
-        "stars": "58,040",
-        "crawled_at": "2026-07-27T15:32:21.538759"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "JavaScript",
-        "stars": "51,274",
-        "crawled_at": "2026-07-27T15:32:21.538939"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "34,437",
-        "crawled_at": "2026-07-27T15:32:21.539149"
-      },
-      {
-        "name": "alibaba /open-code-review",
-        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "stars": "14,508",
-        "crawled_at": "2026-07-27T15:32:21.539333"
-      },
-      {
-        "name": "jenkinsci /jenkins",
-        "description": "Jenkins automation server",
-        "language": "Java",
-        "stars": "25,827",
-        "crawled_at": "2026-07-27T15:32:21.539518"
-      },
-      {
-        "name": "bradautomates /claude-video",
-        "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-        "language": "Python",
-        "stars": "10,806",
-        "crawled_at": "2026-07-27T15:32:21.539700"
-      }
-    ]
-  },
-  {
     "date": "2026-07-28",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "134,029",
         "crawled_at": "2026-08-25T13:36:59.641163"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "repos": [
+      {
+        "name": "tt-a1i /archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "HTML",
+        "stars": "16,987",
+        "crawled_at": "2026-08-26T13:41:39.634497"
+      },
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars": "20,650",
+        "crawled_at": "2026-08-26T13:41:39.634632"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "34,254",
+        "crawled_at": "2026-08-26T13:41:39.634753"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "stars": "50,121",
+        "crawled_at": "2026-08-26T13:41:39.634889"
+      },
+      {
+        "name": "MadsLorentzen /ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars": "36,048",
+        "crawled_at": "2026-08-26T13:41:39.635040"
+      },
+      {
+        "name": "AgriciDaniel /claude-obsidian",
+        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+        "language": "Python",
+        "stars": "13,141",
+        "crawled_at": "2026-08-26T13:41:39.635163"
+      },
+      {
+        "name": "basecamp /omarchy",
+        "description": "Beautiful, Modern & Opinionated Linux",
+        "language": "Shell",
+        "stars": "31,738",
+        "crawled_at": "2026-08-26T13:41:39.635286"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "49,419",
+        "crawled_at": "2026-08-26T13:41:39.635433"
+      },
+      {
+        "name": "tinyhumansai /openhuman",
+        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+        "language": "Rust",
+        "stars": "38,051",
+        "crawled_at": "2026-08-26T13:41:39.635554"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "111,959",
+        "crawled_at": "2026-08-26T13:41:39.635702"
       }
     ]
   }
