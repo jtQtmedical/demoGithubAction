@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-28",
-    "repos": [
-      {
-        "name": "pascalorg /editor",
-        "description": "Create and share 3D architectural projects.",
-        "language": "TypeScript",
-        "stars": "18,387",
-        "crawled_at": "2026-07-28T15:07:05.787405"
-      },
-      {
-        "name": "jenkinsci /jenkins",
-        "description": "Jenkins automation server",
-        "language": "Java",
-        "stars": "26,009",
-        "crawled_at": "2026-07-28T15:07:05.787598"
-      },
-      {
-        "name": "moeru-ai /airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars": "44,573",
-        "crawled_at": "2026-07-28T15:07:05.787791"
-      },
-      {
-        "name": "andrewyng /aisuite",
-        "description": "Simple, unified interface to multiple Generative AI providers",
-        "language": "Python",
-        "stars": "15,597",
-        "crawled_at": "2026-07-28T15:07:05.787970"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "234,554",
-        "crawled_at": "2026-07-28T15:07:05.788209"
-      },
-      {
-        "name": "huggingface /speech-to-speech",
-        "description": "Build local voice agents with open-source models",
-        "language": "Python",
-        "stars": "6,919",
-        "crawled_at": "2026-07-28T15:07:05.788389"
-      },
-      {
-        "name": "virgiliojr94 /book-to-skill",
-        "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-        "language": "Python",
-        "stars": "10,916",
-        "crawled_at": "2026-07-28T15:07:05.788608"
-      },
-      {
-        "name": "opengeos /GeoLibre",
-        "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-        "language": "TypeScript",
-        "stars": "3,131",
-        "crawled_at": "2026-07-28T15:07:05.788837"
-      },
-      {
-        "name": "paperswithbacktest /awesome-systematic-trading",
-        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-        "language": "Python",
-        "stars": "9,308",
-        "crawled_at": "2026-07-28T15:07:05.789035"
-      },
-      {
-        "name": "microsoft /agent-governance-toolkit",
-        "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
-        "language": "Python",
-        "stars": "5,041",
-        "crawled_at": "2026-07-28T15:07:05.789213"
-      }
-    ]
-  },
-  {
     "date": "2026-07-29",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "JavaScript",
         "stars": "111,959",
         "crawled_at": "2026-08-26T13:41:39.635702"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "repos": [
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "7,799",
+        "crawled_at": "2026-08-27T22:38:44.638524"
+      },
+      {
+        "name": "zedeus /nitter",
+        "description": "Alternative Twitter front-end",
+        "language": "Nim",
+        "stars": "13,843",
+        "crawled_at": "2026-08-27T22:38:44.638756"
+      },
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars": "22,954",
+        "crawled_at": "2026-08-27T22:38:44.638941"
+      },
+      {
+        "name": "tt-a1i /archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars": "22,942",
+        "crawled_at": "2026-08-27T22:38:44.639115"
+      },
+      {
+        "name": "JetBrains /go-modern-guidelines",
+        "description": "Help AI coding agents write modern Go",
+        "language": "Go",
+        "stars": "2,050",
+        "crawled_at": "2026-08-27T22:38:44.639284"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "34,663",
+        "crawled_at": "2026-08-27T22:38:44.639456"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "stars": "35,276",
+        "crawled_at": "2026-08-27T22:38:44.639626"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "113,966",
+        "crawled_at": "2026-08-27T22:38:44.639851"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "52,296",
+        "crawled_at": "2026-08-27T22:38:44.640063"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "50,133",
+        "crawled_at": "2026-08-27T22:38:44.640278"
       }
     ]
   }
