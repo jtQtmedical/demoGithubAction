@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-07-31",
-    "repos": [
-      {
-        "name": "zhaoxuya520 /reverse-skill",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "language": "PowerShell",
-        "stars": "10,267",
-        "crawled_at": "2026-07-31T15:10:40.801313"
-      },
-      {
-        "name": "different-ai /openwork",
-        "description": "The open-source alternative to Claude Cowork (powered by opencode)",
-        "language": "TypeScript",
-        "stars": "19,230",
-        "crawled_at": "2026-07-31T15:10:40.801547"
-      },
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "55,958",
-        "crawled_at": "2026-07-31T15:10:40.801744"
-      },
-      {
-        "name": "paperswithbacktest /awesome-systematic-trading",
-        "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-        "language": "Python",
-        "stars": "11,547",
-        "crawled_at": "2026-07-31T15:10:40.801931"
-      },
-      {
-        "name": "microsoft /AI-For-Beginners",
-        "description": "12 Weeks, 24 Lessons, AI for All!",
-        "language": "Jupyter Notebook",
-        "stars": "55,034",
-        "crawled_at": "2026-07-31T15:10:40.802116"
-      },
-      {
-        "name": "github /copilot-sdk",
-        "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-        "language": "Java",
-        "stars": "10,087",
-        "crawled_at": "2026-07-31T15:10:40.802306"
-      },
-      {
-        "name": "chatwoot /chatwoot",
-        "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-        "language": "Ruby",
-        "stars": "35,013",
-        "crawled_at": "2026-07-31T15:10:40.802554"
-      },
-      {
-        "name": "agavra /tuicr",
-        "description": "a code review TUI with vim keybindings",
-        "language": "Rust",
-        "stars": "2,055",
-        "crawled_at": "2026-07-31T15:10:40.802786"
-      },
-      {
-        "name": "usekaneo /kaneo",
-        "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-        "language": "TypeScript",
-        "stars": "4,773",
-        "crawled_at": "2026-07-31T15:10:40.803014"
-      },
-      {
-        "name": "geo-tp /ESP32-Bit-Pirate",
-        "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-        "language": "C++",
-        "stars": "4,782",
-        "crawled_at": "2026-07-31T15:10:40.803198"
-      }
-    ]
-  },
-  {
     "date": "2026-08-01",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "JavaScript",
         "stars": "24,952",
         "crawled_at": "2026-08-29T16:53:13.427228"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "repos": [
+      {
+        "name": "THU-MAIC /OpenMAIC",
+        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+        "language": "TypeScript",
+        "stars": "23,489",
+        "crawled_at": "2026-08-30T16:59:49.215738"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "stars": "38,801",
+        "crawled_at": "2026-08-30T16:59:49.215938"
+      },
+      {
+        "name": "Lakr233 /vphone-cli",
+        "description": "無描述",
+        "language": "Swift",
+        "stars": "9,474",
+        "crawled_at": "2026-08-30T16:59:49.216181"
+      },
+      {
+        "name": "tt-a1i /archify",
+        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+        "language": "JavaScript",
+        "stars": "33,734",
+        "crawled_at": "2026-08-30T16:59:49.216370"
+      },
+      {
+        "name": "p-e-w /heretic",
+        "description": "Fully automatic censorship removal for language models",
+        "language": "Python",
+        "stars": "29,019",
+        "crawled_at": "2026-08-30T16:59:49.216560"
+      },
+      {
+        "name": "unclecode /crawl4ai",
+        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+        "language": "Python",
+        "stars": "80,103",
+        "crawled_at": "2026-08-30T16:59:49.216813"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "60,399",
+        "crawled_at": "2026-08-30T16:59:49.216996"
+      },
+      {
+        "name": "majd /ipatool",
+        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+        "language": "Go",
+        "stars": "10,102",
+        "crawled_at": "2026-08-30T16:59:49.217176"
+      },
+      {
+        "name": "punkpeye /awesome-mcp-servers",
+        "description": "A collection of MCP servers.",
+        "language": "未知",
+        "stars": "93,203",
+        "crawled_at": "2026-08-30T16:59:49.217375"
+      },
+      {
+        "name": "checkstyle /checkstyle",
+        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+        "language": "Java",
+        "stars": "9,149",
+        "crawled_at": "2026-08-30T16:59:49.217559"
       }
     ]
   }
