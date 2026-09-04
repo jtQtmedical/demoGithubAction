@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-05",
-    "repos": [
-      {
-        "name": "cloudflare /computer",
-        "description": "Give your agent a computer 👾",
-        "language": "TypeScript",
-        "stars": "1,946",
-        "crawled_at": "2026-08-05T15:02:54.494367"
-      },
-      {
-        "name": "huangruiteng /loopx",
-        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-        "language": "Python",
-        "stars": "1,868",
-        "crawled_at": "2026-08-05T15:02:54.494573"
-      },
-      {
-        "name": "TencentCloud /TencentDB-Agent-Memory",
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-        "language": "TypeScript",
-        "stars": "14,776",
-        "crawled_at": "2026-08-05T15:02:54.494763"
-      },
-      {
-        "name": "donnemartin /system-design-primer",
-        "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-        "language": "Python",
-        "stars": "361,249",
-        "crawled_at": "2026-08-05T15:02:54.494947"
-      },
-      {
-        "name": "firecrawl /pdf-inspector",
-        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-        "language": "Rust",
-        "stars": "11,020",
-        "crawled_at": "2026-08-05T15:02:54.495130"
-      },
-      {
-        "name": "esengine /DeepSeek-Reasonix",
-        "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-        "language": "Go",
-        "stars": "31,339",
-        "crawled_at": "2026-08-05T15:02:54.495311"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "81,834",
-        "crawled_at": "2026-08-05T15:02:54.495515"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "267,050",
-        "crawled_at": "2026-08-05T15:02:54.495736"
-      },
-      {
-        "name": "roboflow /supervision",
-        "description": "We write your reusable computer vision tools. 💜",
-        "language": "Python",
-        "stars": "48,801",
-        "crawled_at": "2026-08-05T15:02:54.495918"
-      },
-      {
-        "name": "vercel /next.js",
-        "description": "The React Framework",
-        "language": "JavaScript",
-        "stars": "141,430",
-        "crawled_at": "2026-08-05T15:02:54.496099"
-      }
-    ]
-  },
-  {
     "date": "2026-08-06",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "HTML",
         "stars": "8,252",
         "crawled_at": "2026-09-03T16:42:20.937195"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "repos": [
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "249,583",
+        "crawled_at": "2026-09-04T16:37:04.100752"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "124,959",
+        "crawled_at": "2026-09-04T16:37:04.100912"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "25,429",
+        "crawled_at": "2026-09-04T16:37:04.101033"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "248,085",
+        "crawled_at": "2026-09-04T16:37:04.101181"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "173,995",
+        "crawled_at": "2026-09-04T16:37:04.101303"
+      },
+      {
+        "name": "blader /humanizer",
+        "description": "Agent skill that removes signs of AI-generated writing from text",
+        "language": "Python",
+        "stars": "42,395",
+        "crawled_at": "2026-09-04T16:37:04.101425"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "241,331",
+        "crawled_at": "2026-09-04T16:37:04.101545"
+      },
+      {
+        "name": "JuliusBrussee /caveman",
+        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+        "language": "Go",
+        "stars": "103,464",
+        "crawled_at": "2026-09-04T16:37:04.101711"
+      },
+      {
+        "name": "magnitudedev /magnitude",
+        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+        "language": "TypeScript",
+        "stars": "2,248",
+        "crawled_at": "2026-09-04T16:37:04.101833"
+      },
+      {
+        "name": "bikini /exploitarium",
+        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+        "language": "Python",
+        "stars": "4,443",
+        "crawled_at": "2026-09-04T16:37:04.101951"
       }
     ]
   }
