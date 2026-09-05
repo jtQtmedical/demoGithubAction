@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-06",
-    "repos": [
-      {
-        "name": "TencentCloud /TencentDB-Agent-Memory",
-        "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-        "language": "TypeScript",
-        "stars": "15,939",
-        "crawled_at": "2026-08-06T15:01:31.642287"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "82,497",
-        "crawled_at": "2026-08-06T15:01:31.642484"
-      },
-      {
-        "name": "cloudflare /computer",
-        "description": "Give your agent a computer 👾",
-        "language": "TypeScript",
-        "stars": "4,488",
-        "crawled_at": "2026-08-06T15:01:31.642668"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "206,307",
-        "crawled_at": "2026-08-06T15:01:31.642895"
-      },
-      {
-        "name": "goauthentik /authentik",
-        "description": "The authentication glue you need.",
-        "language": "Python",
-        "stars": "22,907",
-        "crawled_at": "2026-08-06T15:01:31.643161"
-      },
-      {
-        "name": "huangruiteng /loopx",
-        "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-        "language": "Python",
-        "stars": "2,668",
-        "crawled_at": "2026-08-06T15:01:31.643344"
-      },
-      {
-        "name": "google /guava",
-        "description": "Google core libraries for Java",
-        "language": "Java",
-        "stars": "51,571",
-        "crawled_at": "2026-08-06T15:01:31.643523"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "76,975",
-        "crawled_at": "2026-08-06T15:01:31.643706"
-      },
-      {
-        "name": "Significant-Gravitas /AutoGPT",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "language": "Python",
-        "stars": "185,894",
-        "crawled_at": "2026-08-06T15:01:31.643883"
-      },
-      {
-        "name": "tirth8205 /code-review-graph",
-        "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-        "language": "Python",
-        "stars": "28,876",
-        "crawled_at": "2026-08-06T15:01:31.644129"
-      }
-    ]
-  },
-  {
     "date": "2026-08-07",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "4,443",
         "crawled_at": "2026-09-04T16:37:04.101951"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "repos": [
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "251,840",
+        "crawled_at": "2026-09-05T15:37:52.483808"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "249,351",
+        "crawled_at": "2026-09-05T15:37:52.484029"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "127,437",
+        "crawled_at": "2026-09-05T15:37:52.484242"
+      },
+      {
+        "name": "NousResearch /hermes-agent",
+        "description": "The agent that grows with you",
+        "language": "Python",
+        "stars": "241,834",
+        "crawled_at": "2026-09-05T15:37:52.484404"
+      },
+      {
+        "name": "fmtlib /fmt",
+        "description": "A modern formatting library",
+        "language": "C++",
+        "stars": "25,548",
+        "crawled_at": "2026-09-05T15:37:52.484581"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "174,424",
+        "crawled_at": "2026-09-05T15:37:52.484745"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "31,484",
+        "crawled_at": "2026-09-05T15:37:52.484906"
+      },
+      {
+        "name": "anomalyco /opencode",
+        "description": "The open source coding agent.",
+        "language": "TypeScript",
+        "stars": "204,503",
+        "crawled_at": "2026-09-05T15:37:52.485112"
+      },
+      {
+        "name": "ruvnet /ruflo",
+        "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+        "language": "TypeScript",
+        "stars": "70,598",
+        "crawled_at": "2026-09-05T15:37:52.485277"
+      },
+      {
+        "name": "humanlayer /skills",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "2,565",
+        "crawled_at": "2026-09-05T15:37:52.485467"
       }
     ]
   }
