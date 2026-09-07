@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-08",
-    "repos": [
-      {
-        "name": "PrimeIntellect-ai /prime-agent",
-        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "language": "TypeScript",
-        "stars": "7,775",
-        "crawled_at": "2026-08-08T13:34:43.237671"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "84,233",
-        "crawled_at": "2026-08-08T13:34:43.237869"
-      },
-      {
-        "name": "TapXWorld /ChinaTextbook",
-        "description": "所有小初高、大学PDF教材。",
-        "language": "Roff",
-        "stars": "77,707",
-        "crawled_at": "2026-08-08T13:34:43.238055"
-      },
-      {
-        "name": "google /skills",
-        "description": "Agent Skills for Google products and technologies",
-        "language": "Python",
-        "stars": "16,487",
-        "crawled_at": "2026-08-08T13:34:43.238236"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "209,504",
-        "crawled_at": "2026-08-08T13:34:43.238499"
-      },
-      {
-        "name": "goauthentik /authentik",
-        "description": "The authentication glue you need.",
-        "language": "Python",
-        "stars": "23,836",
-        "crawled_at": "2026-08-08T13:34:43.238736"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "96,179",
-        "crawled_at": "2026-08-08T13:34:43.238924"
-      },
-      {
-        "name": "google /guava",
-        "description": "Google core libraries for Java",
-        "language": "Java",
-        "stars": "51,800",
-        "crawled_at": "2026-08-08T13:34:43.239105"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "64,870",
-        "crawled_at": "2026-08-08T13:34:43.239287"
-      },
-      {
-        "name": "denoland /celld",
-        "description": "self-hosted, distributed Durable Objects",
-        "language": "Rust",
-        "stars": "2,397",
-        "crawled_at": "2026-08-08T13:34:43.239497"
-      }
-    ]
-  },
-  {
     "date": "2026-08-09",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "TypeScript",
         "stars": "70,871",
         "crawled_at": "2026-09-06T15:50:09.443236"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "repos": [
+      {
+        "name": "heygen-com /hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": "45,378",
+        "crawled_at": "2026-09-07T17:57:19.435557"
+      },
+      {
+        "name": "microsoft /markitdown",
+        "description": "Python tool for converting files and office documents to Markdown.",
+        "language": "Python",
+        "stars": "179,828",
+        "crawled_at": "2026-09-07T17:57:19.435679"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "20,694",
+        "crawled_at": "2026-09-07T17:57:19.435803"
+      },
+      {
+        "name": "jo-inc /camofox-browser",
+        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+        "language": "JavaScript",
+        "stars": "9,502",
+        "crawled_at": "2026-09-07T17:57:19.435906"
+      },
+      {
+        "name": "MoonTechLab /LunaTV",
+        "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+        "language": "TypeScript",
+        "stars": "9,658",
+        "crawled_at": "2026-09-07T17:57:19.436004"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "252,556",
+        "crawled_at": "2026-09-07T17:57:19.436128"
+      },
+      {
+        "name": "coreyhaines31 /marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "stars": "47,987",
+        "crawled_at": "2026-09-07T17:57:19.436254"
+      },
+      {
+        "name": "The-Swarm-Corporation /AutoHedge",
+        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+        "language": "Python",
+        "stars": "5,134",
+        "crawled_at": "2026-09-07T17:57:19.436369"
+      },
+      {
+        "name": "BraveOPotato /FckSignups",
+        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+        "language": "TypeScript",
+        "stars": "3,701",
+        "crawled_at": "2026-09-07T17:57:19.436470"
+      },
+      {
+        "name": "bytedance /deer-flow",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "language": "Python",
+        "stars": "81,763",
+        "crawled_at": "2026-09-07T17:57:19.436571"
       }
     ]
   }
