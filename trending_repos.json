@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "repos": [
-      {
-        "name": "semantica-agi /semantica",
-        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "language": "Python",
-        "stars": "3,778",
-        "crawled_at": "2026-08-10T14:07:47.524966"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "141,472",
-        "crawled_at": "2026-08-10T14:07:47.525222"
-      },
-      {
-        "name": "NanmiCoder /MediaCrawler",
-        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-        "language": "Python",
-        "stars": "60,794",
-        "crawled_at": "2026-08-10T14:07:47.525472"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "85,540",
-        "crawled_at": "2026-08-10T14:07:47.525669"
-      },
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "76,229",
-        "crawled_at": "2026-08-10T14:07:47.525891"
-      },
-      {
-        "name": "PrimeIntellect-ai /prime-agent",
-        "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-        "language": "TypeScript",
-        "stars": "12,632",
-        "crawled_at": "2026-08-10T14:07:47.526089"
-      },
-      {
-        "name": "LadybirdBrowser /ladybird",
-        "description": "Truly independent web browser",
-        "language": "C++",
-        "stars": "65,163",
-        "crawled_at": "2026-08-10T14:07:47.526287"
-      },
-      {
-        "name": "ruvnet /RuView",
-        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-        "language": "Rust",
-        "stars": "89,205",
-        "crawled_at": "2026-08-10T14:07:47.526480"
-      },
-      {
-        "name": "danielmiessler /LifeOS",
-        "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-        "language": "TypeScript",
-        "stars": "17,701",
-        "crawled_at": "2026-08-10T14:07:47.526719"
-      },
-      {
-        "name": "firecrawl /firecrawl",
-        "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-        "language": "TypeScript",
-        "stars": "164,692",
-        "crawled_at": "2026-08-10T14:07:47.526936"
-      }
-    ]
-  },
-  {
     "date": "2026-08-11",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "JavaScript",
         "stars": "10,317",
         "crawled_at": "2026-09-08T16:52:04.145980"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "repos": [
+      {
+        "name": "ayghri /i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars": "33,699",
+        "crawled_at": "2026-09-09T16:54:44.935057"
+      },
+      {
+        "name": "Tencent /teamai-cli",
+        "description": "Make Every Team AI Native",
+        "language": "TypeScript",
+        "stars": "2,821",
+        "crawled_at": "2026-09-09T16:54:44.935261"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "283,875",
+        "crawled_at": "2026-09-09T16:54:44.935485"
+      },
+      {
+        "name": "pascalorg /editor",
+        "description": "Create and share 3D architectural projects.",
+        "language": "TypeScript",
+        "stars": "22,786",
+        "crawled_at": "2026-09-09T16:54:44.935692"
+      },
+      {
+        "name": "earthtojake /text-to-cad",
+        "description": "A library of agent skills for CAD, CAE and CAM",
+        "language": "Python",
+        "stars": "14,937",
+        "crawled_at": "2026-09-09T16:54:44.935876"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "36,302",
+        "crawled_at": "2026-09-09T16:54:44.936065"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "103,742",
+        "crawled_at": "2026-09-09T16:54:44.936249"
+      },
+      {
+        "name": "liquidslr /system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": "未知",
+        "stars": "17,776",
+        "crawled_at": "2026-09-09T16:54:44.936438"
+      },
+      {
+        "name": "openai /plugins",
+        "description": "OpenAI Plugins",
+        "language": "JavaScript",
+        "stars": "6,116",
+        "crawled_at": "2026-09-09T16:54:44.936640"
+      },
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+        "language": "JavaScript",
+        "stars": "29,890",
+        "crawled_at": "2026-09-09T16:54:44.936828"
       }
     ]
   }
