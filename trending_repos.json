@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "repos": [
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "142,489",
-        "crawled_at": "2026-08-11T14:07:33.126754"
-      },
-      {
-        "name": "semantica-agi /semantica",
-        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "language": "Python",
-        "stars": "4,613",
-        "crawled_at": "2026-08-11T14:07:33.127004"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-        "language": "Shell",
-        "stars": "94,422",
-        "crawled_at": "2026-08-11T14:07:33.127192"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "86,069",
-        "crawled_at": "2026-08-11T14:07:33.127376"
-      },
-      {
-        "name": "ZhuLinsen /daily_stock_analysis",
-        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-        "language": "Python",
-        "stars": "61,957",
-        "crawled_at": "2026-08-11T14:07:33.127572"
-      },
-      {
-        "name": "vitali87 /code-graph-rag",
-        "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-        "language": "Python",
-        "stars": "3,710",
-        "crawled_at": "2026-08-11T14:07:33.127833"
-      },
-      {
-        "name": "anthropics /skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars": "167,876",
-        "crawled_at": "2026-08-11T14:07:33.128017"
-      },
-      {
-        "name": "3b1b /manim",
-        "description": "Animation engine for explanatory math videos",
-        "language": "Python",
-        "stars": "89,996",
-        "crawled_at": "2026-08-11T14:07:33.128200"
-      },
-      {
-        "name": "HKUDS /DeepTutor",
-        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-        "language": "Python",
-        "stars": "34,425",
-        "crawled_at": "2026-08-11T14:07:33.128388"
-      },
-      {
-        "name": "stablyai /orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "language": "TypeScript",
-        "stars": "42,264",
-        "crawled_at": "2026-08-11T14:07:33.128570"
-      }
-    ]
-  },
-  {
     "date": "2026-08-12",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "JavaScript",
         "stars": "29,890",
         "crawled_at": "2026-09-09T16:54:44.936828"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "repos": [
+      {
+        "name": "ayghri /i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars": "37,390",
+        "crawled_at": "2026-09-10T16:42:34.437252"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "23,114",
+        "crawled_at": "2026-09-10T16:42:34.437451"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "284,530",
+        "crawled_at": "2026-09-10T16:42:34.437695"
+      },
+      {
+        "name": "alsk1992 /CloddsBot",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "language": "TypeScript",
+        "stars": "1,447",
+        "crawled_at": "2026-09-10T16:42:34.437885"
+      },
+      {
+        "name": "Tencent /teamai-cli",
+        "description": "Make Every Team AI Native",
+        "language": "TypeScript",
+        "stars": "3,643",
+        "crawled_at": "2026-09-10T16:42:34.438071"
+      },
+      {
+        "name": "AlexsJones /llmfit",
+        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+        "language": "Rust",
+        "stars": "35,604",
+        "crawled_at": "2026-09-10T16:42:34.438294"
+      },
+      {
+        "name": "liquidslr /system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": "未知",
+        "stars": "18,569",
+        "crawled_at": "2026-09-10T16:42:34.438486"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "37,479",
+        "crawled_at": "2026-09-10T16:42:34.438684"
+      },
+      {
+        "name": "freestylefly /awesome-gpt-image-2",
+        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+        "language": "JavaScript",
+        "stars": "30,738",
+        "crawled_at": "2026-09-10T16:42:34.438874"
+      },
+      {
+        "name": "armory3d /armorpaint",
+        "description": "Graphics Creation Tools",
+        "language": "C",
+        "stars": "4,307",
+        "crawled_at": "2026-09-10T16:42:34.439063"
       }
     ]
   }
