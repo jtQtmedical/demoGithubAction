@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "repos": [
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "stars": "8,612",
-        "crawled_at": "2026-08-12T14:08:23.253010"
-      },
-      {
-        "name": "macro-inc /macro",
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-        "language": "Rust",
-        "stars": "1,283",
-        "crawled_at": "2026-08-12T14:08:23.253200"
-      },
-      {
-        "name": "semantica-agi /semantica",
-        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "language": "Python",
-        "stars": "5,454",
-        "crawled_at": "2026-08-12T14:08:23.253401"
-      },
-      {
-        "name": "stablyai /orca",
-        "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-        "language": "TypeScript",
-        "stars": "43,479",
-        "crawled_at": "2026-08-12T14:08:23.253558"
-      },
-      {
-        "name": "msitarzewski /agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars": "144,309",
-        "crawled_at": "2026-08-12T14:08:23.253765"
-      },
-      {
-        "name": "shiyu-coder /Kronos",
-        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-        "language": "Python",
-        "stars": "36,851",
-        "crawled_at": "2026-08-12T14:08:23.253925"
-      },
-      {
-        "name": "NanmiCoder /MediaCrawler",
-        "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
-        "language": "Python",
-        "stars": "61,867",
-        "crawled_at": "2026-08-12T14:08:23.254124"
-      },
-      {
-        "name": "hugohe3 /ppt-master",
-        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-        "language": "Python",
-        "stars": "45,264",
-        "crawled_at": "2026-08-12T14:08:23.254283"
-      },
-      {
-        "name": "infiniflow /ragflow",
-        "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-        "language": "Go",
-        "stars": "87,403",
-        "crawled_at": "2026-08-12T14:08:23.254438"
-      },
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "77,504",
-        "crawled_at": "2026-08-12T14:08:23.254597"
-      }
-    ]
-  },
-  {
     "date": "2026-08-13",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "C",
         "stars": "4,307",
         "crawled_at": "2026-09-10T16:42:34.439063"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "repos": [
+      {
+        "name": "ayghri /i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars": "40,801",
+        "crawled_at": "2026-09-11T16:46:58.076438"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "26,393",
+        "crawled_at": "2026-09-11T16:46:58.076652"
+      },
+      {
+        "name": "nab138 /iloader",
+        "description": "User friendly sideloader",
+        "language": "TypeScript",
+        "stars": "2,845",
+        "crawled_at": "2026-09-11T16:46:58.076848"
+      },
+      {
+        "name": "melgarafael /DeskcommCRM",
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "stars": "1,196",
+        "crawled_at": "2026-09-11T16:46:58.077033"
+      },
+      {
+        "name": "vastsa /PI-Desktop",
+        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+        "language": "TypeScript",
+        "stars": "2,687",
+        "crawled_at": "2026-09-11T16:46:58.077212"
+      },
+      {
+        "name": "armory3d /armorpaint",
+        "description": "Graphics Creation Tools",
+        "language": "C",
+        "stars": "4,661",
+        "crawled_at": "2026-09-11T16:46:58.077391"
+      },
+      {
+        "name": "alsk1992 /CloddsBot",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "language": "TypeScript",
+        "stars": "2,029",
+        "crawled_at": "2026-09-11T16:46:58.077573"
+      },
+      {
+        "name": "nashsu /llm_wiki",
+        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+        "language": "TypeScript",
+        "stars": "18,583",
+        "crawled_at": "2026-09-11T16:46:58.077775"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "285,210",
+        "crawled_at": "2026-09-11T16:46:58.078007"
+      },
+      {
+        "name": "Sonarr /Sonarr",
+        "description": "Smart PVR for newsgroup and bittorrent users.",
+        "language": "C#",
+        "stars": "15,664",
+        "crawled_at": "2026-09-11T16:46:58.078235"
       }
     ]
   }
