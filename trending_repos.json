@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "repos": [
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "stars": "13,099",
-        "crawled_at": "2026-08-13T14:09:51.300612"
-      },
-      {
-        "name": "semantica-agi /semantica",
-        "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-        "language": "Python",
-        "stars": "6,178",
-        "crawled_at": "2026-08-13T14:09:51.300863"
-      },
-      {
-        "name": "anthropics /skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars": "168,797",
-        "crawled_at": "2026-08-13T14:09:51.301035"
-      },
-      {
-        "name": "cactus-compute /needle",
-        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "language": "Python",
-        "stars": "4,703",
-        "crawled_at": "2026-08-13T14:09:51.301196"
-      },
-      {
-        "name": "altic-dev /FluidVoice",
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-        "language": "Swift",
-        "stars": "9,710",
-        "crawled_at": "2026-08-13T14:09:51.301391"
-      },
-      {
-        "name": "unslothai /unsloth",
-        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-        "language": "Python",
-        "stars": "70,841",
-        "crawled_at": "2026-08-13T14:09:51.301590"
-      },
-      {
-        "name": "macro-inc /macro",
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-        "language": "Rust",
-        "stars": "2,435",
-        "crawled_at": "2026-08-13T14:09:51.301751"
-      },
-      {
-        "name": "megadose /holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars": "12,231",
-        "crawled_at": "2026-08-13T14:09:51.301919"
-      },
-      {
-        "name": "smicallef /spiderfoot",
-        "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "language": "Python",
-        "stars": "20,515",
-        "crawled_at": "2026-08-13T14:09:51.302076"
-      },
-      {
-        "name": "NVIDIA-NeMo /Switchyard",
-        "description": "無描述",
-        "language": "Rust",
-        "stars": "1,053",
-        "crawled_at": "2026-08-13T14:09:51.302255"
-      }
-    ]
-  },
-  {
     "date": "2026-08-14",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "C#",
         "stars": "15,664",
         "crawled_at": "2026-09-11T16:46:58.078235"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "repos": [
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "28,828",
+        "crawled_at": "2026-09-12T15:52:52.211905"
+      },
+      {
+        "name": "melgarafael /DeskcommCRM",
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "stars": "1,652",
+        "crawled_at": "2026-09-12T15:52:52.212096"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "stars": "65,163",
+        "crawled_at": "2026-09-12T15:52:52.212317"
+      },
+      {
+        "name": "nab138 /iloader",
+        "description": "User friendly sideloader",
+        "language": "TypeScript",
+        "stars": "3,020",
+        "crawled_at": "2026-09-12T15:52:52.212494"
+      },
+      {
+        "name": "Flowseal /zapret-discord-youtube",
+        "description": "無描述",
+        "language": "Batchfile",
+        "stars": "33,181",
+        "crawled_at": "2026-09-12T15:52:52.212717"
+      },
+      {
+        "name": "jihe520 /MathModelAgent",
+        "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+        "language": "Python",
+        "stars": "5,069",
+        "crawled_at": "2026-09-12T15:52:52.212898"
+      },
+      {
+        "name": "Sonarr /Sonarr",
+        "description": "Smart PVR for newsgroup and bittorrent users.",
+        "language": "C#",
+        "stars": "15,860",
+        "crawled_at": "2026-09-12T15:52:52.213075"
+      },
+      {
+        "name": "alsk1992 /CloddsBot",
+        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+        "language": "TypeScript",
+        "stars": "2,371",
+        "crawled_at": "2026-09-12T15:52:52.213256"
+      },
+      {
+        "name": "yuliskov /SmartTube",
+        "description": "Browse media content with your own rules on Android TV",
+        "language": "Java",
+        "stars": "33,132",
+        "crawled_at": "2026-09-12T15:52:52.213433"
+      },
+      {
+        "name": "Shubhamsaboo /awesome-llm-apps",
+        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+        "language": "Python",
+        "stars": "137,457",
+        "crawled_at": "2026-09-12T15:52:52.213671"
       }
     ]
   }
