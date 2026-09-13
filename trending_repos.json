@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "repos": [
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "stars": "16,558",
-        "crawled_at": "2026-08-14T14:04:05.879008"
-      },
-      {
-        "name": "cactus-compute /needle",
-        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "language": "Python",
-        "stars": "5,354",
-        "crawled_at": "2026-08-14T14:04:05.879189"
-      },
-      {
-        "name": "megadose /holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars": "12,657",
-        "crawled_at": "2026-08-14T14:04:05.879385"
-      },
-      {
-        "name": "macro-inc /macro",
-        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-        "language": "Rust",
-        "stars": "2,865",
-        "crawled_at": "2026-08-14T14:04:05.879608"
-      },
-      {
-        "name": "smicallef /spiderfoot",
-        "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "language": "Python",
-        "stars": "20,816",
-        "crawled_at": "2026-08-14T14:04:05.879775"
-      },
-      {
-        "name": "citrolabs /ego-lite",
-        "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-        "language": "JavaScript",
-        "stars": "10,146",
-        "crawled_at": "2026-08-14T14:04:05.879933"
-      },
-      {
-        "name": "holaboss-ai /holaOS",
-        "description": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-        "language": "TypeScript",
-        "stars": "6,988",
-        "crawled_at": "2026-08-14T14:04:05.880088"
-      },
-      {
-        "name": "github /spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "stars": "128,067",
-        "crawled_at": "2026-08-14T14:04:05.880246"
-      },
-      {
-        "name": "lightningpixel /modly",
-        "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-        "language": "TypeScript",
-        "stars": "5,767",
-        "crawled_at": "2026-08-14T14:04:05.880442"
-      },
-      {
-        "name": "infiniflow /ragflow",
-        "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-        "language": "Go",
-        "stars": "88,297",
-        "crawled_at": "2026-08-14T14:04:05.880626"
-      }
-    ]
-  },
-  {
     "date": "2026-08-15",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "137,457",
         "crawled_at": "2026-09-12T15:52:52.213671"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "repos": [
+      {
+        "name": "JustVugg /colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "stars": "29,253",
+        "crawled_at": "2026-09-13T16:40:14.992729"
+      },
+      {
+        "name": "ever-co /ever-gauzy",
+        "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+        "language": "TypeScript",
+        "stars": "4,787",
+        "crawled_at": "2026-09-13T16:40:14.992871"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "31,322",
+        "crawled_at": "2026-09-13T16:40:14.992970"
+      },
+      {
+        "name": "tech-leads-club /agent-skills",
+        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+        "language": "TypeScript",
+        "stars": "5,494",
+        "crawled_at": "2026-09-13T16:40:14.993067"
+      },
+      {
+        "name": "melgarafael /DeskcommCRM",
+        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+        "language": "TypeScript",
+        "stars": "2,080",
+        "crawled_at": "2026-09-13T16:40:14.993166"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "58,221",
+        "crawled_at": "2026-09-13T16:40:14.993298"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "stars": "65,838",
+        "crawled_at": "2026-09-13T16:40:14.993432"
+      },
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "23,793",
+        "crawled_at": "2026-09-13T16:40:14.993534"
+      },
+      {
+        "name": "multimodal-art-projection /YuE",
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "language": "Python",
+        "stars": "7,611",
+        "crawled_at": "2026-09-13T16:40:14.993633"
+      },
+      {
+        "name": "yuliskov /SmartTube",
+        "description": "Browse media content with your own rules on Android TV",
+        "language": "Java",
+        "stars": "33,365",
+        "crawled_at": "2026-09-13T16:40:14.993733"
       }
     ]
   }
