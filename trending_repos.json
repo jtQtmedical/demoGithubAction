@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-15",
-    "repos": [
-      {
-        "name": "cordiverse /cordis",
-        "description": "Meta-Framework of Spatiotemporal Composability",
-        "language": "TypeScript",
-        "stars": "3,744",
-        "crawled_at": "2026-08-15T13:19:08.345914"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-        "language": "HTML",
-        "stars": "18,036",
-        "crawled_at": "2026-08-15T13:19:08.346075"
-      },
-      {
-        "name": "cursor /plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars": "2,873",
-        "crawled_at": "2026-08-15T13:19:08.346254"
-      },
-      {
-        "name": "cactus-compute /needle",
-        "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-        "language": "Python",
-        "stars": "5,855",
-        "crawled_at": "2026-08-15T13:19:08.346398"
-      },
-      {
-        "name": "unslothai /unsloth",
-        "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
-        "language": "Python",
-        "stars": "71,722",
-        "crawled_at": "2026-08-15T13:19:08.346586"
-      },
-      {
-        "name": "public-apis /public-apis",
-        "description": "A collective list of free APIs",
-        "language": "Python",
-        "stars": "459,389",
-        "crawled_at": "2026-08-15T13:19:08.346735"
-      },
-      {
-        "name": "MakazhanAlpamys /Soup",
-        "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-        "language": "Python",
-        "stars": "1,440",
-        "crawled_at": "2026-08-15T13:19:08.346876"
-      },
-      {
-        "name": "github /spec-kit",
-        "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "language": "Python",
-        "stars": "128,872",
-        "crawled_at": "2026-08-15T13:19:08.347015"
-      },
-      {
-        "name": "megadose /holehe",
-        "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-        "language": "Python",
-        "stars": "12,999",
-        "crawled_at": "2026-08-15T13:19:08.347152"
-      },
-      {
-        "name": "altic-dev /FluidVoice",
-        "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-        "language": "Swift",
-        "stars": "10,165",
-        "crawled_at": "2026-08-15T13:19:08.347368"
-      }
-    ]
-  },
-  {
     "date": "2026-08-16",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Java",
         "stars": "33,365",
         "crawled_at": "2026-09-13T16:40:14.993733"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "repos": [
+      {
+        "name": "JustVugg /colibri",
+        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+        "language": "C",
+        "stars": "31,636",
+        "crawled_at": "2026-09-14T18:13:08.929891"
+      },
+      {
+        "name": "alibaba /open-code-review",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars": "25,240",
+        "crawled_at": "2026-09-14T18:13:08.930086"
+      },
+      {
+        "name": "multimodal-art-projection /YuE",
+        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+        "language": "Python",
+        "stars": "8,230",
+        "crawled_at": "2026-09-14T18:13:08.930265"
+      },
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "28,797",
+        "crawled_at": "2026-09-14T18:13:08.930447"
+      },
+      {
+        "name": "666ghj /MiroFish",
+        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "language": "Python",
+        "stars": "73,020",
+        "crawled_at": "2026-09-14T18:13:08.930637"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "81,055",
+        "crawled_at": "2026-09-14T18:13:08.930842"
+      },
+      {
+        "name": "asgeirtj /system_prompts_leaks",
+        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+        "language": "JavaScript",
+        "stars": "66,653",
+        "crawled_at": "2026-09-14T18:13:08.931059"
+      },
+      {
+        "name": "rlaope /oh-my-hermes",
+        "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+        "language": "Python",
+        "stars": "1,923",
+        "crawled_at": "2026-09-14T18:13:08.931236"
+      },
+      {
+        "name": "localsend /localsend",
+        "description": "An open-source cross-platform alternative to AirDrop",
+        "language": "Dart",
+        "stars": "91,181",
+        "crawled_at": "2026-09-14T18:13:08.931410"
+      },
+      {
+        "name": "dani-garcia /vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "language": "Rust",
+        "stars": "67,473",
+        "crawled_at": "2026-09-14T18:13:08.931623"
       }
     ]
   }
