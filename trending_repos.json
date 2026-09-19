@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "repos": [
-      {
-        "name": "modular /modular",
-        "description": "The Modular Platform (includes MAX & Mojo)",
-        "language": "Mojo",
-        "stars": "27,564",
-        "crawled_at": "2026-08-20T13:35:16.767016"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "225,069",
-        "crawled_at": "2026-08-20T13:35:16.767262"
-      },
-      {
-        "name": "AprilNEA /OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars": "11,193",
-        "crawled_at": "2026-08-20T13:35:16.767489"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "274,685",
-        "crawled_at": "2026-08-20T13:35:16.767713"
-      },
-      {
-        "name": "cursor /plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars": "3,890",
-        "crawled_at": "2026-08-20T13:35:16.767919"
-      },
-      {
-        "name": "santifer /career-ops",
-        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-        "language": "JavaScript",
-        "stars": "66,274",
-        "crawled_at": "2026-08-20T13:35:16.768151"
-      },
-      {
-        "name": "akitaonrails /ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "stars": "3,403",
-        "crawled_at": "2026-08-20T13:35:16.768332"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "language": "Python",
-        "stars": "112,429",
-        "crawled_at": "2026-08-20T13:35:16.768512"
-      },
-      {
-        "name": "agent-substrate /substrate",
-        "description": "Agent Substrate: the core system",
-        "language": "Go",
-        "stars": "1,301",
-        "crawled_at": "2026-08-20T13:35:16.768696"
-      },
-      {
-        "name": "chaitanyagiri /munder-difflin",
-        "description": "local multi-agent harness",
-        "language": "TypeScript",
-        "stars": "2,972",
-        "crawled_at": "2026-08-20T13:35:16.768897"
-      }
-    ]
-  },
-  {
     "date": "2026-08-21",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Python",
         "stars": "24,783",
         "crawled_at": "2026-09-18T16:45:14.529846"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "repos": [
+      {
+        "name": "cloudflare /security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars": "15,580",
+        "crawled_at": "2026-09-19T16:06:34.758139"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "HTML",
+        "stars": "24,051",
+        "crawled_at": "2026-09-19T16:06:34.758366"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "96,815",
+        "crawled_at": "2026-09-19T16:06:34.758543"
+      },
+      {
+        "name": "coder /coder",
+        "description": "Secure environments for developers and their agents",
+        "language": "Go",
+        "stars": "15,507",
+        "crawled_at": "2026-09-19T16:06:34.758745"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "146,591",
+        "crawled_at": "2026-09-19T16:06:34.758936"
+      },
+      {
+        "name": "Open-Dev-Society /OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "stars": "15,827",
+        "crawled_at": "2026-09-19T16:06:34.759116"
+      },
+      {
+        "name": "higgsfield-ai /higgsfield",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "language": "Jupyter Notebook",
+        "stars": "4,803",
+        "crawled_at": "2026-09-19T16:06:34.759296"
+      },
+      {
+        "name": "docling-project /docling",
+        "description": "Get your documents ready for gen AI",
+        "language": "Python",
+        "stars": "66,847",
+        "crawled_at": "2026-09-19T16:06:34.759471"
+      },
+      {
+        "name": "cloudflare /quiche",
+        "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "stars": "11,926",
+        "crawled_at": "2026-09-19T16:06:34.759646"
+      },
+      {
+        "name": "asciimoo /hister",
+        "description": "Your own search engine",
+        "language": "Go",
+        "stars": "5,145",
+        "crawled_at": "2026-09-19T16:06:34.759879"
       }
     ]
   }
