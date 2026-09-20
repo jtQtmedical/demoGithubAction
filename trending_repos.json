@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-21",
-    "repos": [
-      {
-        "name": "modular /modular",
-        "description": "The Modular Platform (includes MAX & Mojo)",
-        "language": "Mojo",
-        "stars": "28,430",
-        "crawled_at": "2026-08-21T13:34:17.184934"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "228,355",
-        "crawled_at": "2026-08-21T13:34:17.185183"
-      },
-      {
-        "name": "AprilNEA /OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars": "12,515",
-        "crawled_at": "2026-08-21T13:34:17.185427"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "275,384",
-        "crawled_at": "2026-08-21T13:34:17.185650"
-      },
-      {
-        "name": "cursor /plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars": "4,272",
-        "crawled_at": "2026-08-21T13:34:17.185831"
-      },
-      {
-        "name": "santifer /career-ops",
-        "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-        "language": "JavaScript",
-        "stars": "67,171",
-        "crawled_at": "2026-08-21T13:34:17.186063"
-      },
-      {
-        "name": "akitaonrails /ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "stars": "3,850",
-        "crawled_at": "2026-08-21T13:34:17.186244"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "language": "Python",
-        "stars": "113,546",
-        "crawled_at": "2026-08-21T13:34:17.186458"
-      },
-      {
-        "name": "agent-substrate /substrate",
-        "description": "Agent Substrate: the core system",
-        "language": "Go",
-        "stars": "1,535",
-        "crawled_at": "2026-08-21T13:34:17.186641"
-      },
-      {
-        "name": "chaitanyagiri /munder-difflin",
-        "description": "local multi-agent harness",
-        "language": "TypeScript",
-        "stars": "3,300",
-        "crawled_at": "2026-08-21T13:34:17.186825"
-      }
-    ]
-  },
-  {
     "date": "2026-08-22",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "Go",
         "stars": "5,145",
         "crawled_at": "2026-09-19T16:06:34.759879"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "repos": [
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "263,458",
+        "crawled_at": "2026-09-20T16:31:26.990710"
+      },
+      {
+        "name": "BuilderIO /agent-native",
+        "description": "A framework for building agentic apps",
+        "language": "TypeScript",
+        "stars": "5,072",
+        "crawled_at": "2026-09-20T16:31:26.990904"
+      },
+      {
+        "name": "cloudflare /security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars": "17,697",
+        "crawled_at": "2026-09-20T16:31:26.991090"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "HTML",
+        "stars": "24,998",
+        "crawled_at": "2026-09-20T16:31:26.991309"
+      },
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "35,258",
+        "crawled_at": "2026-09-20T16:31:26.991537"
+      },
+      {
+        "name": "paperless-ngx /paperless-ngx",
+        "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+        "language": "Python",
+        "stars": "45,431",
+        "crawled_at": "2026-09-20T16:31:26.991718"
+      },
+      {
+        "name": "anthropics /claude-code",
+        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "language": "TypeScript",
+        "stars": "146,984",
+        "crawled_at": "2026-09-20T16:31:26.991896"
+      },
+      {
+        "name": "mihail911 /modern-software-dev-assignments",
+        "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+        "language": "Python",
+        "stars": "4,477",
+        "crawled_at": "2026-09-20T16:31:26.992074"
+      },
+      {
+        "name": "higgsfield-ai /higgsfield",
+        "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+        "language": "Jupyter Notebook",
+        "stars": "5,235",
+        "crawled_at": "2026-09-20T16:31:26.992254"
+      },
+      {
+        "name": "Open-Dev-Society /OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "stars": "16,592",
+        "crawled_at": "2026-09-20T16:31:26.992480"
       }
     ]
   }
