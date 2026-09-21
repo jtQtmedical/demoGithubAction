@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "repos": [
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "112,101",
-        "crawled_at": "2026-08-22T13:20:56.708811"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "230,911",
-        "crawled_at": "2026-08-22T13:20:56.709028"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "241,984",
-        "crawled_at": "2026-08-22T13:20:56.709231"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "275,922",
-        "crawled_at": "2026-08-22T13:20:56.709427"
-      },
-      {
-        "name": "Wei-Shaw /sub2api",
-        "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-        "language": "Go",
-        "stars": "38,679",
-        "crawled_at": "2026-08-22T13:20:56.709585"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-        "language": "TypeScript",
-        "stars": "57,040",
-        "crawled_at": "2026-08-22T13:20:56.709763"
-      },
-      {
-        "name": "n8n-io /n8n",
-        "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-        "language": "TypeScript",
-        "stars": "201,599",
-        "crawled_at": "2026-08-22T13:20:56.709919"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "Python",
-        "stars": "142,362",
-        "crawled_at": "2026-08-22T13:20:56.710077"
-      },
-      {
-        "name": "AprilNEA /OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars": "13,449",
-        "crawled_at": "2026-08-22T13:20:56.710272"
-      },
-      {
-        "name": "modular /modular",
-        "description": "The Modular Platform (includes MAX & Mojo)",
-        "language": "Mojo",
-        "stars": "28,775",
-        "crawled_at": "2026-08-22T13:20:56.710431"
-      }
-    ]
-  },
-  {
     "date": "2026-08-23",
     "repos": [
       {
@@ -2246,6 +2171,81 @@
         "language": "TypeScript",
         "stars": "16,592",
         "crawled_at": "2026-09-20T16:31:26.992480"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-21",
+    "repos": [
+      {
+        "name": "BuilderIO /agent-native",
+        "description": "A framework for building agentic apps",
+        "language": "TypeScript",
+        "stars": "5,757",
+        "crawled_at": "2026-09-21T18:19:58.106636"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "HTML",
+        "stars": "25,597",
+        "crawled_at": "2026-09-21T18:19:58.106871"
+      },
+      {
+        "name": "Open-Dev-Society /OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "stars": "17,520",
+        "crawled_at": "2026-09-21T18:19:58.107039"
+      },
+      {
+        "name": "akitaonrails /ai-memory",
+        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+        "language": "Rust",
+        "stars": "7,570",
+        "crawled_at": "2026-09-21T18:19:58.107200"
+      },
+      {
+        "name": "coder /coder",
+        "description": "Secure environments for developers and their agents",
+        "language": "Go",
+        "stars": "16,341",
+        "crawled_at": "2026-09-21T18:19:58.107362"
+      },
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "35,720",
+        "crawled_at": "2026-09-21T18:19:58.107595"
+      },
+      {
+        "name": "cloudflare /quiche",
+        "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "language": "Rust",
+        "stars": "12,267",
+        "crawled_at": "2026-09-21T18:19:58.107760"
+      },
+      {
+        "name": "mvt-project /mvt",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "language": "Python",
+        "stars": "13,482",
+        "crawled_at": "2026-09-21T18:19:58.107935"
+      },
+      {
+        "name": "zhouxiaoka /autoclip",
+        "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+        "language": "Python",
+        "stars": "8,123",
+        "crawled_at": "2026-09-21T18:19:58.108096"
+      },
+      {
+        "name": "ruanyf /weekly",
+        "description": "科技爱好者周刊，每周五发布",
+        "language": "未知",
+        "stars": "103,873",
+        "crawled_at": "2026-09-21T18:19:58.108268"
       }
     ]
   }
