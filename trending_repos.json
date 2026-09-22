@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-23",
-    "repos": [
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "114,770",
-        "crawled_at": "2026-08-23T13:21:57.691024"
-      },
-      {
-        "name": "freestylefly /awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "stars": "12,442",
-        "crawled_at": "2026-08-23T13:21:57.691247"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "233,251",
-        "crawled_at": "2026-08-23T13:21:57.691489"
-      },
-      {
-        "name": "basecamp /omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "language": "Shell",
-        "stars": "28,679",
-        "crawled_at": "2026-08-23T13:21:57.691675"
-      },
-      {
-        "name": "AprilNEA /OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars": "14,447",
-        "crawled_at": "2026-08-23T13:21:57.691901"
-      },
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "29,909",
-        "crawled_at": "2026-08-23T13:21:57.692085"
-      },
-      {
-        "name": "apache /maka",
-        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-        "language": "TypeScript",
-        "stars": "2,201",
-        "crawled_at": "2026-08-23T13:21:57.692337"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "stars": "47,610",
-        "crawled_at": "2026-08-23T13:21:57.692532"
-      },
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-        "language": "Rust",
-        "stars": "36,535",
-        "crawled_at": "2026-08-23T13:21:57.692715"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "242,378",
-        "crawled_at": "2026-08-23T13:21:57.692938"
-      }
-    ]
-  },
-  {
     "date": "2026-08-24",
     "repos": [
       {
@@ -2246,6 +2171,67 @@
         "language": "未知",
         "stars": "103,873",
         "crawled_at": "2026-09-21T18:19:58.108268"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "repos": [
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "36,195",
+        "crawled_at": "2026-09-22T17:20:50.424449"
+      },
+      {
+        "name": "agent-substrate /substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars": "2,845",
+        "crawled_at": "2026-09-22T17:20:50.424640"
+      },
+      {
+        "name": "dream-num /univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "stars": "15,152",
+        "crawled_at": "2026-09-22T17:20:50.424828"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars": "31,005",
+        "crawled_at": "2026-09-22T17:20:50.425080"
+      },
+      {
+        "name": "google /ax",
+        "description": "Google's open agentic orchestration runtime",
+        "language": "Go",
+        "stars": "7,249",
+        "crawled_at": "2026-09-22T17:20:50.425261"
+      },
+      {
+        "name": "mvt-project /mvt",
+        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+        "language": "Python",
+        "stars": "13,883",
+        "crawled_at": "2026-09-22T17:20:50.425444"
+      },
+      {
+        "name": "superdesigndev /treg",
+        "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+        "language": "Python",
+        "stars": "2,091",
+        "crawled_at": "2026-09-22T17:20:50.425629"
+      },
+      {
+        "name": "browser-use /video-use",
+        "description": "Edit videos with coding agents",
+        "language": "Python",
+        "stars": "25,669",
+        "crawled_at": "2026-09-22T17:20:50.425812"
       }
     ]
   }
