@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-24",
-    "repos": [
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "stars": "48,513",
-        "crawled_at": "2026-08-24T13:39:00.337389"
-      },
-      {
-        "name": "openai /codex",
-        "description": "Lightweight coding agent that runs in your terminal",
-        "language": "Rust",
-        "stars": "116,717",
-        "crawled_at": "2026-08-24T13:39:00.337634"
-      },
-      {
-        "name": "MadsLorentzen /ai-job-search",
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "language": "Python",
-        "stars": "33,513",
-        "crawled_at": "2026-08-24T13:39:00.337860"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "206,174",
-        "crawled_at": "2026-08-24T13:39:00.338057"
-      },
-      {
-        "name": "makeplane /plane",
-        "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-        "language": "TypeScript",
-        "stars": "57,691",
-        "crawled_at": "2026-08-24T13:39:00.338238"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "235,486",
-        "crawled_at": "2026-08-24T13:39:00.338416"
-      },
-      {
-        "name": "anthropics /claude-plugins-community",
-        "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-        "language": "Python",
-        "stars": "1,216",
-        "crawled_at": "2026-08-24T13:39:00.338621"
-      },
-      {
-        "name": "AprilNEA /OpenLogi",
-        "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-        "language": "Rust",
-        "stars": "15,536",
-        "crawled_at": "2026-08-24T13:39:00.338840"
-      },
-      {
-        "name": "apache /maka",
-        "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-        "language": "TypeScript",
-        "stars": "2,645",
-        "crawled_at": "2026-08-24T13:39:00.339025"
-      },
-      {
-        "name": "PostHog /posthog",
-        "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-        "language": "Python",
-        "stars": "38,849",
-        "crawled_at": "2026-08-24T13:39:00.339204"
-      }
-    ]
-  },
-  {
     "date": "2026-08-25",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Python",
         "stars": "25,669",
         "crawled_at": "2026-09-22T17:20:50.425812"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "repos": [
+      {
+        "name": "anthropics /financial-services",
+        "description": "無描述",
+        "language": "Python",
+        "stars": "36,827",
+        "crawled_at": "2026-09-23T17:30:03.987225"
+      },
+      {
+        "name": "google /ax",
+        "description": "Google's open agentic orchestration runtime",
+        "language": "Go",
+        "stars": "8,731",
+        "crawled_at": "2026-09-23T17:30:03.987330"
+      },
+      {
+        "name": "davila7 /claude-code-templates",
+        "description": "CLI tool for configuring and monitoring Claude Code",
+        "language": "Python",
+        "stars": "31,407",
+        "crawled_at": "2026-09-23T17:30:03.987439"
+      },
+      {
+        "name": "BuilderIO /agent-native",
+        "description": "A framework for building agentic apps",
+        "language": "TypeScript",
+        "stars": "6,454",
+        "crawled_at": "2026-09-23T17:30:03.987535"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "290,558",
+        "crawled_at": "2026-09-23T17:30:03.987644"
+      },
+      {
+        "name": "dream-num /univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "stars": "16,189",
+        "crawled_at": "2026-09-23T17:30:03.987732"
+      },
+      {
+        "name": "Open-Dev-Society /OpenStock",
+        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+        "language": "TypeScript",
+        "stars": "18,679",
+        "crawled_at": "2026-09-23T17:30:03.987817"
+      },
+      {
+        "name": "agent-substrate /substrate",
+        "description": "Agent Substrate: the core system",
+        "language": "Go",
+        "stars": "3,372",
+        "crawled_at": "2026-09-23T17:30:03.987903"
+      },
+      {
+        "name": "strands-agents /harness-sdk",
+        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+        "language": "Python",
+        "stars": "7,742",
+        "crawled_at": "2026-09-23T17:30:03.987988"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "49,826",
+        "crawled_at": "2026-09-23T17:30:03.988078"
       }
     ]
   }
