@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-26",
-    "repos": [
-      {
-        "name": "tt-a1i /archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "HTML",
-        "stars": "16,987",
-        "crawled_at": "2026-08-26T13:41:39.634497"
-      },
-      {
-        "name": "freestylefly /awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "stars": "20,650",
-        "crawled_at": "2026-08-26T13:41:39.634632"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "34,254",
-        "crawled_at": "2026-08-26T13:41:39.634753"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "stars": "50,121",
-        "crawled_at": "2026-08-26T13:41:39.634889"
-      },
-      {
-        "name": "MadsLorentzen /ai-job-search",
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "language": "Python",
-        "stars": "36,048",
-        "crawled_at": "2026-08-26T13:41:39.635040"
-      },
-      {
-        "name": "AgriciDaniel /claude-obsidian",
-        "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-        "language": "Python",
-        "stars": "13,141",
-        "crawled_at": "2026-08-26T13:41:39.635163"
-      },
-      {
-        "name": "basecamp /omarchy",
-        "description": "Beautiful, Modern & Opinionated Linux",
-        "language": "Shell",
-        "stars": "31,738",
-        "crawled_at": "2026-08-26T13:41:39.635286"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "49,419",
-        "crawled_at": "2026-08-26T13:41:39.635433"
-      },
-      {
-        "name": "tinyhumansai /openhuman",
-        "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-        "language": "Rust",
-        "stars": "38,051",
-        "crawled_at": "2026-08-26T13:41:39.635554"
-      },
-      {
-        "name": "DietrichGebert /ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars": "111,959",
-        "crawled_at": "2026-08-26T13:41:39.635702"
-      }
-    ]
-  },
-  {
     "date": "2026-08-27",
     "repos": [
       {
@@ -2232,6 +2157,81 @@
         "language": "Shell",
         "stars": "291,109",
         "crawled_at": "2026-09-24T17:34:56.099206"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "repos": [
+      {
+        "name": "paperclipai /paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars": "84,206",
+        "crawled_at": "2026-09-25T17:34:48.593970"
+      },
+      {
+        "name": "anthropics /claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": "36,831",
+        "crawled_at": "2026-09-25T17:34:48.594071"
+      },
+      {
+        "name": "vectorize-io /hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars": "29,510",
+        "crawled_at": "2026-09-25T17:34:48.594205"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "291,543",
+        "crawled_at": "2026-09-25T17:34:48.594309"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "269,568",
+        "crawled_at": "2026-09-25T17:34:48.594412"
+      },
+      {
+        "name": "dream-num /univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "stars": "18,284",
+        "crawled_at": "2026-09-25T17:34:48.594496"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "178,182",
+        "crawled_at": "2026-09-25T17:34:48.594580"
+      },
+      {
+        "name": "androoAGI /starnet",
+        "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+        "language": "JavaScript",
+        "stars": "379",
+        "crawled_at": "2026-09-25T17:34:48.594662"
+      },
+      {
+        "name": "derv82 /wifit3",
+        "description": "Wifite but USB-only & cross-platform.",
+        "language": "Python",
+        "stars": "798",
+        "crawled_at": "2026-09-25T17:34:48.594743"
+      },
+      {
+        "name": "kelseyhightower /kubernetes-the-hard-way",
+        "description": "Bootstrap Kubernetes the hard way. No scripts.",
+        "language": "未知",
+        "stars": "50,070",
+        "crawled_at": "2026-09-25T17:34:48.594831"
       }
     ]
   }
