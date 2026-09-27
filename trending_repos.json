@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-28",
-    "repos": [
-      {
-        "name": "tt-a1i /archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars": "27,173",
-        "crawled_at": "2026-08-28T22:44:18.241639"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "36,506",
-        "crawled_at": "2026-08-28T22:44:18.241819"
-      },
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "35,001",
-        "crawled_at": "2026-08-28T22:44:18.241982"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "10,969",
-        "crawled_at": "2026-08-28T22:44:18.242141"
-      },
-      {
-        "name": "abhigyanpatwari /GitNexus",
-        "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-        "language": "TypeScript",
-        "stars": "46,145",
-        "crawled_at": "2026-08-28T22:44:18.242346"
-      },
-      {
-        "name": "JetBrains /go-modern-guidelines",
-        "description": "Help AI coding agents write modern Go",
-        "language": "Go",
-        "stars": "2,573",
-        "crawled_at": "2026-08-28T22:44:18.242508"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "53,256",
-        "crawled_at": "2026-08-28T22:44:18.242713"
-      },
-      {
-        "name": "abi /screenshot-to-code",
-        "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-        "language": "Python",
-        "stars": "75,521",
-        "crawled_at": "2026-08-28T22:44:18.242914"
-      },
-      {
-        "name": "cursor /plugins",
-        "description": "Cursor plugin specification and official plugins",
-        "language": "TypeScript",
-        "stars": "5,938",
-        "crawled_at": "2026-08-28T22:44:18.243073"
-      },
-      {
-        "name": "freestylefly /awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-        "language": "JavaScript",
-        "stars": "24,211",
-        "crawled_at": "2026-08-28T22:44:18.243234"
-      }
-    ]
-  },
-  {
     "date": "2026-08-29",
     "repos": [
       {
@@ -2232,6 +2157,74 @@
         "language": "PowerShell",
         "stars": "37,863",
         "crawled_at": "2026-09-26T16:47:11.300766"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "repos": [
+      {
+        "name": "paperclipai /paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars": "89,114",
+        "crawled_at": "2026-09-27T17:19:12.266775"
+      },
+      {
+        "name": "vectorize-io /hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars": "36,353",
+        "crawled_at": "2026-09-27T17:19:12.266985"
+      },
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "39,306",
+        "crawled_at": "2026-09-27T17:19:12.267181"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "59,007",
+        "crawled_at": "2026-09-27T17:19:12.267409"
+      },
+      {
+        "name": "InfinityLoop1308 /PipePipe",
+        "description": "An open-source Android app to let you browse YouTube and other services freely.",
+        "language": "Shell",
+        "stars": "6,479",
+        "crawled_at": "2026-09-27T17:19:12.267592"
+      },
+      {
+        "name": "vercel-labs /scriptc",
+        "description": "TypeScript-to-Native Compiler",
+        "language": "TypeScript",
+        "stars": "5,302",
+        "crawled_at": "2026-09-27T17:19:12.267793"
+      },
+      {
+        "name": "mvschwarz /openrig",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "language": "TypeScript",
+        "stars": "781",
+        "crawled_at": "2026-09-27T17:19:12.267978"
+      },
+      {
+        "name": "dream-num /univer",
+        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+        "language": "TypeScript",
+        "stars": "20,016",
+        "crawled_at": "2026-09-27T17:19:12.268161"
+      },
+      {
+        "name": "willfaust /Madeira",
+        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+        "language": "C",
+        "stars": "752",
+        "crawled_at": "2026-09-27T17:19:12.268351"
       }
     ]
   }
