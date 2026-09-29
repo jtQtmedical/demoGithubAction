@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-30",
-    "repos": [
-      {
-        "name": "THU-MAIC /OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "language": "TypeScript",
-        "stars": "23,489",
-        "crawled_at": "2026-08-30T16:59:49.215738"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "38,801",
-        "crawled_at": "2026-08-30T16:59:49.215938"
-      },
-      {
-        "name": "Lakr233 /vphone-cli",
-        "description": "無描述",
-        "language": "Swift",
-        "stars": "9,474",
-        "crawled_at": "2026-08-30T16:59:49.216181"
-      },
-      {
-        "name": "tt-a1i /archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars": "33,734",
-        "crawled_at": "2026-08-30T16:59:49.216370"
-      },
-      {
-        "name": "p-e-w /heretic",
-        "description": "Fully automatic censorship removal for language models",
-        "language": "Python",
-        "stars": "29,019",
-        "crawled_at": "2026-08-30T16:59:49.216560"
-      },
-      {
-        "name": "unclecode /crawl4ai",
-        "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
-        "language": "Python",
-        "stars": "80,103",
-        "crawled_at": "2026-08-30T16:59:49.216813"
-      },
-      {
-        "name": "mvanhorn /last30days-skill",
-        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-        "language": "Python",
-        "stars": "60,399",
-        "crawled_at": "2026-08-30T16:59:49.216996"
-      },
-      {
-        "name": "majd /ipatool",
-        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-        "language": "Go",
-        "stars": "10,102",
-        "crawled_at": "2026-08-30T16:59:49.217176"
-      },
-      {
-        "name": "punkpeye /awesome-mcp-servers",
-        "description": "A collection of MCP servers.",
-        "language": "未知",
-        "stars": "93,203",
-        "crawled_at": "2026-08-30T16:59:49.217375"
-      },
-      {
-        "name": "checkstyle /checkstyle",
-        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-        "language": "Java",
-        "stars": "9,149",
-        "crawled_at": "2026-08-30T16:59:49.217559"
-      }
-    ]
-  },
-  {
     "date": "2026-08-31",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "TypeScript",
         "stars": "21,140",
         "crawled_at": "2026-09-28T19:51:23.746738"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "repos": [
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "47,384",
+        "crawled_at": "2026-09-29T18:19:34.588515"
+      },
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "10,350",
+        "crawled_at": "2026-09-29T18:19:34.588689"
+      },
+      {
+        "name": "vectorize-io /hindsight",
+        "description": "Hindsight: Agent Memory That Learns",
+        "language": "Python",
+        "stars": "42,556",
+        "crawled_at": "2026-09-29T18:19:34.588854"
+      },
+      {
+        "name": "paperclipai /paperclip",
+        "description": "The open-source app everyone uses to manage agents at work",
+        "language": "TypeScript",
+        "stars": "94,233",
+        "crawled_at": "2026-09-29T18:19:34.589015"
+      },
+      {
+        "name": "t8y2 /dbx",
+        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+        "language": "Rust",
+        "stars": "21,825",
+        "crawled_at": "2026-09-29T18:19:34.589181"
+      },
+      {
+        "name": "mvschwarz /openrig",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "language": "TypeScript",
+        "stars": "2,260",
+        "crawled_at": "2026-09-29T18:19:34.589353"
+      },
+      {
+        "name": "oblien /openship",
+        "description": "Self-hosted deployment platform",
+        "language": "TypeScript",
+        "stars": "13,711",
+        "crawled_at": "2026-09-29T18:19:34.589509"
+      },
+      {
+        "name": "averygan /reclip",
+        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+        "language": "HTML",
+        "stars": "9,948",
+        "crawled_at": "2026-09-29T18:19:34.589667"
+      },
+      {
+        "name": "cs341-illinois /coursebook",
+        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+        "language": "TeX",
+        "stars": "2,991",
+        "crawled_at": "2026-09-29T18:19:34.589825"
+      },
+      {
+        "name": "rohitg00 /ai-engineering-from-scratch",
+        "description": "Learn it. Build it. Ship it for others.",
+        "language": "Python",
+        "stars": "61,135",
+        "crawled_at": "2026-09-29T18:19:34.590028"
       }
     ]
   }
