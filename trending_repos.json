@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-08-31",
-    "repos": [
-      {
-        "name": "THU-MAIC /OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "language": "TypeScript",
-        "stars": "26,639",
-        "crawled_at": "2026-08-31T19:15:36.639346"
-      },
-      {
-        "name": "tt-a1i /archify",
-        "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-        "language": "JavaScript",
-        "stars": "38,116",
-        "crawled_at": "2026-08-31T19:15:36.639551"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "40,598",
-        "crawled_at": "2026-08-31T19:15:36.639778"
-      },
-      {
-        "name": "k1tbyte /Wand-Enhancer",
-        "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-        "language": "C#",
-        "stars": "23,286",
-        "crawled_at": "2026-08-31T19:15:36.639947"
-      },
-      {
-        "name": "majd /ipatool",
-        "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-        "language": "Go",
-        "stars": "10,477",
-        "crawled_at": "2026-08-31T19:15:36.640117"
-      },
-      {
-        "name": "jingyaogong /minimind",
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "language": "Python",
-        "stars": "55,966",
-        "crawled_at": "2026-08-31T19:15:36.640282"
-      },
-      {
-        "name": "Osmantic /ODS",
-        "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-        "language": "Python",
-        "stars": "5,370",
-        "crawled_at": "2026-08-31T19:15:36.640445"
-      },
-      {
-        "name": "checkstyle /checkstyle",
-        "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-        "language": "Java",
-        "stars": "9,371",
-        "crawled_at": "2026-08-31T19:15:36.640621"
-      },
-      {
-        "name": "zhaoxuya520 /reverse-skill",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "language": "PowerShell",
-        "stars": "33,004",
-        "crawled_at": "2026-08-31T19:15:36.640787"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "245,120",
-        "crawled_at": "2026-08-31T19:15:36.640990"
-      }
-    ]
-  },
-  {
     "date": "2026-09-01",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "Python",
         "stars": "61,135",
         "crawled_at": "2026-09-29T18:19:34.590028"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "repos": [
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "12,091",
+        "crawled_at": "2026-09-30T18:09:28.515218"
+      },
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "50,107",
+        "crawled_at": "2026-09-30T18:09:28.515362"
+      },
+      {
+        "name": "mvschwarz /openrig",
+        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+        "language": "TypeScript",
+        "stars": "2,862",
+        "crawled_at": "2026-09-30T18:09:28.515485"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "24,392",
+        "crawled_at": "2026-09-30T18:09:28.515639"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "148,928",
+        "crawled_at": "2026-09-30T18:09:28.515793"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "127,423",
+        "crawled_at": "2026-09-30T18:09:28.515916"
+      },
+      {
+        "name": "openclaw /openclaw",
+        "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+        "language": "TypeScript",
+        "stars": "390,919",
+        "crawled_at": "2026-09-30T18:09:28.516087"
+      },
+      {
+        "name": "ComposioHQ /awesome-claude-skills",
+        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+        "language": "Python",
+        "stars": "76,052",
+        "crawled_at": "2026-09-30T18:09:28.516230"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "272,824",
+        "crawled_at": "2026-09-30T18:09:28.516390"
+      },
+      {
+        "name": "heygen-com /hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": "54,585",
+        "crawled_at": "2026-09-30T18:09:28.516516"
       }
     ]
   }
