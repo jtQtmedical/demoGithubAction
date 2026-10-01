@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "repos": [
-      {
-        "name": "Gitlawb /openclaude",
-        "description": "runs anywhere. uses anything",
-        "language": "TypeScript",
-        "stars": "31,133",
-        "crawled_at": "2026-09-01T16:58:44.644087"
-      },
-      {
-        "name": "Imbad0202 /academic-research-skills",
-        "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-        "language": "Python",
-        "stars": "44,741",
-        "crawled_at": "2026-09-01T16:58:44.644314"
-      },
-      {
-        "name": "THU-MAIC /OpenMAIC",
-        "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-        "language": "TypeScript",
-        "stars": "29,207",
-        "crawled_at": "2026-09-01T16:58:44.644507"
-      },
-      {
-        "name": "iv-org /invidious",
-        "description": "Invidious is an alternative front-end to YouTube",
-        "language": "Crystal",
-        "stars": "23,691",
-        "crawled_at": "2026-09-01T16:58:44.644684"
-      },
-      {
-        "name": "jingyaogong /minimind",
-        "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-        "language": "Python",
-        "stars": "56,886",
-        "crawled_at": "2026-09-01T16:58:44.644873"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "13,463",
-        "crawled_at": "2026-09-01T16:58:44.645058"
-      },
-      {
-        "name": "3b1b /manim",
-        "description": "Animation engine for explanatory math videos",
-        "language": "Python",
-        "stars": "92,460",
-        "crawled_at": "2026-09-01T16:58:44.645238"
-      },
-      {
-        "name": "firecrawl /pdf-inspector",
-        "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-        "language": "Rust",
-        "stars": "17,786",
-        "crawled_at": "2026-09-01T16:58:44.645439"
-      },
-      {
-        "name": "browser-use /video-use",
-        "description": "Edit videos with coding agents",
-        "language": "Python",
-        "stars": "22,739",
-        "crawled_at": "2026-09-01T16:58:44.645618"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "41,381",
-        "crawled_at": "2026-09-01T16:58:44.645797"
-      }
-    ]
-  },
-  {
     "date": "2026-09-02",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "TypeScript",
         "stars": "54,585",
         "crawled_at": "2026-09-30T18:09:28.516516"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "repos": [
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "150,204",
+        "crawled_at": "2026-10-01T18:35:18.839629"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "273,677",
+        "crawled_at": "2026-10-01T18:35:18.839852"
+      },
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "13,878",
+        "crawled_at": "2026-10-01T18:35:18.840017"
+      },
+      {
+        "name": "firebase /firebase-ios-sdk",
+        "description": "Firebase SDK for Apple App Development",
+        "language": "C++",
+        "stars": "6,838",
+        "crawled_at": "2026-10-01T18:35:18.840182"
+      },
+      {
+        "name": "mvschwarz /openrig",
+        "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+        "language": "TypeScript",
+        "stars": "3,553",
+        "crawled_at": "2026-10-01T18:35:18.840348"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "9,286",
+        "crawled_at": "2026-10-01T18:35:18.840523"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "293,852",
+        "crawled_at": "2026-10-01T18:35:18.840729"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "24,719",
+        "crawled_at": "2026-10-01T18:35:18.840935"
+      },
+      {
+        "name": "heygen-com /hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": "55,210",
+        "crawled_at": "2026-10-01T18:35:18.841100"
+      },
+      {
+        "name": "earendil-works /pi",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "language": "TypeScript",
+        "stars": "111,064",
+        "crawled_at": "2026-10-01T18:35:18.841265"
       }
     ]
   }
