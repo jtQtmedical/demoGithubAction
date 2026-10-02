@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "repos": [
-      {
-        "name": "fmtlib /fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars": "24,018",
-        "crawled_at": "2026-09-02T16:53:05.350790"
-      },
-      {
-        "name": "google-research /timesfm",
-        "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-        "language": "Python",
-        "stars": "29,331",
-        "crawled_at": "2026-09-02T16:53:05.350982"
-      },
-      {
-        "name": "DietrichGebert /ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars": "121,045",
-        "crawled_at": "2026-09-02T16:53:05.351227"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "14,252",
-        "crawled_at": "2026-09-02T16:53:05.351409"
-      },
-      {
-        "name": "sngyai /Sequoia-X",
-        "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
-        "language": "Python",
-        "stars": "5,995",
-        "crawled_at": "2026-09-02T16:53:05.351591"
-      },
-      {
-        "name": "ChromeDevTools /chrome-devtools-mcp",
-        "description": "Chrome DevTools for coding agents",
-        "language": "TypeScript",
-        "stars": "50,555",
-        "crawled_at": "2026-09-02T16:53:05.351771"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "239,950",
-        "crawled_at": "2026-09-02T16:53:05.351947"
-      },
-      {
-        "name": "superlinked /sie",
-        "description": "Open-source inference server and production cluster for all the models your agent needs.",
-        "language": "Python",
-        "stars": "3,004",
-        "crawled_at": "2026-09-02T16:53:05.352124"
-      },
-      {
-        "name": "pacifio /atlas",
-        "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-        "language": "Rust",
-        "stars": "2,728",
-        "crawled_at": "2026-09-02T16:53:05.352320"
-      },
-      {
-        "name": "zyronon /TypeWords",
-        "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
-        "language": "Vue",
-        "stars": "9,259",
-        "crawled_at": "2026-09-02T16:53:05.352497"
-      }
-    ]
-  },
-  {
     "date": "2026-09-03",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "TypeScript",
         "stars": "111,064",
         "crawled_at": "2026-10-01T18:35:18.841265"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "repos": [
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "88,294",
+        "crawled_at": "2026-10-02T18:04:21.957573"
+      },
+      {
+        "name": "JuliusBrussee /caveman",
+        "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+        "language": "Go",
+        "stars": "108,974",
+        "crawled_at": "2026-10-02T18:04:21.957855"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "294,330",
+        "crawled_at": "2026-10-02T18:04:21.958079"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "151,444",
+        "crawled_at": "2026-10-02T18:04:21.958301"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "stars": "74,141",
+        "crawled_at": "2026-10-02T18:04:21.958482"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "274,544",
+        "crawled_at": "2026-10-02T18:04:21.958727"
+      },
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "14,338",
+        "crawled_at": "2026-10-02T18:04:21.958911"
+      },
+      {
+        "name": "coreyhaines31 /marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "stars": "52,319",
+        "crawled_at": "2026-10-02T18:04:21.959136"
+      },
+      {
+        "name": "heygen-com /hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": "55,762",
+        "crawled_at": "2026-10-02T18:04:21.959316"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "24,972",
+        "crawled_at": "2026-10-02T18:04:21.959534"
       }
     ]
   }
