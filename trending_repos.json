@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "repos": [
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "249,583",
-        "crawled_at": "2026-09-04T16:37:04.100752"
-      },
-      {
-        "name": "DietrichGebert /ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars": "124,959",
-        "crawled_at": "2026-09-04T16:37:04.100912"
-      },
-      {
-        "name": "fmtlib /fmt",
-        "description": "A modern formatting library",
-        "language": "C++",
-        "stars": "25,429",
-        "crawled_at": "2026-09-04T16:37:04.101033"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "248,085",
-        "crawled_at": "2026-09-04T16:37:04.101181"
-      },
-      {
-        "name": "anthropics /skills",
-        "description": "Public repository for Agent Skills",
-        "language": "Python",
-        "stars": "173,995",
-        "crawled_at": "2026-09-04T16:37:04.101303"
-      },
-      {
-        "name": "blader /humanizer",
-        "description": "Agent skill that removes signs of AI-generated writing from text",
-        "language": "Python",
-        "stars": "42,395",
-        "crawled_at": "2026-09-04T16:37:04.101425"
-      },
-      {
-        "name": "NousResearch /hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars": "241,331",
-        "crawled_at": "2026-09-04T16:37:04.101545"
-      },
-      {
-        "name": "JuliusBrussee /caveman",
-        "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-        "language": "Go",
-        "stars": "103,464",
-        "crawled_at": "2026-09-04T16:37:04.101711"
-      },
-      {
-        "name": "magnitudedev /magnitude",
-        "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-        "language": "TypeScript",
-        "stars": "2,248",
-        "crawled_at": "2026-09-04T16:37:04.101833"
-      },
-      {
-        "name": "bikini /exploitarium",
-        "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-        "language": "Python",
-        "stars": "4,443",
-        "crawled_at": "2026-09-04T16:37:04.101951"
-      }
-    ]
-  },
-  {
     "date": "2026-09-05",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "JavaScript",
         "stars": "100,755",
         "crawled_at": "2026-10-03T16:47:25.519250"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "repos": [
+      {
+        "name": "tester-army /e2e",
+        "description": "Next generation e2e testing framework for web and mobile apps.",
+        "language": "TypeScript",
+        "stars": "2,736",
+        "crawled_at": "2026-10-04T17:05:54.930135"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "JavaScript",
+        "stars": "76,026",
+        "crawled_at": "2026-10-04T17:05:54.930273"
+      },
+      {
+        "name": "coreyhaines31 /marketingskills",
+        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+        "language": "JavaScript",
+        "stars": "52,909",
+        "crawled_at": "2026-10-04T17:05:54.930433"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "154,494",
+        "crawled_at": "2026-10-04T17:05:54.930587"
+      },
+      {
+        "name": "earthtojake /text-to-cad",
+        "description": "Give your agent CAD superpowers.",
+        "language": "Python",
+        "stars": "16,743",
+        "crawled_at": "2026-10-04T17:05:54.930707"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "90,586",
+        "crawled_at": "2026-10-04T17:05:54.930828"
+      },
+      {
+        "name": "getsentry /sentry",
+        "description": "Developer-first error tracking and performance monitoring",
+        "language": "Python",
+        "stars": "45,323",
+        "crawled_at": "2026-10-04T17:05:54.930948"
+      },
+      {
+        "name": "calesthio /OpenMontage",
+        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+        "language": "Python",
+        "stars": "62,999",
+        "crawled_at": "2026-10-04T17:05:54.931099"
+      },
+      {
+        "name": "pingdotgg /t3code",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "25,025",
+        "crawled_at": "2026-10-04T17:05:54.931236"
+      },
+      {
+        "name": "caddyserver /caddy",
+        "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+        "language": "Go",
+        "stars": "76,408",
+        "crawled_at": "2026-10-04T17:05:54.931358"
       }
     ]
   }
