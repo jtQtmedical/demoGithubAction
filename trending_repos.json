@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-07",
-    "repos": [
-      {
-        "name": "heygen-com /hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars": "45,378",
-        "crawled_at": "2026-09-07T17:57:19.435557"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "179,828",
-        "crawled_at": "2026-09-07T17:57:19.435679"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "20,694",
-        "crawled_at": "2026-09-07T17:57:19.435803"
-      },
-      {
-        "name": "jo-inc /camofox-browser",
-        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-        "language": "JavaScript",
-        "stars": "9,502",
-        "crawled_at": "2026-09-07T17:57:19.435906"
-      },
-      {
-        "name": "MoonTechLab /LunaTV",
-        "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-        "language": "TypeScript",
-        "stars": "9,658",
-        "crawled_at": "2026-09-07T17:57:19.436004"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "252,556",
-        "crawled_at": "2026-09-07T17:57:19.436128"
-      },
-      {
-        "name": "coreyhaines31 /marketingskills",
-        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "language": "JavaScript",
-        "stars": "47,987",
-        "crawled_at": "2026-09-07T17:57:19.436254"
-      },
-      {
-        "name": "The-Swarm-Corporation /AutoHedge",
-        "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-        "language": "Python",
-        "stars": "5,134",
-        "crawled_at": "2026-09-07T17:57:19.436369"
-      },
-      {
-        "name": "BraveOPotato /FckSignups",
-        "description": "A list of tools that are open-source, in-browser, and require no-signups!",
-        "language": "TypeScript",
-        "stars": "3,701",
-        "crawled_at": "2026-09-07T17:57:19.436470"
-      },
-      {
-        "name": "bytedance /deer-flow",
-        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "language": "Python",
-        "stars": "81,763",
-        "crawled_at": "2026-09-07T17:57:19.436571"
-      }
-    ]
-  },
-  {
     "date": "2026-09-08",
     "repos": [
       {
@@ -2211,6 +2136,81 @@
         "language": "Shell",
         "stars": "157,694",
         "crawled_at": "2026-10-06T18:39:07.413910"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "13,750",
+        "crawled_at": "2026-10-07T19:05:38.731576"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "279,317",
+        "crawled_at": "2026-10-07T19:05:38.731699"
+      },
+      {
+        "name": "boykopovar /AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars": "9,624",
+        "crawled_at": "2026-10-07T19:05:38.731786"
+      },
+      {
+        "name": "ayghri /i-have-adhd",
+        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+        "language": "Python",
+        "stars": "54,960",
+        "crawled_at": "2026-10-07T19:05:38.731872"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "44,789",
+        "crawled_at": "2026-10-07T19:05:38.731981"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "102,638",
+        "crawled_at": "2026-10-07T19:05:38.732067"
+      },
+      {
+        "name": "EpicGames /raddebugger",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "stars": "7,798",
+        "crawled_at": "2026-10-07T19:05:38.732151"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars": "97,586",
+        "crawled_at": "2026-10-07T19:05:38.732256"
+      },
+      {
+        "name": "manaflow-ai /cmux",
+        "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+        "language": "Swift",
+        "stars": "27,782",
+        "crawled_at": "2026-10-07T19:05:38.732340"
+      },
+      {
+        "name": "trycua /cua",
+        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+        "language": "Rust",
+        "stars": "28,677",
+        "crawled_at": "2026-10-07T19:05:38.732452"
       }
     ]
   }
