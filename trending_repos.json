@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-08",
-    "repos": [
-      {
-        "name": "ayghri /i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars": "29,094",
-        "crawled_at": "2026-09-08T16:52:04.144216"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "34,244",
-        "crawled_at": "2026-09-08T16:52:04.144430"
-      },
-      {
-        "name": "openai /skills",
-        "description": "Skills Catalog for Codex",
-        "language": "Python",
-        "stars": "26,395",
-        "crawled_at": "2026-09-08T16:52:04.144607"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "253,948",
-        "crawled_at": "2026-09-08T16:52:04.144824"
-      },
-      {
-        "name": "heygen-com /hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars": "47,525",
-        "crawled_at": "2026-09-08T16:52:04.144998"
-      },
-      {
-        "name": "coreyhaines31 /marketingskills",
-        "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-        "language": "JavaScript",
-        "stars": "48,638",
-        "crawled_at": "2026-09-08T16:52:04.145210"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "283,200",
-        "crawled_at": "2026-09-08T16:52:04.145440"
-      },
-      {
-        "name": "multica-ai /andrej-karpathy-skills",
-        "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-        "language": "未知",
-        "stars": "211,268",
-        "crawled_at": "2026-09-08T16:52:04.145633"
-      },
-      {
-        "name": "microsoft /markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars": "181,461",
-        "crawled_at": "2026-09-08T16:52:04.145805"
-      },
-      {
-        "name": "jo-inc /camofox-browser",
-        "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-        "language": "JavaScript",
-        "stars": "10,317",
-        "crawled_at": "2026-09-08T16:52:04.145980"
-      }
-    ]
-  },
-  {
     "date": "2026-09-09",
     "repos": [
       {
@@ -2211,6 +2136,74 @@
         "language": "Rust",
         "stars": "28,677",
         "crawled_at": "2026-10-07T19:05:38.732452"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "repos": [
+      {
+        "name": "boykopovar /AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars": "14,583",
+        "crawled_at": "2026-10-08T19:01:59.254676"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "46,045",
+        "crawled_at": "2026-10-08T19:01:59.254863"
+      },
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "22,400",
+        "crawled_at": "2026-10-08T19:01:59.255004"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "280,825",
+        "crawled_at": "2026-10-08T19:01:59.255172"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars": "98,307",
+        "crawled_at": "2026-10-08T19:01:59.255341"
+      },
+      {
+        "name": "EpicGames /raddebugger",
+        "description": "A native, user-mode, multi-process, graphical debugger.",
+        "language": "C",
+        "stars": "8,060",
+        "crawled_at": "2026-10-08T19:01:59.255522"
+      },
+      {
+        "name": "anthropics /knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars": "27,414",
+        "crawled_at": "2026-10-08T19:01:59.255668"
+      },
+      {
+        "name": "storytold /artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": "7,141",
+        "crawled_at": "2026-10-08T19:01:59.255809"
+      },
+      {
+        "name": "liquidslr /system-design-notes",
+        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+        "language": "未知",
+        "stars": "24,449",
+        "crawled_at": "2026-10-08T19:01:59.255954"
       }
     ]
   }
