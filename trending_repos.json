@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "repos": [
-      {
-        "name": "ayghri /i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars": "37,390",
-        "crawled_at": "2026-09-10T16:42:34.437252"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "23,114",
-        "crawled_at": "2026-09-10T16:42:34.437451"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "284,530",
-        "crawled_at": "2026-09-10T16:42:34.437695"
-      },
-      {
-        "name": "alsk1992 /CloddsBot",
-        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "language": "TypeScript",
-        "stars": "1,447",
-        "crawled_at": "2026-09-10T16:42:34.437885"
-      },
-      {
-        "name": "Tencent /teamai-cli",
-        "description": "Make Every Team AI Native",
-        "language": "TypeScript",
-        "stars": "3,643",
-        "crawled_at": "2026-09-10T16:42:34.438071"
-      },
-      {
-        "name": "AlexsJones /llmfit",
-        "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-        "language": "Rust",
-        "stars": "35,604",
-        "crawled_at": "2026-09-10T16:42:34.438294"
-      },
-      {
-        "name": "liquidslr /system-design-notes",
-        "description": "Notes of the book System Desgin Interview - An Insider's Guide",
-        "language": "未知",
-        "stars": "18,569",
-        "crawled_at": "2026-09-10T16:42:34.438486"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "37,479",
-        "crawled_at": "2026-09-10T16:42:34.438684"
-      },
-      {
-        "name": "freestylefly /awesome-gpt-image-2",
-        "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-        "language": "JavaScript",
-        "stars": "30,738",
-        "crawled_at": "2026-09-10T16:42:34.438874"
-      },
-      {
-        "name": "armory3d /armorpaint",
-        "description": "Graphics Creation Tools",
-        "language": "C",
-        "stars": "4,307",
-        "crawled_at": "2026-09-10T16:42:34.439063"
-      }
-    ]
-  },
-  {
     "date": "2026-09-11",
     "repos": [
       {
@@ -2204,6 +2129,81 @@
         "language": "Python",
         "stars": "17,628",
         "crawled_at": "2026-10-09T18:32:26.932556"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "66,604",
+        "crawled_at": "2026-10-10T17:29:20.370304"
+      },
+      {
+        "name": "boykopovar /AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars": "25,654",
+        "crawled_at": "2026-10-10T17:29:20.370405"
+      },
+      {
+        "name": "storytold /artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": "13,627",
+        "crawled_at": "2026-10-10T17:29:20.370492"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "48,690",
+        "crawled_at": "2026-10-10T17:29:20.370617"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "26,175",
+        "crawled_at": "2026-10-10T17:29:20.370721"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "284,041",
+        "crawled_at": "2026-10-10T17:29:20.370828"
+      },
+      {
+        "name": "flutter /flutter",
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "language": "Dart",
+        "stars": "179,379",
+        "crawled_at": "2026-10-10T17:29:20.370913"
+      },
+      {
+        "name": "tensorflow /tensorflow",
+        "description": "An Open Source Machine Learning Framework for Everyone",
+        "language": "C++",
+        "stars": "200,659",
+        "crawled_at": "2026-10-10T17:29:20.370996"
+      },
+      {
+        "name": "hugohe3 /ppt-master",
+        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+        "language": "Python",
+        "stars": "59,221",
+        "crawled_at": "2026-10-10T17:29:20.371081"
+      },
+      {
+        "name": "pytorch /pytorch",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "stars": "104,084",
+        "crawled_at": "2026-10-10T17:29:20.371164"
       }
     ]
   }
