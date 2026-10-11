@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-11",
-    "repos": [
-      {
-        "name": "ayghri /i-have-adhd",
-        "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-        "language": "Python",
-        "stars": "40,801",
-        "crawled_at": "2026-09-11T16:46:58.076438"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "26,393",
-        "crawled_at": "2026-09-11T16:46:58.076652"
-      },
-      {
-        "name": "nab138 /iloader",
-        "description": "User friendly sideloader",
-        "language": "TypeScript",
-        "stars": "2,845",
-        "crawled_at": "2026-09-11T16:46:58.076848"
-      },
-      {
-        "name": "melgarafael /DeskcommCRM",
-        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "language": "TypeScript",
-        "stars": "1,196",
-        "crawled_at": "2026-09-11T16:46:58.077033"
-      },
-      {
-        "name": "vastsa /PI-Desktop",
-        "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-        "language": "TypeScript",
-        "stars": "2,687",
-        "crawled_at": "2026-09-11T16:46:58.077212"
-      },
-      {
-        "name": "armory3d /armorpaint",
-        "description": "Graphics Creation Tools",
-        "language": "C",
-        "stars": "4,661",
-        "crawled_at": "2026-09-11T16:46:58.077391"
-      },
-      {
-        "name": "alsk1992 /CloddsBot",
-        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "language": "TypeScript",
-        "stars": "2,029",
-        "crawled_at": "2026-09-11T16:46:58.077573"
-      },
-      {
-        "name": "nashsu /llm_wiki",
-        "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-        "language": "TypeScript",
-        "stars": "18,583",
-        "crawled_at": "2026-09-11T16:46:58.077775"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "285,210",
-        "crawled_at": "2026-09-11T16:46:58.078007"
-      },
-      {
-        "name": "Sonarr /Sonarr",
-        "description": "Smart PVR for newsgroup and bittorrent users.",
-        "language": "C#",
-        "stars": "15,664",
-        "crawled_at": "2026-09-11T16:46:58.078235"
-      }
-    ]
-  },
-  {
     "date": "2026-09-12",
     "repos": [
       {
@@ -2204,6 +2129,67 @@
         "language": "Python",
         "stars": "104,084",
         "crawled_at": "2026-10-10T17:29:20.371164"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "95,665",
+        "crawled_at": "2026-10-11T17:49:01.054907"
+      },
+      {
+        "name": "boykopovar /AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars": "29,164",
+        "crawled_at": "2026-10-11T17:49:01.055057"
+      },
+      {
+        "name": "storytold /artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": "16,903",
+        "crawled_at": "2026-10-11T17:49:01.055182"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "49,969",
+        "crawled_at": "2026-10-11T17:49:01.055336"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "51,179",
+        "crawled_at": "2026-10-11T17:49:01.055461"
+      },
+      {
+        "name": "pytorch /pytorch",
+        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+        "language": "Python",
+        "stars": "104,377",
+        "crawled_at": "2026-10-11T17:49:01.055592"
+      },
+      {
+        "name": "lyogavin /airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "stars": "36,285",
+        "crawled_at": "2026-10-11T17:49:01.055750"
+      },
+      {
+        "name": "chrislgarry /Apollo-11",
+        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+        "language": "Assembly",
+        "stars": "74,048",
+        "crawled_at": "2026-10-11T17:49:01.055919"
       }
     ]
   }
