@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "repos": [
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "28,828",
-        "crawled_at": "2026-09-12T15:52:52.211905"
-      },
-      {
-        "name": "melgarafael /DeskcommCRM",
-        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "language": "TypeScript",
-        "stars": "1,652",
-        "crawled_at": "2026-09-12T15:52:52.212096"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "language": "JavaScript",
-        "stars": "65,163",
-        "crawled_at": "2026-09-12T15:52:52.212317"
-      },
-      {
-        "name": "nab138 /iloader",
-        "description": "User friendly sideloader",
-        "language": "TypeScript",
-        "stars": "3,020",
-        "crawled_at": "2026-09-12T15:52:52.212494"
-      },
-      {
-        "name": "Flowseal /zapret-discord-youtube",
-        "description": "無描述",
-        "language": "Batchfile",
-        "stars": "33,181",
-        "crawled_at": "2026-09-12T15:52:52.212717"
-      },
-      {
-        "name": "jihe520 /MathModelAgent",
-        "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-        "language": "Python",
-        "stars": "5,069",
-        "crawled_at": "2026-09-12T15:52:52.212898"
-      },
-      {
-        "name": "Sonarr /Sonarr",
-        "description": "Smart PVR for newsgroup and bittorrent users.",
-        "language": "C#",
-        "stars": "15,860",
-        "crawled_at": "2026-09-12T15:52:52.213075"
-      },
-      {
-        "name": "alsk1992 /CloddsBot",
-        "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-        "language": "TypeScript",
-        "stars": "2,371",
-        "crawled_at": "2026-09-12T15:52:52.213256"
-      },
-      {
-        "name": "yuliskov /SmartTube",
-        "description": "Browse media content with your own rules on Android TV",
-        "language": "Java",
-        "stars": "33,132",
-        "crawled_at": "2026-09-12T15:52:52.213433"
-      },
-      {
-        "name": "Shubhamsaboo /awesome-llm-apps",
-        "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-        "language": "Python",
-        "stars": "137,457",
-        "crawled_at": "2026-09-12T15:52:52.213671"
-      }
-    ]
-  },
-  {
     "date": "2026-09-13",
     "repos": [
       {
@@ -2190,6 +2115,74 @@
         "language": "Assembly",
         "stars": "74,048",
         "crawled_at": "2026-10-11T17:49:01.055919"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "151,848",
+        "crawled_at": "2026-10-12T21:25:31.427951"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "53,438",
+        "crawled_at": "2026-10-12T21:25:31.428052"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "27,191",
+        "crawled_at": "2026-10-12T21:25:31.428158"
+      },
+      {
+        "name": "storytold /artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": "21,551",
+        "crawled_at": "2026-10-12T21:25:31.428282"
+      },
+      {
+        "name": "open-webui /open-webui",
+        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+        "language": "Python",
+        "stars": "154,870",
+        "crawled_at": "2026-10-12T21:25:31.428387"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "52,420",
+        "crawled_at": "2026-10-12T21:25:31.428492"
+      },
+      {
+        "name": "lyogavin /airllm",
+        "description": "AirLLM 70B inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "stars": "37,429",
+        "crawled_at": "2026-10-12T21:25:31.428594"
+      },
+      {
+        "name": "microsoft /BitNet",
+        "description": "Official inference framework for 1-bit LLMs",
+        "language": "C++",
+        "stars": "40,869",
+        "crawled_at": "2026-10-12T21:25:31.428677"
+      },
+      {
+        "name": "Alishahryar1 /free-claude-code",
+        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+        "language": "Python",
+        "stars": "58,953",
+        "crawled_at": "2026-10-12T21:25:31.428758"
       }
     ]
   }
