@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-13",
-    "repos": [
-      {
-        "name": "JustVugg /colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "language": "C",
-        "stars": "29,253",
-        "crawled_at": "2026-09-13T16:40:14.992729"
-      },
-      {
-        "name": "ever-co /ever-gauzy",
-        "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
-        "language": "TypeScript",
-        "stars": "4,787",
-        "crawled_at": "2026-09-13T16:40:14.992871"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "31,322",
-        "crawled_at": "2026-09-13T16:40:14.992970"
-      },
-      {
-        "name": "tech-leads-club /agent-skills",
-        "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-        "language": "TypeScript",
-        "stars": "5,494",
-        "crawled_at": "2026-09-13T16:40:14.993067"
-      },
-      {
-        "name": "melgarafael /DeskcommCRM",
-        "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-        "language": "TypeScript",
-        "stars": "2,080",
-        "crawled_at": "2026-09-13T16:40:14.993166"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "58,221",
-        "crawled_at": "2026-09-13T16:40:14.993298"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "language": "JavaScript",
-        "stars": "65,838",
-        "crawled_at": "2026-09-13T16:40:14.993432"
-      },
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "23,793",
-        "crawled_at": "2026-09-13T16:40:14.993534"
-      },
-      {
-        "name": "multimodal-art-projection /YuE",
-        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-        "language": "Python",
-        "stars": "7,611",
-        "crawled_at": "2026-09-13T16:40:14.993633"
-      },
-      {
-        "name": "yuliskov /SmartTube",
-        "description": "Browse media content with your own rules on Android TV",
-        "language": "Java",
-        "stars": "33,365",
-        "crawled_at": "2026-09-13T16:40:14.993733"
-      }
-    ]
-  },
-  {
     "date": "2026-09-14",
     "repos": [
       {
@@ -2183,6 +2108,74 @@
         "language": "Python",
         "stars": "58,953",
         "crawled_at": "2026-10-12T21:25:31.428758"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "201,547",
+        "crawled_at": "2026-10-13T19:34:23.040599"
+      },
+      {
+        "name": "bilawalsidhu /gods-eye-view",
+        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+        "language": "JavaScript",
+        "stars": "55,079",
+        "crawled_at": "2026-10-13T19:34:23.040738"
+      },
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "62,671",
+        "crawled_at": "2026-10-13T19:34:23.040875"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "28,058",
+        "crawled_at": "2026-10-13T19:34:23.041025"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "53,880",
+        "crawled_at": "2026-10-13T19:34:23.041183"
+      },
+      {
+        "name": "vercel-labs /skills",
+        "description": "The open agent skills tool - npx skills",
+        "language": "TypeScript",
+        "stars": "34,356",
+        "crawled_at": "2026-10-13T19:34:23.041304"
+      },
+      {
+        "name": "lyogavin /airllm",
+        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+        "language": "Jupyter Notebook",
+        "stars": "38,199",
+        "crawled_at": "2026-10-13T19:34:23.041456"
+      },
+      {
+        "name": "storytold /artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": "25,103",
+        "crawled_at": "2026-10-13T19:34:23.041578"
+      },
+      {
+        "name": "xtool-org /xtool",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "language": "Swift",
+        "stars": "9,095",
+        "crawled_at": "2026-10-13T19:34:23.041697"
       }
     ]
   }
