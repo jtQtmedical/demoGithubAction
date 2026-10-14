@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "repos": [
-      {
-        "name": "JustVugg /colibri",
-        "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-        "language": "C",
-        "stars": "31,636",
-        "crawled_at": "2026-09-14T18:13:08.929891"
-      },
-      {
-        "name": "alibaba /open-code-review",
-        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "stars": "25,240",
-        "crawled_at": "2026-09-14T18:13:08.930086"
-      },
-      {
-        "name": "multimodal-art-projection /YuE",
-        "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-        "language": "Python",
-        "stars": "8,230",
-        "crawled_at": "2026-09-14T18:13:08.930265"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "28,797",
-        "crawled_at": "2026-09-14T18:13:08.930447"
-      },
-      {
-        "name": "666ghj /MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars": "73,020",
-        "crawled_at": "2026-09-14T18:13:08.930637"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "81,055",
-        "crawled_at": "2026-09-14T18:13:08.930842"
-      },
-      {
-        "name": "asgeirtj /system_prompts_leaks",
-        "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-        "language": "JavaScript",
-        "stars": "66,653",
-        "crawled_at": "2026-09-14T18:13:08.931059"
-      },
-      {
-        "name": "rlaope /oh-my-hermes",
-        "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-        "language": "Python",
-        "stars": "1,923",
-        "crawled_at": "2026-09-14T18:13:08.931236"
-      },
-      {
-        "name": "localsend /localsend",
-        "description": "An open-source cross-platform alternative to AirDrop",
-        "language": "Dart",
-        "stars": "91,181",
-        "crawled_at": "2026-09-14T18:13:08.931410"
-      },
-      {
-        "name": "dani-garcia /vaultwarden",
-        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-        "language": "Rust",
-        "stars": "67,473",
-        "crawled_at": "2026-09-14T18:13:08.931623"
-      }
-    ]
-  },
-  {
     "date": "2026-09-15",
     "repos": [
       {
@@ -2176,6 +2101,81 @@
         "language": "Swift",
         "stars": "9,095",
         "crawled_at": "2026-10-13T19:34:23.041697"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "repos": [
+      {
+        "name": "morluto /rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": "235,212",
+        "crawled_at": "2026-10-14T17:37:49.385139"
+      },
+      {
+        "name": "debpalash /VoiceStudio",
+        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+        "language": "Python",
+        "stars": "65,598",
+        "crawled_at": "2026-10-14T17:37:49.385443"
+      },
+      {
+        "name": "mksglu /context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": "28,917",
+        "crawled_at": "2026-10-14T17:37:49.385663"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "stars": "95,405",
+        "crawled_at": "2026-10-14T17:37:49.385807"
+      },
+      {
+        "name": "K-Dense-AI /scientific-agent-skills",
+        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+        "language": "Python",
+        "stars": "49,120",
+        "crawled_at": "2026-10-14T17:37:49.385967"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "52,328",
+        "crawled_at": "2026-10-14T17:37:49.386157"
+      },
+      {
+        "name": "ifixai-ai /iFixAi",
+        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+        "language": "Python",
+        "stars": "27,012",
+        "crawled_at": "2026-10-14T17:37:49.386378"
+      },
+      {
+        "name": "vxcontrol /pentagi",
+        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "language": "Go",
+        "stars": "29,079",
+        "crawled_at": "2026-10-14T17:37:49.386501"
+      },
+      {
+        "name": "rust-lang /rust",
+        "description": "Empowering everyone to build reliable and efficient software.",
+        "language": "Rust",
+        "stars": "119,871",
+        "crawled_at": "2026-10-14T17:37:49.386683"
+      },
+      {
+        "name": "xtool-org /xtool",
+        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+        "language": "Swift",
+        "stars": "10,411",
+        "crawled_at": "2026-10-14T17:37:49.386842"
       }
     ]
   }
