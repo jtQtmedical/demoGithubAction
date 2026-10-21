@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "repos": [
-      {
-        "name": "BuilderIO /agent-native",
-        "description": "A framework for building agentic apps",
-        "language": "TypeScript",
-        "stars": "5,757",
-        "crawled_at": "2026-09-21T18:19:58.106636"
-      },
-      {
-        "name": "trycua /cua",
-        "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-        "language": "HTML",
-        "stars": "25,597",
-        "crawled_at": "2026-09-21T18:19:58.106871"
-      },
-      {
-        "name": "Open-Dev-Society /OpenStock",
-        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "language": "TypeScript",
-        "stars": "17,520",
-        "crawled_at": "2026-09-21T18:19:58.107039"
-      },
-      {
-        "name": "akitaonrails /ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "stars": "7,570",
-        "crawled_at": "2026-09-21T18:19:58.107200"
-      },
-      {
-        "name": "coder /coder",
-        "description": "Secure environments for developers and their agents",
-        "language": "Go",
-        "stars": "16,341",
-        "crawled_at": "2026-09-21T18:19:58.107362"
-      },
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "35,720",
-        "crawled_at": "2026-09-21T18:19:58.107595"
-      },
-      {
-        "name": "cloudflare /quiche",
-        "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-        "language": "Rust",
-        "stars": "12,267",
-        "crawled_at": "2026-09-21T18:19:58.107760"
-      },
-      {
-        "name": "mvt-project /mvt",
-        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-        "language": "Python",
-        "stars": "13,482",
-        "crawled_at": "2026-09-21T18:19:58.107935"
-      },
-      {
-        "name": "zhouxiaoka /autoclip",
-        "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
-        "language": "Python",
-        "stars": "8,123",
-        "crawled_at": "2026-09-21T18:19:58.108096"
-      },
-      {
-        "name": "ruanyf /weekly",
-        "description": "科技爱好者周刊，每周五发布",
-        "language": "未知",
-        "stars": "103,873",
-        "crawled_at": "2026-09-21T18:19:58.108268"
-      }
-    ]
-  },
-  {
     "date": "2026-09-22",
     "repos": [
       {
@@ -2176,6 +2101,81 @@
         "language": "Python",
         "stars": "76,626",
         "crawled_at": "2026-10-20T17:34:32.364635"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "repos": [
+      {
+        "name": "cloudflare /security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars": "35,483",
+        "crawled_at": "2026-10-21T17:41:55.823248"
+      },
+      {
+        "name": "vllm-project /vllm",
+        "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "language": "Python",
+        "stars": "94,768",
+        "crawled_at": "2026-10-21T17:41:55.823479"
+      },
+      {
+        "name": "stablyai /orca",
+        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "language": "TypeScript",
+        "stars": "100,915",
+        "crawled_at": "2026-10-21T17:41:55.823670"
+      },
+      {
+        "name": "headroomlabs-ai /headroom",
+        "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+        "language": "Python",
+        "stars": "77,123",
+        "crawled_at": "2026-10-21T17:41:55.823870"
+      },
+      {
+        "name": "DietrichGebert /ponytail",
+        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+        "language": "JavaScript",
+        "stars": "171,164",
+        "crawled_at": "2026-10-21T17:41:55.824087"
+      },
+      {
+        "name": "Comfy-Org /ComfyUI",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+        "language": "Python",
+        "stars": "141,344",
+        "crawled_at": "2026-10-21T17:41:55.824273"
+      },
+      {
+        "name": "supabase /supabase",
+        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+        "language": "TypeScript",
+        "stars": "112,802",
+        "crawled_at": "2026-10-21T17:41:55.824495"
+      },
+      {
+        "name": "twentyhq /twenty",
+        "description": "The open alternative to Salesforce, designed for AI.",
+        "language": "TypeScript",
+        "stars": "58,968",
+        "crawled_at": "2026-10-21T17:41:55.824672"
+      },
+      {
+        "name": "shiyu-coder /Kronos",
+        "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+        "language": "Python",
+        "stars": "42,706",
+        "crawled_at": "2026-10-21T17:41:55.824879"
+      },
+      {
+        "name": "strelov1 /freehire",
+        "description": "freehire — the open-source search engine for job seekers",
+        "language": "Go",
+        "stars": "2,190",
+        "crawled_at": "2026-10-21T17:41:55.825098"
       }
     ]
   }
