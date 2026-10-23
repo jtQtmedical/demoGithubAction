@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "repos": [
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "36,827",
-        "crawled_at": "2026-09-23T17:30:03.987225"
-      },
-      {
-        "name": "google /ax",
-        "description": "Google's open agentic orchestration runtime",
-        "language": "Go",
-        "stars": "8,731",
-        "crawled_at": "2026-09-23T17:30:03.987330"
-      },
-      {
-        "name": "davila7 /claude-code-templates",
-        "description": "CLI tool for configuring and monitoring Claude Code",
-        "language": "Python",
-        "stars": "31,407",
-        "crawled_at": "2026-09-23T17:30:03.987439"
-      },
-      {
-        "name": "BuilderIO /agent-native",
-        "description": "A framework for building agentic apps",
-        "language": "TypeScript",
-        "stars": "6,454",
-        "crawled_at": "2026-09-23T17:30:03.987535"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "290,558",
-        "crawled_at": "2026-09-23T17:30:03.987644"
-      },
-      {
-        "name": "dream-num /univer",
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "language": "TypeScript",
-        "stars": "16,189",
-        "crawled_at": "2026-09-23T17:30:03.987732"
-      },
-      {
-        "name": "Open-Dev-Society /OpenStock",
-        "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-        "language": "TypeScript",
-        "stars": "18,679",
-        "crawled_at": "2026-09-23T17:30:03.987817"
-      },
-      {
-        "name": "agent-substrate /substrate",
-        "description": "Agent Substrate: the core system",
-        "language": "Go",
-        "stars": "3,372",
-        "crawled_at": "2026-09-23T17:30:03.987903"
-      },
-      {
-        "name": "strands-agents /harness-sdk",
-        "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-        "language": "Python",
-        "stars": "7,742",
-        "crawled_at": "2026-09-23T17:30:03.987988"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "49,826",
-        "crawled_at": "2026-09-23T17:30:03.988078"
-      }
-    ]
-  },
-  {
     "date": "2026-09-24",
     "repos": [
       {
@@ -2183,6 +2108,67 @@
         "language": "Visual Basic .NET",
         "stars": "8,636",
         "crawled_at": "2026-10-22T17:39:57.380016"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23",
+    "repos": [
+      {
+        "name": "cloudflare /security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars": "41,466",
+        "crawled_at": "2026-10-23T17:30:16.637616"
+      },
+      {
+        "name": "php /php-src",
+        "description": "The PHP Interpreter",
+        "language": "C",
+        "stars": "41,504",
+        "crawled_at": "2026-10-23T17:30:16.637732"
+      },
+      {
+        "name": "anthropics /knowledge-work-plugins",
+        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+        "language": "Python",
+        "stars": "32,073",
+        "crawled_at": "2026-10-23T17:30:16.637830"
+      },
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "18,547",
+        "crawled_at": "2026-10-23T17:30:16.637926"
+      },
+      {
+        "name": "Renhuai123 /ziwei-doushu",
+        "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "language": "TypeScript",
+        "stars": "6,775",
+        "crawled_at": "2026-10-23T17:30:16.638020"
+      },
+      {
+        "name": "SnailSploit /Claude-Red",
+        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+        "language": "Python",
+        "stars": "8,242",
+        "crawled_at": "2026-10-23T17:30:16.638114"
+      },
+      {
+        "name": "OpenBMB /VoxCPM",
+        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+        "language": "Python",
+        "stars": "40,127",
+        "crawled_at": "2026-10-23T17:30:16.638213"
+      },
+      {
+        "name": "nodejs /node",
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "stars": "122,713",
+        "crawled_at": "2026-10-23T17:30:16.638328"
       }
     ]
   }
