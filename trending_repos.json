@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-24",
-    "repos": [
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "56,255",
-        "crawled_at": "2026-09-24T17:34:56.097442"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "27,475",
-        "crawled_at": "2026-09-24T17:34:56.097646"
-      },
-      {
-        "name": "dream-num /univer",
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "language": "TypeScript",
-        "stars": "17,352",
-        "crawled_at": "2026-09-24T17:34:56.097830"
-      },
-      {
-        "name": "google /ax",
-        "description": "Google's open agentic orchestration runtime",
-        "language": "Go",
-        "stars": "10,008",
-        "crawled_at": "2026-09-24T17:34:56.098018"
-      },
-      {
-        "name": "NVIDIA /Model-Optimizer",
-        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "language": "Python",
-        "stars": "3,977",
-        "crawled_at": "2026-09-24T17:34:56.098199"
-      },
-      {
-        "name": "FxEmbed /FxEmbed",
-        "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
-        "language": "TypeScript",
-        "stars": "5,322",
-        "crawled_at": "2026-09-24T17:34:56.098403"
-      },
-      {
-        "name": "anthropics /financial-services",
-        "description": "無描述",
-        "language": "Python",
-        "stars": "37,276",
-        "crawled_at": "2026-09-24T17:34:56.098613"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "50,225",
-        "crawled_at": "2026-09-24T17:34:56.098807"
-      },
-      {
-        "name": "mvt-project /mvt",
-        "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-        "language": "Python",
-        "stars": "14,658",
-        "crawled_at": "2026-09-24T17:34:56.098991"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "291,109",
-        "crawled_at": "2026-09-24T17:34:56.099206"
-      }
-    ]
-  },
-  {
     "date": "2026-09-25",
     "repos": [
       {
@@ -2169,6 +2094,81 @@
         "language": "JavaScript",
         "stars": "122,713",
         "crawled_at": "2026-10-23T17:30:16.638328"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "repos": [
+      {
+        "name": "cloudflare /security-audit-skill",
+        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+        "language": "JavaScript",
+        "stars": "43,540",
+        "crawled_at": "2026-10-24T16:17:06.627985"
+      },
+      {
+        "name": "NVIDIA /OpenShell",
+        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+        "language": "Rust",
+        "stars": "19,251",
+        "crawled_at": "2026-10-24T16:17:06.628124"
+      },
+      {
+        "name": "aws /agent-toolkit-for-aws",
+        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+        "language": "Python",
+        "stars": "3,025",
+        "crawled_at": "2026-10-24T16:17:06.628244"
+      },
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "31,718",
+        "crawled_at": "2026-10-24T16:17:06.628363"
+      },
+      {
+        "name": "luongnv89 /claude-howto",
+        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+        "language": "Python",
+        "stars": "44,298",
+        "crawled_at": "2026-10-24T16:17:06.628512"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "Rust",
+        "stars": "86,063",
+        "crawled_at": "2026-10-24T16:17:06.628643"
+      },
+      {
+        "name": "pollen-robotics /microduck",
+        "description": "A Tiny biped duck robot 🦆",
+        "language": "Rust",
+        "stars": "10,774",
+        "crawled_at": "2026-10-24T16:17:06.628766"
+      },
+      {
+        "name": "google-gemini /gemini-cli",
+        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "language": "TypeScript",
+        "stars": "107,775",
+        "crawled_at": "2026-10-24T16:17:06.628885"
+      },
+      {
+        "name": "jbiaojerry /ebook-treasure-chest",
+        "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+        "language": "Python",
+        "stars": "22,462",
+        "crawled_at": "2026-10-24T16:17:06.629003"
+      },
+      {
+        "name": "makecindy /cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "stars": "3,889",
+        "crawled_at": "2026-10-24T16:17:06.629122"
       }
     ]
   }
