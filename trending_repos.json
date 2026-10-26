@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "repos": [
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "86,551",
-        "crawled_at": "2026-09-26T16:47:11.299942"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "31,287",
-        "crawled_at": "2026-09-26T16:47:11.300040"
-      },
-      {
-        "name": "NVIDIA /Model-Optimizer",
-        "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-        "language": "Python",
-        "stars": "4,654",
-        "crawled_at": "2026-09-26T16:47:11.300128"
-      },
-      {
-        "name": "dream-num /univer",
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "language": "TypeScript",
-        "stars": "19,064",
-        "crawled_at": "2026-09-26T16:47:11.300215"
-      },
-      {
-        "name": "tensorflow /tensorflow",
-        "description": "An Open Source Machine Learning Framework for Everyone",
-        "language": "C++",
-        "stars": "200,382",
-        "crawled_at": "2026-09-26T16:47:11.300299"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "58,133",
-        "crawled_at": "2026-09-26T16:47:11.300403"
-      },
-      {
-        "name": "openbao /openbao",
-        "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-        "language": "Go",
-        "stars": "7,928",
-        "crawled_at": "2026-09-26T16:47:11.300495"
-      },
-      {
-        "name": "block /buzz",
-        "description": "A hive mind communication platform",
-        "language": "Rust",
-        "stars": "34,766",
-        "crawled_at": "2026-09-26T16:47:11.300579"
-      },
-      {
-        "name": "microsoft /vscode",
-        "description": "Visual Studio Code",
-        "language": "TypeScript",
-        "stars": "193,011",
-        "crawled_at": "2026-09-26T16:47:11.300662"
-      },
-      {
-        "name": "zhaoxuya520 /reverse-skill",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "language": "PowerShell",
-        "stars": "37,863",
-        "crawled_at": "2026-09-26T16:47:11.300766"
-      }
-    ]
-  },
-  {
     "date": "2026-09-27",
     "repos": [
       {
@@ -2169,6 +2094,81 @@
         "language": "JavaScript",
         "stars": "46,284",
         "crawled_at": "2026-10-25T16:51:53.863781"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "repos": [
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "35,802",
+        "crawled_at": "2026-10-26T18:53:08.605352"
+      },
+      {
+        "name": "TauricResearch /TradingAgents",
+        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "language": "Python",
+        "stars": "115,775",
+        "crawled_at": "2026-10-26T18:53:08.605525"
+      },
+      {
+        "name": "JetBrains /thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "stars": "2,646",
+        "crawled_at": "2026-10-26T18:53:08.605692"
+      },
+      {
+        "name": "makecindy /cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "stars": "6,213",
+        "crawled_at": "2026-10-26T18:53:08.605859"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "289,618",
+        "crawled_at": "2026-10-26T18:53:08.606054"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "Rust",
+        "stars": "88,908",
+        "crawled_at": "2026-10-26T18:53:08.606213"
+      },
+      {
+        "name": "NVIDIA /SkillSpector",
+        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+        "language": "Python",
+        "stars": "21,983",
+        "crawled_at": "2026-10-26T18:53:08.606372"
+      },
+      {
+        "name": "pollen-robotics /microduck",
+        "description": "A Tiny biped duck robot 🦆",
+        "language": "Rust",
+        "stars": "12,294",
+        "crawled_at": "2026-10-26T18:53:08.606536"
+      },
+      {
+        "name": "nightly-labs /openbot",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "stars": "1,328",
+        "crawled_at": "2026-10-26T18:53:08.606691"
+      },
+      {
+        "name": "Panniantong /Agent-Reach",
+        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+        "language": "Python",
+        "stars": "103,293",
+        "crawled_at": "2026-10-26T18:53:08.606853"
       }
     ]
   }
