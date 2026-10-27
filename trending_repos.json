@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "repos": [
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "89,114",
-        "crawled_at": "2026-09-27T17:19:12.266775"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "36,353",
-        "crawled_at": "2026-09-27T17:19:12.266985"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "39,306",
-        "crawled_at": "2026-09-27T17:19:12.267181"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "59,007",
-        "crawled_at": "2026-09-27T17:19:12.267409"
-      },
-      {
-        "name": "InfinityLoop1308 /PipePipe",
-        "description": "An open-source Android app to let you browse YouTube and other services freely.",
-        "language": "Shell",
-        "stars": "6,479",
-        "crawled_at": "2026-09-27T17:19:12.267592"
-      },
-      {
-        "name": "vercel-labs /scriptc",
-        "description": "TypeScript-to-Native Compiler",
-        "language": "TypeScript",
-        "stars": "5,302",
-        "crawled_at": "2026-09-27T17:19:12.267793"
-      },
-      {
-        "name": "mvschwarz /openrig",
-        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "language": "TypeScript",
-        "stars": "781",
-        "crawled_at": "2026-09-27T17:19:12.267978"
-      },
-      {
-        "name": "dream-num /univer",
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "language": "TypeScript",
-        "stars": "20,016",
-        "crawled_at": "2026-09-27T17:19:12.268161"
-      },
-      {
-        "name": "willfaust /Madeira",
-        "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-        "language": "C",
-        "stars": "752",
-        "crawled_at": "2026-09-27T17:19:12.268351"
-      }
-    ]
-  },
-  {
     "date": "2026-09-28",
     "repos": [
       {
@@ -2169,6 +2101,81 @@
         "language": "Python",
         "stars": "103,293",
         "crawled_at": "2026-10-26T18:53:08.606853"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "repos": [
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "38,576",
+        "crawled_at": "2026-10-27T18:22:50.744650"
+      },
+      {
+        "name": "nightly-labs /openbot",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "stars": "2,211",
+        "crawled_at": "2026-10-27T18:22:50.744853"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "306,220",
+        "crawled_at": "2026-10-27T18:22:50.745112"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design language that makes your AI harness better at design.",
+        "language": "Rust",
+        "stars": "90,267",
+        "crawled_at": "2026-10-27T18:22:50.745300"
+      },
+      {
+        "name": "makecindy /cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "stars": "7,334",
+        "crawled_at": "2026-10-27T18:22:50.745494"
+      },
+      {
+        "name": "gitroomhq /postiz-app",
+        "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+        "language": "TypeScript",
+        "stars": "39,144",
+        "crawled_at": "2026-10-27T18:22:50.745680"
+      },
+      {
+        "name": "affaan-m /ECC",
+        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "language": "JavaScript",
+        "stars": "290,632",
+        "crawled_at": "2026-10-27T18:22:50.745905"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "stars": "45,555",
+        "crawled_at": "2026-10-27T18:22:50.746127"
+      },
+      {
+        "name": "JetBrains /thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "stars": "3,795",
+        "crawled_at": "2026-10-27T18:22:50.746312"
+      },
+      {
+        "name": "togg53192-cmd /jailbreaks",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "language": "未知",
+        "stars": "5,255",
+        "crawled_at": "2026-10-27T18:22:50.746502"
       }
     ]
   }
