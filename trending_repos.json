@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-09-28",
-    "repos": [
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "43,432",
-        "crawled_at": "2026-09-28T19:51:23.745348"
-      },
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "92,444",
-        "crawled_at": "2026-09-28T19:51:23.745564"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "40,755",
-        "crawled_at": "2026-09-28T19:51:23.745754"
-      },
-      {
-        "name": "NawfalMotii79 /PLFM_RADAR",
-        "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-        "language": "PLSQL",
-        "stars": "25,695",
-        "crawled_at": "2026-09-28T19:51:23.745959"
-      },
-      {
-        "name": "cs341-illinois /coursebook",
-        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "language": "TeX",
-        "stars": "2,423",
-        "crawled_at": "2026-09-28T19:51:23.746146"
-      },
-      {
-        "name": "byoungd /up",
-        "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-        "language": "JavaScript",
-        "stars": "64,588",
-        "crawled_at": "2026-09-28T19:51:23.746360"
-      },
-      {
-        "name": "mvschwarz /openrig",
-        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "language": "TypeScript",
-        "stars": "1,592",
-        "crawled_at": "2026-09-28T19:51:23.746550"
-      },
-      {
-        "name": "dream-num /univer",
-        "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-        "language": "TypeScript",
-        "stars": "21,140",
-        "crawled_at": "2026-09-28T19:51:23.746738"
-      }
-    ]
-  },
-  {
     "date": "2026-09-29",
     "repos": [
       {
@@ -2176,6 +2115,81 @@
         "language": "未知",
         "stars": "5,255",
         "crawled_at": "2026-10-27T18:22:50.746502"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "repos": [
+      {
+        "name": "JetBrains /thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "stars": "4,851",
+        "crawled_at": "2026-10-28T18:31:39.583359"
+      },
+      {
+        "name": "elayadesign /ai-design-skills",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "10,918",
+        "crawled_at": "2026-10-28T18:31:39.583613"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "307,251",
+        "crawled_at": "2026-10-28T18:31:39.583843"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "stars": "47,711",
+        "crawled_at": "2026-10-28T18:31:39.584093"
+      },
+      {
+        "name": "macro-inc /macro",
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "language": "Rust",
+        "stars": "5,310",
+        "crawled_at": "2026-10-28T18:31:39.584353"
+      },
+      {
+        "name": "Nutlope /hallmark",
+        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "language": "CSS",
+        "stars": "40,435",
+        "crawled_at": "2026-10-28T18:31:39.584548"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars": "92,224",
+        "crawled_at": "2026-10-28T18:31:39.584729"
+      },
+      {
+        "name": "makecindy /cindy",
+        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+        "language": "TypeScript",
+        "stars": "7,958",
+        "crawled_at": "2026-10-28T18:31:39.584912"
+      },
+      {
+        "name": "nightly-labs /openbot",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "stars": "3,091",
+        "crawled_at": "2026-10-28T18:31:39.585101"
+      },
+      {
+        "name": "togg53192-cmd /jailbreaks",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "language": "未知",
+        "stars": "6,821",
+        "crawled_at": "2026-10-28T18:31:39.585327"
       }
     ]
   }
