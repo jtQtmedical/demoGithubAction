@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-29",
-    "repos": [
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "47,384",
-        "crawled_at": "2026-09-29T18:19:34.588515"
-      },
-      {
-        "name": "NVIDIA /OpenShell",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "language": "Rust",
-        "stars": "10,350",
-        "crawled_at": "2026-09-29T18:19:34.588689"
-      },
-      {
-        "name": "vectorize-io /hindsight",
-        "description": "Hindsight: Agent Memory That Learns",
-        "language": "Python",
-        "stars": "42,556",
-        "crawled_at": "2026-09-29T18:19:34.588854"
-      },
-      {
-        "name": "paperclipai /paperclip",
-        "description": "The open-source app everyone uses to manage agents at work",
-        "language": "TypeScript",
-        "stars": "94,233",
-        "crawled_at": "2026-09-29T18:19:34.589015"
-      },
-      {
-        "name": "t8y2 /dbx",
-        "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-        "language": "Rust",
-        "stars": "21,825",
-        "crawled_at": "2026-09-29T18:19:34.589181"
-      },
-      {
-        "name": "mvschwarz /openrig",
-        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "language": "TypeScript",
-        "stars": "2,260",
-        "crawled_at": "2026-09-29T18:19:34.589353"
-      },
-      {
-        "name": "oblien /openship",
-        "description": "Self-hosted deployment platform",
-        "language": "TypeScript",
-        "stars": "13,711",
-        "crawled_at": "2026-09-29T18:19:34.589509"
-      },
-      {
-        "name": "averygan /reclip",
-        "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-        "language": "HTML",
-        "stars": "9,948",
-        "crawled_at": "2026-09-29T18:19:34.589667"
-      },
-      {
-        "name": "cs341-illinois /coursebook",
-        "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-        "language": "TeX",
-        "stars": "2,991",
-        "crawled_at": "2026-09-29T18:19:34.589825"
-      },
-      {
-        "name": "rohitg00 /ai-engineering-from-scratch",
-        "description": "Learn it. Build it. Ship it for others.",
-        "language": "Python",
-        "stars": "61,135",
-        "crawled_at": "2026-09-29T18:19:34.590028"
-      }
-    ]
-  },
-  {
     "date": "2026-09-30",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "未知",
         "stars": "6,821",
         "crawled_at": "2026-10-28T18:31:39.585327"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "repos": [
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "stars": "49,623",
+        "crawled_at": "2026-10-29T18:40:26.426991"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "308,293",
+        "crawled_at": "2026-10-29T18:40:26.427205"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars": "94,939",
+        "crawled_at": "2026-10-29T18:40:26.427369"
+      },
+      {
+        "name": "JetBrains /thinkrail",
+        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+        "language": "TypeScript",
+        "stars": "5,876",
+        "crawled_at": "2026-10-29T18:40:26.427524"
+      },
+      {
+        "name": "milind-soni /OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "stars": "7,300",
+        "crawled_at": "2026-10-29T18:40:26.427715"
+      },
+      {
+        "name": "nightly-labs /openbot",
+        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+        "language": "TypeScript",
+        "stars": "3,753",
+        "crawled_at": "2026-10-29T18:40:26.427920"
+      },
+      {
+        "name": "elayadesign /ai-design-skills",
+        "description": "無描述",
+        "language": "未知",
+        "stars": "11,952",
+        "crawled_at": "2026-10-29T18:40:26.428131"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars": "104,515",
+        "crawled_at": "2026-10-29T18:40:26.428322"
+      },
+      {
+        "name": "CopilotKit /OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": "TypeScript",
+        "stars": "7,979",
+        "crawled_at": "2026-10-29T18:40:26.428503"
+      },
+      {
+        "name": "togg53192-cmd /jailbreaks",
+        "description": "LIST OF ALL MY JAILBREAKS",
+        "language": "未知",
+        "stars": "8,561",
+        "crawled_at": "2026-10-29T18:40:26.428664"
       }
     ]
   }
