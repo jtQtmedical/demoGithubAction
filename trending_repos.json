@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-09-30",
-    "repos": [
-      {
-        "name": "NVIDIA /OpenShell",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "language": "Rust",
-        "stars": "12,091",
-        "crawled_at": "2026-09-30T18:09:28.515218"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "50,107",
-        "crawled_at": "2026-09-30T18:09:28.515362"
-      },
-      {
-        "name": "mvschwarz /openrig",
-        "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
-        "language": "TypeScript",
-        "stars": "2,862",
-        "crawled_at": "2026-09-30T18:09:28.515485"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "24,392",
-        "crawled_at": "2026-09-30T18:09:28.515639"
-      },
-      {
-        "name": "DietrichGebert /ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars": "148,928",
-        "crawled_at": "2026-09-30T18:09:28.515793"
-      },
-      {
-        "name": "harry0703 /MoneyPrinterTurbo",
-        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-        "language": "Python",
-        "stars": "127,423",
-        "crawled_at": "2026-09-30T18:09:28.515916"
-      },
-      {
-        "name": "openclaw /openclaw",
-        "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars": "390,919",
-        "crawled_at": "2026-09-30T18:09:28.516087"
-      },
-      {
-        "name": "ComposioHQ /awesome-claude-skills",
-        "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-        "language": "Python",
-        "stars": "76,052",
-        "crawled_at": "2026-09-30T18:09:28.516230"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "272,824",
-        "crawled_at": "2026-09-30T18:09:28.516390"
-      },
-      {
-        "name": "heygen-com /hyperframes",
-        "description": "Write HTML. Render video. Built for agents.",
-        "language": "TypeScript",
-        "stars": "54,585",
-        "crawled_at": "2026-09-30T18:09:28.516516"
-      }
-    ]
-  },
-  {
     "date": "2026-10-01",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "未知",
         "stars": "8,561",
         "crawled_at": "2026-10-29T18:40:26.428664"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "repos": [
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars": "105,859",
+        "crawled_at": "2026-10-30T18:16:35.002611"
+      },
+      {
+        "name": "milind-soni /OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "stars": "8,317",
+        "crawled_at": "2026-10-30T18:16:35.002870"
+      },
+      {
+        "name": "pbakaus /impeccable",
+        "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+        "language": "Rust",
+        "stars": "96,778",
+        "crawled_at": "2026-10-30T18:16:35.003052"
+      },
+      {
+        "name": "CopilotKit /OpenBot",
+        "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+        "language": "TypeScript",
+        "stars": "8,628",
+        "crawled_at": "2026-10-30T18:16:35.003229"
+      },
+      {
+        "name": "Renhuai123 /ziwei-doushu",
+        "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+        "language": "TypeScript",
+        "stars": "11,100",
+        "crawled_at": "2026-10-30T18:16:35.003412"
+      },
+      {
+        "name": "expo /skills",
+        "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+        "language": "Shell",
+        "stars": "3,834",
+        "crawled_at": "2026-10-30T18:16:35.003599"
+      },
+      {
+        "name": "macro-inc /macro",
+        "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+        "language": "Rust",
+        "stars": "5,786",
+        "crawled_at": "2026-10-30T18:16:35.003799"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "307,287",
+        "crawled_at": "2026-10-30T18:16:35.004022"
+      },
+      {
+        "name": "pingdotgg /t3code",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "32,537",
+        "crawled_at": "2026-10-30T18:16:35.004221"
+      },
+      {
+        "name": "HKUDS /DeepTutor",
+        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+        "language": "Python",
+        "stars": "51,595",
+        "crawled_at": "2026-10-30T18:16:35.004404"
       }
     ]
   }
