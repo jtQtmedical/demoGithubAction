@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "repos": [
-      {
-        "name": "tester-army /e2e",
-        "description": "Next generation e2e testing framework for web and mobile apps.",
-        "language": "TypeScript",
-        "stars": "4,557",
-        "crawled_at": "2026-10-05T20:59:44.217192"
-      },
-      {
-        "name": "thedotmack /claude-mem",
-        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-        "language": "TypeScript",
-        "stars": "96,574",
-        "crawled_at": "2026-10-05T20:59:44.217428"
-      },
-      {
-        "name": "earthtojake /text-to-cad",
-        "description": "Give your agent CAD superpowers.",
-        "language": "Python",
-        "stars": "17,338",
-        "crawled_at": "2026-10-05T20:59:44.217609"
-      },
-      {
-        "name": "pingdotgg /t3code",
-        "description": "無描述",
-        "language": "TypeScript",
-        "stars": "25,553",
-        "crawled_at": "2026-10-05T20:59:44.217812"
-      },
-      {
-        "name": "boykopovar /AnyPS5",
-        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "language": "C++",
-        "stars": "4,838",
-        "crawled_at": "2026-10-05T20:59:44.217996"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "91,797",
-        "crawled_at": "2026-10-05T20:59:44.218204"
-      },
-      {
-        "name": "calesthio /OpenMontage",
-        "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-        "language": "Python",
-        "stars": "63,912",
-        "crawled_at": "2026-10-05T20:59:44.218430"
-      },
-      {
-        "name": "caddyserver /caddy",
-        "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-        "language": "Go",
-        "stars": "77,041",
-        "crawled_at": "2026-10-05T20:59:44.218611"
-      },
-      {
-        "name": "DuarteSantos8 /openGym",
-        "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-        "language": "JavaScript",
-        "stars": "4,060",
-        "crawled_at": "2026-10-05T20:59:44.218827"
-      },
-      {
-        "name": "cloudflare /cloudflare-os",
-        "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-        "language": "TypeScript",
-        "stars": "10,961",
-        "crawled_at": "2026-10-05T20:59:44.219003"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "Rust",
         "stars": "4,451",
         "crawled_at": "2026-11-03T19:51:31.050699"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "repos": [
+      {
+        "name": "NVIDIA /auto-ontology",
+        "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+        "language": "Python",
+        "stars": "4,586",
+        "crawled_at": "2026-11-04T20:05:20.958864"
+      },
+      {
+        "name": "max-sixty /worktrunk",
+        "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+        "language": "Rust",
+        "stars": "10,952",
+        "crawled_at": "2026-11-04T20:05:20.959061"
+      },
+      {
+        "name": "mattpocock /skills",
+        "description": "Skills for Real Engineers. Straight from my .agents directory.",
+        "language": "Shell",
+        "stars": "313,023",
+        "crawled_at": "2026-11-04T20:05:20.959255"
+      },
+      {
+        "name": "floci-io /floci",
+        "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+        "language": "Java",
+        "stars": "29,494",
+        "crawled_at": "2026-11-04T20:05:20.959446"
+      },
+      {
+        "name": "thedotmack /claude-mem",
+        "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+        "language": "TypeScript",
+        "stars": "112,692",
+        "crawled_at": "2026-11-04T20:05:20.959643"
+      },
+      {
+        "name": "vercel-labs /agent-desktop",
+        "description": "Computer use CLI for AI agents",
+        "language": "Rust",
+        "stars": "14,751",
+        "crawled_at": "2026-11-04T20:05:20.959798"
+      },
+      {
+        "name": "github /spec-kit",
+        "description": "💫 Toolkit to help you get started with SDD or any other process!",
+        "language": "Python",
+        "stars": "147,192",
+        "crawled_at": "2026-11-04T20:05:20.959961"
+      },
+      {
+        "name": "The-PR-Agent /pr-agent",
+        "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+        "language": "Python",
+        "stars": "14,663",
+        "crawled_at": "2026-11-04T20:05:20.960134"
+      },
+      {
+        "name": "harry0703 /MoneyPrinterTurbo",
+        "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+        "language": "Python",
+        "stars": "138,837",
+        "crawled_at": "2026-11-04T20:05:20.960285"
+      },
+      {
+        "name": "garrytan /gstack",
+        "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+        "language": "TypeScript",
+        "stars": "139,244",
+        "crawled_at": "2026-11-04T20:05:20.960435"
       }
     ]
   }
