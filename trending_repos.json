@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-09",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "40,954",
-        "crawled_at": "2026-10-09T18:32:26.931330"
-      },
-      {
-        "name": "boykopovar /AnyPS5",
-        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "language": "C++",
-        "stars": "20,891",
-        "crawled_at": "2026-10-09T18:32:26.931472"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "282,365",
-        "crawled_at": "2026-10-09T18:32:26.931638"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "47,646",
-        "crawled_at": "2026-10-09T18:32:26.931792"
-      },
-      {
-        "name": "alibaba /open-code-review",
-        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-        "language": "Go",
-        "stars": "45,020",
-        "crawled_at": "2026-10-09T18:32:26.931916"
-      },
-      {
-        "name": "anthropics /knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars": "28,111",
-        "crawled_at": "2026-10-09T18:32:26.932043"
-      },
-      {
-        "name": "BerriAI /litellm",
-        "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-        "language": "Python",
-        "stars": "60,562",
-        "crawled_at": "2026-10-09T18:32:26.932197"
-      },
-      {
-        "name": "addyosmani /agent-skills",
-        "description": "Production-grade engineering skills for AI coding agents.",
-        "language": "JavaScript",
-        "stars": "103,814",
-        "crawled_at": "2026-10-09T18:32:26.932318"
-      },
-      {
-        "name": "storytold /artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "language": "Rust",
-        "stars": "10,754",
-        "crawled_at": "2026-10-09T18:32:26.932438"
-      },
-      {
-        "name": "Robbyant /lingbot-map",
-        "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-        "language": "Python",
-        "stars": "17,628",
-        "crawled_at": "2026-10-09T18:32:26.932556"
-      }
-    ]
-  },
-  {
     "date": "2026-10-10",
     "repos": [
       {
@@ -2197,6 +2122,74 @@
         "language": "Rust",
         "stars": "50,898",
         "crawled_at": "2026-11-07T17:52:35.909037"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "repos": [
+      {
+        "name": "sherlock-project /sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars": "102,792",
+        "crawled_at": "2026-11-08T18:06:37.603647"
+      },
+      {
+        "name": "dsx-ai-factory /nvke",
+        "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+        "language": "Go",
+        "stars": "767",
+        "crawled_at": "2026-11-08T18:06:37.603750"
+      },
+      {
+        "name": "milind-soni /OpenMausBot",
+        "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+        "language": "TypeScript",
+        "stars": "17,989",
+        "crawled_at": "2026-11-08T18:06:37.603859"
+      },
+      {
+        "name": "anthropics /claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "stars": "19,299",
+        "crawled_at": "2026-11-08T18:06:37.603944"
+      },
+      {
+        "name": "vercel-labs /agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "stars": "47,421",
+        "crawled_at": "2026-11-08T18:06:37.604028"
+      },
+      {
+        "name": "meta /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "15,977",
+        "crawled_at": "2026-11-08T18:06:37.604115"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "189,382",
+        "crawled_at": "2026-11-08T18:06:37.604205"
+      },
+      {
+        "name": "google-deepmind /mujoco",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "stars": "16,282",
+        "crawled_at": "2026-11-08T18:06:37.604329"
+      },
+      {
+        "name": "ranxianglei /billion-context",
+        "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+        "language": "TypeScript",
+        "stars": "5,017",
+        "crawled_at": "2026-11-08T18:06:37.604414"
       }
     ]
   }
