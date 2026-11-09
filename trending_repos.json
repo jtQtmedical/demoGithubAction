@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-10",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "66,604",
-        "crawled_at": "2026-10-10T17:29:20.370304"
-      },
-      {
-        "name": "boykopovar /AnyPS5",
-        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "language": "C++",
-        "stars": "25,654",
-        "crawled_at": "2026-10-10T17:29:20.370405"
-      },
-      {
-        "name": "storytold /artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "language": "Rust",
-        "stars": "13,627",
-        "crawled_at": "2026-10-10T17:29:20.370492"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "48,690",
-        "crawled_at": "2026-10-10T17:29:20.370617"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "26,175",
-        "crawled_at": "2026-10-10T17:29:20.370721"
-      },
-      {
-        "name": "mattpocock /skills",
-        "description": "Skills for Real Engineers. Straight from my .agents directory.",
-        "language": "Shell",
-        "stars": "284,041",
-        "crawled_at": "2026-10-10T17:29:20.370828"
-      },
-      {
-        "name": "flutter /flutter",
-        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-        "language": "Dart",
-        "stars": "179,379",
-        "crawled_at": "2026-10-10T17:29:20.370913"
-      },
-      {
-        "name": "tensorflow /tensorflow",
-        "description": "An Open Source Machine Learning Framework for Everyone",
-        "language": "C++",
-        "stars": "200,659",
-        "crawled_at": "2026-10-10T17:29:20.370996"
-      },
-      {
-        "name": "hugohe3 /ppt-master",
-        "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
-        "language": "Python",
-        "stars": "59,221",
-        "crawled_at": "2026-10-10T17:29:20.371081"
-      },
-      {
-        "name": "pytorch /pytorch",
-        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "language": "Python",
-        "stars": "104,084",
-        "crawled_at": "2026-10-10T17:29:20.371164"
-      }
-    ]
-  },
-  {
     "date": "2026-10-11",
     "repos": [
       {
@@ -2190,6 +2115,81 @@
         "language": "TypeScript",
         "stars": "5,017",
         "crawled_at": "2026-11-08T18:06:37.604414"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "repos": [
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "190,866",
+        "crawled_at": "2026-11-09T22:44:33.971503"
+      },
+      {
+        "name": "meta /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "19,829",
+        "crawled_at": "2026-11-09T22:44:33.971657"
+      },
+      {
+        "name": "sherlock-project /sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars": "106,897",
+        "crawled_at": "2026-11-09T22:44:33.971780"
+      },
+      {
+        "name": "google-deepmind /mujoco",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "stars": "16,876",
+        "crawled_at": "2026-11-09T22:44:33.971900"
+      },
+      {
+        "name": "anthropics /claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "stars": "19,983",
+        "crawled_at": "2026-11-09T22:44:33.972015"
+      },
+      {
+        "name": "garrytan /gbrain",
+        "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+        "language": "TypeScript",
+        "stars": "32,101",
+        "crawled_at": "2026-11-09T22:44:33.972133"
+      },
+      {
+        "name": "vercel-labs /agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "stars": "48,412",
+        "crawled_at": "2026-11-09T22:44:33.972262"
+      },
+      {
+        "name": "ruvnet /RuView",
+        "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "language": "Rust",
+        "stars": "103,401",
+        "crawled_at": "2026-11-09T22:44:33.972383"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "68,786",
+        "crawled_at": "2026-11-09T22:44:33.972499"
+      },
+      {
+        "name": "homeassistant-ai /ha-mcp",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "stars": "5,906",
+        "crawled_at": "2026-11-09T22:44:33.972614"
       }
     ]
   }
