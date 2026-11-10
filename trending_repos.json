@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "95,665",
-        "crawled_at": "2026-10-11T17:49:01.054907"
-      },
-      {
-        "name": "boykopovar /AnyPS5",
-        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-        "language": "C++",
-        "stars": "29,164",
-        "crawled_at": "2026-10-11T17:49:01.055057"
-      },
-      {
-        "name": "storytold /artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "language": "Rust",
-        "stars": "16,903",
-        "crawled_at": "2026-10-11T17:49:01.055182"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "49,969",
-        "crawled_at": "2026-10-11T17:49:01.055336"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "51,179",
-        "crawled_at": "2026-10-11T17:49:01.055461"
-      },
-      {
-        "name": "pytorch /pytorch",
-        "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-        "language": "Python",
-        "stars": "104,377",
-        "crawled_at": "2026-10-11T17:49:01.055592"
-      },
-      {
-        "name": "lyogavin /airllm",
-        "description": "AirLLM 70B inference with single 4GB GPU",
-        "language": "Jupyter Notebook",
-        "stars": "36,285",
-        "crawled_at": "2026-10-11T17:49:01.055750"
-      },
-      {
-        "name": "chrislgarry /Apollo-11",
-        "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-        "language": "Assembly",
-        "stars": "74,048",
-        "crawled_at": "2026-10-11T17:49:01.055919"
-      }
-    ]
-  },
-  {
     "date": "2026-10-12",
     "repos": [
       {
@@ -2190,6 +2129,81 @@
         "language": "Python",
         "stars": "5,906",
         "crawled_at": "2026-11-09T22:44:33.972614"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "repos": [
+      {
+        "name": "meta /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "22,422",
+        "crawled_at": "2026-11-10T20:02:50.132552"
+      },
+      {
+        "name": "anthropics /skills",
+        "description": "Public repository for Agent Skills",
+        "language": "Python",
+        "stars": "192,142",
+        "crawled_at": "2026-11-10T20:02:50.132651"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "115,036",
+        "crawled_at": "2026-11-10T20:02:50.132736"
+      },
+      {
+        "name": "anthropics /claude-quickstarts",
+        "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+        "language": "Python",
+        "stars": "20,407",
+        "crawled_at": "2026-11-10T20:02:50.132816"
+      },
+      {
+        "name": "google-deepmind /mujoco",
+        "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+        "language": "C++",
+        "stars": "17,284",
+        "crawled_at": "2026-11-10T20:02:50.132895"
+      },
+      {
+        "name": "we-promise /sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "stars": "11,775",
+        "crawled_at": "2026-11-10T20:02:50.132976"
+      },
+      {
+        "name": "homeassistant-ai /ha-mcp",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "stars": "6,526",
+        "crawled_at": "2026-11-10T20:02:50.133058"
+      },
+      {
+        "name": "vercel-labs /agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "stars": "49,106",
+        "crawled_at": "2026-11-10T20:02:50.133137"
+      },
+      {
+        "name": "sherlock-project /sherlock",
+        "description": "Hunt down social media accounts by username across social networks",
+        "language": "Python",
+        "stars": "108,756",
+        "crawled_at": "2026-11-10T20:02:50.133215"
+      },
+      {
+        "name": "tokio-rs /topcoat",
+        "description": "A batteries-included framework for building web apps",
+        "language": "Rust",
+        "stars": "6,722",
+        "crawled_at": "2026-11-10T20:02:50.133312"
       }
     ]
   }
