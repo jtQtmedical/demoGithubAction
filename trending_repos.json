@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "151,848",
-        "crawled_at": "2026-10-12T21:25:31.427951"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "53,438",
-        "crawled_at": "2026-10-12T21:25:31.428052"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "27,191",
-        "crawled_at": "2026-10-12T21:25:31.428158"
-      },
-      {
-        "name": "storytold /artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "language": "Rust",
-        "stars": "21,551",
-        "crawled_at": "2026-10-12T21:25:31.428282"
-      },
-      {
-        "name": "open-webui /open-webui",
-        "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-        "language": "Python",
-        "stars": "154,870",
-        "crawled_at": "2026-10-12T21:25:31.428387"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "52,420",
-        "crawled_at": "2026-10-12T21:25:31.428492"
-      },
-      {
-        "name": "lyogavin /airllm",
-        "description": "AirLLM 70B inference with single 4GB GPU",
-        "language": "Jupyter Notebook",
-        "stars": "37,429",
-        "crawled_at": "2026-10-12T21:25:31.428594"
-      },
-      {
-        "name": "microsoft /BitNet",
-        "description": "Official inference framework for 1-bit LLMs",
-        "language": "C++",
-        "stars": "40,869",
-        "crawled_at": "2026-10-12T21:25:31.428677"
-      },
-      {
-        "name": "Alishahryar1 /free-claude-code",
-        "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-        "language": "Python",
-        "stars": "58,953",
-        "crawled_at": "2026-10-12T21:25:31.428758"
-      }
-    ]
-  },
-  {
     "date": "2026-10-13",
     "repos": [
       {
@@ -2204,6 +2136,81 @@
         "language": "Rust",
         "stars": "6,722",
         "crawled_at": "2026-11-10T20:02:50.133312"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "repos": [
+      {
+        "name": "meta /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "24,688",
+        "crawled_at": "2026-11-11T19:53:30.576350"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "70,068",
+        "crawled_at": "2026-11-11T19:53:30.576543"
+      },
+      {
+        "name": "GoogleChrome /modern-web-guidance-src",
+        "description": "無描述",
+        "language": "TypeScript",
+        "stars": "1,636",
+        "crawled_at": "2026-11-11T19:53:30.576746"
+      },
+      {
+        "name": "shadcn /improve",
+        "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+        "language": "未知",
+        "stars": "10,713",
+        "crawled_at": "2026-11-11T19:53:30.576975"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "115,799",
+        "crawled_at": "2026-11-11T19:53:30.577175"
+      },
+      {
+        "name": "vercel-labs /agent-browser",
+        "description": "Browser automation CLI for AI agents",
+        "language": "Rust",
+        "stars": "49,776",
+        "crawled_at": "2026-11-11T19:53:30.577356"
+      },
+      {
+        "name": "we-promise /sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "stars": "12,785",
+        "crawled_at": "2026-11-11T19:53:30.577541"
+      },
+      {
+        "name": "homeassistant-ai /ha-mcp",
+        "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+        "language": "Python",
+        "stars": "7,205",
+        "crawled_at": "2026-11-11T19:53:30.577719"
+      },
+      {
+        "name": "openai /codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "stars": "11,604",
+        "crawled_at": "2026-11-11T19:53:30.577903"
+      },
+      {
+        "name": "TheAlgorithms /Java",
+        "description": "All Algorithms implemented in Java",
+        "language": "Java",
+        "stars": "66,955",
+        "crawled_at": "2026-11-11T19:53:30.578098"
       }
     ]
   }
