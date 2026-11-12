@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "201,547",
-        "crawled_at": "2026-10-13T19:34:23.040599"
-      },
-      {
-        "name": "bilawalsidhu /gods-eye-view",
-        "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-        "language": "JavaScript",
-        "stars": "55,079",
-        "crawled_at": "2026-10-13T19:34:23.040738"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "62,671",
-        "crawled_at": "2026-10-13T19:34:23.040875"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "28,058",
-        "crawled_at": "2026-10-13T19:34:23.041025"
-      },
-      {
-        "name": "cathrynlavery /diagram-design",
-        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-        "language": "HTML",
-        "stars": "53,880",
-        "crawled_at": "2026-10-13T19:34:23.041183"
-      },
-      {
-        "name": "vercel-labs /skills",
-        "description": "The open agent skills tool - npx skills",
-        "language": "TypeScript",
-        "stars": "34,356",
-        "crawled_at": "2026-10-13T19:34:23.041304"
-      },
-      {
-        "name": "lyogavin /airllm",
-        "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
-        "language": "Jupyter Notebook",
-        "stars": "38,199",
-        "crawled_at": "2026-10-13T19:34:23.041456"
-      },
-      {
-        "name": "storytold /artcraft",
-        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-        "language": "Rust",
-        "stars": "25,103",
-        "crawled_at": "2026-10-13T19:34:23.041578"
-      },
-      {
-        "name": "xtool-org /xtool",
-        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-        "language": "Swift",
-        "stars": "9,095",
-        "crawled_at": "2026-10-13T19:34:23.041697"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14",
     "repos": [
       {
@@ -2211,6 +2143,81 @@
         "language": "Java",
         "stars": "66,955",
         "crawled_at": "2026-11-11T19:53:30.578098"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "repos": [
+      {
+        "name": "GoogleChrome /modern-web-guidance-src",
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "stars": "2,701",
+        "crawled_at": "2026-11-12T20:29:42.927083"
+      },
+      {
+        "name": "openai /codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "stars": "12,309",
+        "crawled_at": "2026-11-12T20:29:42.927283"
+      },
+      {
+        "name": "nvm-sh /nvm",
+        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+        "language": "Shell",
+        "stars": "95,984",
+        "crawled_at": "2026-11-12T20:29:42.927466"
+      },
+      {
+        "name": "pookjw /HermesEnabler",
+        "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+        "language": "Objective-C",
+        "stars": "1,487",
+        "crawled_at": "2026-11-12T20:29:42.927689"
+      },
+      {
+        "name": "we-promise /sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "stars": "13,787",
+        "crawled_at": "2026-11-12T20:29:42.927871"
+      },
+      {
+        "name": "QwenLM /qwen-code",
+        "description": "An open-source AI coding agent that lives in your terminal.",
+        "language": "TypeScript",
+        "stars": "29,730",
+        "crawled_at": "2026-11-12T20:29:42.928056"
+      },
+      {
+        "name": "ashhart /TensorFold",
+        "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+        "language": "Zig",
+        "stars": "1,906",
+        "crawled_at": "2026-11-12T20:29:42.928276"
+      },
+      {
+        "name": "nodejs /node",
+        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+        "language": "JavaScript",
+        "stars": "123,565",
+        "crawled_at": "2026-11-12T20:29:42.928495"
+      },
+      {
+        "name": "addyosmani /agent-skills",
+        "description": "Production-grade engineering skills for AI coding agents.",
+        "language": "JavaScript",
+        "stars": "116,586",
+        "crawled_at": "2026-11-12T20:29:42.928696"
+      },
+      {
+        "name": "meta /astryx",
+        "description": "An open source design system that's fully customizable and agent ready",
+        "language": "TypeScript",
+        "stars": "26,365",
+        "crawled_at": "2026-11-12T20:29:42.928881"
       }
     ]
   }
