@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "repos": [
-      {
-        "name": "morluto /rea",
-        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-        "language": "TypeScript",
-        "stars": "235,212",
-        "crawled_at": "2026-10-14T17:37:49.385139"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "65,598",
-        "crawled_at": "2026-10-14T17:37:49.385443"
-      },
-      {
-        "name": "mksglu /context-mode",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-        "language": "TypeScript",
-        "stars": "28,917",
-        "crawled_at": "2026-10-14T17:37:49.385663"
-      },
-      {
-        "name": "nvm-sh /nvm",
-        "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-        "language": "Shell",
-        "stars": "95,405",
-        "crawled_at": "2026-10-14T17:37:49.385807"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "49,120",
-        "crawled_at": "2026-10-14T17:37:49.385967"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "52,328",
-        "crawled_at": "2026-10-14T17:37:49.386157"
-      },
-      {
-        "name": "ifixai-ai /iFixAi",
-        "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-        "language": "Python",
-        "stars": "27,012",
-        "crawled_at": "2026-10-14T17:37:49.386378"
-      },
-      {
-        "name": "vxcontrol /pentagi",
-        "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-        "language": "Go",
-        "stars": "29,079",
-        "crawled_at": "2026-10-14T17:37:49.386501"
-      },
-      {
-        "name": "rust-lang /rust",
-        "description": "Empowering everyone to build reliable and efficient software.",
-        "language": "Rust",
-        "stars": "119,871",
-        "crawled_at": "2026-10-14T17:37:49.386683"
-      },
-      {
-        "name": "xtool-org /xtool",
-        "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-        "language": "Swift",
-        "stars": "10,411",
-        "crawled_at": "2026-10-14T17:37:49.386842"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "TypeScript",
         "stars": "26,365",
         "crawled_at": "2026-11-12T20:29:42.928881"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "repos": [
+      {
+        "name": "alibaba /open-code-review",
+        "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "language": "Go",
+        "stars": "50,475",
+        "crawled_at": "2026-11-13T20:05:35.227130"
+      },
+      {
+        "name": "GoogleChrome /modern-web-guidance-src",
+        "description": "Keep your coding agent up to date with the latest web best practices",
+        "language": "TypeScript",
+        "stars": "4,640",
+        "crawled_at": "2026-11-13T20:05:35.227300"
+      },
+      {
+        "name": "openai /codex-security",
+        "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+        "language": "TypeScript",
+        "stars": "13,033",
+        "crawled_at": "2026-11-13T20:05:35.227462"
+      },
+      {
+        "name": "ZhuLinsen /daily_stock_analysis",
+        "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+        "language": "Python",
+        "stars": "71,496",
+        "crawled_at": "2026-11-13T20:05:35.227654"
+      },
+      {
+        "name": "we-promise /sure",
+        "description": "The personal finance app for everyone (by everyone)",
+        "language": "Ruby",
+        "stars": "14,619",
+        "crawled_at": "2026-11-13T20:05:35.227828"
+      },
+      {
+        "name": "backnotprop /plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "stars": "10,382",
+        "crawled_at": "2026-11-13T20:05:35.227984"
+      },
+      {
+        "name": "louislam /uptime-kuma",
+        "description": "A fancy self-hosted monitoring tool",
+        "language": "JavaScript",
+        "stars": "93,786",
+        "crawled_at": "2026-11-13T20:05:35.228173"
+      },
+      {
+        "name": "block /buzz",
+        "description": "A hive mind communication platform",
+        "language": "Rust",
+        "stars": "37,258",
+        "crawled_at": "2026-11-13T20:05:35.228327"
+      },
+      {
+        "name": "tradermonty /claude-trading-skills",
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "stars": "4,078",
+        "crawled_at": "2026-11-13T20:05:35.228482"
+      },
+      {
+        "name": "tailscale /tailcat",
+        "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+        "language": "Go",
+        "stars": "9,371",
+        "crawled_at": "2026-11-13T20:05:35.228639"
       }
     ]
   }
