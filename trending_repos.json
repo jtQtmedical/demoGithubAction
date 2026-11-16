@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "repos": [
-      {
-        "name": "anthropics /claude-plugins-official",
-        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-        "language": "Python",
-        "stars": "41,343",
-        "crawled_at": "2026-10-17T15:59:05.077382"
-      },
-      {
-        "name": "MadsLorentzen /ai-job-search",
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "language": "Python",
-        "stars": "49,647",
-        "crawled_at": "2026-10-17T15:59:05.077615"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "282,093",
-        "crawled_at": "2026-10-17T15:59:05.077833"
-      },
-      {
-        "name": "HKUDS /CLI-Anything",
-        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
-        "language": "Python",
-        "stars": "53,875",
-        "crawled_at": "2026-10-17T15:59:05.078027"
-      },
-      {
-        "name": "K-Dense-AI /scientific-agent-skills",
-        "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-        "language": "Python",
-        "stars": "52,056",
-        "crawled_at": "2026-10-17T15:59:05.078230"
-      },
-      {
-        "name": "akitaonrails /ai-memory",
-        "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "language": "Rust",
-        "stars": "9,778",
-        "crawled_at": "2026-10-17T15:59:05.078416"
-      },
-      {
-        "name": "android /skills",
-        "description": "無描述",
-        "language": "Kotlin",
-        "stars": "8,319",
-        "crawled_at": "2026-10-17T15:59:05.078620"
-      },
-      {
-        "name": "stablyai /orca",
-        "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "language": "TypeScript",
-        "stars": "95,041",
-        "crawled_at": "2026-10-17T15:59:05.078799"
-      },
-      {
-        "name": "anthropics /claude-code",
-        "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-        "language": "TypeScript",
-        "stars": "151,477",
-        "crawled_at": "2026-10-17T15:59:05.078978"
-      },
-      {
-        "name": "debpalash /VoiceStudio",
-        "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-        "language": "Python",
-        "stars": "72,611",
-        "crawled_at": "2026-10-17T15:59:05.079194"
-      }
-    ]
-  },
-  {
     "date": "2026-10-18",
     "repos": [
       {
@@ -2218,6 +2143,81 @@
         "language": "TypeScript",
         "stars": "6,967",
         "crawled_at": "2026-11-15T19:08:28.239776"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "repos": [
+      {
+        "name": "ag-ui-protocol /ag-ui",
+        "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+        "language": "TypeScript",
+        "stars": "18,895",
+        "crawled_at": "2026-11-16T22:34:02.996129"
+      },
+      {
+        "name": "backnotprop /plannotator",
+        "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+        "language": "TypeScript",
+        "stars": "12,504",
+        "crawled_at": "2026-11-16T22:34:02.996322"
+      },
+      {
+        "name": "dream-num /univer",
+        "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+        "language": "TypeScript",
+        "stars": "27,729",
+        "crawled_at": "2026-11-16T22:34:02.996504"
+      },
+      {
+        "name": "tradermonty /claude-trading-skills",
+        "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+        "language": "Python",
+        "stars": "6,256",
+        "crawled_at": "2026-11-16T22:34:02.996688"
+      },
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "7,369",
+        "crawled_at": "2026-11-16T22:34:02.996911"
+      },
+      {
+        "name": "getarcaneapp /arcane",
+        "description": "Modern Docker Management, Designed for Everyone",
+        "language": "Go",
+        "stars": "8,665",
+        "crawled_at": "2026-11-16T22:34:02.997107"
+      },
+      {
+        "name": "DeanChensj /jiangshan-map",
+        "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+        "language": "JavaScript",
+        "stars": "6,664",
+        "crawled_at": "2026-11-16T22:34:02.997291"
+      },
+      {
+        "name": "google-labs-code /stitch-skills",
+        "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+        "language": "TypeScript",
+        "stars": "9,712",
+        "crawled_at": "2026-11-16T22:34:02.997471"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "68,076",
+        "crawled_at": "2026-11-16T22:34:02.997649"
+      },
+      {
+        "name": "NVIDIA /SkillEvaluator",
+        "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+        "language": "Python",
+        "stars": "2,609",
+        "crawled_at": "2026-11-16T22:34:02.997827"
       }
     ]
   }
