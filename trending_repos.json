@@ -1,73 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "repos": [
-      {
-        "name": "php /php-src",
-        "description": "The PHP Interpreter",
-        "language": "C",
-        "stars": "41,002",
-        "crawled_at": "2026-10-22T17:39:57.378341"
-      },
-      {
-        "name": "anthropics /knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars": "31,442",
-        "crawled_at": "2026-10-22T17:39:57.378544"
-      },
-      {
-        "name": "DietrichGebert /ponytail",
-        "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-        "language": "JavaScript",
-        "stars": "173,040",
-        "crawled_at": "2026-10-22T17:39:57.378790"
-      },
-      {
-        "name": "cloudflare /security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars": "38,788",
-        "crawled_at": "2026-10-22T17:39:57.378975"
-      },
-      {
-        "name": "Graphify-Labs /graphify",
-        "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-        "language": "Python",
-        "stars": "132,657",
-        "crawled_at": "2026-10-22T17:39:57.379159"
-      },
-      {
-        "name": "supabase /supabase",
-        "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-        "language": "TypeScript",
-        "stars": "113,373",
-        "crawled_at": "2026-10-22T17:39:57.379383"
-      },
-      {
-        "name": "fastapi /fastapi",
-        "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-        "language": "Python",
-        "stars": "103,577",
-        "crawled_at": "2026-10-22T17:39:57.379588"
-      },
-      {
-        "name": "luongnv89 /claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "stars": "42,889",
-        "crawled_at": "2026-10-22T17:39:57.379833"
-      },
-      {
-        "name": "Meloong-Git /PCL",
-        "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-        "language": "Visual Basic .NET",
-        "stars": "8,636",
-        "crawled_at": "2026-10-22T17:39:57.380016"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23",
     "repos": [
       {
@@ -2218,6 +2150,81 @@
         "language": "Python",
         "stars": "71,371",
         "crawled_at": "2026-11-20T20:47:21.877863"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "repos": [
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "15,748",
+        "crawled_at": "2026-11-21T19:50:45.490589"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "323,602",
+        "crawled_at": "2026-11-21T19:50:45.490754"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "61,962",
+        "crawled_at": "2026-11-21T19:50:45.490882"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars": "68,086",
+        "crawled_at": "2026-11-21T19:50:45.491007"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "18,060",
+        "crawled_at": "2026-11-21T19:50:45.491128"
+      },
+      {
+        "name": "firecrawl /firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars": "206,023",
+        "crawled_at": "2026-11-21T19:50:45.491268"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "32,706",
+        "crawled_at": "2026-11-21T19:50:45.491387"
+      },
+      {
+        "name": "openvinotoolkit /openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars": "11,901",
+        "crawled_at": "2026-11-21T19:50:45.491509"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "69,733",
+        "crawled_at": "2026-11-21T19:50:45.491661"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "71,895",
+        "crawled_at": "2026-11-21T19:50:45.491783"
       }
     ]
   }
