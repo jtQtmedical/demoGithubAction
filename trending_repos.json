@@ -1,66 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "repos": [
-      {
-        "name": "cloudflare /security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars": "41,466",
-        "crawled_at": "2026-10-23T17:30:16.637616"
-      },
-      {
-        "name": "php /php-src",
-        "description": "The PHP Interpreter",
-        "language": "C",
-        "stars": "41,504",
-        "crawled_at": "2026-10-23T17:30:16.637732"
-      },
-      {
-        "name": "anthropics /knowledge-work-plugins",
-        "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-        "language": "Python",
-        "stars": "32,073",
-        "crawled_at": "2026-10-23T17:30:16.637830"
-      },
-      {
-        "name": "NVIDIA /OpenShell",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "language": "Rust",
-        "stars": "18,547",
-        "crawled_at": "2026-10-23T17:30:16.637926"
-      },
-      {
-        "name": "Renhuai123 /ziwei-doushu",
-        "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-        "language": "TypeScript",
-        "stars": "6,775",
-        "crawled_at": "2026-10-23T17:30:16.638020"
-      },
-      {
-        "name": "SnailSploit /Claude-Red",
-        "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-        "language": "Python",
-        "stars": "8,242",
-        "crawled_at": "2026-10-23T17:30:16.638114"
-      },
-      {
-        "name": "OpenBMB /VoxCPM",
-        "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-        "language": "Python",
-        "stars": "40,127",
-        "crawled_at": "2026-10-23T17:30:16.638213"
-      },
-      {
-        "name": "nodejs /node",
-        "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-        "language": "JavaScript",
-        "stars": "122,713",
-        "crawled_at": "2026-10-23T17:30:16.638328"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24",
     "repos": [
       {
@@ -2225,6 +2164,81 @@
         "language": "Python",
         "stars": "71,895",
         "crawled_at": "2026-11-21T19:50:45.491783"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "repos": [
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "17,471",
+        "crawled_at": "2026-11-22T19:59:39.635683"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "324,044",
+        "crawled_at": "2026-11-22T19:59:39.635851"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "62,666",
+        "crawled_at": "2026-11-22T19:59:39.635975"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars": "68,573",
+        "crawled_at": "2026-11-22T19:59:39.636112"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "18,391",
+        "crawled_at": "2026-11-22T19:59:39.636232"
+      },
+      {
+        "name": "firecrawl /firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars": "206,878",
+        "crawled_at": "2026-11-22T19:59:39.636354"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "32,857",
+        "crawled_at": "2026-11-22T19:59:39.636472"
+      },
+      {
+        "name": "openvinotoolkit /openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars": "12,066",
+        "crawled_at": "2026-11-22T19:59:39.636592"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "70,216",
+        "crawled_at": "2026-11-22T19:59:39.636741"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "72,601",
+        "crawled_at": "2026-11-22T19:59:39.636860"
       }
     ]
   }
