@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "repos": [
-      {
-        "name": "cloudflare /security-audit-skill",
-        "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-        "language": "JavaScript",
-        "stars": "43,540",
-        "crawled_at": "2026-10-24T16:17:06.627985"
-      },
-      {
-        "name": "NVIDIA /OpenShell",
-        "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-        "language": "Rust",
-        "stars": "19,251",
-        "crawled_at": "2026-10-24T16:17:06.628124"
-      },
-      {
-        "name": "aws /agent-toolkit-for-aws",
-        "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-        "language": "Python",
-        "stars": "3,025",
-        "crawled_at": "2026-10-24T16:17:06.628244"
-      },
-      {
-        "name": "Nutlope /hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "stars": "31,718",
-        "crawled_at": "2026-10-24T16:17:06.628363"
-      },
-      {
-        "name": "luongnv89 /claude-howto",
-        "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-        "language": "Python",
-        "stars": "44,298",
-        "crawled_at": "2026-10-24T16:17:06.628512"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "Rust",
-        "stars": "86,063",
-        "crawled_at": "2026-10-24T16:17:06.628643"
-      },
-      {
-        "name": "pollen-robotics /microduck",
-        "description": "A Tiny biped duck robot 🦆",
-        "language": "Rust",
-        "stars": "10,774",
-        "crawled_at": "2026-10-24T16:17:06.628766"
-      },
-      {
-        "name": "google-gemini /gemini-cli",
-        "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-        "language": "TypeScript",
-        "stars": "107,775",
-        "crawled_at": "2026-10-24T16:17:06.628885"
-      },
-      {
-        "name": "jbiaojerry /ebook-treasure-chest",
-        "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
-        "language": "Python",
-        "stars": "22,462",
-        "crawled_at": "2026-10-24T16:17:06.629003"
-      },
-      {
-        "name": "makecindy /cindy",
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "language": "TypeScript",
-        "stars": "3,889",
-        "crawled_at": "2026-10-24T16:17:06.629122"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "72,601",
         "crawled_at": "2026-11-22T19:59:39.636860"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "repos": [
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "19,742",
+        "crawled_at": "2026-11-24T00:25:17.868492"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "325,054",
+        "crawled_at": "2026-11-24T00:25:17.868731"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "63,619",
+        "crawled_at": "2026-11-24T00:25:17.868922"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars": "69,446",
+        "crawled_at": "2026-11-24T00:25:17.869115"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "18,798",
+        "crawled_at": "2026-11-24T00:25:17.869304"
+      },
+      {
+        "name": "firecrawl /firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars": "207,913",
+        "crawled_at": "2026-11-24T00:25:17.869505"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "33,049",
+        "crawled_at": "2026-11-24T00:25:17.869687"
+      },
+      {
+        "name": "openvinotoolkit /openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars": "12,279",
+        "crawled_at": "2026-11-24T00:25:17.869867"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "70,959",
+        "crawled_at": "2026-11-24T00:25:17.870089"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "73,432",
+        "crawled_at": "2026-11-24T00:25:17.870278"
       }
     ]
   }
