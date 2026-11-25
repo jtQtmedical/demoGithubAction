@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "repos": [
-      {
-        "name": "Nutlope /hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "stars": "35,802",
-        "crawled_at": "2026-10-26T18:53:08.605352"
-      },
-      {
-        "name": "TauricResearch /TradingAgents",
-        "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-        "language": "Python",
-        "stars": "115,775",
-        "crawled_at": "2026-10-26T18:53:08.605525"
-      },
-      {
-        "name": "JetBrains /thinkrail",
-        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "language": "TypeScript",
-        "stars": "2,646",
-        "crawled_at": "2026-10-26T18:53:08.605692"
-      },
-      {
-        "name": "makecindy /cindy",
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "language": "TypeScript",
-        "stars": "6,213",
-        "crawled_at": "2026-10-26T18:53:08.605859"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "289,618",
-        "crawled_at": "2026-10-26T18:53:08.606054"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "Rust",
-        "stars": "88,908",
-        "crawled_at": "2026-10-26T18:53:08.606213"
-      },
-      {
-        "name": "NVIDIA /SkillSpector",
-        "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-        "language": "Python",
-        "stars": "21,983",
-        "crawled_at": "2026-10-26T18:53:08.606372"
-      },
-      {
-        "name": "pollen-robotics /microduck",
-        "description": "A Tiny biped duck robot 🦆",
-        "language": "Rust",
-        "stars": "12,294",
-        "crawled_at": "2026-10-26T18:53:08.606536"
-      },
-      {
-        "name": "nightly-labs /openbot",
-        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "language": "TypeScript",
-        "stars": "1,328",
-        "crawled_at": "2026-10-26T18:53:08.606691"
-      },
-      {
-        "name": "Panniantong /Agent-Reach",
-        "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-        "language": "Python",
-        "stars": "103,293",
-        "crawled_at": "2026-10-26T18:53:08.606853"
-      }
-    ]
-  },
-  {
     "date": "2026-10-27",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "74,154",
         "crawled_at": "2026-11-24T22:47:24.606964"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "repos": [
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "22,850",
+        "crawled_at": "2026-11-25T22:00:24.070903"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "326,545",
+        "crawled_at": "2026-11-25T22:00:24.071097"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "65,617",
+        "crawled_at": "2026-11-25T22:00:24.071228"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars": "70,897",
+        "crawled_at": "2026-11-25T22:00:24.071352"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "19,510",
+        "crawled_at": "2026-11-25T22:00:24.071475"
+      },
+      {
+        "name": "firecrawl /firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars": "209,948",
+        "crawled_at": "2026-11-25T22:00:24.071595"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "33,352",
+        "crawled_at": "2026-11-25T22:00:24.071714"
+      },
+      {
+        "name": "openvinotoolkit /openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars": "12,637",
+        "crawled_at": "2026-11-25T22:00:24.071832"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "72,938",
+        "crawled_at": "2026-11-25T22:00:24.072002"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "75,035",
+        "crawled_at": "2026-11-25T22:00:24.072129"
       }
     ]
   }
