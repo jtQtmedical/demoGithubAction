@@ -1,80 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "repos": [
-      {
-        "name": "Nutlope /hallmark",
-        "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-        "language": "CSS",
-        "stars": "38,576",
-        "crawled_at": "2026-10-27T18:22:50.744650"
-      },
-      {
-        "name": "nightly-labs /openbot",
-        "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-        "language": "TypeScript",
-        "stars": "2,211",
-        "crawled_at": "2026-10-27T18:22:50.744853"
-      },
-      {
-        "name": "obra /superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars": "306,220",
-        "crawled_at": "2026-10-27T18:22:50.745112"
-      },
-      {
-        "name": "pbakaus /impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "Rust",
-        "stars": "90,267",
-        "crawled_at": "2026-10-27T18:22:50.745300"
-      },
-      {
-        "name": "makecindy /cindy",
-        "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-        "language": "TypeScript",
-        "stars": "7,334",
-        "crawled_at": "2026-10-27T18:22:50.745494"
-      },
-      {
-        "name": "gitroomhq /postiz-app",
-        "description": "📨 The ultimate agentic social media scheduling tool 🤖",
-        "language": "TypeScript",
-        "stars": "39,144",
-        "crawled_at": "2026-10-27T18:22:50.745680"
-      },
-      {
-        "name": "affaan-m /ECC",
-        "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-        "language": "JavaScript",
-        "stars": "290,632",
-        "crawled_at": "2026-10-27T18:22:50.745905"
-      },
-      {
-        "name": "HKUDS /DeepTutor",
-        "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
-        "language": "Python",
-        "stars": "45,555",
-        "crawled_at": "2026-10-27T18:22:50.746127"
-      },
-      {
-        "name": "JetBrains /thinkrail",
-        "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-        "language": "TypeScript",
-        "stars": "3,795",
-        "crawled_at": "2026-10-27T18:22:50.746312"
-      },
-      {
-        "name": "togg53192-cmd /jailbreaks",
-        "description": "LIST OF ALL MY JAILBREAKS",
-        "language": "未知",
-        "stars": "5,255",
-        "crawled_at": "2026-10-27T18:22:50.746502"
-      }
-    ]
-  },
-  {
     "date": "2026-10-28",
     "repos": [
       {
@@ -2239,6 +2164,81 @@
         "language": "Python",
         "stars": "75,035",
         "crawled_at": "2026-11-25T22:00:24.072129"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "repos": [
+      {
+        "name": "elementalsouls /Claude-BugHunter",
+        "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+        "language": "Python",
+        "stars": "24,417",
+        "crawled_at": "2026-11-26T21:58:32.764166"
+      },
+      {
+        "name": "obra /superpowers",
+        "description": "An agentic skills framework & software development methodology that works.",
+        "language": "Shell",
+        "stars": "327,406",
+        "crawled_at": "2026-11-26T21:58:32.764282"
+      },
+      {
+        "name": "HKUDS /CLI-Anything",
+        "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+        "language": "Python",
+        "stars": "66,288",
+        "crawled_at": "2026-11-26T21:58:32.764367"
+      },
+      {
+        "name": "jingyaogong /minimind",
+        "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+        "language": "Python",
+        "stars": "71,584",
+        "crawled_at": "2026-11-26T21:58:32.764450"
+      },
+      {
+        "name": "cursor /plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": "19,766",
+        "crawled_at": "2026-11-26T21:58:32.764529"
+      },
+      {
+        "name": "firecrawl /firecrawl",
+        "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+        "language": "TypeScript",
+        "stars": "210,861",
+        "crawled_at": "2026-11-26T21:58:32.764614"
+      },
+      {
+        "name": "nginx /nginx",
+        "description": "The official NGINX Open Source repository.",
+        "language": "C",
+        "stars": "33,508",
+        "crawled_at": "2026-11-26T21:58:32.764693"
+      },
+      {
+        "name": "openvinotoolkit /openvino",
+        "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+        "language": "C++",
+        "stars": "12,804",
+        "crawled_at": "2026-11-26T21:58:32.764772"
+      },
+      {
+        "name": "cathrynlavery /diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": "73,783",
+        "crawled_at": "2026-11-26T21:58:32.764868"
+      },
+      {
+        "name": "mvanhorn /last30days-skill",
+        "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+        "language": "Python",
+        "stars": "75,682",
+        "crawled_at": "2026-11-26T21:58:32.764948"
       }
     ]
   }
